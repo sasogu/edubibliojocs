@@ -8,7 +8,8 @@
     "check:links": "node ./scripts/check-links.mjs",
     "import:csv": "node ./scripts/import-csv.mjs",
     "import:wp": "node ./scripts/import-wordpress.mjs",
-    "import:wp:merge": "node ./scripts/import-wordpress.mjs --merge"
+    "import:wp:merge": "node ./scripts/import-wordpress.mjs --merge",
+    "import:wp:images": "node ./scripts/import-wordpress-images.mjs"
   },
   "engines": {
     "node": ">=18"

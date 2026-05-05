@@ -119,6 +119,19 @@ h1 {
   line-height: 1;
 }
 
+.brand-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.7rem;
+}
+
+.brand-logo {
+  width: clamp(44px, 6.2vw, 72px);
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(31, 42, 68, 0.18);
+}
+
 .subtitle {
   margin: 0;
   max-width: 760px;
@@ -243,6 +256,45 @@ select:focus {
   font-size: 1.05rem;
 }
 
+.card-image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 12px;
+  border: 1px solid #eed6ab;
+  background: #f7ead2;
+  transition: transform 180ms ease;
+}
+
+.card-image-link {
+  display: block;
+  justify-self: stretch;
+  width: 100%;
+  border: none;
+  padding: 0;
+  margin: 0;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.card a.card-image-link {
+  justify-self: stretch;
+  color: inherit;
+}
+
+.card-image-link:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--accent) 65%, white);
+  outline-offset: 2px;
+}
+
+.card-image-link:hover .card-image {
+  transform: scale(1.015);
+}
+
 .meta {
   display: flex;
   gap: 0.4rem;
@@ -338,6 +390,12 @@ select:focus {
   border-radius: 18px 18px 0 0;
 }
 
+.flash-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
 .flash-title {
   color: #e2d9c0;
   font-weight: 700;
@@ -354,6 +412,23 @@ select:focus {
   cursor: pointer;
   font-size: 0.9rem;
   line-height: 1;
+}
+
+.flash-fullscreen {
+  background: none;
+  border: 1px solid #444;
+  color: #aaa;
+  border-radius: 6px;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+  font-size: 0.95rem;
+  line-height: 1;
+}
+
+.flash-fullscreen:hover {
+  background: #333;
+  color: #fff;
 }
 
 .flash-close:hover {
@@ -423,6 +498,10 @@ code {
 @media (max-width: 700px) {
   .hero {
     padding-top: 2rem;
+  }
+
+  .brand-title {
+    gap: 0.5rem;
   }
 
   .controls {

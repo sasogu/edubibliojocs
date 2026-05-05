@@ -22,7 +22,10 @@
 
   <header class="hero">
     <p class="eyebrow">Edutictac</p>
-    <h1>Bibliojocs</h1>
+    <h1 class="brand-title">
+      <img class="brand-logo" src="./assets/brand/logo-bibliojocs.png" alt="Logo de Bibliojocs" width="72" height="72" />
+      <span>Bibliojocs</span>
+    </h1>
     <p class="subtitle" data-i18n="subtitle">Directorio de juegos educativos, mantenido sin WordPress para poder depurar y validar enlaces con rapidez.</p>
     <div class="lang-switcher" role="group" aria-label="Idioma de la interfaz / Idioma de la interfície">
       <button class="btn-lang" data-lang="es">ES</button>
@@ -85,7 +88,10 @@
   <dialog id="flashDialog" class="flash-dialog" data-i18n-aria-label="flash_player_label" aria-label="Reproductor Flash">
     <div class="flash-header">
       <span id="flashTitle" class="flash-title"></span>
-      <button id="flashClose" class="flash-close" data-i18n-aria-label="flash_close_label" aria-label="Cerrar">✕</button>
+      <div class="flash-actions">
+        <button id="flashFullscreen" class="flash-fullscreen" aria-label="Pantalla completa" title="Pantalla completa">⛶</button>
+        <button id="flashClose" class="flash-close" data-i18n-aria-label="flash_close_label" aria-label="Cerrar">✕</button>
+      </div>
     </div>
     <div id="flashContainer" class="flash-container"></div>
   </dialog>

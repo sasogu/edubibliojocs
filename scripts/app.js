@@ -3,6 +3,7 @@ import { i18n, detectLang, setLang, getLang, LANGS } from "./i18n.js";
 const dataUrl = "./data/games.json";
 const reportUrl = "./reports/link-report.json";
 const RUFFLE_CDN = "https://unpkg.com/@ruffle-rs/ruffle";
+const DEFAULT_GAME_IMAGE = "./assets/game-images/generic-game.svg";
 
 const searchInput = document.querySelector("#searchInput");
 const levelFilter = document.querySelector("#levelFilter");
@@ -236,6 +237,9 @@ function drawCards(items) {
     const article = document.createElement("article");
     article.className = `card ${health.ok === false ? "broken" : ""}`;
 
+    const imageAction = createCardImageAction(game);
+    article.appendChild(imageAction);
+
     const title = document.createElement("h3");
     title.textContent = game.title || i18n("no_title");
 
@@ -254,27 +258,52 @@ function drawCards(items) {
     note.className = "note";
     note.textContent = game.notes || i18n("no_notes");
 
-    let action;
-    if (game.flash) {
-      action = document.createElement("button");
-      action.className = "btn-flash";
-      action.textContent = i18n("play_ruffle");
-      action.addEventListener("click", () => openFlashDialog(game.url, game.title));
-    } else {
-      action = document.createElement("a");
-      action.href = game.url;
-      action.target = "_blank";
-      action.rel = "noreferrer noopener";
-      action.textContent = i18n("open_game");
-    }
-
     const healthText = document.createElement("p");
     healthText.className = "health";
     healthText.textContent = health.text;
 
-    article.append(title, meta, note, action, healthText);
+    article.append(title, meta, note);
+    if (health.ok !== true) {
+      article.append(healthText);
+    }
     grid.append(article);
   }
+}
+
+function createCardImageAction(game) {
+  const image = document.createElement("img");
+  image.className = "card-image";
+  image.src = game.image || DEFAULT_GAME_IMAGE;
+  image.alt = game.title || i18n("no_title");
+  image.loading = "lazy";
+  image.decoding = "async";
+  image.addEventListener("error", () => {
+    if (image.src.endsWith("generic-game.svg")) {
+      return;
+    }
+    image.src = DEFAULT_GAME_IMAGE;
+  });
+
+  if (game.flash) {
+    const trigger = document.createElement("button");
+    trigger.type = "button";
+    trigger.className = "card-image-link";
+    trigger.title = i18n("play_ruffle");
+    trigger.setAttribute("aria-label", i18n("play_ruffle"));
+    trigger.addEventListener("click", () => openFlashDialog(game.url, game.title));
+    trigger.appendChild(image);
+    return trigger;
+  }
+
+  const link = document.createElement("a");
+  link.className = "card-image-link";
+  link.href = game.url;
+  link.target = "_blank";
+  link.rel = "noreferrer noopener";
+  link.title = i18n("open_game");
+  link.setAttribute("aria-label", i18n("open_game"));
+  link.appendChild(image);
+  return link;
 }
 
 function tag(text, extraClass = "") {
@@ -288,13 +317,19 @@ function tag(text, extraClass = "") {
 
 const flashDialog = document.querySelector("#flashDialog");
 const flashClose = document.querySelector("#flashClose");
+const flashFullscreen = document.querySelector("#flashFullscreen");
 const flashContainer = document.querySelector("#flashContainer");
 const flashTitle = document.querySelector("#flashTitle");
+let activeFlashPlayer = null;
 
 flashClose.addEventListener("click", closeFlashDialog);
 flashDialog.addEventListener("click", (e) => {
   if (e.target === flashDialog) closeFlashDialog();
 });
+document.addEventListener("keydown", handleFlashShortcuts);
+if (flashFullscreen) {
+  flashFullscreen.addEventListener("click", toggleFlashFullscreen);
+}
 
 async function openFlashDialog(url, title) {
   flashTitle.textContent = title;
@@ -302,16 +337,49 @@ async function openFlashDialog(url, title) {
   flashDialog.showModal();
 
   const ruffle = await loadRuffle();
+  const flashUrl = await resolveFlashUrl(url);
   const player = ruffle.createPlayer();
   player.style.width = "100%";
   player.style.height = "100%";
   flashContainer.appendChild(player);
-  player.load({ url });
+  activeFlashPlayer = player;
+  player.addEventListener("dblclick", toggleFlashFullscreen);
+  player.load({ url: flashUrl });
 }
 
 function closeFlashDialog() {
+  if (document.fullscreenElement === activeFlashPlayer) {
+    document.exitFullscreen().catch(() => {
+      // Ignoramos errores al salir de fullscreen para no bloquear el cierre.
+    });
+  }
   flashDialog.close();
   flashContainer.innerHTML = "";
+  activeFlashPlayer = null;
+}
+
+function handleFlashShortcuts(event) {
+  if (!flashDialog.open) {
+    return;
+  }
+
+  if (event.key.toLowerCase() === "f" && !event.ctrlKey && !event.altKey && !event.metaKey) {
+    event.preventDefault();
+    toggleFlashFullscreen();
+  }
+}
+
+async function toggleFlashFullscreen() {
+  if (!activeFlashPlayer || !document.fullscreenEnabled) {
+    return;
+  }
+
+  if (document.fullscreenElement === activeFlashPlayer) {
+    await document.exitFullscreen();
+    return;
+  }
+
+  await activeFlashPlayer.requestFullscreen();
 }
 
 async function loadRuffle() {
@@ -324,4 +392,53 @@ async function loadRuffle() {
     document.head.appendChild(s);
   });
   return window.RufflePlayer.newest();
+}
+
+async function resolveFlashUrl(url) {
+  const localCandidate = localFlashCandidate(url);
+  if (!localCandidate) {
+    return url;
+  }
+
+  try {
+    const response = await fetch(localCandidate, {
+      method: "HEAD",
+      cache: "no-store"
+    });
+    if (response.ok) {
+      return localCandidate;
+    }
+  } catch {
+    // Si no existe en local o falla la consulta, seguimos con URL remota.
+  }
+
+  return url;
+}
+
+function localFlashCandidate(url) {
+  if (!isLocalhost()) {
+    return null;
+  }
+
+  try {
+    const parsed = new URL(url);
+    const path = parsed.pathname || "";
+    if (parsed.hostname !== "edutictac.es" || !path.startsWith("/inici/flash/") || !path.toLowerCase().endsWith(".swf")) {
+      return null;
+    }
+
+    const fileName = path.split("/").pop();
+    if (!fileName) {
+      return null;
+    }
+
+    return `./assets/flash/${fileName}`;
+  } catch {
+    return null;
+  }
+}
+
+function isLocalhost() {
+  const host = window.location.hostname;
+  return host === "localhost" || host === "127.0.0.1" || host === "::1";
 }

@@ -8,7 +8,9 @@
     "notes": "Ortografía",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/como-dice-que-dijo.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/Screenshot_20200128_094146.png"
   },
   {
     "id": "activitats-de-matematiques",
@@ -19,7 +21,9 @@
     "notes": "Portal obert on pots practicar tites les activitats matemàtiques que vulgues",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/activitats-de-matematiques.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/Como_ingresar_a_Thatquiz.png"
   },
   {
     "id": "adivinanzas",
@@ -30,7 +34,9 @@
     "notes": "Adivinanzas interactivas",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/adivinanzas.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Adivinanzas.jpg"
   },
   {
     "id": "ajedrez-online",
@@ -41,7 +47,9 @@
     "notes": "Ajedrez para jugar contra un ordenador , con 10 niveles de dificultad.",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/ajedrez-online.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Ajedrez-no-flash.jpg"
   },
   {
     "id": "aprendo-musica",
@@ -52,7 +60,9 @@
     "notes": "Importado desde listado de WordPress",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/aprendo-musica.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/Screenshot_20200128_093733.png"
   },
   {
     "id": "aranas-2",
@@ -75,7 +85,9 @@
     "notes": "Per aprendre a programar, molt interessant.",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/blockly-laberint.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/blockly.jpg"
   },
   {
     "id": "bomomo",
@@ -86,7 +98,9 @@
     "notes": "Per a pintar&#8230;",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/bomomo.jpeg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/Captura-realizada-el-2020-01-26-09.15.56.jpeg"
   },
   {
     "id": "caracol-bob",
@@ -97,7 +111,9 @@
     "notes": "Demuestra tu ingenio salvando al caracol Bob",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/caracol-bob.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2021/06/2021-06-25_21-39.png"
   },
   {
     "id": "code-org",
@@ -108,7 +124,9 @@
     "notes": "Per aprendre a programar amb blocs",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/code-org.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/Screenshot_20200128_124949.png"
   },
   {
     "id": "collabora",
@@ -130,7 +148,9 @@
     "notes": "Para aprender las notas musicales",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/comenotas.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/Screenshot_20200128_103429.png"
   },
   {
     "id": "cuadro-matematico",
@@ -141,7 +161,9 @@
     "notes": "Arrastrar los números coloreados a las esquinas correctas",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/cuadro-matematico.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/cuadro-matematico.png"
   },
   {
     "id": "cuerpos-geometricos",
@@ -152,7 +174,9 @@
     "notes": "Importado desde listado de WordPress",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/cuerpos-geometricos.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/Screenshot_20200322_162312.png"
   },
   {
     "id": "ceip-fonemes",
@@ -174,7 +198,9 @@
     "notes": "Joc similar a Kahhot",
     "levels": [
       "Primaria"
-    ]
+    ],
+    "image": "assets/game-images/qplay.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2025/12/2025-12-26_16-11-400x250.png"
   },
   {
     "id": "edumusic",
@@ -185,7 +211,9 @@
     "notes": "EduMúsic és una col·lecció de jocs interactius dissenyats per a l’aula de música, desenvolupada amb la idea de fer l’aprenentatge divertit i motivador. Està pensat tant per a mestres com per a alumnes, principalment de nivells inicials/intermedis, que volen consolidar conceptes com ara:",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/edumusic.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2025/10/icon-512-300x300-1-300x250.png"
   },
   {
     "id": "edusamplers",
@@ -196,7 +224,9 @@
     "notes": "Bucles i sàmplers per a compondre música molt fàcilment.",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/edusamplers.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2025/11/Captura-de-pantalla-2025-11-29-a-las-19.13.22-e1764440090547-400x250.png"
   },
   {
     "id": "eduzop",
@@ -229,7 +259,9 @@
     "notes": "JOCS DE PINTAR I RATOLÍ",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/el-buho-boo.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/Captura-de-pantalla_2020-03-28_12-59-43.png"
   },
   {
     "id": "geosapiens",
@@ -240,7 +272,9 @@
     "notes": "GeoSapiens es una aplicac ión de mapas interactivos para est udiar la geografía básica y política de España y el mundo. Const a de difere ntes ju egos para est udiar toda España o porcomunidades autónomas, el mundo completo y por continente. Además, incluye un módulo de pai saje",
     "levels": [
       "Primaria 2o ciclo"
-    ]
+    ],
+    "image": "assets/game-images/geosapiens.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/Screenshot_20200323_124211.png"
   },
   {
     "id": "incredibox",
@@ -251,7 +285,9 @@
     "notes": "Importado desde listado de WordPress",
     "levels": [
       "Primaria 3er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/incredibox.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/miniSeleccio_0472-2.png"
   },
   {
     "id": "jclic",
@@ -262,7 +298,9 @@
     "notes": "Importado desde listado de WordPress",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/jclic.gif",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/curso2-2.gif"
   },
   {
     "id": "juegos-jocs",
@@ -273,7 +311,9 @@
     "notes": "Juegos variados de matemáticas, lengua , estrategia&#8230;.",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/juegos-jocs.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/juegos.jpg"
   },
   {
     "id": "la-tienda-de-enriqueta",
@@ -318,7 +358,9 @@
     "notes": "El juego consiste en encontrar la combinación de fichas de colores oculta. Si hemos colocado una ficha del color correcto en la posición adecuada, nos aparecerá un punto negro. Si hemos acertado el color de la ficha pero la posición no es correcta, aparecerá un punto blanco. Y si por el contrario no existe ninguna [&hellip;]",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/mastermind-logica.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Mastermind.png"
   },
   {
     "id": "memoria-visual",
@@ -329,7 +371,9 @@
     "notes": "Juegos de memoria visual con imagenes y palabras. Enlace externo original no disponible.",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/memoria-visual.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/memory.jpg"
   },
   {
     "id": "ortografia-espacial",
@@ -340,7 +384,9 @@
     "notes": "Orto",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/ortografia-espacial.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/ortografia.png"
   },
   {
     "id": "othello",
@@ -351,7 +397,9 @@
     "notes": "En el campo, los jugadores alternativamente colocar fichas. Un jugador debe colocar su piedra en un campo vacío, que limita con un campo enemigo ocupado. Piezas, que son el propio color entre lo nuevo y una piedra ya establecida, la vuelta de la oposición. El juego es excedente cuando el tablero está lleno o ningún [&hellip;]",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/othello.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/othello2.png"
   },
   {
     "id": "pacman",
@@ -362,7 +410,9 @@
     "notes": "",
     "levels": [
       "Primaria 2o ciclo"
-    ]
+    ],
+    "image": "assets/game-images/pacman.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2025/07/Captura-de-pantalla_2025-07-19_22-22-51-400x250.png"
   },
   {
     "id": "pajarologia-2",
@@ -374,7 +424,9 @@
     "levels": [
       "Primaria"
     ],
-    "flash": true
+    "flash": true,
+    "image": "assets/game-images/pajarologia-2.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/pajarologia.jpg"
   },
   {
     "id": "paper-minecraft",
@@ -385,7 +437,9 @@
     "notes": "Paper Minecraft",
     "levels": [
       "Primaria 2o ciclo"
-    ]
+    ],
+    "image": "assets/game-images/paper-minecraft.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2021/10/Captura-de-pantalla-20211008084509-482x357-1.png"
   },
   {
     "id": "puzzle-marino",
@@ -396,7 +450,9 @@
     "notes": "Sigue las instrucciones y completa los 60 niveles",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/puzzle-marino.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/puzzle-marino.png"
   },
   {
     "id": "puzzles-2",
@@ -407,7 +463,9 @@
     "notes": "Puzzles temas variados multipiezas.",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/puzzles-2.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Puzzles-variados.jpg"
   },
   {
     "id": "repaso-tablas-dianas-moviles",
@@ -418,7 +476,9 @@
     "notes": "Repaso tablas",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/repaso-tablas-dianas-moviles.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/dianas-moviles.png"
   },
   {
     "id": "music-rhythm",
@@ -440,7 +500,9 @@
     "notes": "Importado desde listado de WordPress",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/scratch.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/231116114459scratch_mit_lab-2.jpg"
   },
   {
     "id": "sudoku",
@@ -451,7 +513,9 @@
     "notes": "Sudoku configurable con cinco niveles de dificultad (Muy fácil, facíl&#8230;)",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/sudoku.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/sudoku-ninos.png"
   },
   {
     "id": "sumes-restes-1",
@@ -473,7 +537,9 @@
     "notes": "Múltiples juegos para trabajar las tablas",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/tablas-de-multiplicar.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/tablas.png"
   },
   {
     "id": "tangram",
@@ -484,7 +550,9 @@
     "notes": "Tangram",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/tangram.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/tangram.png"
   },
   {
     "id": "toni-b",
@@ -495,7 +563,9 @@
     "notes": "Importado desde listado de WordPress",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "image": "assets/game-images/toni-b.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/Screenshot_20200128_182127.png"
   },
   {
     "id": "trencaclosques",
@@ -506,7 +576,9 @@
     "notes": "Rompecabezas",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/trencaclosques.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/Screenshot_20200322_163843.png"
   },
   {
     "id": "angles-vocabulary",
@@ -529,7 +601,9 @@
     ],
     "language": "Ingles",
     "url": "https://www.mathplayground.com/logic_where_is_cat.html",
-    "notes": "Encontrar al gato. Juego de lógica."
+    "notes": "Encontrar al gato. Juego de lógica.",
+    "image": "assets/game-images/where-is-cat.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/Where-is-cat-.png"
   },
   {
     "id": "memoria-visual-2",
@@ -540,7 +614,9 @@
     ],
     "language": "Castellano",
     "url": "http://jeux.lulu.pagesperso-orange.fr/html/memory/memrySom.htm",
-    "notes": "Juegos de memoria visual con imágenes y palabras."
+    "notes": "Juegos de memoria visual con imágenes y palabras.",
+    "image": "assets/game-images/memoria-visual-2.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/memory.jpg"
   },
   {
     "id": "personajes-geometricos",
@@ -576,7 +652,9 @@
     ],
     "language": "Valenciano",
     "url": "https://aprendomusica.com/const2/03atrapanotas/game.html",
-    "notes": "Juego tipo Simón identificando notas sol-la-mi."
+    "notes": "Juego tipo Simón identificando notas sol-la-mi.",
+    "image": "assets/game-images/simon-s-l-m.jpg",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/simon.jpg"
   },
   {
     "id": "youdj",
@@ -600,7 +678,9 @@
     ],
     "language": "Ingles",
     "url": "https://toytheater.com/visual-memory/",
-    "notes": "Joc de memòria visual."
+    "notes": "Joc de memòria visual.",
+    "image": "assets/game-images/memory.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/memory.png"
   },
   {
     "id": "cuatro-en-raya",
@@ -613,7 +693,9 @@
     ],
     "language": "Castellano",
     "url": "http://www.educaplus.org/game/4-en-raya",
-    "notes": ""
+    "notes": "",
+    "image": "assets/game-images/cuatro-en-raya.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/cuatro-en-raya.png"
   },
   {
     "id": "puntos",
@@ -625,7 +707,9 @@
     ],
     "language": "Castellano",
     "url": "https://www.vedoque.com/juegos/puntospeque.html",
-    "notes": "Repetir modelo."
+    "notes": "Repetir modelo.",
+    "image": "assets/game-images/puntos.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/puntos.png"
   },
   {
     "id": "la-cueva-de-los-murcielagos",
@@ -720,7 +804,9 @@
     ],
     "language": "Valenciano",
     "url": "http://www.educaplus.org/game/encierra-al-gato",
-    "notes": "Procura que el gato no se escape cerrándole el paso con círculos grises."
+    "notes": "Procura que el gato no se escape cerrándole el paso con círculos grises.",
+    "image": "assets/game-images/gato-atrapalo.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Gato-atrapalo.png"
   },
   {
     "id": "el-buho-boo-2",
@@ -731,7 +817,9 @@
     ],
     "language": "Castellano",
     "url": "https://www.elbuhoboo.com/juegos-educativos.php",
-    "notes": "Juegos educativos de pintura y ratón."
+    "notes": "Juegos educativos de pintura y ratón.",
+    "image": "assets/game-images/el-buho-boo-2.png",
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/Captura-de-pantalla_2020-03-28_12-59-43.png"
   },
   {
     "id": "canarias-recursos-digitales",
