@@ -1,0 +1,16 @@
+{
+  "name": "bibliojocs-static",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Directorio estatico de juegos educativos con chequeo de enlaces.",
+  "type": "module",
+  "scripts": {
+    "check:links": "node ./scripts/check-links.mjs",
+    "import:csv": "node ./scripts/import-csv.mjs",
+    "import:wp": "node ./scripts/import-wordpress.mjs",
+    "import:wp:merge": "node ./scripts/import-wordpress.mjs --merge"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,387 @@
+{
+  "generatedAt": "2026-05-05T20:11:14.800Z",
+  "summary": {
+    "checked": 47,
+    "errorCount": 0,
+    "warningCount": 0,
+    "hasBlockingIssues": false
+  },
+  "results": [
+    {
+      "url": "http://recursostic.educacion.es/apls/informacion_didactica/1406",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 188,
+      "error": null
+    },
+    {
+      "url": "http://thatquiz.org/ca",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 1004,
+      "error": null
+    },
+    {
+      "url": "http://www.aplicaciones.info/adivina/adivina.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 166,
+      "error": null
+    },
+    {
+      "url": "http://www.educaplus.org/game/cuadrado-matematico",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 264,
+      "error": null
+    },
+    {
+      "url": "http://www.educaplus.org/game/dianas-moviles-producto",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 233,
+      "error": null
+    },
+    {
+      "url": "http://www.educaplus.org/game/mastermind",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 239,
+      "error": null
+    },
+    {
+      "url": "http://www.educaplus.org/game/puzzle-marino",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 202,
+      "error": null
+    },
+    {
+      "url": "http://www.jigzone.com/puzzles/D8055D4B0A77&#038;z=5?v=22858",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 252,
+      "error": null
+    },
+    {
+      "url": "http://www3.gobiernodecanarias.org/medusa/contenidosdigitales/ucticee/s2/CD120803001/index.html#/lang/es/pag/ddce41b88906cbea1ba6213dfa4d2cb7",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 303,
+      "error": null
+    },
+    {
+      "url": "https://blockly.games/maze",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 239,
+      "error": null
+    },
+    {
+      "url": "https://bomomo.com/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 253,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/ca/jclic/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 243,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/repo/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 177,
+      "error": null
+    },
+    {
+      "url": "https://educativo.ign.es/geosapiens/htm/es/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 408,
+      "error": null
+    },
+    {
+      "url": "https://eduhoot.edutictac.es/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 268,
+      "error": null
+    },
+    {
+      "url": "https://edutictac.es/blog/bibliojocs/eduzop/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 573,
+      "error": null
+    },
+    {
+      "url": "https://edutictac.es/blog/bibliojocs/memoria-visual/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 360,
+      "error": null
+    },
+    {
+      "url": "https://edutictac.es/inici/flash/aulademusica24aranas.swf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 262,
+      "error": null
+    },
+    {
+      "url": "https://edutictac.es/inici/flash/aulademusicaenriqueta.swf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 244,
+      "error": null
+    },
+    {
+      "url": "https://edutictac.es/inici/flash/pajarologia.swf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 184,
+      "error": null
+    },
+    {
+      "url": "https://freepacman.org/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 322,
+      "error": null
+    },
+    {
+      "url": "https://learnenglishkids.britishcouncil.org/games",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 271,
+      "error": null
+    },
+    {
+      "url": "https://m0n.co/usp",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 1477,
+      "error": null
+    },
+    {
+      "url": "https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 1389,
+      "error": null
+    },
+    {
+      "url": "https://musiclab.chromeexperiments.com/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 556,
+      "error": null
+    },
+    {
+      "url": "https://sasogu.github.io/EduMusic/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 230,
+      "error": null
+    },
+    {
+      "url": "https://sasogu.github.io/EduSampler/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 194,
+      "error": null
+    },
+    {
+      "url": "https://scratch.mit.edu/explore/projects/all",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 79,
+      "error": null
+    },
+    {
+      "url": "https://scratch.mit.edu/projects/14217557/fullscreen/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 53,
+      "error": null
+    },
+    {
+      "url": "https://scratch.mit.edu/projects/3053421/fullscreen/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 87,
+      "error": null
+    },
+    {
+      "url": "https://studio.code.org/courses",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 415,
+      "error": null
+    },
+    {
+      "url": "https://toytheater.com/tangram/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 217,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/juegos/letras/ortografia/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 212,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/juegos/matematicas/tablas-multiplicar/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 150,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 182,
+      "error": null
+    },
+    {
+      "url": "https://www.aprendomusica.com/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 351,
+      "error": null
+    },
+    {
+      "url": "https://www.arbolabc.com/juegos-de-matematicas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 420,
+      "error": null
+    },
+    {
+      "url": "https://www.chess.com/es/play/computer",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 453,
+      "error": null
+    },
+    {
+      "url": "https://www.comodicequedijo.com/juegos/?ref=cta-homepage",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 865,
+      "error": null
+    },
+    {
+      "url": "https://www.cristic.com/juegos/discriminacion-fonemas/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 1711,
+      "error": null
+    },
+    {
+      "url": "https://www.elbuhoboo.com/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 1087,
+      "error": null
+    },
+    {
+      "url": "https://www.incredibox.com/demo/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 145,
+      "error": null
+    },
+    {
+      "url": "https://www.jigsawplanet.com/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 668,
+      "error": null
+    },
+    {
+      "url": "https://www.juegos.com/juego/caracol-bob",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 977,
+      "error": null
+    },
+    {
+      "url": "https://www.sudoku-online.org/sudokus-ninos.php",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 192,
+      "error": null
+    },
+    {
+      "url": "https://www.tony-b.org/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 768,
+      "error": null
+    },
+    {
+      "url": "https://www.topster.es/reversi/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": 348,
+      "error": null
+    }
+  ]
+}

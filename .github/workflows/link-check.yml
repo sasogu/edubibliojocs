@@ -1,0 +1,35 @@
+name: Link Check
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "data/games.json"
+      - "scripts/check-links.mjs"
+      - ".github/workflows/link-check.yml"
+  schedule:
+    - cron: "15 4 * * *"
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run link checker
+        run: npm run check:links
+
+      - name: Upload link report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-report
+          path: reports/link-report.json
+          if-no-files-found: ignore

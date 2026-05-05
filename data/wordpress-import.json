@@ -1,0 +1,402 @@
+[
+  {
+    "id": "pajarologia-2",
+    "title": "Pajarología",
+    "area": "General",
+    "level": "Primaria",
+    "language": "Castellano",
+    "url": "https://edutictac.es/inici/flash/pajarologia.swf",
+    "notes": "Pantalla completa window._ruffleSwfQueue=window._ruffleSwfQueue||[];window._ruffleSwfQueue.push({id:\"swf_d20478bd-5256-42b6-ae46-d2b8b60819ac\",url:\"https://edutictac.es/inici/flash/pajarologia.swf\",fsbtn:true});",
+    "source": "https://edutictac.es/blog/bibliojocs/pajarologia-2/"
+  },
+  {
+    "id": "edumusic",
+    "title": "EduMúsic",
+    "area": "Musica",
+    "level": "Primaria 1er ciclo",
+    "language": "Castellano",
+    "url": "https://sasogu.github.io/EduMusic/",
+    "notes": "EduMúsic és una col·lecció de jocs interactius dissenyats per a l’aula de música, desenvolupada amb la idea de fer l’aprenentatge divertit i motivador. Està pensat tant per a mestres com per a alumnes, principalment de nivells inicials/intermedis, que volen consolidar conceptes com ara:",
+    "source": "https://edutictac.es/blog/bibliojocs/edumusic/"
+  },
+  {
+    "id": "la-tienda-de-enriqueta",
+    "title": "La tienda de Enriqueta",
+    "area": "General",
+    "level": "Primaria",
+    "language": "Castellano",
+    "url": "https://edutictac.es/inici/flash/aulademusicaenriqueta.swf",
+    "notes": "Pantalla completa window._ruffleSwfQueue=window._ruffleSwfQueue||[];window._ruffleSwfQueue.push({id:\"swf_4c54882c-2997-4ea7-9c9e-ce66aa4fb87c\",url:\"https://edutictac.es/inici/flash/aulademusicaenriqueta.swf\",fsbtn:true});",
+    "source": "https://edutictac.es/blog/bibliojocs/la-tienda-de-enriqueta/"
+  },
+  {
+    "id": "aranas-2",
+    "title": "Arañas",
+    "area": "General",
+    "level": "Primaria",
+    "language": "Castellano",
+    "url": "https://edutictac.es/inici/flash/aulademusica24aranas.swf",
+    "notes": "Pantalla completa window._ruffleSwfQueue=window._ruffleSwfQueue||[];window._ruffleSwfQueue.push({id:\"swf_508efb11-0188-467a-af1a-84d536cf3bf6\",url:\"https://edutictac.es/inici/flash/aulademusica24aranas.swf\",fsbtn:true});",
+    "source": "https://edutictac.es/blog/bibliojocs/aranas-2/"
+  },
+  {
+    "id": "pacman",
+    "title": "Pacman",
+    "area": "General",
+    "level": "Primaria 2o ciclo",
+    "language": "Castellano",
+    "url": "https://freepacman.org/",
+    "notes": "",
+    "source": "https://edutictac.es/blog/bibliojocs/pacman/"
+  },
+  {
+    "id": "ejercicio-y-salud",
+    "title": "Ejercicio y salud",
+    "area": "Sociales",
+    "level": "Primaria 2o ciclo",
+    "language": "Castellano",
+    "url": "http://recursostic.educacion.es/apls/informacion_didactica/1406",
+    "notes": "Aplicación web destinada al desarrollo de los siguientes objetivos: &#8211; Adquirir hábitos básicos de higiene corporal, alimentarios y posturales relacionados con la actividad física. &#8211; Reconocer los efectos beneficiosos de la actividad física en la salud e identificar las prácticas poco saludables. El recurso cuenta con animaciones multimedia interactivas y con un centenar de actividades [&hellip;]",
+    "source": "https://edutictac.es/blog/bibliojocs/ejercicio-y-salud/"
+  },
+  {
+    "id": "collabora",
+    "title": "Col·labora",
+    "area": "General",
+    "level": "Primaria",
+    "language": "Castellano",
+    "url": "https://m0n.co/usp",
+    "notes": "Aquest és un projecte obert en el qual tot aquell interessat pot participar. Si trobeu algun joc a faltar, podeu enviar-ho en aquesta secció. L&#8217;afegirem el més aviat possible. Moltes gràcies!",
+    "source": "https://edutictac.es/blog/bibliojocs/collabora/"
+  },
+  {
+    "id": "como-dice-que-dijo",
+    "title": "¿Cómo dice que dijo?",
+    "area": "Lengua",
+    "level": "Primaria 1er ciclo",
+    "language": "Castellano",
+    "url": "https://www.comodicequedijo.com/juegos/?ref=cta-homepage",
+    "notes": "Ortografía",
+    "source": "https://edutictac.es/blog/bibliojocs/como-dice-que-dijo/"
+  },
+  {
+    "id": "aprendo-musica",
+    "title": "Aprendo Música",
+    "area": "Musica",
+    "level": "Primaria 1er ciclo",
+    "language": "Ingles",
+    "url": "https://www.aprendomusica.com/",
+    "notes": "Importado desde listado de WordPress",
+    "source": "https://edutictac.es/blog/bibliojocs/aprendo-musica/"
+  },
+  {
+    "id": "bomomo",
+    "title": "Bomomo",
+    "area": "General",
+    "level": "Infantil",
+    "language": "Valenciano",
+    "url": "https://bomomo.com/",
+    "notes": "Per a pintar&#8230;",
+    "source": "https://edutictac.es/blog/bibliojocs/bomomo/"
+  },
+  {
+    "id": "caracol-bob",
+    "title": "CARACOL BOB",
+    "area": "General",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "https://www.juegos.com/juego/caracol-bob",
+    "notes": "Demuestra tu ingenio salvando al caracol Bob",
+    "source": "https://edutictac.es/blog/bibliojocs/caracol-bob/"
+  },
+  {
+    "id": "code-org",
+    "title": "Code.org",
+    "area": "General",
+    "level": "Primaria 1er ciclo",
+    "language": "Castellano",
+    "url": "https://studio.code.org/courses",
+    "notes": "Per aprendre a programar amb blocs",
+    "source": "https://edutictac.es/blog/bibliojocs/code-org/"
+  },
+  {
+    "id": "comenotas",
+    "title": "ComeNotas",
+    "area": "Musica",
+    "level": "Primaria 1er ciclo",
+    "language": "Castellano",
+    "url": "https://scratch.mit.edu/projects/3053421/fullscreen/",
+    "notes": "Para aprender las notas musicales",
+    "source": "https://edutictac.es/blog/bibliojocs/comenotas/"
+  },
+  {
+    "id": "qplay",
+    "title": "EduHoot",
+    "area": "General",
+    "level": "Primaria",
+    "language": "Castellano",
+    "url": "https://eduhoot.edutictac.es/",
+    "notes": "Joc similar a Kahhot",
+    "source": "https://edutictac.es/blog/bibliojocs/qplay/"
+  },
+  {
+    "id": "edusamplers",
+    "title": "EduSamplers",
+    "area": "Musica",
+    "level": "Primaria 1er ciclo",
+    "language": "Castellano",
+    "url": "https://sasogu.github.io/EduSampler/",
+    "notes": "Bucles i sàmplers per a compondre música molt fàcilment.",
+    "source": "https://edutictac.es/blog/bibliojocs/edusamplers/"
+  },
+  {
+    "id": "geosapiens",
+    "title": "GeoSapiens",
+    "area": "Sociales",
+    "level": "Primaria 2o ciclo",
+    "language": "Castellano",
+    "url": "https://educativo.ign.es/geosapiens/htm/es/index.html",
+    "notes": "GeoSapiens es una aplicac ión de mapas interactivos para est udiar la geografía básica y política de España y el mundo. Const a de difere ntes ju egos para est udiar toda España o porcomunidades autónomas, el mundo completo y por continente. Además, incluye un módulo de pai saje",
+    "source": "https://edutictac.es/blog/bibliojocs/geosapiens/"
+  },
+  {
+    "id": "incredibox",
+    "title": "Incredibox",
+    "area": "Musica",
+    "level": "Primaria 3er ciclo",
+    "language": "Castellano",
+    "url": "https://www.incredibox.com/demo/",
+    "notes": "Importado desde listado de WordPress",
+    "source": "https://edutictac.es/blog/bibliojocs/incredibox/"
+  },
+  {
+    "id": "jclic",
+    "title": "JClic",
+    "area": "Musica",
+    "level": "Infantil",
+    "language": "Ingles",
+    "url": "https://clic.xtec.cat/repo/",
+    "notes": "Importado desde listado de WordPress",
+    "source": "https://edutictac.es/blog/bibliojocs/jclic/"
+  },
+  {
+    "id": "paper-minecraft",
+    "title": "Paper Minecraft",
+    "area": "General",
+    "level": "Primaria 2o ciclo",
+    "language": "Castellano",
+    "url": "https://scratch.mit.edu/projects/14217557/fullscreen/",
+    "notes": "Paper Minecraft",
+    "source": "https://edutictac.es/blog/bibliojocs/paper-minecraft/"
+  },
+  {
+    "id": "scratch",
+    "title": "Scratch",
+    "area": "General",
+    "level": "Primaria 1er ciclo",
+    "language": "Castellano",
+    "url": "https://scratch.mit.edu/explore/projects/all",
+    "notes": "Importado desde listado de WordPress",
+    "source": "https://edutictac.es/blog/bibliojocs/scratch/"
+  },
+  {
+    "id": "toni-b",
+    "title": "Toni-b",
+    "area": "Musica",
+    "level": "Primaria 1er ciclo",
+    "language": "Castellano",
+    "url": "https://www.tony-b.org/",
+    "notes": "Importado desde listado de WordPress",
+    "source": "https://edutictac.es/blog/bibliojocs/toni-b/"
+  },
+  {
+    "id": "ortografia-espacial",
+    "title": "Ortografía espacial",
+    "area": "Lengua",
+    "level": "Primaria 1er ciclo",
+    "language": "Castellano",
+    "url": "https://vedoque.com/juegos/letras/ortografia/",
+    "notes": "Orto",
+    "source": "https://edutictac.es/blog/bibliojocs/ortografia-espacial/"
+  },
+  {
+    "id": "adivinanzas",
+    "title": "Adivinanzas",
+    "area": "Lengua",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "http://www.aplicaciones.info/adivina/adivina.htm",
+    "notes": "Adivinanzas interactivas",
+    "source": "https://edutictac.es/blog/bibliojocs/adivinanzas/"
+  },
+  {
+    "id": "tangram",
+    "title": "Tangram",
+    "area": "General",
+    "level": "Infantil",
+    "language": "Valenciano",
+    "url": "https://toytheater.com/tangram/",
+    "notes": "Tangram",
+    "source": "https://edutictac.es/blog/bibliojocs/tangram/"
+  },
+  {
+    "id": "puzzles-2",
+    "title": "Puzzles",
+    "area": "General",
+    "level": "Infantil",
+    "language": "Valenciano",
+    "url": "http://www.jigzone.com/puzzles/D8055D4B0A77&#038;z=5?v=22858",
+    "notes": "Puzzles temas variados multipiezas.",
+    "source": "https://edutictac.es/blog/bibliojocs/puzzles-2/"
+  },
+  {
+    "id": "el-buho-boo",
+    "title": "EL BUHO BOO",
+    "area": "General",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "https://www.elbuhoboo.com/juegos-educativos.php",
+    "notes": "JOCS DE PINTAR I RATOLÍ",
+    "source": "https://edutictac.es/blog/bibliojocs/el-buho-boo/"
+  },
+  {
+    "id": "memoria-visual",
+    "title": "MEMORIA VISUAL",
+    "area": "General",
+    "level": "Infantil",
+    "language": "Valenciano",
+    "url": "http://jeux.lulu.pagesperso-orange.fr/html/memory/memrySom.htm",
+    "notes": "Juegos de memoria visual con imagenes y palabras &#8230;",
+    "source": "https://edutictac.es/blog/bibliojocs/memoria-visual/"
+  },
+  {
+    "id": "trencaclosques",
+    "title": "Trencaclosques",
+    "area": "General",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "https://www.jigsawplanet.com/",
+    "notes": "Rompecabezas",
+    "source": "https://edutictac.es/blog/bibliojocs/trencaclosques/"
+  },
+  {
+    "id": "activitats-de-matematiques",
+    "title": "Activitats de Matemàtiques",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "http://thatquiz.org/ca",
+    "notes": "Portal obert on pots practicar tites les activitats matemàtiques que vulgues",
+    "source": "https://edutictac.es/blog/bibliojocs/activitats-de-matematiques/"
+  },
+  {
+    "id": "othello",
+    "title": "othello",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "https://www.topster.es/reversi/",
+    "notes": "En el campo, los jugadores alternativamente colocar fichas. Un jugador debe colocar su piedra en un campo vacío, que limita con un campo enemigo ocupado. Piezas, que son el propio color entre lo nuevo y una piedra ya establecida, la vuelta de la oposición. El juego es excedente cuando el tablero está lleno o ningún [&hellip;]",
+    "source": "https://edutictac.es/blog/bibliojocs/othello/"
+  },
+  {
+    "id": "tablas-de-multiplicar",
+    "title": "Tablas de multiplicar",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "https://vedoque.com/juegos/matematicas/tablas-multiplicar/",
+    "notes": "Múltiples juegos para trabajar las tablas",
+    "source": "https://edutictac.es/blog/bibliojocs/tablas-de-multiplicar/"
+  },
+  {
+    "id": "sudoku",
+    "title": "Sudoku",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "https://www.sudoku-online.org/sudokus-ninos.php",
+    "notes": "Sudoku configurable con cinco niveles de dificultad (Muy fácil, facíl&#8230;)",
+    "source": "https://edutictac.es/blog/bibliojocs/sudoku/"
+  },
+  {
+    "id": "puzzle-marino",
+    "title": "Puzzle marino",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "http://www.educaplus.org/game/puzzle-marino",
+    "notes": "Sigue las instrucciones y completa los 60 niveles",
+    "source": "https://edutictac.es/blog/bibliojocs/puzzle-marino/"
+  },
+  {
+    "id": "mastermind-logica",
+    "title": "Mastermind Lógica",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "http://www.educaplus.org/game/mastermind",
+    "notes": "El juego consiste en encontrar la combinación de fichas de colores oculta. Si hemos colocado una ficha del color correcto en la posición adecuada, nos aparecerá un punto negro. Si hemos acertado el color de la ficha pero la posición no es correcta, aparecerá un punto blanco. Y si por el contrario no existe ninguna [&hellip;]",
+    "source": "https://edutictac.es/blog/bibliojocs/mastermind-logica/"
+  },
+  {
+    "id": "cuadro-matematico",
+    "title": "Cuadro matemático",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "http://www.educaplus.org/game/cuadrado-matematico",
+    "notes": "Arrastrar los números coloreados a las esquinas correctas",
+    "source": "https://edutictac.es/blog/bibliojocs/cuadro-matematico/"
+  },
+  {
+    "id": "repaso-tablas-dianas-moviles",
+    "title": "Repaso tablas dianas móviles.",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Valenciano",
+    "url": "http://www.educaplus.org/game/dianas-moviles-producto",
+    "notes": "Repaso tablas",
+    "source": "https://edutictac.es/blog/bibliojocs/repaso-tablas-dianas-moviles/"
+  },
+  {
+    "id": "ajedrez-online",
+    "title": "Ajedrez online",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "https://www.chess.com/es/play/computer",
+    "notes": "Ajedrez para jugar contra un ordenador , con 10 niveles de dificultad.",
+    "source": "https://edutictac.es/blog/bibliojocs/ajedrez-online/"
+  },
+  {
+    "id": "blockly-laberint",
+    "title": "Blockly: Laberintmòbil",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "https://blockly.games/maze",
+    "notes": "Per aprendre a programar, molt interessant.",
+    "source": "https://edutictac.es/blog/bibliojocs/blockly-laberint/"
+  },
+  {
+    "id": "cuerpos-geometricos",
+    "title": "Cuerpos geométricos",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Castellano",
+    "url": "http://www3.gobiernodecanarias.org/medusa/contenidosdigitales/ucticee/s2/CD120803001/index.html#/lang/es/pag/ddce41b88906cbea1ba6213dfa4d2cb7",
+    "notes": "Importado desde listado de WordPress",
+    "source": "https://edutictac.es/blog/bibliojocs/cuerpos-geometricos/"
+  },
+  {
+    "id": "juegos-jocs",
+    "title": "Juegos Jocs",
+    "area": "Matematicas",
+    "level": "Infantil",
+    "language": "Ingles",
+    "url": "https://www.abcya.com/",
+    "notes": "Juegos variados de matemáticas, lengua , estrategia&#8230;.",
+    "source": "https://edutictac.es/blog/bibliojocs/juegos-jocs/"
+  }
+]
