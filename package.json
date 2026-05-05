@@ -9,7 +9,9 @@
     "import:csv": "node ./scripts/import-csv.mjs",
     "import:wp": "node ./scripts/import-wordpress.mjs",
     "import:wp:merge": "node ./scripts/import-wordpress.mjs --merge",
-    "import:wp:images": "node ./scripts/import-wordpress-images.mjs"
+    "import:wp:images": "node ./scripts/import-wordpress-images.mjs",
+    "deploy": "DEPLOY_HOST=edutictac.es DEPLOY_USER=samgua DEPLOY_PORT=2222 DEPLOY_PATH=/var/www/my_webapp__4/www bash ./scripts/deploy.sh",
+    "deploy:dry": "DEPLOY_HOST=edutictac.es DEPLOY_USER=samgua DEPLOY_PORT=2222 DEPLOY_PATH=/var/www/my_webapp__4/www DRY_RUN=1 bash ./scripts/deploy.sh"
   },
   "engines": {
     "node": ">=18"

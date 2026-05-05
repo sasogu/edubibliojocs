@@ -72,3 +72,54 @@ node scripts/import-csv.mjs ruta/al/archivo.csv
 ## Publicacion
 
 Puedes publicar en GitHub Pages, Netlify o Cloudflare Pages. El sitio no necesita backend.
+
+### Deploy local por SSH (directo al servidor)
+
+Si quieres subir desde tu maquina al servidor que ya usas por SSH, tienes este script:
+
+1. Ruta: `scripts/deploy.sh`
+2. Comando: `npm run deploy`
+3. Destino preconfigurado: `samgua@edutictac.es:2222` -> `/var/www/my_webapp__4/www`
+
+Variables opcionales (si quieres sobreescribir):
+
+- `DEPLOY_HOST`: host o IP del servidor
+- `DEPLOY_USER`: usuario SSH
+- `DEPLOY_PORT` (opcional): por defecto `22`
+- `DEPLOY_PATH` (opcional): por defecto `/var/www/my_webapp__4/www`
+- `DEPLOY_SSH_KEY` (opcional): ruta a clave privada SSH
+- `DRY_RUN=1` (opcional): simula sin copiar
+- `VERIFY_URL` (opcional): URL publica para verificacion HTTP opcional
+- `VERIFY_TIMEOUT` (opcional): timeout HTTP en segundos
+- `SKIP_VERIFY=1` (opcional): omite la verificacion final
+- `VERIFY_STRICT=1` (opcional): si falla la verificacion HTTP opcional, termina con error
+- `FIX_PERMS=1` (opcional): fuerza permisos seguros web (carpetas 755, ficheros 644)
+
+Ejemplo real:
+
+```bash
+npm run deploy
+```
+
+Prueba en modo simulacion:
+
+```bash
+npm run deploy:dry
+```
+
+Por defecto, en deploy real el script ajusta permisos web en destino, luego comprueba por SSH que existe `index.html`. La verificacion HTTP publica solo se ejecuta si defines `VERIFY_URL`.
+
+Tambien tienes despliegue automatico por SSH con GitHub Actions en `.github/workflows/deploy.yml`.
+
+### Deploy a servidor por SSH
+
+1. Crea estos Secrets en GitHub (Settings > Secrets and variables > Actions):
+  - `DEPLOY_HOST`: host o IP del servidor
+  - `DEPLOY_USER`: usuario SSH
+  - `DEPLOY_PATH`: carpeta destino en el servidor (por ejemplo `/var/www/bibliojocs`)
+  - `DEPLOY_SSH_KEY`: clave privada SSH (formato OpenSSH)
+  - `DEPLOY_PORT` (opcional): puerto SSH, por defecto `22`
+2. Sube la clave publica correspondiente al archivo `authorized_keys` del servidor.
+3. Haz push a `main` o ejecuta manualmente el workflow `Deploy to Server`.
+
+El deploy sincroniza el sitio con `rsync --delete` y excluye archivos de desarrollo.

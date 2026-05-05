@@ -1,0 +1,2 @@
+scripts/deploy.sh
+.github/workflows/deploy.yml
