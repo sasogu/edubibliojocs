@@ -114,11 +114,13 @@ Tambien tienes despliegue automatico por SSH con GitHub Actions en `.github/work
 ### Deploy a servidor por SSH
 
 1. Crea estos Secrets en GitHub (Settings > Secrets and variables > Actions):
-  - `DEPLOY_HOST`: host o IP del servidor
-  - `DEPLOY_USER`: usuario SSH
-  - `DEPLOY_PATH`: carpeta destino en el servidor (por ejemplo `/var/www/bibliojocs`)
-  - `DEPLOY_SSH_KEY`: clave privada SSH (formato OpenSSH)
-  - `DEPLOY_PORT` (opcional): puerto SSH, por defecto `22`
+
+- `DEPLOY_HOST`: host o IP del servidor
+- `DEPLOY_USER`: usuario SSH
+- `DEPLOY_PATH`: carpeta destino en el servidor (por ejemplo `/var/www/bibliojocs`)
+- `DEPLOY_SSH_KEY`: clave privada SSH (formato OpenSSH)
+- `DEPLOY_PORT` (opcional): puerto SSH, por defecto `22`
+
 2. Sube la clave publica correspondiente al archivo `authorized_keys` del servidor.
 3. Haz push a `main` o ejecuta manualmente el workflow `Deploy to Server`.
 
