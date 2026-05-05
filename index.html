@@ -23,33 +23,41 @@
   <header class="hero">
     <p class="eyebrow">Edutictac</p>
     <h1>Bibliojocs</h1>
-    <p class="subtitle">Directorio de juegos educativos, mantenido sin WordPress para poder depurar y validar enlaces con rapidez.</p>
+    <p class="subtitle" data-i18n="subtitle">Directorio de juegos educativos, mantenido sin WordPress para poder depurar y validar enlaces con rapidez.</p>
   </header>
 
   <main class="container">
     <section class="controls" aria-label="Filtros de juegos">
       <label>
-        Buscar
-        <input id="searchInput" type="search" placeholder="Titulo, area o notas" />
+        <span data-i18n="search_label">Buscar</span>
+        <input id="searchInput" type="search" placeholder="Título, área o notas" data-i18n-placeholder="search_placeholder" />
       </label>
 
       <label>
-        Etapa
+        <span data-i18n="level_label">Etapa</span>
         <select id="levelFilter">
-          <option value="">Todas</option>
+          <option value="" data-i18n="level_all">Todas</option>
         </select>
       </label>
 
       <label>
-        Idioma
+        <span data-i18n="language_label">Idioma</span>
         <select id="languageFilter">
-          <option value="">Todos</option>
+          <option value="" data-i18n="language_all">Todos</option>
+        </select>
+      </label>
+
+      <label>
+        <span data-i18n="ui_lang_label">Interfaz</span>
+        <select id="langSelect">
+          <option value="es">Castellano</option>
+          <option value="ca">Valencià</option>
         </select>
       </label>
 
       <label class="check-wrap">
         <input id="brokenOnly" type="checkbox" />
-        Mostrar solo enlaces con incidencia
+        <span data-i18n="broken_only">Solo enlaces con incidencia</span>
       </label>
     </section>
 
@@ -59,11 +67,11 @@
 
     <section>
       <div class="results-head">
-        <h2>Juegos</h2>
+        <h2 data-i18n="section_title">Juegos</h2>
         <p id="resultCount"></p>
       </div>
       <div id="grid" class="grid" aria-live="polite"></div>
-      <p id="emptyState" class="empty hidden">No hay resultados con los filtros actuales.</p>
+      <p id="emptyState" class="empty hidden" data-i18n="empty">No hay resultados con los filtros actuales.</p>
     </section>
   </main>
 
@@ -71,10 +79,10 @@
     <p>Gestion: archivo <code>data/games.json</code> + comprobador automatico de enlaces.</p>
   </footer>
 
-  <dialog id="flashDialog" class="flash-dialog" aria-label="Reproductor Flash">
+  <dialog id="flashDialog" class="flash-dialog" data-i18n-aria-label="flash_player_label" aria-label="Reproductor Flash">
     <div class="flash-header">
       <span id="flashTitle" class="flash-title"></span>
-      <button id="flashClose" class="flash-close" aria-label="Cerrar">✕</button>
+      <button id="flashClose" class="flash-close" data-i18n-aria-label="flash_close_label" aria-label="Cerrar">✕</button>
     </div>
     <div id="flashContainer" class="flash-container"></div>
   </dialog>

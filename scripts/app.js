@@ -1,3 +1,5 @@
+import { i18n, detectLang, setLang, getLang, LANGS } from "./i18n.js";
+
 const dataUrl = "./data/games.json";
 const reportUrl = "./reports/link-report.json";
 const RUFFLE_CDN = "https://unpkg.com/@ruffle-rs/ruffle";
@@ -5,6 +7,7 @@ const RUFFLE_CDN = "https://unpkg.com/@ruffle-rs/ruffle";
 const searchInput = document.querySelector("#searchInput");
 const levelFilter = document.querySelector("#levelFilter");
 const languageFilter = document.querySelector("#languageFilter");
+const langSelect = document.querySelector("#langSelect");
 const brokenOnly = document.querySelector("#brokenOnly");
 const grid = document.querySelector("#grid");
 const resultCount = document.querySelector("#resultCount");
@@ -14,12 +17,15 @@ const statusStrip = document.querySelector("#statusStrip");
 const state = {
   games: [],
   reportByUrl: new Map(),
-  reportSummary: null
+  reportSummary: null,
+  lastReport: null,
 };
+
+setLang(detectLang());
 
 boot().catch((error) => {
   console.error("No se pudo iniciar la aplicacion", error);
-  statusStrip.textContent = "Error cargando datos. Revisa consola o formato del JSON.";
+  statusStrip.textContent = i18n("boot_error");
   statusStrip.classList.add("warn");
 });
 
@@ -31,13 +37,16 @@ async function boot() {
   if (report && Array.isArray(report.results)) {
     state.reportByUrl = buildReportIndex(report.results);
     state.reportSummary = report.summary || null;
+    state.lastReport = report;
     setReportBanner(report);
   } else {
-    statusStrip.textContent = "Sin informe de enlaces. Ejecuta: npm run check:links";
+    statusStrip.textContent = i18n("status_no_report");
     statusStrip.classList.add("warn");
   }
 
   hydrateFilterOptions();
+  applyStaticTranslations();
+  langSelect.value = getLang();
   wireEvents();
   render();
 }
@@ -72,18 +81,20 @@ function setReportBanner(report) {
   const checked = Number(report.summary?.checked || 0);
   const errorCount = Number(report.summary?.errorCount || 0);
   const warningCount = Number(report.summary?.warningCount || 0);
+  const locale = getLang() === "ca" ? "ca" : "es-ES";
   const generatedAt = report.generatedAt ? new Date(report.generatedAt) : null;
   const dateText = generatedAt && !Number.isNaN(generatedAt.valueOf())
-    ? generatedAt.toLocaleString("es-ES")
-    : "fecha desconocida";
+    ? generatedAt.toLocaleString(locale)
+    : getLang() === "ca" ? "data desconeguda" : "fecha desconocida";
 
+  statusStrip.classList.remove("warn", "ok");
   if (errorCount > 0 || warningCount > 0) {
-    statusStrip.textContent = `Ultimo chequeo: ${checked} enlaces, errores ${errorCount}, avisos ${warningCount} (${dateText}).`;
+    statusStrip.textContent = i18n("status_warn", checked, errorCount, warningCount, dateText);
     statusStrip.classList.add("warn");
     return;
   }
 
-  statusStrip.textContent = `Ultimo chequeo: ${checked} enlaces sin incidencias (${dateText}).`;
+  statusStrip.textContent = i18n("status_ok", checked, dateText);
   statusStrip.classList.add("ok");
 }
 
@@ -115,6 +126,29 @@ function wireEvents() {
   levelFilter.addEventListener("change", render);
   languageFilter.addEventListener("change", render);
   brokenOnly.addEventListener("change", render);
+  langSelect.addEventListener("change", () => {
+    setLang(langSelect.value);
+    applyStaticTranslations();
+    if (state.lastReport) {
+      setReportBanner(state.lastReport);
+    } else {
+      statusStrip.className = "status-strip warn";
+      statusStrip.textContent = i18n("status_no_report");
+    }
+    render();
+  });
+}
+
+function applyStaticTranslations() {
+  document.querySelectorAll("[data-i18n]").forEach((el) => {
+    el.textContent = i18n(el.dataset.i18n);
+  });
+  document.querySelectorAll("[data-i18n-placeholder]").forEach((el) => {
+    el.placeholder = i18n(el.dataset.i18nPlaceholder);
+  });
+  document.querySelectorAll("[data-i18n-aria-label]").forEach((el) => {
+    el.setAttribute("aria-label", i18n(el.dataset.i18nAriaLabel));
+  });
 }
 
 function render() {
@@ -153,27 +187,27 @@ function render() {
   });
 
   drawCards(filtered);
-  resultCount.textContent = `${filtered.length} de ${state.games.length} juegos`;
+  resultCount.textContent = i18n("result_count", filtered.length, state.games.length);
   emptyState.classList.toggle("hidden", filtered.length > 0);
 }
 
 function linkHealth(url) {
   const item = state.reportByUrl.get(normalizeUrl(url));
   if (!item) {
-    return { ok: null, text: "Sin comprobar" };
+    return { ok: null, text: i18n("not_checked") };
   }
 
   if (item.ok) {
-    return { ok: true, text: `OK (${item.httpStatus || "200"})` };
+    return { ok: true, text: i18n("link_ok", item.httpStatus || "200") };
   }
 
   if (item.severity === "warning") {
     const reason = item.error || `HTTP ${item.httpStatus || "warning"}`;
-    return { ok: false, text: `Aviso: ${reason}` };
+    return { ok: false, text: i18n("link_warn", reason) };
   }
 
   const reason = item.error || `HTTP ${item.httpStatus || "error"}`;
-  return { ok: false, text: `Incidencia: ${reason}` };
+  return { ok: false, text: i18n("link_error", reason) };
 }
 
 function drawCards(items) {
@@ -186,14 +220,14 @@ function drawCards(items) {
     article.className = `card ${health.ok === false ? "broken" : ""}`;
 
     const title = document.createElement("h3");
-    title.textContent = game.title || "Sin titulo";
+    title.textContent = game.title || i18n("no_title");
 
     const meta = document.createElement("div");
     meta.className = "meta";
 
     const area = tag(game.area || "General");
     const language = tag(game.language || "Idioma no definido", "lang");
-    const gameLevels = game.levels || (game.level ? [game.level] : ["Sin etapa"]);
+    const gameLevels = game.levels || (game.level ? [game.level] : [i18n("no_level")]);
     const levelTags = gameLevels.map((l) => tag(l));
     const flashTag = game.flash ? [tag("Flash", "flash")] : [];
 
@@ -201,20 +235,20 @@ function drawCards(items) {
 
     const note = document.createElement("p");
     note.className = "note";
-    note.textContent = game.notes || "Sin notas.";
+    note.textContent = game.notes || i18n("no_notes");
 
     let action;
     if (game.flash) {
       action = document.createElement("button");
       action.className = "btn-flash";
-      action.textContent = "▶ Jugar con Ruffle";
+      action.textContent = i18n("play_ruffle");
       action.addEventListener("click", () => openFlashDialog(game.url, game.title));
     } else {
       action = document.createElement("a");
       action.href = game.url;
       action.target = "_blank";
       action.rel = "noreferrer noopener";
-      action.textContent = "Abrir juego";
+      action.textContent = i18n("open_game");
     }
 
     const healthText = document.createElement("p");
