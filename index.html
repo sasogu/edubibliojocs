@@ -24,6 +24,10 @@
     <p class="eyebrow">Edutictac</p>
     <h1>Bibliojocs</h1>
     <p class="subtitle" data-i18n="subtitle">Directorio de juegos educativos, mantenido sin WordPress para poder depurar y validar enlaces con rapidez.</p>
+    <div class="lang-switcher" role="group" aria-label="Idioma de la interfaz / Idioma de la interfície">
+      <button class="btn-lang" data-lang="es">ES</button>
+      <button class="btn-lang" data-lang="ca">CA</button>
+    </div>
   </header>
 
   <main class="container">
@@ -48,10 +52,9 @@
       </label>
 
       <label>
-        <span data-i18n="ui_lang_label">Interfaz</span>
-        <select id="langSelect">
-          <option value="es">Castellano</option>
-          <option value="ca">Valencià</option>
+        <span data-i18n="area_label">Materia</span>
+        <select id="areaFilter">
+          <option value="" data-i18n="area_all">Todas</option>
         </select>
       </label>
 

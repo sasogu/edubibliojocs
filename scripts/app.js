@@ -7,7 +7,7 @@ const RUFFLE_CDN = "https://unpkg.com/@ruffle-rs/ruffle";
 const searchInput = document.querySelector("#searchInput");
 const levelFilter = document.querySelector("#levelFilter");
 const languageFilter = document.querySelector("#languageFilter");
-const langSelect = document.querySelector("#langSelect");
+const areaFilter = document.querySelector("#areaFilter");
 const brokenOnly = document.querySelector("#brokenOnly");
 const grid = document.querySelector("#grid");
 const resultCount = document.querySelector("#resultCount");
@@ -46,7 +46,7 @@ async function boot() {
 
   hydrateFilterOptions();
   applyStaticTranslations();
-  langSelect.value = getLang();
+  updateLangButtons();
   wireEvents();
   render();
 }
@@ -101,6 +101,7 @@ function setReportBanner(report) {
 function hydrateFilterOptions() {
   fillSelect(levelFilter, uniqueLevelValues(state.games));
   fillSelect(languageFilter, uniqueValues(state.games, "language"));
+  fillSelect(areaFilter, uniqueValues(state.games, "area"));
 }
 
 function uniqueLevelValues(items) {
@@ -125,17 +126,28 @@ function wireEvents() {
   searchInput.addEventListener("input", render);
   levelFilter.addEventListener("change", render);
   languageFilter.addEventListener("change", render);
+  areaFilter.addEventListener("change", render);
   brokenOnly.addEventListener("change", render);
-  langSelect.addEventListener("change", () => {
-    setLang(langSelect.value);
-    applyStaticTranslations();
-    if (state.lastReport) {
-      setReportBanner(state.lastReport);
-    } else {
-      statusStrip.className = "status-strip warn";
-      statusStrip.textContent = i18n("status_no_report");
-    }
-    render();
+  document.querySelectorAll(".btn-lang").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      setLang(btn.dataset.lang);
+      updateLangButtons();
+      applyStaticTranslations();
+      if (state.lastReport) {
+        setReportBanner(state.lastReport);
+      } else {
+        statusStrip.className = "status-strip warn";
+        statusStrip.textContent = i18n("status_no_report");
+      }
+      render();
+    });
+  });
+}
+
+function updateLangButtons() {
+  const lang = getLang();
+  document.querySelectorAll(".btn-lang").forEach((btn) => {
+    btn.classList.toggle("active", btn.dataset.lang === lang);
   });
 }
 
@@ -155,6 +167,7 @@ function render() {
   const term = searchInput.value.trim().toLowerCase();
   const selectedLevel = levelFilter.value;
   const selectedLanguage = languageFilter.value;
+  const selectedArea = areaFilter.value;
   const onlyBroken = brokenOnly.checked;
 
   const filtered = state.games.filter((game) => {
@@ -165,6 +178,10 @@ function render() {
     }
 
     if (selectedLanguage && game.language !== selectedLanguage) {
+      return false;
+    }
+
+    if (selectedArea && game.area !== selectedArea) {
       return false;
     }
 
