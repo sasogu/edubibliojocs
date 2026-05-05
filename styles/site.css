@@ -258,6 +258,89 @@ select:focus {
   font-weight: 600;
 }
 
+.tag.flash {
+  background: #fff0e0;
+  border-color: #f5a623;
+  color: #7a3b00;
+}
+
+.btn-flash {
+  justify-self: start;
+  font-weight: 700;
+  font-size: 0.95rem;
+  font-family: inherit;
+  color: #fff;
+  background: var(--accent);
+  border: none;
+  border-radius: 8px;
+  padding: 0.35rem 0.75rem;
+  cursor: pointer;
+  transition: background 150ms;
+}
+
+.btn-flash:hover {
+  background: #b85a18;
+}
+
+.flash-dialog {
+  border: none;
+  border-radius: 18px;
+  padding: 0;
+  width: min(900px, 96vw);
+  box-shadow: 0 24px 60px rgba(31, 42, 68, 0.25);
+  background: #1a1a2e;
+}
+
+.flash-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(3px);
+}
+
+.flash-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.7rem 1rem;
+  background: #0f0f1a;
+  border-radius: 18px 18px 0 0;
+}
+
+.flash-title {
+  color: #e2d9c0;
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+.flash-close {
+  background: none;
+  border: 1px solid #444;
+  color: #aaa;
+  border-radius: 6px;
+  width: 2rem;
+  height: 2rem;
+  cursor: pointer;
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
+.flash-close:hover {
+  background: #333;
+  color: #fff;
+}
+
+.flash-container {
+  width: 100%;
+  aspect-ratio: 4/3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flash-container ruffle-player {
+  width: 100%;
+  height: 100%;
+}
+
 .hidden {
   display: none;
 }

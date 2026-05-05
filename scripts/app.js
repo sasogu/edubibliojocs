@@ -1,5 +1,6 @@
 const dataUrl = "./data/games.json";
 const reportUrl = "./reports/link-report.json";
+const RUFFLE_CDN = "https://unpkg.com/@ruffle-rs/ruffle";
 
 const searchInput = document.querySelector("#searchInput");
 const levelFilter = document.querySelector("#levelFilter");
@@ -194,24 +195,33 @@ function drawCards(items) {
     const language = tag(game.language || "Idioma no definido", "lang");
     const gameLevels = game.levels || (game.level ? [game.level] : ["Sin etapa"]);
     const levelTags = gameLevels.map((l) => tag(l));
+    const flashTag = game.flash ? [tag("Flash", "flash")] : [];
 
-    meta.append(area, ...levelTags, language);
+    meta.append(area, ...levelTags, language, ...flashTag);
 
     const note = document.createElement("p");
     note.className = "note";
     note.textContent = game.notes || "Sin notas.";
 
-    const link = document.createElement("a");
-    link.href = game.url;
-    link.target = "_blank";
-    link.rel = "noreferrer noopener";
-    link.textContent = "Abrir juego";
+    let action;
+    if (game.flash) {
+      action = document.createElement("button");
+      action.className = "btn-flash";
+      action.textContent = "▶ Jugar con Ruffle";
+      action.addEventListener("click", () => openFlashDialog(game.url, game.title));
+    } else {
+      action = document.createElement("a");
+      action.href = game.url;
+      action.target = "_blank";
+      action.rel = "noreferrer noopener";
+      action.textContent = "Abrir juego";
+    }
 
     const healthText = document.createElement("p");
     healthText.className = "health";
     healthText.textContent = health.text;
 
-    article.append(title, meta, note, link, healthText);
+    article.append(title, meta, note, action, healthText);
     grid.append(article);
   }
 }
@@ -221,4 +231,46 @@ function tag(text, extraClass = "") {
   span.className = `tag ${extraClass}`.trim();
   span.textContent = text;
   return span;
+}
+
+// --- Ruffle / Flash player ---
+
+const flashDialog = document.querySelector("#flashDialog");
+const flashClose = document.querySelector("#flashClose");
+const flashContainer = document.querySelector("#flashContainer");
+const flashTitle = document.querySelector("#flashTitle");
+
+flashClose.addEventListener("click", closeFlashDialog);
+flashDialog.addEventListener("click", (e) => {
+  if (e.target === flashDialog) closeFlashDialog();
+});
+
+async function openFlashDialog(url, title) {
+  flashTitle.textContent = title;
+  flashContainer.innerHTML = "";
+  flashDialog.showModal();
+
+  const ruffle = await loadRuffle();
+  const player = ruffle.createPlayer();
+  player.style.width = "100%";
+  player.style.height = "100%";
+  flashContainer.appendChild(player);
+  player.load({ url });
+}
+
+function closeFlashDialog() {
+  flashDialog.close();
+  flashContainer.innerHTML = "";
+}
+
+async function loadRuffle() {
+  if (window.RufflePlayer) return window.RufflePlayer.newest();
+  await new Promise((resolve, reject) => {
+    const s = document.createElement("script");
+    s.src = RUFFLE_CDN;
+    s.onload = resolve;
+    s.onerror = reject;
+    document.head.appendChild(s);
+  });
+  return window.RufflePlayer.newest();
 }

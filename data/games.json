@@ -60,10 +60,11 @@
     "area": "General",
     "language": "Castellano",
     "url": "https://edutictac.es/inici/flash/aulademusica24aranas.swf",
-    "notes": "Pantalla completa window._ruffleSwfQueue=window._ruffleSwfQueue||[];window._ruffleSwfQueue.push({id:\"swf_cb9da803-1404-45e7-9683-51c2374c5aa5\",url:\"https://edutictac.es/inici/flash/aulademusica24aranas.swf\",fsbtn:true});",
+    "notes": "Juego Flash",
     "levels": [
       "Primaria"
-    ]
+    ],
+    "flash": true
   },
   {
     "id": "blockly-laberint",
@@ -280,10 +281,11 @@
     "area": "General",
     "language": "Castellano",
     "url": "https://edutictac.es/inici/flash/aulademusicaenriqueta.swf",
-    "notes": "Pantalla completa window._ruffleSwfQueue=window._ruffleSwfQueue||[];window._ruffleSwfQueue.push({id:\"swf_c6fafbf0-b34a-4eb3-8330-1302ca7d617d\",url:\"https://edutictac.es/inici/flash/aulademusicaenriqueta.swf\",fsbtn:true});",
+    "notes": "Juego Flash",
     "levels": [
       "Primaria"
-    ]
+    ],
+    "flash": true
   },
   {
     "id": "abecedari-valencia",
@@ -368,10 +370,11 @@
     "area": "General",
     "language": "Castellano",
     "url": "https://edutictac.es/inici/flash/pajarologia.swf",
-    "notes": "Pantalla completa window._ruffleSwfQueue=window._ruffleSwfQueue||[];window._ruffleSwfQueue.push({id:\"swf_fcc0c185-4e35-44b5-82e2-469867deaa91\",url:\"https://edutictac.es/inici/flash/pajarologia.swf\",fsbtn:true});",
+    "notes": "Juego Flash",
     "levels": [
       "Primaria"
-    ]
+    ],
+    "flash": true
   },
   {
     "id": "paper-minecraft",

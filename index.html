@@ -71,6 +71,14 @@
     <p>Gestion: archivo <code>data/games.json</code> + comprobador automatico de enlaces.</p>
   </footer>
 
+  <dialog id="flashDialog" class="flash-dialog" aria-label="Reproductor Flash">
+    <div class="flash-header">
+      <span id="flashTitle" class="flash-title"></span>
+      <button id="flashClose" class="flash-close" aria-label="Cerrar">✕</button>
+    </div>
+    <div id="flashContainer" class="flash-container"></div>
+  </dialog>
+
   <script type="module" src="./scripts/app.js"></script>
 </body>
 </html>
