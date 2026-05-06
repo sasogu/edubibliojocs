@@ -108,6 +108,60 @@ Variables opcionales:
 
 Puedes publicar en GitHub Pages, Netlify o Cloudflare Pages. El sitio no necesita backend.
 
+## Favoritos y valoraciones compartidas con Firebase
+
+Ahora la app puede trabajar en dos modos:
+
+- Local (por defecto): favoritos y valoraciones en localStorage.
+- Firebase: favoritos por usuario + valoraciones compartidas entre usuarios.
+
+### 1) Configurar Firebase
+
+Edita `scripts/firebase-config.js`:
+
+1. Rellena `firebaseConfig` con los valores de tu proyecto.
+2. Cambia `enabled` a `true`.
+3. Si quieres sincronizacion por cuenta Google, cambia `googleAuthEnabled` a `true`.
+
+### 2) Activar servicios en Firebase Console
+
+1. Authentication -> Sign-in method -> habilita `Anonymous`.
+2. Firestore Database -> crea la base de datos en modo produccion.
+3. (Opcional) Authentication -> Sign-in method -> habilita `Google`.
+4. En Authentication -> Settings -> Authorized domains, anade tu dominio de produccion.
+
+### 3) Estructura de datos usada
+
+- `users/{uid}/favorites/{gameId}`
+- `users/{uid}/ratings/{gameId}` con `value` de 1 a 5
+- `ratingSummary/{gameId}` con `sum`, `count`, `avg`
+
+### 4) Reglas iniciales recomendadas (Firestore Rules)
+
+```text
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    match /users/{userId}/favorites/{gameId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    match /users/{userId}/ratings/{gameId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+    }
+
+    match /ratingSummary/{gameId} {
+      allow read: if true;
+      allow write: if request.auth != null;
+    }
+  }
+}
+```
+
+Con esto, cada usuario conserva sus favoritos/nota, y la media de estrellas se comparte entre todos.
+
+Si ademas activas Google Sign-In, el usuario podra iniciar sesion y mantener sus favoritos/valoraciones al cambiar de navegador o dispositivo.
+
 ### Deploy local por SSH (directo al servidor)
 
 Si quieres subir desde tu maquina al servidor que ya usas por SSH, tienes este script:

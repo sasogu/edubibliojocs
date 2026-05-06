@@ -93,6 +93,17 @@
 
   <main class="container">
     <section class="controls" aria-label="Filtros de juegos">
+      <div id="authPanel" class="auth-panel hidden" aria-live="polite">
+        <div class="auth-copy">
+          <strong data-i18n="auth_title">Cuenta</strong>
+          <span id="authStatus" data-i18n="auth_loading">Conectando cuenta...</span>
+        </div>
+        <div class="auth-actions">
+          <button id="signInGoogleBtn" type="button" class="btn-auth" data-i18n="auth_signin_google">Entrar con Google</button>
+          <button id="signOutBtn" type="button" class="btn-auth secondary" data-i18n="auth_signout">Cerrar sesion</button>
+        </div>
+      </div>
+
       <label>
         <span data-i18n="search_label">Buscar</span>
         <input id="searchInput" type="search" placeholder="Título, área o notas" data-i18n-placeholder="search_placeholder" />
@@ -123,6 +134,25 @@
         <input id="brokenOnly" type="checkbox" />
         <span data-i18n="broken_only">Solo enlaces con incidencia</span>
       </label>
+
+      <label class="check-wrap">
+        <input id="favoritesOnly" type="checkbox" />
+        <span data-i18n="favorites_only">Solo mis favoritos</span>
+      </label>
+
+      <label>
+        <span data-i18n="rating_min_label">Valoracion minima</span>
+        <select id="ratingFilter">
+          <option value="0" data-i18n="rating_all_filter">Todas</option>
+          <option value="1">1★+</option>
+          <option value="2">2★+</option>
+          <option value="3">3★+</option>
+          <option value="4">4★+</option>
+          <option value="5">5★</option>
+        </select>
+      </label>
+
+      <p id="personalPrefsNote" class="personal-note" data-i18n="personal_prefs_note_local">Favoritos y valoraciones se guardan solo en este navegador (localStorage).</p>
     </section>
 
     <section class="status-strip" id="statusStrip" aria-live="polite">
