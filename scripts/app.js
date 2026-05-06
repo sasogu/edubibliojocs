@@ -336,15 +336,22 @@ async function openFlashDialog(url, title) {
   flashContainer.innerHTML = "";
   flashDialog.showModal();
 
-  const ruffle = await loadRuffle();
-  const flashUrl = await resolveFlashUrl(url);
-  const player = ruffle.createPlayer();
-  player.style.width = "100%";
-  player.style.height = "100%";
-  flashContainer.appendChild(player);
-  activeFlashPlayer = player;
-  player.addEventListener("dblclick", toggleFlashFullscreen);
-  player.load({ url: flashUrl });
+  try {
+    const ruffle = await loadRuffle();
+    const flashUrl = await resolveFlashUrl(url);
+    const player = ruffle.createPlayer();
+    player.style.width = "100%";
+    player.style.height = "100%";
+    flashContainer.appendChild(player);
+    activeFlashPlayer = player;
+    player.addEventListener("dblclick", toggleFlashFullscreen);
+    await player.load({ url: flashUrl });
+  } catch (error) {
+    console.error("No se pudo cargar la actividad Flash", error);
+    activeFlashPlayer = null;
+    flashContainer.innerHTML = "";
+    flashContainer.appendChild(createFlashError(url));
+  }
 }
 
 function closeFlashDialog() {
@@ -416,10 +423,6 @@ async function resolveFlashUrl(url) {
 }
 
 function localFlashCandidate(url) {
-  if (!isLocalhost()) {
-    return null;
-  }
-
   try {
     const parsed = new URL(url);
     const path = parsed.pathname || "";
@@ -438,7 +441,19 @@ function localFlashCandidate(url) {
   }
 }
 
-function isLocalhost() {
-  const host = window.location.hostname;
-  return host === "localhost" || host === "127.0.0.1" || host === "::1";
+function createFlashError(url) {
+  const wrapper = document.createElement("div");
+  wrapper.className = "flash-error";
+
+  const message = document.createElement("p");
+  message.textContent = "No se pudo cargar esta actividad Flash.";
+
+  const link = document.createElement("a");
+  link.href = url;
+  link.target = "_blank";
+  link.rel = "noreferrer noopener";
+  link.textContent = "Abrir archivo original";
+
+  wrapper.append(message, link);
+  return wrapper;
 }

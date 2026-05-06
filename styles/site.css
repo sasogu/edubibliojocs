@@ -449,6 +449,23 @@ select:focus {
   height: 100%;
 }
 
+.flash-error {
+  display: grid;
+  gap: 0.75rem;
+  justify-items: center;
+  color: var(--ink);
+  font-weight: 700;
+  text-align: center;
+}
+
+.flash-error p {
+  margin: 0;
+}
+
+.flash-error a {
+  color: var(--accent);
+}
+
 .hidden {
   display: none;
 }
