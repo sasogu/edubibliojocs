@@ -3,7 +3,7 @@ export const LANGS = ["es", "ca"];
 
 const strings = {
   es: {
-    subtitle: "Directorio de juegos educativos, mantenido sin WordPress para poder depurar y validar enlaces con rapidez.",
+    subtitle: "Juegos educativos seleccionados para Infantil y Primaria, con filtros rápidos para encontrar la actividad perfecta en cada momento.",
     auth_title: "Cuenta",
     auth_loading: "Conectando cuenta...",
     auth_signin_google: "Entrar con Google",
@@ -20,7 +20,6 @@ const strings = {
     level_all: "Todas",
     language_label: "Idioma",
     language_all: "Todos",
-    broken_only: "Solo enlaces con incidencia",
     favorites_only: "Solo mis favoritos",
     rating_min_label: "Valoracion minima",
     rating_all_filter: "Todas las valoraciones",
@@ -56,7 +55,7 @@ const strings = {
     flash_close_label: "Cerrar",
   },
   ca: {
-    subtitle: "Directori de jocs educatius, mantingut sense WordPress per poder depurar i validar enllaços ràpidament.",
+    subtitle: "Jocs educatius seleccionats per a Infantil i Primària, amb filtres ràpids per trobar l'activitat perfecta en cada moment.",
     auth_title: "Compte",
     auth_loading: "Connectant compte...",
     auth_signin_google: "Entrar amb Google",
@@ -73,7 +72,6 @@ const strings = {
     level_all: "Totes",
     language_label: "Idioma",
     language_all: "Tots",
-    broken_only: "Sols enllaços amb incidència",
     favorites_only: "Sols els meus favorits",
     rating_min_label: "Valoracio minima",
     rating_all_filter: "Totes les valoracions",

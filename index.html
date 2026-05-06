@@ -84,7 +84,7 @@
       <img class="brand-logo" src="./assets/brand/logo-bibliojocs.png" alt="Logo de Bibliojocs" width="72" height="72" />
       <span>Bibliojocs</span>
     </h1>
-    <p class="subtitle" data-i18n="subtitle">Directorio de juegos educativos, mantenido sin WordPress para poder depurar y validar enlaces con rapidez.</p>
+    <p class="subtitle" data-i18n="subtitle">Juegos educativos seleccionados para Infantil y Primaria, con filtros rápidos para encontrar la actividad perfecta en cada momento.</p>
     <div class="lang-switcher" role="group" aria-label="Idioma de la interfaz / Idioma de la interfície">
       <button class="btn-lang" data-lang="es">ES</button>
       <button class="btn-lang" data-lang="ca">CA</button>
@@ -130,16 +130,6 @@
         </select>
       </label>
 
-      <label class="check-wrap">
-        <input id="brokenOnly" type="checkbox" />
-        <span data-i18n="broken_only">Solo enlaces con incidencia</span>
-      </label>
-
-      <label class="check-wrap">
-        <input id="favoritesOnly" type="checkbox" />
-        <span data-i18n="favorites_only">Solo mis favoritos</span>
-      </label>
-
       <label>
         <span data-i18n="rating_min_label">Valoracion minima</span>
         <select id="ratingFilter">
@@ -150,6 +140,11 @@
           <option value="4">4★+</option>
           <option value="5">5★</option>
         </select>
+      </label>
+
+      <label class="check-wrap">
+        <input id="favoritesOnly" type="checkbox" />
+        <span data-i18n="favorites_only">Solo mis favoritos</span>
       </label>
 
       <p id="personalPrefsNote" class="personal-note" data-i18n="personal_prefs_note_local">Favoritos y valoraciones se guardan solo en este navegador (localStorage).</p>

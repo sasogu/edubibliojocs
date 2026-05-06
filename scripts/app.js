@@ -13,7 +13,6 @@ const searchInput = document.querySelector("#searchInput");
 const levelFilter = document.querySelector("#levelFilter");
 const languageFilter = document.querySelector("#languageFilter");
 const areaFilter = document.querySelector("#areaFilter");
-const brokenOnly = document.querySelector("#brokenOnly");
 const favoritesOnly = document.querySelector("#favoritesOnly");
 const ratingFilter = document.querySelector("#ratingFilter");
 const grid = document.querySelector("#grid");
@@ -163,7 +162,6 @@ function wireEvents() {
   levelFilter.addEventListener("change", render);
   languageFilter.addEventListener("change", render);
   areaFilter.addEventListener("change", render);
-  brokenOnly.addEventListener("change", render);
   favoritesOnly.addEventListener("change", render);
   ratingFilter.addEventListener("change", render);
   loadMoreBtn.addEventListener("click", showMore);
@@ -273,7 +271,6 @@ function render() {
   const selectedLevel = levelFilter.value;
   const selectedLanguage = languageFilter.value;
   const selectedArea = areaFilter.value;
-  const onlyBroken = brokenOnly.checked;
   const onlyFavorites = favoritesOnly.checked;
   const minRating = Number(ratingFilter.value || 0);
 
@@ -302,11 +299,6 @@ function render() {
       if (!haystack.includes(term)) {
         return false;
       }
-    }
-
-    const health = linkHealth(game.url);
-    if (onlyBroken && health.ok !== false) {
-      return false;
     }
 
     if (onlyFavorites && !state.favorites.has(key)) {
