@@ -93,7 +93,7 @@
     "id": "bomomo",
     "title": "Bomomo",
     "area": "General",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://bomomo.com/",
     "notes": "Per a pintar&#8230;",
     "levels": [
@@ -320,7 +320,7 @@
     "id": "abecedari-valencia",
     "title": "Lletres i abecedari",
     "area": "Lectoescritura",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/ca/jclic/",
     "notes": "Activitats JClic en catala per al treball de lectoescriptura inicial.",
     "levels": [
@@ -357,7 +357,7 @@
     "id": "memoria-visual",
     "title": "MEMORIA VISUAL",
     "area": "General",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://edutictac.es/blog/bibliojocs/memoria-visual/",
     "notes": "Juegos de memoria visual con imagenes y palabras. Enlace externo original no disponible.",
     "levels": [
@@ -449,7 +449,7 @@
     "id": "puzzles-2",
     "title": "Puzzles",
     "area": "General",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.jigzone.com/puzzles/D8055D4B0A77&#038;z=5?v=22858",
     "notes": "Puzzles temas variados multipiezas.",
     "levels": [
@@ -462,7 +462,7 @@
     "id": "repaso-tablas-dianas-moviles",
     "title": "Repaso tablas dianas móviles.",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.educaplus.org/game/dianas-moviles-producto",
     "notes": "Repaso tablas",
     "levels": [
@@ -512,7 +512,7 @@
     "id": "sumes-restes-1",
     "title": "Sumas y restas hasta 20",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.arbolabc.com/juegos-de-matematicas",
     "notes": "Repositorio de juegos de matematicas para reforzar calculo y logica.",
     "levels": [
@@ -536,7 +536,7 @@
     "id": "tangram",
     "title": "Tangram",
     "area": "General",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://toytheater.com/tangram/",
     "notes": "Tangram",
     "levels": [
@@ -616,7 +616,7 @@
     "levels": [
       "Infantil"
     ],
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://bibliojocs.edutictac.es/go/geometricos/",
     "notes": "Actividad sobre formas geométricas."
   },
@@ -641,7 +641,7 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://aprendomusica.com/const2/03atrapanotas/game.html",
     "notes": "Juego tipo Simón identificando notas sol-la-mi.",
     "image": "assets/game-images/simon-s-l-m.jpg",
@@ -654,7 +654,7 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://youdj.online/",
     "notes": "Per aprendre a ser un dj."
   },
@@ -793,7 +793,7 @@
     "levels": [
       "Primaria 3er ciclo"
     ],
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.educaplus.org/game/encierra-al-gato",
     "notes": "Procura que el gato no se escape cerrándole el paso con círculos grises.",
     "image": "assets/game-images/gato-atrapalo.png",
@@ -955,7 +955,7 @@
     "id": "100-palabras",
     "title": "100 palabras",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/100paraules/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -1069,7 +1069,7 @@
     "id": "actividades-de-lectura",
     "title": "Actividades de lectura",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/lectinfa/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -1083,7 +1083,7 @@
     "id": "actividades-de-lengua",
     "title": "Actividades de lengua",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/llengso/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -1142,7 +1142,7 @@
     "id": "adivina-adivinanza",
     "title": "Adivina, adivinanza",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/endevina-endevinalla",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -1155,7 +1155,7 @@
     "id": "adivina-adivinanza-2",
     "title": "Adivina, adivinanza",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/endevina/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -1182,7 +1182,7 @@
     "id": "adivinanzas-catalogo",
     "title": "Adivinanzas",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/flash/endevinalles/portada.htm",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -1227,7 +1227,7 @@
     "id": "agente-anti-faltas",
     "title": "Agente anti faltas",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/agent/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -1341,7 +1341,7 @@
     "id": "amigos-de-los-animales",
     "title": "Amigos de los animales",
     "area": "Ciencias Naturales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/vertebra/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 2o ciclo.",
     "levels": [
@@ -1550,7 +1550,7 @@
     "id": "animales-vertebrados-2",
     "title": "Animales vertebrados",
     "area": "Ciencias Naturales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/avertebr/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 2o ciclo.",
     "levels": [
@@ -1639,7 +1639,7 @@
     "id": "aparatos-del-cuerpo",
     "title": "Aparatos del cuerpo",
     "area": "Ciencias Naturales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/aparells/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 3er ciclo.",
     "levels": [
@@ -1729,7 +1729,7 @@
     "id": "aprendo-a-escribir-2",
     "title": "Aprendo a escribir",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/aprenc-a-escriure",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -1766,7 +1766,7 @@
     "id": "arrastra-y-coloca-2",
     "title": "Arrastra y coloca",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=posan2",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -1808,7 +1808,7 @@
     "id": "atrapa-el-residuo",
     "title": "Atrapa el residuo",
     "area": "Ciencias Sociales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/reciclatge/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -1916,7 +1916,7 @@
     "id": "aventurate",
     "title": "Aventúrate",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/flash/aventurat/",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -2288,7 +2288,7 @@
     "id": "calendario-y-reloj",
     "title": "Calendario y reloj",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/medinat3/calre3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -2328,7 +2328,7 @@
     "id": "caperucita-roja",
     "title": "Caperucita Roja",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/caputxe2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -2737,7 +2737,7 @@
     "id": "comarcas-de-cataluna",
     "title": "Comarcas de Cataluña",
     "area": "Ciencias Sociales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/users/mnebot1/comarques/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 2o ciclo.",
     "levels": [
@@ -2794,7 +2794,7 @@
     "id": "completa",
     "title": "Completa",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=enom1",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -2935,7 +2935,7 @@
     "id": "contar-del-1-al-9",
     "title": "Contar del 1 al 9",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/comptar/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil.",
     "levels": [
@@ -2948,7 +2948,7 @@
     "id": "continentes-y-oceanos",
     "title": "Continentes y océanos",
     "area": "Ciencias Sociales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/continents/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -3147,7 +3147,7 @@
     "id": "cuerpos-geometricos-catalogo",
     "title": "Cuerpos geométricos",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/geom/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -3323,7 +3323,7 @@
     "id": "deportes-y-valores",
     "title": "Deportes y valores",
     "area": "Educacion emocional",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/esports2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar educacion emocional en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -3376,7 +3376,7 @@
     "id": "descubre-la-cara-2",
     "title": "Descubre la cara",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=mascotes8",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -3428,7 +3428,7 @@
     "id": "dias-y-meses-2",
     "title": "Días y meses",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=1",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -3533,7 +3533,7 @@
     "id": "dictados",
     "title": "Dictados",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://llengua.gencat.cat/ca/serveis/aprendre_catala/recursos-per-al-professorat/dictats-en-linia/aspectes-ortografics/",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -3779,7 +3779,7 @@
     "id": "edu365",
     "title": "Edu365",
     "area": "General",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.edu365.cat/",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
     "levels": [
@@ -3814,7 +3814,7 @@
     "id": "el-abecedario",
     "title": "El abecedario",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/alfabet/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -3837,7 +3837,7 @@
     "id": "el-alfabeto",
     "title": "El alfabeto",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -3885,7 +3885,7 @@
     "id": "el-invierno",
     "title": "El invierno",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/l_hivern/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -3919,7 +3919,7 @@
     "id": "el-juego-de-las-vocales-2",
     "title": "El juego de las vocales",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/joc-de-les-vocals",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -3953,7 +3953,7 @@
     "id": "el-mon-et-parla",
     "title": "El món et parla",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/mon/monp4/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -3987,7 +3987,7 @@
     "id": "el-otono",
     "title": "El otoño",
     "area": "Ciencias Sociales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/tardor7/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Infantil.",
     "levels": [
@@ -4020,7 +4020,7 @@
     "id": "el-reloj-2",
     "title": "El reloj",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/rellotge/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -4054,7 +4054,7 @@
     "id": "elementos-tecnologicos-2",
     "title": "Elementos tecnológicos",
     "area": "Informatica",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=34221BCE-E47A-49CC-9339-F5A9F50CBB9B",
     "notes": "Actividad interactiva para practicar informatica en Primaria 2o ciclo.",
     "levels": [
@@ -4065,7 +4065,7 @@
     "id": "els-colors",
     "title": "Els colors",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/colors3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -4222,7 +4222,7 @@
     "id": "endevina-qui-soc",
     "title": "Endevina qui soc",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/endevina-qui-soc-iniciacio-a-la-lectura",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -4246,7 +4246,7 @@
     "id": "entrenate-para-leer",
     "title": "Entrénate para leer",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/flash/entrena/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -4434,7 +4434,7 @@
     "id": "fem-feinetes",
     "title": "Fem feinetes",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/feinetes/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -4494,7 +4494,7 @@
     "id": "flores",
     "title": "Flores",
     "area": "Ciencias Naturales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/flors/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 2o ciclo.",
     "levels": [
@@ -4529,7 +4529,7 @@
     "id": "formas-verbales",
     "title": "Formas verbales",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=b&tema=6",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -4603,7 +4603,7 @@
     "id": "frases-al-reves-2",
     "title": "Frases al revés",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=alrev1",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -4690,7 +4690,7 @@
     "id": "garbancito",
     "title": "Garbancito",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/patufet/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -4702,7 +4702,7 @@
     "id": "geoclic",
     "title": "Geoclic",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/geoclice/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 3er ciclo.",
     "levels": [
@@ -4713,7 +4713,7 @@
     "id": "geometria",
     "title": "Geometría",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/geomet3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -4726,7 +4726,7 @@
     "id": "geometria-plana",
     "title": "Geometría plana",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/poligons/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -4748,7 +4748,7 @@
     "id": "gestion-emocional",
     "title": "Gestión emocional",
     "area": "Educacion emocional",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/emocion_3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar educacion emocional en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -4948,7 +4948,7 @@
     "id": "hoy-cocinas-tu",
     "title": "Hoy cocinas tú",
     "area": "Ciencias Naturales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://espaiescoles.farmaceuticonline.com/jocshtml5/fesDeCuiner_ca/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 1er ciclo.",
     "levels": [
@@ -5079,7 +5079,7 @@
     "id": "jclic-catalogo",
     "title": "JClic",
     "area": "General",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://clic.xtec.cat/db/listact_es.jsp",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
     "levels": [
@@ -5196,7 +5196,7 @@
     "id": "jugamos-a-calcular",
     "title": "Jugamos a calcular",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/jugcalc/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -5209,7 +5209,7 @@
     "id": "jugamos-con-sumas",
     "title": "Jugamos con sumas",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=jtausum",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo.",
     "levels": [
@@ -5396,7 +5396,7 @@
     "id": "la-castanada",
     "title": "La Castañada",
     "area": "Dias especiales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://clic.xtec.cat/quaderns/biblioteca/lacastanyada_ca/html/section_1.htm?&appl=http://clic.xtec.cat/qv_viewer/dist/html/appl/&css=http://clic.xtec.cat/qv_viewer/dist/html/css/&js=http://clic.xtec.cat/qv_viewer/dist/html/scripts/&lang=ca&skin=infantil&biblio=true&xml=lacastanyada_ca/lacastanyada_ca.xml&base=lacastanyada_ca&skin=infantil§ion=1&lang=ca",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -5410,7 +5410,7 @@
     "id": "la-castanera",
     "title": "La castañera",
     "area": "Dias especiales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/castanye/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -5719,7 +5719,7 @@
     "id": "las-horas",
     "title": "Las horas",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=2",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -5733,7 +5733,7 @@
     "id": "las-letras-del-faraon",
     "title": "Las letras del faraón",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=lab2",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5793,7 +5793,7 @@
     "id": "laura-y-juan-1",
     "title": "Laura y Juan 1",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/01_medicina.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5804,7 +5804,7 @@
     "id": "laura-y-juan-10",
     "title": "Laura y Juan 10",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/10_tecnologia-agroalimentaria.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5815,7 +5815,7 @@
     "id": "laura-y-juan-2",
     "title": "Laura y Juan 2",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/02_informatica.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5826,7 +5826,7 @@
     "id": "laura-y-juan-4",
     "title": "Laura y Juan 4",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/04_biologia.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5837,7 +5837,7 @@
     "id": "laura-y-juan-5",
     "title": "Laura y Juan 5",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/05_arqueologia.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5848,7 +5848,7 @@
     "id": "laura-y-juan-7",
     "title": "Laura y Juan 7",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/07_biologia-conservacio.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5859,7 +5859,7 @@
     "id": "laura-y-juan-8",
     "title": "Laura y Juan 8",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/08_nanotecnologia.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5870,7 +5870,7 @@
     "id": "laura-y-juan-9",
     "title": "Laura y Juan 9",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/09_neurobiologia.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -6004,7 +6004,7 @@
     "id": "lectura-comprensiva",
     "title": "Lectura comprensiva",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/compre/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -6106,7 +6106,7 @@
     "id": "les-vocals",
     "title": "Les vocals",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/vocals2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -6119,7 +6119,7 @@
     "id": "letra-por-letra",
     "title": "Letra por letra",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://edu365.cat/flash/lletraxlletra/portada.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -6131,7 +6131,7 @@
     "id": "letras",
     "title": "Letras",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=1&nivell=a&tema=2",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -6167,7 +6167,7 @@
     "id": "los-3-cerditos",
     "title": "Los 3 cerditos",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/porquets/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -6220,7 +6220,7 @@
     "id": "los-articulos",
     "title": "Los artículos",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=1",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -6244,7 +6244,7 @@
     "id": "los-disfraces",
     "title": "Los disfraces",
     "area": "Dias especiales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/carnaval9/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -6309,7 +6309,7 @@
     "id": "los-numeros",
     "title": "Los números",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=1&nivell=a&tema=3",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -6334,7 +6334,7 @@
     "id": "los-oficios",
     "title": "Los oficios",
     "area": "Ciencias Sociales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/oficis2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -6562,7 +6562,7 @@
     "id": "martina-y-los-sentidos",
     "title": "Martina y los sentidos",
     "area": "Ciencias Naturales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/sentits3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Infantil.",
     "levels": [
@@ -6575,7 +6575,7 @@
     "id": "masculino-y-femenino",
     "title": "Masculino y femenino",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=2",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -7195,7 +7195,7 @@
     "id": "normas-de-acentuacion",
     "title": "Normas de acentuación",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/accents/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7347,7 +7347,7 @@
     "id": "observa",
     "title": "Observa",
     "area": "General",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/observa/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo.",
     "levels": [
@@ -7437,7 +7437,7 @@
     "id": "ordena-les-lletres",
     "title": "Ordena les lletres",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/ordena-les-lletres",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -7487,7 +7487,7 @@
     "id": "ortografia-ciclo-inicial",
     "title": "Ortografía ciclo inicial",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/flash/ortografia_ci/ortografia.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -7498,7 +7498,7 @@
     "id": "ortografia-y-gramatica-catalana",
     "title": "Ortografía y gramática catalana",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/ortogram/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -7641,7 +7641,7 @@
     "id": "palabras",
     "title": "Palabras",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://edu365.cat/flash/lletraxlletra/paraules.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -7724,7 +7724,7 @@
     "id": "palabras-sinonimas",
     "title": "Palabras sinónimas",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/sinonims/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -7748,7 +7748,7 @@
     "id": "panellets",
     "title": "Panellets",
     "area": "Dias especiales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/flash/panellets/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7762,7 +7762,7 @@
     "id": "paraules-magiques",
     "title": "Paraules màgiques",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/paraules-magiques",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7811,7 +7811,7 @@
     "id": "partes-del-ordenador",
     "title": "Partes del ordenador",
     "area": "Plastica",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/ordinad/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar plastica en Primaria 2o ciclo.",
     "levels": [
@@ -7824,7 +7824,7 @@
     "id": "pasa-palabra-sant-jordi",
     "title": "Pasa palabra Sant Jordi",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/pasapalabras_app/inicio/?id=santjordi2020",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7961,7 +7961,7 @@
     "id": "pasqua",
     "title": "Pasqua",
     "area": "Dias especiales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/pasqua2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil.",
     "levels": [
@@ -7974,7 +7974,7 @@
     "id": "passaparaula",
     "title": "Passaparaula",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/joc-interactiu-passaparaula-catala",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7986,7 +7986,7 @@
     "id": "passaparaula-d-8217-estiu",
     "title": "Passaparaula d&#8217;estiu",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/passaparaula-estiu",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8057,7 +8057,7 @@
     "id": "pedro-y-el-lobo",
     "title": "Pedro y el lobo",
     "area": "Musica",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/perellop/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar musica en Primaria 2o ciclo.",
     "levels": [
@@ -8107,7 +8107,7 @@
     "id": "pequenas-historias-2",
     "title": "Pequeñas historias",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "http://apliedu.xtec.cat/petites_histories/?lang=ca",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8306,7 +8306,7 @@
     "id": "poemas-de-navidad",
     "title": "Poemas de Navidad",
     "area": "Dias especiales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://edu365.cat/flash/poesia/menu_nad.htm",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8320,7 +8320,7 @@
     "id": "poesia",
     "title": "Poesia",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://edu365.cat/flash/poesia/portada.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -8596,7 +8596,7 @@
     "id": "que-numero-falta",
     "title": "Qué número falta",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/sumes/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -8669,7 +8669,7 @@
     "id": "quina-paraula-es",
     "title": "Quina paraula és",
     "area": "Dias especiales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://cristic.my.canva.site/quina-paraula-es-pasqua",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8745,7 +8745,7 @@
     "id": "refranes",
     "title": "Refranes",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/dites/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -9024,7 +9024,7 @@
     "id": "salix-y-los-sentidos",
     "title": "Sálix y los sentidos",
     "area": "Ciencias Naturales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/sentits2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -9077,7 +9077,7 @@
     "id": "sant-jordi",
     "title": "Sant Jordi",
     "area": "Dias especiales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2025/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -9101,7 +9101,7 @@
     "id": "scratch-catalogo",
     "title": "Scratch",
     "area": "Informatica",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted",
     "notes": "Actividad interactiva para practicar informatica en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -9125,7 +9125,7 @@
     "id": "semanas-y-meses",
     "title": "Semanas y meses",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/setmes2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -9262,7 +9262,7 @@
     "id": "silabas-2",
     "title": "Sílabas",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/trebsil/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -9288,7 +9288,7 @@
     "id": "silabas-y-acentuacion",
     "title": "Sílabas y acentuación",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/siltoacc/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -9365,7 +9365,7 @@
     "id": "sistema-solar-2",
     "title": "Sistema Solar",
     "area": "Ciencias Sociales",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sistema_solar/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 2o ciclo.",
     "levels": [
@@ -9474,7 +9474,7 @@
     "id": "sopa-de-letras",
     "title": "Sopa de letras",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/sopaval/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -9713,7 +9713,7 @@
     "id": "sudoku-catalogo",
     "title": "Sudoku",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/sudoku2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -9816,7 +9816,7 @@
     "id": "superdomino",
     "title": "Superdómino",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/superdfr/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -9827,7 +9827,7 @@
     "id": "tablas-de-multiplicar-catalogo",
     "title": "Tablas de multiplicar",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/taules3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -9893,7 +9893,7 @@
     "id": "tangram-catalogo",
     "title": "Tangram",
     "area": "Matematicas",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/tangram/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -10014,7 +10014,7 @@
     "id": "trazo-imprenta-minuscula",
     "title": "Trazo imprenta minúscula",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/lengua/trazaminusculas/#!/NewPage",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -10412,7 +10412,7 @@
     "id": "vocabulario-de-acciones",
     "title": "Vocabulario de acciones",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/accions/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -10437,7 +10437,7 @@
     "id": "vocales-divertidas",
     "title": "Vocales divertidas",
     "area": "Lengua",
-    "language": "Valenciano",
+    "language": "Catalan/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=vd1",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -10554,7 +10554,7 @@
     "id": "edu365-sant-jordi-2026",
     "title": "Sant Jordi 2026",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2026/intro/index.html",
     "notes": "Jocs i sorpreses per celebrar el Sant Jordi",
     "levels": [
@@ -10571,7 +10571,7 @@
     "id": "edu365-houston-tenim-problemes",
     "title": "Houston, tenim problemes!",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/houston/intro/index.html",
     "notes": "Una abella recorre un prat resolent reptes matemàtics",
     "levels": [
@@ -10588,7 +10588,7 @@
     "id": "edu365-anem-a-mitges",
     "title": "Anem a mitges!",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/anem-mitges/intro/index.html",
     "notes": "Descobreix les fraccions dividint fruites en parts iguals",
     "levels": [
@@ -10605,7 +10605,7 @@
     "id": "edu365-agent-antifaltes-2",
     "title": "Agent Antifaltes 2",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/agent2/intro/index.html",
     "notes": "Aventura de detectiu d'ortografia. Segon episodi",
     "levels": [
@@ -10622,7 +10622,7 @@
     "id": "edu365-jam-session",
     "title": "Jam Session",
     "area": "Musica",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/jam_session/intro/index.html",
     "notes": "Juga i identifica instruments musicals",
     "levels": [
@@ -10639,7 +10639,7 @@
     "id": "edu365-pensem",
     "title": "Pensem",
     "area": "Logica",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/pensem/intro/index.html",
     "notes": "Completa sèries i seqüències de patrons",
     "levels": [
@@ -10675,7 +10675,7 @@
     "id": "edu365-agent-antifaltes",
     "title": "Agent Antifaltes",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/agent/index.html",
     "notes": "Converteix-te en detectiu de l'ortografia",
     "levels": [
@@ -10693,7 +10693,7 @@
     "id": "edu365-la-bibliotecapp",
     "title": "La Bibliotecapp",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/bibliotecapp/index.html",
     "notes": "Descobreix aventures literàries amb vuit opcions diferents",
     "levels": [
@@ -10711,7 +10711,7 @@
     "id": "edu365-que-fem-primer",
     "title": "Què fem primer?",
     "area": "Logica",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sequenciacio/index.html",
     "notes": "Ordena imatges en la seqüència correcta",
     "levels": [
@@ -10745,7 +10745,7 @@
     "id": "edu365-escape-cub",
     "title": "Escape Cub",
     "area": "Diversas áreas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/escapecub/index.html",
     "notes": "Respon preguntes de colors i navega per la ruta de fugida",
     "levels": [
@@ -10763,7 +10763,7 @@
     "id": "edu365-electricitat-i-magnetisme",
     "title": "Electricitat i magnetisme",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/electricitat/index.html",
     "notes": "Explora els efectes de l'electricitat i el magnetisme",
     "levels": [
@@ -10781,7 +10781,7 @@
     "id": "edu365-coneixement-del-cos",
     "title": "Coneixement del cos",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/coneixementcos/index.html",
     "notes": "Aprèn sobre higiene, nutrició i benestar",
     "levels": [
@@ -10799,7 +10799,7 @@
     "id": "edu365-animalarium",
     "title": "Animalarium",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/animalarium/index.html",
     "notes": "Explora animals domèstics, exòtics i salvatges",
     "levels": [
@@ -10817,7 +10817,7 @@
     "id": "edu365-no-et-descomptis-3",
     "title": "No et descomptis 3",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/euro3/index.html",
     "notes": "Càlcul mental amb monedes i bitllets",
     "levels": [
@@ -10834,7 +10834,7 @@
     "id": "edu365-viatgers-del-temps",
     "title": "Viatgers del temps",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/pitagores/intro/index.html",
     "notes": "Viatgers en el temps exploren el teorema de Pitàgores",
     "levels": [
@@ -10851,7 +10851,7 @@
     "id": "edu365-el-cos",
     "title": "El cos",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/cos/index.html",
     "notes": "Aprèn els noms de les parts del cos en català",
     "levels": [
@@ -10885,7 +10885,7 @@
     "id": "edu365-els-sentits",
     "title": "Els sentits",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sentits/index.html",
     "notes": "Descobreix els cinc sentits humans jugant",
     "levels": [
@@ -10919,7 +10919,7 @@
     "id": "edu365-sumem-de-l-1-al-10",
     "title": "Sumem de l'1 al 10",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sumar/index.html",
     "notes": "Practica la suma de l'1 al 10",
     "levels": [
@@ -10936,7 +10936,7 @@
     "id": "edu365-no-et-descomptis-2",
     "title": "No et descomptis 2",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/euro2/index.html",
     "notes": "Suma i iniciació a la moneda",
     "levels": [
@@ -10953,7 +10953,7 @@
     "id": "edu365-castaween",
     "title": "Castaween",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/castaween/intro/index.html",
     "notes": "Jocs bilingües per a la Castanyada i Halloween",
     "levels": [
@@ -10970,7 +10970,7 @@
     "id": "edu365-jocs-de-tardor",
     "title": "Jocs de tardor",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/jocsdetardor/index.html",
     "notes": "Jocs i activitats de la festa de tardor",
     "levels": [
@@ -10988,7 +10988,7 @@
     "id": "edu365-tardor-2023",
     "title": "Tardor 2023",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/tardor-2023/intro/index.html",
     "notes": "Celebració de tardor amb jocs tradicionals",
     "levels": [
@@ -11006,7 +11006,7 @@
     "id": "edu365-la-castanyada",
     "title": "La Castanyada",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/castanyada/index.html",
     "notes": "Jocs i activitats de la Castanyada",
     "levels": [
@@ -11024,7 +11024,7 @@
     "id": "edu365-castanyes-i-carbasses",
     "title": "Castanyes i carbasses",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carbasses/intro/index.html",
     "notes": "Tradicions de tardor a través de jocs interactius",
     "levels": [
@@ -11042,7 +11042,7 @@
     "id": "edu365-la-magia-de-nadal",
     "title": "La màgia de Nadal",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal25/intro/index.html",
     "notes": "Celebració de Nadal amb activitats interactives",
     "levels": [
@@ -11059,7 +11059,7 @@
     "id": "edu365-escudella-de-jocs",
     "title": "Escudella de jocs",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/escudella/intro/index.html",
     "notes": "Jocs i tradicions de Nadal",
     "levels": [
@@ -11076,7 +11076,7 @@
     "id": "edu365-nadal-2023",
     "title": "Nadal 2023",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal23/intro/index.html",
     "notes": "Activitats i jocs interactius de Nadal",
     "levels": [
@@ -11094,7 +11094,7 @@
     "id": "edu365-jocs-d-hivern",
     "title": "Jocs d'hivern",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/hivern/index.html",
     "notes": "Memòria, tradicions, pessebre i decoració de Nadal",
     "levels": [
@@ -11112,7 +11112,7 @@
     "id": "edu365-nadal",
     "title": "Nadal",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal/index.html",
     "notes": "Endevinalles, cançons i tradicions nadalenques",
     "levels": [
@@ -11130,7 +11130,7 @@
     "id": "edu365-els-carnavals-del-mon",
     "title": "Els carnavals del món",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carnavals-mon/intro/index.html",
     "notes": "Tradicions de carnaval arreu del món",
     "levels": [
@@ -11148,7 +11148,7 @@
     "id": "edu365-carnaval-2025",
     "title": "Carnaval 2025",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval-2025/intro/index.html",
     "notes": "Endevina sons i completa sèries de Carnaval",
     "levels": [
@@ -11166,7 +11166,7 @@
     "id": "edu365-disfressa-t",
     "title": "Disfressa't",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/disfressat/intro/index.html",
     "notes": "Activitats de Carnaval: observació i atenció",
     "levels": [
@@ -11184,7 +11184,7 @@
     "id": "edu365-carnaval-2023",
     "title": "Carnaval 2023",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval2023/intro/index.html",
     "notes": "Descobreix tradicions i personatges del Carnaval",
     "levels": [
@@ -11202,7 +11202,7 @@
     "id": "edu365-carnaval",
     "title": "Carnaval",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval/intro/index.html",
     "notes": "Jocs i tradicions festives de Carnaval",
     "levels": [
@@ -11220,7 +11220,7 @@
     "id": "edu365-castells-i-cavallers",
     "title": "Castells i cavallers",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2025/intro/index.html",
     "notes": "Prepara el Sant Jordi amb reptes interactius",
     "levels": [
@@ -11237,7 +11237,7 @@
     "id": "edu365-sant-jordi-2024",
     "title": "Sant Jordi 2024",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2024/intro/index.html",
     "notes": "Dragons, llibres, roses i elements literaris",
     "levels": [
@@ -11254,7 +11254,7 @@
     "id": "edu365-sant-jordi-2023",
     "title": "Sant Jordi 2023",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2023/intro/index.html",
     "notes": "Personatges de la llegenda i reptes interactius",
     "levels": [
@@ -11272,7 +11272,7 @@
     "id": "edu365-sant-jordi",
     "title": "Sant Jordi",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/santjordi/index.html",
     "notes": "Prepara la celebració del 23 abril amb jocs",
     "levels": [
@@ -11290,7 +11290,7 @@
     "id": "edu365-les-fruites",
     "title": "Les fruites",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/fruites/index.html",
     "notes": "Lectura i activitats amb fruites en català",
     "levels": [
@@ -11326,7 +11326,7 @@
     "id": "edu365-mateorit",
     "title": "Mateorit",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/MATeorit/index.html",
     "notes": "Evita l'impacte del meteorit resolent sumes",
     "levels": [
@@ -11343,7 +11343,7 @@
     "id": "edu365-mateorit-2",
     "title": "Mateorit 2",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/MATeorit2/index.html",
     "notes": "Aventura espacial avançada amb reptes matemàtics",
     "levels": [
@@ -11360,7 +11360,7 @@
     "id": "edu365-enlaira-t",
     "title": "Enlaira't",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sistema_solar/index.html",
     "notes": "Capes de l'atmosfera i sistema solar",
     "levels": [
@@ -11394,7 +11394,7 @@
     "id": "edu365-no-et-descomptis",
     "title": "No et descomptis!",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/euros/index.html",
     "notes": "Càlcul mental amb monedes i operacions",
     "levels": [
@@ -11428,7 +11428,7 @@
     "id": "edu365-pren-te-el-teu-temps",
     "title": "Pren-te el teu temps",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/temps/index.html",
     "notes": "Aprèn a llegir l'hora correctament en català",
     "levels": [
@@ -11445,7 +11445,7 @@
     "id": "edu365-continents-i-oceans",
     "title": "Continents i oceans",
     "area": "Ciencias Sociales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/continents/index.html",
     "notes": "Localitza continents i oceans al mapa del món",
     "levels": [
@@ -11513,7 +11513,7 @@
     "id": "edu365-ciber-odissea",
     "title": "Ciber-Odissea",
     "area": "Informatica",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/ciberodissea/index.html",
     "notes": "Tecnologia digital, internet i xarxes socials",
     "levels": [
@@ -11531,7 +11531,7 @@
     "id": "edu365-paraules-estranyes",
     "title": "Paraules estranyes",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/paraules-estranyes/index.html",
     "notes": "Explora paraules estranyes i misteris lèxics",
     "levels": [
@@ -11548,7 +11548,7 @@
     "id": "edu365-atrapa-el-residu",
     "title": "Atrapa el residu",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/reciclatge/index.html",
     "notes": "Aprèn a classificar residus correctament",
     "levels": [
@@ -11565,7 +11565,7 @@
     "id": "edu365-easter",
     "title": "Easter",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/easter/index.html",
     "notes": "Tradicions de Pasqua en català i anglès",
     "levels": [
@@ -11583,7 +11583,7 @@
     "id": "edu365-lletres-sobre-rodes",
     "title": "Lletres sobre rodes",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/lletres/index.html",
     "notes": "Jocs de paraules amb temàtica de skate",
     "levels": [
