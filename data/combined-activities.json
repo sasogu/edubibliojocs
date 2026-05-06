@@ -1,0 +1,308 @@
+[
+  {
+    "id": "learningapps-lrn-001",
+    "title": "Tabla de Multiplicar del 7",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-001",
+    "notes": "Practica la multiplicación del 7",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "learningapps-lrn-002",
+    "title": "Ortografía: Uso de Z vs C",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-002",
+    "notes": "Aprende cuándo usar z o c",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "learningapps-lrn-003",
+    "title": "Capitales de Europa",
+    "area": "Geografía",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-003",
+    "notes": "Identifica capitales europeas",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "learningapps-lrn-004",
+    "title": "Ciclo del Agua",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-004",
+    "notes": "Aprende el ciclo del agua en la Tierra",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "learningapps-lrn-005",
+    "title": "Verbos Regulares en Inglés",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-005",
+    "notes": "Conjugación de verbos regulares",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "didactalia-did-001",
+    "title": "Recursos Naturales de España",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-001",
+    "notes": "Aprende sobre los recursos naturales españoles",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-002",
+    "title": "Historia Medieval en Europa",
+    "area": "Historia",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-002",
+    "notes": "Período medieval europeo y sus características",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-003",
+    "title": "Fracciones Matemáticas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-003",
+    "notes": "Introducción a las fracciones y operaciones",
+    "levels": [
+      "Primaria 2º ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-004",
+    "title": "La Literatura del Siglo de Oro",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-004",
+    "notes": "Autores clásicos españoles del Siglo de Oro",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-005",
+    "title": "Volcanes y Terremotos",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-005",
+    "notes": "Fenómenos geológicos: vulcanismo y sismicidad",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-006",
+    "title": "Economía Española",
+    "area": "Sociales",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-006",
+    "notes": "Sectores económicos de España",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "h5p-h5p-001",
+    "title": "Fotosíntesis: Video Interactivo",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-001",
+    "notes": "Aprende sobre la fotosíntesis con video interactivo",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-002",
+    "title": "Quiz: Capitales del Mundo",
+    "area": "Geografía",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-002",
+    "notes": "Test interactivo de capitales mundiales",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-003",
+    "title": "La Revolución Francesa",
+    "area": "Historia",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-003",
+    "notes": "Presentación interactiva sobre la Revolución Francesa",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-004",
+    "title": "Mapa de España - Puzzle Interactivo",
+    "area": "Geografía",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-004",
+    "notes": "Identifica regiones en el mapa de España",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-005",
+    "title": "Memoria: Vocabulario Inglés",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-005",
+    "notes": "Juego de memoria con vocabulario en inglés",
+    "levels": [
+      "Primaria 2º ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-006",
+    "title": "Ecuaciones de Primer Grado",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-006",
+    "notes": "Aprende a resolver ecuaciones lineales",
+    "levels": [
+      "Secundaria 1º"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-007",
+    "title": "La Célula: Estructura y Funciones",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-007",
+    "notes": "Conoce las partes de la célula",
+    "levels": [
+      "Secundaria 1º"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  }
+]

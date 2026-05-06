@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-05-06T12:19:23.652Z",
+  "totalActivities": 4,
+  "bySource": {
+    "Didactalia": 4
+  },
+  "byArea": {
+    "Ciencias": 1,
+    "Historia": 1,
+    "Matematicas": 1,
+    "Lengua": 1
+  },
+  "byLanguage": {
+    "Castellano": 4
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-05-06T12:19:23.334Z",
+  "totalActivities": 3,
+  "bySource": {
+    "LearningApps.org": 3
+  },
+  "byArea": {
+    "Matematicas": 1,
+    "Lengua": 1,
+    "Geografía": 1
+  },
+  "byLanguage": {
+    "Castellano": 3
+  }
+}

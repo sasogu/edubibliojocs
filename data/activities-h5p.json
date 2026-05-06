@@ -1,0 +1,121 @@
+[
+  {
+    "id": "h5p-h5p-001",
+    "title": "Fotosíntesis: Video Interactivo",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-001",
+    "notes": "Aprende sobre la fotosíntesis con video interactivo",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-002",
+    "title": "Quiz: Capitales del Mundo",
+    "area": "Geografía",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-002",
+    "notes": "Test interactivo de capitales mundiales",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-003",
+    "title": "La Revolución Francesa",
+    "area": "Historia",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-003",
+    "notes": "Presentación interactiva sobre la Revolución Francesa",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-004",
+    "title": "Mapa de España - Puzzle Interactivo",
+    "area": "Geografía",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-004",
+    "notes": "Identifica regiones en el mapa de España",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-005",
+    "title": "Memoria: Vocabulario Inglés",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-005",
+    "notes": "Juego de memoria con vocabulario en inglés",
+    "levels": [
+      "Primaria 2º ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-006",
+    "title": "Ecuaciones de Primer Grado",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-006",
+    "notes": "Aprende a resolver ecuaciones lineales",
+    "levels": [
+      "Secundaria 1º"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  },
+  {
+    "id": "h5p-h5p-007",
+    "title": "La Célula: Estructura y Funciones",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://h5p.example.com/activity/h5p-007",
+    "notes": "Conoce las partes de la célula",
+    "levels": [
+      "Secundaria 1º"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.517Z"
+  }
+]

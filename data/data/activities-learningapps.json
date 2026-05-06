@@ -1,0 +1,53 @@
+[
+  {
+    "id": "learningapps-lrn-001",
+    "title": "Tabla de Multiplicar del 7",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://learningapps.org/view/lrn-001",
+    "notes": "Practica la multiplicación del 7",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://learningapps.org/qr-code.png",
+    "imageSource": "https://learningapps.org/qr-code.png",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.org",
+    "fetchedAt": "2026-05-06T12:19:23.332Z"
+  },
+  {
+    "id": "learningapps-lrn-002",
+    "title": "Ortografía: Uso de Z vs C",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://learningapps.org/view/lrn-002",
+    "notes": "Aprende cuándo usar z o c",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://learningapps.org/qr-code.png",
+    "imageSource": "https://learningapps.org/qr-code.png",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.org",
+    "fetchedAt": "2026-05-06T12:19:23.332Z"
+  },
+  {
+    "id": "learningapps-lrn-003",
+    "title": "Capitales de Europa",
+    "area": "Geografía",
+    "language": "Castellano",
+    "url": "https://learningapps.org/view/lrn-003",
+    "notes": "Identifica capitales europeas",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://learningapps.org/qr-code.png",
+    "imageSource": "https://learningapps.org/qr-code.png",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.org",
+    "fetchedAt": "2026-05-06T12:19:23.332Z"
+  }
+]

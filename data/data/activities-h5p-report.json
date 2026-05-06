@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-05-06T12:19:23.959Z",
+  "totalActivities": 5,
+  "bySource": {
+    "H5P": 5
+  },
+  "byArea": {
+    "Interactive Video": 1,
+    "Quiz (Question Set)": 1,
+    "Course Presentation": 1,
+    "Image Hotspots": 1,
+    "Memory Game": 1
+  },
+  "byLanguage": {
+    "Castellano": 5
+  }
+}

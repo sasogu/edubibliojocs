@@ -1,0 +1,104 @@
+[
+  {
+    "id": "didactalia-did-001",
+    "title": "Recursos Naturales de España",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-001",
+    "notes": "Aprende sobre los recursos naturales españoles",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-002",
+    "title": "Historia Medieval en Europa",
+    "area": "Historia",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-002",
+    "notes": "Período medieval europeo y sus características",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-003",
+    "title": "Fracciones Matemáticas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-003",
+    "notes": "Introducción a las fracciones y operaciones",
+    "levels": [
+      "Primaria 2º ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-004",
+    "title": "La Literatura del Siglo de Oro",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-004",
+    "notes": "Autores clásicos españoles del Siglo de Oro",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-005",
+    "title": "Volcanes y Terremotos",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-005",
+    "notes": "Fenómenos geológicos: vulcanismo y sismicidad",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  },
+  {
+    "id": "didactalia-did-006",
+    "title": "Economía Española",
+    "area": "Sociales",
+    "language": "Castellano",
+    "url": "https://didactalia.example.com/activity/did-006",
+    "notes": "Sectores económicos de España",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.516Z"
+  }
+]

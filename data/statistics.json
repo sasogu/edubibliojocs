@@ -1,0 +1,20 @@
+{
+  "timestamp": "2026-05-06T12:24:12.518Z",
+  "totalActivities": 18,
+  "bySource": {
+    "LearningApps.org": 5,
+    "Didactalia": 6,
+    "H5P": 7
+  },
+  "byArea": {
+    "Matematicas": 3,
+    "Lengua": 4,
+    "Geografía": 3,
+    "Ciencias": 5,
+    "Historia": 2,
+    "Sociales": 1
+  },
+  "byLanguage": {
+    "Castellano": 18
+  }
+}

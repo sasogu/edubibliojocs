@@ -1,0 +1,87 @@
+[
+  {
+    "id": "learningapps-lrn-001",
+    "title": "Tabla de Multiplicar del 7",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-001",
+    "notes": "Practica la multiplicación del 7",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "learningapps-lrn-002",
+    "title": "Ortografía: Uso de Z vs C",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-002",
+    "notes": "Aprende cuándo usar z o c",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "learningapps-lrn-003",
+    "title": "Capitales de Europa",
+    "area": "Geografía",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-003",
+    "notes": "Identifica capitales europeas",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "learningapps-lrn-004",
+    "title": "Ciclo del Agua",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-004",
+    "notes": "Aprende el ciclo del agua en la Tierra",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  },
+  {
+    "id": "learningapps-lrn-005",
+    "title": "Verbos Regulares en Inglés",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://learningapps.example.com/activity/lrn-005",
+    "notes": "Conjugación de verbos regulares",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.example.com",
+    "fetchedAt": "2026-05-06T12:24:12.514Z"
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-05-06T12:20:55.527Z",
+  "totalActivities": 12,
+  "bySource": {
+    "LearningApps.org": 3,
+    "Didactalia": 4,
+    "H5P": 5
+  },
+  "byArea": {
+    "Matematicas": 2,
+    "Lengua": 2,
+    "Geografía": 1,
+    "Ciencias": 1,
+    "Historia": 1,
+    "Interactive Video": 1,
+    "Quiz (Question Set)": 1,
+    "Course Presentation": 1,
+    "Image Hotspots": 1,
+    "Memory Game": 1
+  },
+  "byLanguage": {
+    "Castellano": 12
+  }
+}

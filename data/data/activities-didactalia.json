@@ -1,0 +1,70 @@
+[
+  {
+    "id": "didactalia-1001",
+    "title": "Recursos Naturales de España",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://didactalia.net/recurso/1001",
+    "notes": "Aprende sobre los recursos naturales españoles",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://didactalia.net/img/default.png",
+    "imageSource": "https://didactalia.net/img/default.png",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.net",
+    "fetchedAt": "2026-05-06T12:19:23.650Z"
+  },
+  {
+    "id": "didactalia-1002",
+    "title": "Historia Medieval en Europa",
+    "area": "Historia",
+    "language": "Castellano",
+    "url": "https://didactalia.net/recurso/1002",
+    "notes": "Período medieval europeo",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "https://didactalia.net/img/default.png",
+    "imageSource": "https://didactalia.net/img/default.png",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.net",
+    "fetchedAt": "2026-05-06T12:19:23.650Z"
+  },
+  {
+    "id": "didactalia-1003",
+    "title": "Fracciones Matemáticas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://didactalia.net/recurso/1003",
+    "notes": "Introducción a las fracciones",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://didactalia.net/img/default.png",
+    "imageSource": "https://didactalia.net/img/default.png",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.net",
+    "fetchedAt": "2026-05-06T12:19:23.650Z"
+  },
+  {
+    "id": "didactalia-1004",
+    "title": "La Literatura del Siglo de Oro",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://didactalia.net/recurso/1004",
+    "notes": "Autores clásicos españoles",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "https://didactalia.net/img/default.png",
+    "imageSource": "https://didactalia.net/img/default.png",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.net",
+    "fetchedAt": "2026-05-06T12:19:23.650Z"
+  }
+]

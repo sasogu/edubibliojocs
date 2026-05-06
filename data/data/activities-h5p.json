@@ -1,0 +1,87 @@
+[
+  {
+    "id": "h5p-h5p-001",
+    "title": "Video Interactivo: Photosynthesis",
+    "area": "Interactive Video",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-001",
+    "notes": "Aprende sobre la fotosíntesis con video interactivo",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:19:23.958Z"
+  },
+  {
+    "id": "h5p-h5p-002",
+    "title": "Quiz: Capitales del Mundo",
+    "area": "Quiz (Question Set)",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-002",
+    "notes": "Test interactivo de capitales mundiales",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:19:23.958Z"
+  },
+  {
+    "id": "h5p-h5p-003",
+    "title": "Presentación: Revolución Francesa",
+    "area": "Course Presentation",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-003",
+    "notes": "Presentation sobre la Revolución Francesa",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:19:23.958Z"
+  },
+  {
+    "id": "h5p-h5p-004",
+    "title": "Puzzle: Mapa de España",
+    "area": "Image Hotspots",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-004",
+    "notes": "Identifica regiones en el mapa de España",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:19:23.958Z"
+  },
+  {
+    "id": "h5p-h5p-005",
+    "title": "Memoria: Vocabulario Inglés",
+    "area": "Memory Game",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-005",
+    "notes": "Juego de memoria con vocabulario en inglés",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:19:23.958Z"
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "learningapps-lrn-001",
+    "title": "Tabla de Multiplicar del 7",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://learningapps.org/view/lrn-001",
+    "notes": "Practica la multiplicación del 7",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://learningapps.org/qr-code.png",
+    "imageSource": "https://learningapps.org/qr-code.png",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.org",
+    "fetchedAt": "2026-05-06T12:20:55.522Z"
+  },
+  {
+    "id": "learningapps-lrn-002",
+    "title": "Ortografía: Uso de Z vs C",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://learningapps.org/view/lrn-002",
+    "notes": "Aprende cuándo usar z o c",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://learningapps.org/qr-code.png",
+    "imageSource": "https://learningapps.org/qr-code.png",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.org",
+    "fetchedAt": "2026-05-06T12:20:55.522Z"
+  },
+  {
+    "id": "learningapps-lrn-003",
+    "title": "Capitales de Europa",
+    "area": "Geografía",
+    "language": "Castellano",
+    "url": "https://learningapps.org/view/lrn-003",
+    "notes": "Identifica capitales europeas",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://learningapps.org/qr-code.png",
+    "imageSource": "https://learningapps.org/qr-code.png",
+    "source": "LearningApps.org",
+    "sourceColor": "#4E7BA8",
+    "sourceUrl": "https://learningapps.org",
+    "fetchedAt": "2026-05-06T12:20:55.522Z"
+  },
+  {
+    "id": "didactalia-1001",
+    "title": "Recursos Naturales de España",
+    "area": "Ciencias",
+    "language": "Castellano",
+    "url": "https://didactalia.net/recurso/1001",
+    "notes": "Aprende sobre los recursos naturales españoles",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://didactalia.net/img/default.png",
+    "imageSource": "https://didactalia.net/img/default.png",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.net",
+    "fetchedAt": "2026-05-06T12:20:55.523Z"
+  },
+  {
+    "id": "didactalia-1002",
+    "title": "Historia Medieval en Europa",
+    "area": "Historia",
+    "language": "Castellano",
+    "url": "https://didactalia.net/recurso/1002",
+    "notes": "Período medieval europeo",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "https://didactalia.net/img/default.png",
+    "imageSource": "https://didactalia.net/img/default.png",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.net",
+    "fetchedAt": "2026-05-06T12:20:55.523Z"
+  },
+  {
+    "id": "didactalia-1003",
+    "title": "Fracciones Matemáticas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://didactalia.net/recurso/1003",
+    "notes": "Introducción a las fracciones",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "https://didactalia.net/img/default.png",
+    "imageSource": "https://didactalia.net/img/default.png",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.net",
+    "fetchedAt": "2026-05-06T12:20:55.523Z"
+  },
+  {
+    "id": "didactalia-1004",
+    "title": "La Literatura del Siglo de Oro",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://didactalia.net/recurso/1004",
+    "notes": "Autores clásicos españoles",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "https://didactalia.net/img/default.png",
+    "imageSource": "https://didactalia.net/img/default.png",
+    "source": "Didactalia",
+    "sourceColor": "#F5991A",
+    "sourceUrl": "https://didactalia.net",
+    "fetchedAt": "2026-05-06T12:20:55.523Z"
+  },
+  {
+    "id": "h5p-h5p-001",
+    "title": "Video Interactivo: Photosynthesis",
+    "area": "Interactive Video",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-001",
+    "notes": "Aprende sobre la fotosíntesis con video interactivo",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:20:55.525Z"
+  },
+  {
+    "id": "h5p-h5p-002",
+    "title": "Quiz: Capitales del Mundo",
+    "area": "Quiz (Question Set)",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-002",
+    "notes": "Test interactivo de capitales mundiales",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:20:55.525Z"
+  },
+  {
+    "id": "h5p-h5p-003",
+    "title": "Presentación: Revolución Francesa",
+    "area": "Course Presentation",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-003",
+    "notes": "Presentation sobre la Revolución Francesa",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:20:55.525Z"
+  },
+  {
+    "id": "h5p-h5p-004",
+    "title": "Puzzle: Mapa de España",
+    "area": "Image Hotspots",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-004",
+    "notes": "Identifica regiones en el mapa de España",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:20:55.525Z"
+  },
+  {
+    "id": "h5p-h5p-005",
+    "title": "Memoria: Vocabulario Inglés",
+    "area": "Memory Game",
+    "language": "Castellano",
+    "url": "https://h5p.org/content/h5p-005",
+    "notes": "Juego de memoria con vocabulario en inglés",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "",
+    "imageSource": "",
+    "source": "H5P",
+    "sourceColor": "#1D7FA3",
+    "sourceUrl": "https://h5p.org",
+    "fetchedAt": "2026-05-06T12:20:55.525Z"
+  }
+]
