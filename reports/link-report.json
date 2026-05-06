@@ -1,12 +1,68 @@
 {
-  "generatedAt": "2026-05-05T21:03:29.213Z",
+  "generatedAt": "2026-05-06T05:23:06.826Z",
   "summary": {
-    "checked": 67,
+    "checked": 851,
     "errorCount": 3,
     "warningCount": 0,
     "hasBlockingIssues": true
   },
   "results": [
+    {
+      "url": "http://apliedu.xtec.cat/petites_histories/?lang=ca",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://clic.xtec.cat/db/listact_es.jsp",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://clic.xtec.cat/quaderns/biblioteca/lacastanyada_ca/html/section_1.htm?&appl=http://clic.xtec.cat/qv_viewer/dist/html/appl/&css=http://clic.xtec.cat/qv_viewer/dist/html/css/&js=http://clic.xtec.cat/qv_viewer/dist/html/scripts/&lang=ca&skin=infantil&biblio=true&xml=lacastanyada_ca/lacastanyada_ca.xml&base=lacastanyada_ca&skin=infantil§ion=1&lang=ca",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://jeux-pour-tablette.fr/jeux/e-01/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://jeux-pour-tablette.fr/jeux/jours-semaine/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://jeux-pour-tablette.fr/jeux/tri-jpt-03/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://jeux-pour-tablette.fr/jeux/u-05/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
     {
       "url": "http://jeux.lulu.pagesperso-orange.fr/html/memory/memrySom.htm",
       "ok": false,
@@ -14,6 +70,14 @@
       "httpStatus": null,
       "durationMs": 236,
       "error": "fetch failed"
+    },
+    {
+      "url": "http://ntic.educacion.es/w3/eos/MaterialesEducativos/primaria/religion_catolica/biblia/antiguo/actividades/cuestionarios/abraham/abraham1.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
     },
     {
       "url": "http://recursostic.educacion.es/apls/informacion_didactica/1406",
@@ -37,6 +101,118 @@
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 191,
+      "error": null
+    },
+    {
+      "url": "http://www.aprendomusica.com/const2/01posicionesFlauta/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/3_curso/matematicas/mate305/mate_305.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/3_curso/matematicas/multi1c/multi1c.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/4_curso/matematicas/mat_402a.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/4_curso/matematicas/mat_406.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/5_curso/jclic/c_medio/cm_505/cm_505.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/6_curso/jclic6/c_medio/tema1/cm601.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/6_curso/jclic6/c_medio/tema2/cm602.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/6_curso/jclic6/c_medio/tema6/cm606.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/6_curso/jclic6/c_medio/tema8/cm608.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/6_curso/jclic6/c_medio/tema9/cm609.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/6_curso/jclic6/lenguaje/dictados/dictados_6.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.clarionweb.es/6_curso/jclic6/matematicas/potencias_raices/potencias_raices.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.edu365.cat/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -88,11 +264,99 @@
       "error": null
     },
     {
+      "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/01_medicina.pdf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/02_informatica.pdf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/04_biologia.pdf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/05_arqueologia.pdf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/07_biologia-conservacio.pdf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/08_nanotecnologia.pdf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/09_neurobiologia.pdf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/10_tecnologia-agroalimentaria.pdf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "http://www.jigzone.com/puzzles/D8055D4B0A77&#038;z=5?v=22858",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 366,
+      "error": null
+    },
+    {
+      "url": "http://www.takatamuser.com/maternelle/I-learn-colors.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.takatamuser.com/maternelle/j-apprends-les-couleurs.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "http://www.thatquiz.org/es-n/ciencia/sistema-metrico/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -112,11 +376,499 @@
       "error": null
     },
     {
+      "url": "http://www3.gobiernodecanarias.org/medusa/eltanquematematico/todo_mate/calculo_m/calculomental_p_p.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://angles365.com//game-frame/hy77ejft/old/classroom/fitxers/infantil/numbers/8dognumbers.swf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://angles365.com//game-frame/xa3kz7l5/old/classroom/fitxers/infantil/colour/01farben.swf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://angles365.com//game-frame/zesq7g20/old/classroom/fitxers/infantil/3funnyface.swf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://angles365.com/game-frame/354cpn9r/old/classroom/fitxers/infantil/body/6mrvegt.swf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://angles365.com/game-frame/888nu5m6/old/classroom/fitxers/infantil/body/4monsterbody.swf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://angles365.com/game-frame/en2jb499/old/classroom/fitxers/infantil/8memorynumbers.swf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://angles365.com/game-frame/szr4g2k7/old/classroom/fitxers/infantil/body/7thenose.swf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://angles365.com/game-frame/wz11g16z/old/classroom/fitxers/infantil/3colours01.swf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apliense.xtec.cat/petites_histories/?lang=en",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apliense.xtec.cat/petites_histories/?lang=es",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apliense.xtec.cat/petites_histories/?lang=fr",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://app.codemonkey.com/challenges/2",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apprendrealire.net/lecture/a/j-entends-le-son-a/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apprendrealire.net/lecture/je-sais-lire/associer-mots-images-fruits-legumes/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apprendrealire.net/lecture/je-sais-lire/associer-mots-images-les-animaux-de-la-ferme/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apprendrealire.net/lecture/je-sais-lire/associer-mots-images-les-vetements/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apprendrealire.net/lecture/oi/oi-dans-quelle-syllabe/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://apprendrealire.net/lecture/ou/ou-dans-quelle-syllabe/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://aprendomusica.com/const2/03atrapanotas/game.html",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 9117,
+      "error": null
+    },
+    {
+      "url": "https://aprendomusica.com/const2/03atrapanotas/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://aprendomusica.com/const2/27aprendonotas8/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://aprendomusica.com/const2/30dictadoritmico1/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/aeropuma-tiempos-verbales/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/aeropuma-verbos/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/Colorea-Navidad-2/Builds/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/E25ABC",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/E37ABC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/E42ABC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/E43ABC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/E47BC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/E51BC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/F12ABC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/F14ABC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/F15ABC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/F32BC/BUILDS/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/F37A/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/F38BC/BUILDS/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/L1A/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/L2A/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/L31B/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/L32A/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/L34AB/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/L3A/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/L4A/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M16ABVF/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M17AVF1/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M22BVF/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M35BVF/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M52BC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M55BC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M57BC/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M8AVF/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M90B/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/M92BVF/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/pixel-art/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/pizza-party/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/sapo-magico/game/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/sinonimos/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/Tiro_libre/game/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://arbolabcgames.top/velocidad/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://beinternetawesome.withgoogle.com/es-419_all/interland",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -144,11 +896,923 @@
       "error": null
     },
     {
+      "url": "https://botlogic.us/play",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn-factory.marketjs.com/en/math-trivia-live/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn.primarygames.com/HTML5/HalloweenChain/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn.primarygames.com/HTML5/MakeAnEasterEgg/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn.primarygames.com/HTML5/MakeAPumpkin/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn.primarygames.com/HTML5/MemoryClassic/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn.primarygames.com/HTML5/SpotTheDifferencesHalloween/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-ngk-matching/1.0.9/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-ngk-puzzles/1.0.3/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-ngk-space-explorer/1.0.3/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn2.kidmons.com/games/coloringgame/index.php",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn2.kidmons.com/games/paintonline/index.php",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn2.kidmons.com/games/pianoonline/index.php",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cdn2.kidmons.com/games/puzzle4kids/index.php",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://clic.xtec.cat/ca/jclic/",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 462,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/gali/player.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=1&nivell=a&tema=2",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=1&nivell=a&tema=3",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=2",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=2",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=b&tema=6",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/100paraules/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/abcsons/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/accents/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/accions/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/alfabet/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/ali_log/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/anim_en/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/animale2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/aparells/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/avertebr/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/bully/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/caputxe2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/carnaval9/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/castanye/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/colors3/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/colour2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/compesp/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/compre/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/comptar/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/cuenta/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/derechos/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/diames/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/disc_au1/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/dites/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/efactit/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/emocion_3/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/emocion/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/endevina/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/enserie/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/esports2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/feinetes/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/figuras/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/flors/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/fmusical/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/geoclice/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/geom/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/geomet3/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/jlimpio/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/jugcalc/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/l_hivern/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/la_paz/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/laratita/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/lectinfa/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/lectura/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/leo_lee/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/letras/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/llengso/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/medilong/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/medinat3/calre3/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/mon/monp4/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/musicos/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/numbers/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/observa/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/oficis2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/ordena/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/ordinad/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/ortogra/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/ortogram/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/osos/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/pasqua2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/patufet/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/perellop/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/phonics/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/poligoes/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/poligons/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/porquets/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/racismo/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/rellotge/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/ricitos/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/sal_dom/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/sentits2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/sentits3/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/setmes2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/silabas3/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/siltoacc/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/simetria/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/sinonims/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/sopacas/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/sopaval/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/ssolar3/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/sudoku2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/sumes/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/superdfr/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/taliment/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/tangram/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/tardor7/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/taules3/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/transpo2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/trebsil/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/vertebra/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/voc_ang/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/projects/vocals2/jclic.js/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -160,11 +1824,1139 @@
       "error": null
     },
     {
+      "url": "https://clic.xtec.cat/users/clic/7diferencias/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://clic.xtec.cat/users/mnebot1/comarques/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://composing-with-kids.web.app/",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 214,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/abecedario-mayusculas-y-minusculas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/adivina-adivinanza",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/adivina-quien-soy-carnaval",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/adivina-quien-soy-iniciacion-a-la-lectura",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ahorcado",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ahorcado-de-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ajedrez",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/alien-race-shooter",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/aprenc-a-escriure",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/aprende-a-contar-emojis-verano",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/aprende-a-contar-hasta-10",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/aprendo-a-escribir",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/atrapa-el-helado",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/aventura-de-fracciones",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/aventura-matematica-submarina",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/aventura-sumas-espaciales",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/busqueda-de-huevos-de-pascua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/capitales-de-europa",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/carrera-tablas-de-multiplicar",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/caza-de-huevos-de-pascua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/circulo-de-la-empatia",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/clasifica-las-figuras-geometricas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/clasifica-segun-el-numero-de-silabas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/clasificacion-de-animales",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/cohete-de-sumas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/cohete-multiplicaciones",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/colorea-dibujos",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/colorea-el-verano",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/comprension-lectora",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/crea-tu-granja",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/crea-tu-mundo-marino",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/crea-tu-selva",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/cual-desaparecio-pascua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/cuantos-hay-pascua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/cuenta-los-elementos-de-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/cuento-interactivo-aventuras-en-el-bosque-encantado",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/decora-el-huevo-de-pascua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/descubre-el-dibujo-de-verano",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/descubre-el-dibujo-escondido-operaciones-matematicas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/descubre-el-dibujo-escondido-sumas-infantil",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/detectives-emocionales",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/dibuja-y-colorea",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/dibujo-escondido-silabas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/donde-esta-mi-sombra",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/driver-race",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/el-baile-de-carnaval",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/emociones-basicas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/endevina-endevinalla",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/endevina-qui-soc-iniciacio-a-la-lectura",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/escape-room-matematicas-primaria",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/figuras-geometricas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/iguales-y-diferentes",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/joc-de-les-vocals",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/joc-interactiu-passaparaula-catala",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/juego-de-la-oca-de-sumas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/juego-de-las-vocales",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/juego-de-mecanografia",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/juego-pasapalabra-ortografia-lengua-castellana-primaria",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/magic-words",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/memoria-visual",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/memory-de-carnaval",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/memory-de-verano",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/memory-emociones-basicas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/memory-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/mi-circulo-de-control",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/multiplicacion-espacial",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/multiplicaciones-en-el-oceano",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ninja-matematico",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ninja-platform-jumper",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/observacion-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ordena-las-letras",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ordena-las-letras-carnaval",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ordena-les-lletres",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ordena-los-planetas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/palabras-de-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/palabras-magicas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/paraules-magiques",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pasapalabra-de-animales",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pasapalabra-de-carnaval",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pasapalabra-de-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pasapalabra-de-pascua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pasapalabra-de-primavera",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pasapalabra-del-cuerpo-humano",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pasapalabra-del-verano",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pasapalabra-uso-responsable-de-internet",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/passaparaula-estiu",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/piano-interactivo",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/pixel-art",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/puzzles-de-emojis",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/que-palabra-es-pascua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/que-viene-ahora-secuencias-logicas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/quina-paraula-es-pasqua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/robot-sumador",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/ruleta-del-saber",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/salta-y-calcula",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/salta-y-multiplica",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/series-num-ricas-ascendentes-y-descendentes",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/simon-de-pascua",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/sopa-de-letras-carnaval",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/sopa-de-letras-de-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/sort-the-letters",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/sudoku-para-ninos",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/suma-de-burbujas-hasta-9",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/tres-en-raya-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/trivial-educativo",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/velocidad-calculo-mental",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/velocidad-sumas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cristic.my.canva.site/vocabulario-de-halloween",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://cyberscouts.osi.es/child/app/main.html?apptype=child",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://edu365.cat/flash/eduland_mini/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://edu365.cat/flash/lletraxlletra/paraules.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://edu365.cat/flash/lletraxlletra/portada.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://edu365.cat/flash/poesia/menu_nad.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://edu365.cat/flash/poesia/portada.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/investiguem_a_primaria/De_las_hipotesis_a_las_predicciones/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/investiguem_a_primaria/Evaluamos_un_diseno_experimental_con_control_de_variables/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/investiguem_a_primaria/Que_hacemos_cuando_investigamos/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/investiguem_a_primaria/Que_puedo_hacer_para_responder_a_esta_pregunta/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/cualidades_personales_autorretrato/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/cualidades_personales_valoracion_cualidades/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/Emociones_agradables_GE/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/emociones_basicas/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/Emociones_perturbadoras_con_padres/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/Emociones_perturbadoras_ninos_ninas/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/Emociones_perturbadoras_solos/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/emociones%20agradables/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/emociones%20perturbadoras/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/otras%20emociones%20perturbadoras/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/visualizacion_1/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/visualizacion_3/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/visualizacion_4/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/KitsCaixa_valores/visualizacion_5/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/pixar/crea_tu_personaje/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/Programa%20BigData/Infografias%20interactivas%20ESP/B4U1_es/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/Resolucio_de_conflictes/resolucion_conflic_caso_eduardo_guillermo/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/Resolucio_de_conflictes/resolucion_conflic_caso_monica/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/Resolucio_de_conflictes/resolucion_conflict_caso_laura_juan/Contenidos/recursos_aux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educaixa.org/microsites/XploreHealth/symphony/EL-JOC-DE-DIRIGIR/ES/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://educatifenfants.com/jeux/ce2/mots-croises-saisons/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -216,6 +3008,214 @@
       "error": null
     },
     {
+      "url": "https://es.educaplay.com/juego/4282089-en_internet_con_responsabilidad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://es.educaplay.com/juego/4284903-en_internet_con_respeto.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://es.educaplay.com/juego/4286064-en_internet_con_seguridad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://espaiescoles.farmaceuticonline.com/jocshtml5/fesDeCuiner_ca/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s146/762464/files/05-4-jesus-un-nino-como-tu/01-jesus-un-nino-como-tu/cuando-jesus-era-nino_0762420/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s146/762464/files/08-7-maria-madre-nuestra/01-maria-madre-nuestra/la-vida-de-la-virgen-maria_0762436/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s146/762464/files/09-8-la-gran-familia-de-jesus/01-la-gran-familia-de-jesus/caminamos-con-jesus_0762441/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s147/767320/files/03-2-el-bautismo-de-jesus/01-el-bautismo-de-jesus/la-biblia_0766925/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s147/767325/files/04-3-la-palabra-de-dios/01-la-palabra-de-dios/la-misa_0767056/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s147/767325/files/07-6-el-sacrificio-de-cristo/01-el-sacrificio-de-cristo/los-objetos-liturgicos_0767078/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s147/767325/files/10-9-la-alegria-y-la-paz/01-la-alegria-y-la-paz/las-partes-de-la-misa_0767104/index.html#close",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s151/789093/files/02-1-los-origenes/01-los-origenes/tac-la-iglesia-en-la-actualidad_0786900/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s151/789093/files/05-4-los-patriarcas-de-israel/01-los-patriarcas-de-israel/los-patriarcas-de-israel_0786915/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s151/789093/files/06-5-la-salida-de-egipto/01-la-salida-de-egipto/tac-los-sacramentos-de-la-iglesia_0786920/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s151/789093/files/07-6-la-alianza-del-sinai/01-la-alianza-del-sinai/tac-la-tierra-prometida_0786924/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s151/789093/files/09-8-reyes-y-profetas/01-reyes-y-profetas/tac-los-reyes-y-profetas_1878228/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s151/789098/files/03-2-jesus-es-dios-y-hombre/03-el-pais-de-jesus/palestina_0788476/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s151/789098/files/04-3-el-anuncio-del-reino/02-historia-de-la-salvacion/los-doce-apostoles_0788482/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s151/789098/files/08-7-la-ultima-cena/03-el-pais-de-jesus/jerusalen_0788505/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s312/1594336/files/02-1-la-creacion/06-personajes-de-la-biblia/dios-crea-la-naturaleza_1307164/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s312/1594336/files/08-5-la-semana-santa/06-semana-santa-festejamos-que-jesus-nos-salvo/los-hechos-principales-de-la-semana-santa_1238876/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s312/1594338/files/05-2-dios-padre-de-la-humanidad/04-personajes-de-la-biblia/personajes-del-antiguo-y-del-nuevo-testamento_1290858/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s312/1594338/files/06-3-la-navidad/04-relatos-de-la-biblia/vivir-la-navidad_1307167/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s545/2756291/files/05-capsula-1-muchos-libros-en-uno/01-la-biblia/en-que-parte-de-la-biblia-podras-leer-cada-historia_4288481/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s545/2756291/files/05-capsula-1-muchos-libros-en-uno/01-la-biblia/la-biblia-antiguo-testamento_2698455/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://filesecasals.net/ds001/s545/2756291/files/11-capsula-3-con-distintas-voces/01-las-religiones-del-mundo/las-religiones_2698475/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://freepacman.org/",
       "ok": true,
       "severity": "none",
@@ -224,11 +3224,843 @@
       "error": null
     },
     {
+      "url": "https://gamedata.britishcouncil.org/lep25/MjA1NzA=/kids",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://gamedata.britishcouncil.org/lep25/MjAxODc=/kids",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://gamedata.britishcouncil.org/lep25/MjQyNDI=/kids",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://gamedata.britishcouncil.org/lep25/MjQyNTY=/kids",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://games.gameboss.com/mahjongreal/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/lengua/trazaminusculas/#!/NewPage",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/pasapalabras_app/inicio/?id=santjordi2020",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=acolore1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=alrev1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=alrev1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=animmat1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=animmat2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=bd1c1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=cp1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=da1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=dib4c1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=difer5c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=distributiva_c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=enom1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=espai1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=fpar1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=fraccio_cas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=iguals1c1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=jerarquia_opera",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=jtauc",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=jtausum",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=lab2",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=lleng4c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=lleng6c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=mascotes8",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=mascotes8c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=md1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=memory2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=mt2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=numrom3c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=paissatc",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=petits2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=pintrusa1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=posan2",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=posan2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=posnom2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=pr1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=prisr1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=problem1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=puzzani2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=qm1c1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=ra1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=reloj_cas",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=ser2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=ser4c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=ser9c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=silab1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=simetria_ca",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=tequi2c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=tripuzzle1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=un1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=vd1",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://genmagic.net/visualflash.html?id=vd1c",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/Africa_puzzle_ESP/Africa_puzzle_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/America_sur_puzzle_ESP/America_sur_puzzle_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/Asia_puzzle_ESP/Asia_puzzle_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/Comunidades_Espana_puzzle_ESP/Comunidades_Espana_puzzle_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/Europa_puzzle_ESP/Europa_puzzle_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/instrumentos_musica_sopa_ESP/instrumentos_musica_sopa_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/La_celula_quiz_ESP/La_celula_quiz_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/Oceania_puzzle_ESP/Oceania_puzzle_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/palabras_agudas_quiz_ESP/palabras_agudas_quiz_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/palabras_esdrujulas_quiz_ESP/palabras_esdrujulas_quiz_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/palabras_llanas_quiz_ESP/palabras_llanas_quiz_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://happylearning.tv/game_files/esp/Universo_sopa_ESP/Universo_sopa_ESP/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://interactive.sesamestreet.org/games/prod/178-bubble-uppercase/d5fc33a869571e314910ad9b5390a670c3b3fb61/run/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/cuerpo-humano-salud/musculos/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/cuerpo-humano-salud/sopa-letras-musculos/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/historia/edad-metales/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/historia/mesolitico/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/historia/neolitico/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/historia/paleolitico/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/horas/iguala-reloj-parte1/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/horas/iguala-reloj-parte2/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/horas/reloj-analogico-hora/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/horas/reloj-analogico-minutos/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/materia-energia/planetas-mapa/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/materia-energia/universo-test/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-bosque/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-carnivoros/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-granja/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-herbivoros/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-mar/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-omnivoros/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-oviparos/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-selva/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/animales-viviparos/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/fotosintesis-plantas/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/plantas-caracteristicas/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/relacionar-invertebrados/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/relacionar-vertebrados/actividad.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/reproduccion-plantas/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://la.abcya.com/juegos/haz-una-casa-de-jengibre",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://learnenglishkids.britishcouncil.org/games",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 260,
+      "error": null
+    },
+    {
+      "url": "https://learnenglishkids.britishcouncil.org/nsassets/job-mixer/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://learnenglishkids.britishcouncil.org/nsassets/secret-coder/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://learnenglishkids.britishcouncil.org/nsassets/StoryMaker-2/StoryMakerIndex.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://learnenglishkids.britishcouncil.org/nsassets/Style-a-hero/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://license.novelgames.com/games/popup.php?gameShortName=pumpkins&language=en&memberId=gg84950642",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://llengua.gencat.cat/ca/serveis/aprendre_catala/recursos-per-al-professorat/dictats-en-linia/aspectes-ortografics/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -248,6 +4080,150 @@
       "error": null
     },
     {
+      "url": "https://media.safekidgames.com/bunny-jump/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/bunny-math/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/christmas-balls/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/christmas-bubbles/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/crazy-eggs/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/easter-memory/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/flying-easter-bunny/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/funny-animals-memory/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/halloween-memory/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/happy-halloween/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/numbers-and-vowels/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://media.safekidgames.com/puzzles-and-matching/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://mediasmarts.ca/sites/mediasmarts/files/games/data-defenders/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://mediasmarts.ca/sites/mediasmarts/files/games/reality-check/index.html#/sites/mediasmarts/files/games/reality-check/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://mrnussbaum.com/storage/uploads/activities/abcapillar/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://mrnussbaum.com/storage/uploads/activities/bedtime/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://mrnussbaum.com/storage/uploads/activities/compgames/contoceans/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://mrnussbaum.com/storage/uploads/activities/yellowbus/ipad/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://musiclab.chromeexperiments.com/",
       "ok": true,
       "severity": "none",
@@ -261,6 +4237,206 @@
       "severity": "none",
       "httpStatus": 202,
       "durationMs": 237,
+      "error": null
+    },
+    {
+      "url": "https://paxigames.esa.int/Games/MilkyWayMatch/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://paxigames.esa.int/Games/SolarSystemExplorer/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/blocky/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/brickout/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/bunny-jump-carrots/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/easter-hidden-stars/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/greedy-rabbit/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/instruments-for-kids/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/learn-drawing/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/match-easter-eggs/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://plays.org/game/rabbit-run-adventure/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/7-primaria-matematicas-construye-cuadrilateros/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/7-primaria-sociales-comunidades-autonomas/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/8-primaria-matematicas-entrenate-paso-a-paso/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/8-primaria-sociales-que-sabes-de-la-reconquista/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/9-primaria-matematicas-prismas-o-piramides/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/9-primaria-sociales-zonas-climaticas-tierra/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-lengua-atrapa-letra/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-lengua-atrapa-palabra/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-matematicas-4-el-reloj/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-matematicas-6-mentatletas/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-matematicas-mentatletas/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-matematicas-restar-numeros-enteros/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-sociales-5-aprende-cosas-sobre-los-romanos/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-sociales-6-que-clima-es/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -336,11 +4512,115 @@
       "error": null
     },
     {
+      "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=34221BCE-E47A-49CC-9339-F5A9F50CBB9B",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=42DF1498-F1E6-431C-94EA-6BC19AD3E638",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=7ce1cc50-fc09-11eb-a707-efb809cdf610",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=8e3f6170-d632-11ec-adca-e11b60726ecc",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=923d6420-fa4f-11ec-adca-e11b60726ecc",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=D2C6FA91-E394-4F6E-8575-D8445A76AA59",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=FB3AE686-99EC-4006-A88F-5E10495AE305",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://studio.code.org/courses",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 614,
+      "error": null
+    },
+    {
+      "url": "https://tipirate.net/jeux/jeux-2-4-ans/cris-des-animaux/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://tipirate.net/jeux/jeux-2-4-ans/jeu-des-ombres/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://tipirate.net/jeux/jeux-4-6-ans/jeu-des-ombres/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://tipirate.net/jeux/jeux-4-6-ans/relier-les-points-de-1-a-15/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://tipirate.net/jeux/jeux-de-memoire/jeu-de-memoire-animaux-ferme/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -360,6 +4640,78 @@
       "error": null
     },
     {
+      "url": "https://tvokids.com/school-age/games/keyboard-climber",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/html5/english/house/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/html5/english/transport/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/html5/mecanografia/mecanografia1/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/html5/mecanografia/mecanografia2/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/html5/mecanografia/mecanografia3/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/html5/mecanografia/mecanografia4/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/html5/mecanografia/mecanografia5/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://vedoque.com/html5/mecanografia/mecanografia6/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://vedoque.com/juegos/letras/ortografia/",
       "ok": true,
       "severity": "none",
@@ -376,11 +4728,547 @@
       "error": null
     },
     {
+      "url": "https://view.genially.com/5fac6d8da083c60d0a8bc6b9/game-breakout-navega-seguro-en-internet",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://world-geography-games.com/es/banderas_mundo.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://world-geography-games.com/es/capitales_mundo.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://world-geography-games.com/es/europa_espana.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://world-geography-games.com/es/mundo_continentes.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://world-geography-games.com/es/mundo_tierra.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://world-geography-games.com/es/paises_europa.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://world-geography-games.com/es/paises_mundo.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://www.abcya.com/",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 135,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/abcya_paint",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/adding_fractions",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/addition",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/alphabet",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/alphabet_bubble_letter_match",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/alphabet-bingo",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/animate",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/baby_chick_maze",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/ball_ornaments_puzzle",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/bandemonium",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/christmas-lights",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/clear_it_addition",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/clear_it_multiplication",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/comparing_number_values",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/connect_the_dots",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/counting_sorting_comparing",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/cyber_five_internet_safety",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/dolch_sight_word_spelling",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/donut_drop",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/easter_crossword_puzzle",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/easter_egg_hunt",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/find_the_tech",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/five_senses",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/fuzz_bugs_factory",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/halloween_hunt",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/keyboard_challenge",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/keyboarding_practice",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/letter_trace",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/make_a_face",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/make_a_pumpkin",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/make_an_easter_egg",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/make-a-christmas-tree",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/make-a-cookie",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/marble_drop_addition",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/math_facts_game",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/math_lines_multiplication",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/math_stack",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/measuring",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/mirror_paint",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/monster_match",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/multiplication_mine",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/multiplication_mine_jr",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/number_ninja_factors",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/number_ninja_multiples",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/number_patterns",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/pumpkin_carving",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/puzzle_drops",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/rainbow_stacker",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/road_rally",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/roll_to_the_finish",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/skeletal_system",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/snowman",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/subtraction_game",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/super_santa",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/take_a_trip",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/taking-notes-rhythm-pitch",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/tangrams",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/typing_rocket",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.abcya.com/games/world-bingo",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -400,6 +5288,62 @@
       "error": null
     },
     {
+      "url": "https://www.arcademics.com/games/owl-planes",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.arcademics.com/games/sky-chase",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.arcademics.com/games/typing-jets",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.bbc.co.uk/games/interactive/activity-dance-mat-typing-level2?exitGameUrl=http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.bbc.co.uk/games/interactive/activity-dance-mat-typing-level3?exitGameUrl=http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.bbc.co.uk/games/interactive/activity-dance-mat-typing-level4?exitGameUrl=http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.bbc.co.uk/games/interactive/activity-dance-mat-typing?exitGameUrl=http%3A%2F%2Fwww.bbc.co.uk%2Fguides%2Fz3c6tfr",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://www.beepbox.co/",
       "ok": true,
       "severity": "none",
@@ -416,6 +5360,38 @@
       "error": null
     },
     {
+      "url": "https://www.cokitos.com/juegos/contar-unir-flechas/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.cokitos.com/juegos/pasapalabra--huesos-y-musculos/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.cokitos.com/juegos/pasapalabra--ninos/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.cokitos.com/juegos/xilofono-virtual-3/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://www.comodicequedijo.com/juegos/?ref=cta-homepage",
       "ok": true,
       "severity": "none",
@@ -424,11 +5400,483 @@
       "error": null
     },
     {
+      "url": "https://www.coolmath4kids.com/manipulatives/pattern-blocks",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://www.cristic.com/juegos/discriminacion-fonemas/",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 1704,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/ds001/s613/3096821/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/ds001/s805/4057759/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s198/1021786/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s202/1041152/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s202/1041157/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s202/1042276/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s204/1051767/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s204/1051771/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s205/1056396/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s205/1056398/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s205/1059090/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s205/1059665/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s206/1062632/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s207/1068987/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s207/1068994/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s210/1081078/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s210/1081124/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s210/1081308/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s210/1081310/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s210/1081963/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s230/1184779/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s236/1212452/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s236/1212454/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s380/1931588/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s380/1931592/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s380/1931595/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s380/1931606/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s380/1931663/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s394/2004681/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s422/2140868/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s432/2192253/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s441/2239190/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s493/2498892/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s493/2498907/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s493/2498909/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s493/2498924/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s493/2498928/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.ecasals.net/es/uploads/resources/s493/2498947/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/flash/aventurat/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/flash/endevinalles/portada.htm",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/flash/entrena/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/flash/ortografia_ci/ortografia.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/flash/panellets/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/interactius/agent/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/interactius/color/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/interactius/continents/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/interactius/reciclatge/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/interactius/sant-jordi-2025/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/interactius/sistema_solar/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.edu365.cat/interactius/time/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.educ.ar/app/files/repositorio/html/10/21/26ee9b2d-e6be-426c-b0e6-b6c42f9ad2aa/Adivina_adivinador_de_triangulos/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.educ.ar/app/files/repositorio/html/20/86/dcd63385-2078-4b08-823a-f780f0ab6724/Adivina_adivinador_de_cuadrilateros/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.educ.ar/app/files/repositorio/html/72/83/1a46e8d5-33a5-4b24-9ad0-fec7a13dbaf3/Robots_geometricos/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.educ.ar/recursos/fullscreen/show/49326",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.educ.ar/recursos/fullscreen/show/49339#h5pbookid=870425608&chapter=h5p-interactive-book-chapter-186a2429-c253-40e0-899c-4d96401d1a4e&section=0",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.educ.ar/recursos/fullscreen/show/49673",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.educ.ar/recursos/fullscreen/show/49785",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.educ.ar/recursos/fullscreen/show/50188",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -448,11 +5896,307 @@
       "error": "HTTP 404"
     },
     {
+      "url": "https://www.eslgamesplus.com/members/html5/CLASS-READY1/body-parts-monkey/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/CLASS-READY1/colours-dragon/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/CLASS-READY1/numbers-1-10-dragon/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/crocodile-games/numbers11-100-crocodile/crocodile.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/ESL-GAMES-HTML5-Connector-Spelling/Adjectives-Opposites1-Connector/Adjectives-Opposites1-Connector.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/ESL-GAMES-HTML5-Connector-Spelling/Verb-Opposites2-Connector/Verb-Opposites2-Connector.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/math/4th-GRADE/fractions-to-decimals-dragon/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/math/4th-GRADE/subtraction-1000s-monkey/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/math/low/adding-things1-5-MONKEY/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/math/low/addition1-10-CAT/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/math/low/counting1-10-MONKEY/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/math/low/subtraction-20-SPACE/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/math/low/subtraction-SPACE/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/memory-games/days-memory/memory.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/pirate-board-games/zoo-pirate/pirate.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/sentence-games/actions-present-simple-tense-sentence-monkey/sentence.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/sentence-games/months-baker/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/sentence-games/past-progressive-past-simple-kangaroo/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/sentence-games/past-simple-kangaroo/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/sentence-games/question-words-kangaroo/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/sentence-games/telling-time-race/race.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/sentence-games/time-words-kangaroo/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/wordsearch/colors-wordsearch/wordsearch.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/wordsearch/farm-animals-wordsearch/wordsearch.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/wordsearch/fruits-wordsearch/wordsearch.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/wordsearch/jobs-wordsearch/wordsearch.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/wordsearch/transportation-wordsearch/wordsearch.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.eslgamesplus.com/members/html5/wordsearch/zoo-animals-wordsearch/wordsearch.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.friv.com/z/games/drawparking/game.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.fun4thebrain.com/gamesource/addition/tmt/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.fun4thebrain.com/gamesource/bf/luckyoo/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.fun4thebrain.com/gamesource/subtraction/bleepy/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.fun4thebrain.com/gamesource/subtraction/jellyjump/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.funbrain.com/content/js_games/mummy_hunt_1/game.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.funbrain.com/content/js_games/shape_invasion/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.imusic-school.com/app/v3_mobile/src/#/appfull/pianoEs",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://www.incredibox.com/demo/",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 145,
+      "error": null
+    },
+    {
+      "url": "https://www.interactive-resources.co.uk/examples/activities?link=https%3A%2F%2Fwww.api.interactive-resources.co.uk%2Fv1%2Fgames%2F1634142150_sthec3.swf",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -480,6 +6224,222 @@
       "error": null
     },
     {
+      "url": "https://www.juegosarcoiris.com/games-static/letras/fletras/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.lego.com/es-es/kids/games",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.logicieleducatif.fr/games/detecte-les-syllabes-dans-les-mots4/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.logicieleducatif.fr/games/dictees-en-ligne2/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.logicieleducatif.fr/games/la-sorciere-phoneme1/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.logicieleducatif.fr/games/le-temple-des-lettres2/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.logicieleducatif.fr/games/lecture-le-son-r3/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.logicieleducatif.fr/games/lecture-le-son-v3/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.logicieleducatif.fr/games/qui-est-ce-filles2/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.logicieleducatif.fr/games/qui-est-ce-metiers5/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/alien_angles/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/ghostieloners/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_alien.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_drag_race.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_ducky_race.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_grand_prix.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_hungry_puppies.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_island_chase.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_jet_ski.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_jumping_chicks.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_kangaroo_hop.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_mission.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_penguin_jump.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_pizza_pandas.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_snow_sprint.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_space_race.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mathplayground.com/internal/arcademics_speedway.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://www.mathplayground.com/logic_where_is_cat.html",
       "ok": true,
       "severity": "none",
@@ -488,11 +6448,307 @@
       "error": null
     },
     {
+      "url": "https://www.mathplayground.com/mobile_measuring_angles/index.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5555",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5557",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5558",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5611",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5623",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5630",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5670",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5671",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5673",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/5689",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/6926",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.mundoprimaria.com/juegos-internos?path=/juegos-premium/6930",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.nctm.org/tools/mathresources/NCTM_GeometricSolids.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/geography/world/continent-oceans-game-1/WorldGeographyLevel1_HTML5.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/health/anatomy/digestion/game-1/digestiongame_1.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/health/anatomy/skeleton/game-1/skeleton_game_1.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/addition/penguin-party-game/popup_math_addition.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/division/croc-doc-game/popup_math_division.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/fractions/fractions-splat-game/FractionsSplat_HTML5.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/geometry/area-shape-game/AreaShapes_HTML5.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/geometry/perimeter-game/PerimeterShapesShoot_HTML5.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/geometry/symmetry-line-game/SymmetryLineShapes_HTML5.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/geometry/triangle-splat-game/TriangleSplat_HTML5.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/geometry/volume-game/VolumeShapes_HTML5.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/multiples/fruit-splat-game/FS_multiples_HTML5.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/math/numbers/ordering-balloon-pop/balloonPopOrdering_ALL.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/preschool/animals/farm/create/create.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/preschool/animals/forest/game/animalforestgame.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/preschool/animals/jungle/game/game.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.sheppardsoftware.com/preschool/animals/ocean/create/create.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
       "url": "https://www.sudoku-online.org/sudokus-ninos.php",
       "ok": true,
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 213,
+      "error": null
+    },
+    {
+      "url": "https://www.teachingmoney.co.uk/tasters/fractionfreeze.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.teachingmoney.co.uk/tasters/irfball.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.teachingmoney.co.uk/tasters/puzzadd.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.teachingmoney.co.uk/tasters/taketime1.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.teachingmoney.co.uk/tasters/wipeoutmnf.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.thinkuknow.co.uk/8_10/game/",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {
@@ -509,6 +6765,22 @@
       "severity": "none",
       "httpStatus": 200,
       "durationMs": 374,
+      "error": null
+    },
+    {
+      "url": "https://www.typinggames.zone//web/resources/templates/frontend/typingmaster/keytower/index2.html",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
+      "error": null
+    },
+    {
+      "url": "https://www.typinggames.zone/web/resources/templates/frontend/typingmaster/alphabet3/index.html?keys=",
+      "ok": true,
+      "severity": "none",
+      "httpStatus": 200,
+      "durationMs": null,
       "error": null
     },
     {

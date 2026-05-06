@@ -4,6 +4,7 @@ const dataUrl = "./data/games.json";
 const reportUrl = "./reports/link-report.json";
 const RUFFLE_CDN = "https://unpkg.com/@ruffle-rs/ruffle";
 const DEFAULT_GAME_IMAGE = "./assets/game-images/generic-game.svg";
+const PAGE_SIZE = 48;
 
 const searchInput = document.querySelector("#searchInput");
 const levelFilter = document.querySelector("#levelFilter");
@@ -11,12 +12,15 @@ const languageFilter = document.querySelector("#languageFilter");
 const areaFilter = document.querySelector("#areaFilter");
 const brokenOnly = document.querySelector("#brokenOnly");
 const grid = document.querySelector("#grid");
+const loadMoreBtn = document.querySelector("#loadMoreBtn");
 const resultCount = document.querySelector("#resultCount");
 const emptyState = document.querySelector("#emptyState");
 const statusStrip = document.querySelector("#statusStrip");
 
 const state = {
   games: [],
+  filtered: [],
+  visibleCount: 0,
   reportByUrl: new Map(),
   reportSummary: null,
   lastReport: null,
@@ -142,6 +146,7 @@ function wireEvents() {
   languageFilter.addEventListener("change", render);
   areaFilter.addEventListener("change", render);
   brokenOnly.addEventListener("change", render);
+  loadMoreBtn.addEventListener("click", showMore);
   document.querySelectorAll(".btn-lang").forEach((btn) => {
     btn.addEventListener("click", () => {
       setLang(btn.dataset.lang);
@@ -217,9 +222,25 @@ function render() {
     return true;
   });
 
-  drawCards(filtered);
+  state.filtered = filtered;
+  state.visibleCount = 0;
+  grid.innerHTML = "";
+  showMore();
   resultCount.textContent = i18n("result_count", filtered.length, state.games.length);
   emptyState.classList.toggle("hidden", filtered.length > 0);
+}
+
+function showMore() {
+  const batch = state.filtered.slice(state.visibleCount, state.visibleCount + PAGE_SIZE);
+  for (const game of batch) {
+    grid.append(buildCard(game));
+  }
+  state.visibleCount += batch.length;
+  const remaining = state.filtered.length - state.visibleCount;
+  loadMoreBtn.classList.toggle("hidden", remaining <= 0);
+  if (remaining > 0) {
+    loadMoreBtn.textContent = i18n("load_more", remaining);
+  }
 }
 
 function linkHealth(url) {
@@ -241,46 +262,42 @@ function linkHealth(url) {
   return { ok: false, text: i18n("link_error", reason) };
 }
 
-function drawCards(items) {
-  grid.innerHTML = "";
+function buildCard(game) {
+  const health = linkHealth(game.url);
 
-  for (const game of items) {
-    const health = linkHealth(game.url);
+  const article = document.createElement("article");
+  article.className = `card ${health.ok === false ? "broken" : ""}`;
 
-    const article = document.createElement("article");
-    article.className = `card ${health.ok === false ? "broken" : ""}`;
+  const imageAction = createCardImageAction(game);
+  article.appendChild(imageAction);
 
-    const imageAction = createCardImageAction(game);
-    article.appendChild(imageAction);
+  const title = document.createElement("h3");
+  title.textContent = game.title || i18n("no_title");
 
-    const title = document.createElement("h3");
-    title.textContent = game.title || i18n("no_title");
+  const meta = document.createElement("div");
+  meta.className = "meta";
 
-    const meta = document.createElement("div");
-    meta.className = "meta";
+  const area = tag(game.area || "General");
+  const language = tag(game.language || "Idioma no definido", "lang");
+  const gameLevels = game.levels || (game.level ? [game.level] : [i18n("no_level")]);
+  const levelTags = gameLevels.map((l) => tag(l));
+  const flashTag = game.flash ? [tag("Flash", "flash")] : [];
 
-    const area = tag(game.area || "General");
-    const language = tag(game.language || "Idioma no definido", "lang");
-    const gameLevels = game.levels || (game.level ? [game.level] : [i18n("no_level")]);
-    const levelTags = gameLevels.map((l) => tag(l));
-    const flashTag = game.flash ? [tag("Flash", "flash")] : [];
+  meta.append(area, ...levelTags, language, ...flashTag);
 
-    meta.append(area, ...levelTags, language, ...flashTag);
+  const note = document.createElement("p");
+  note.className = "note";
+  note.textContent = game.notes || i18n("no_notes");
 
-    const note = document.createElement("p");
-    note.className = "note";
-    note.textContent = game.notes || i18n("no_notes");
+  const healthText = document.createElement("p");
+  healthText.className = "health";
+  healthText.textContent = health.text;
 
-    const healthText = document.createElement("p");
-    healthText.className = "health";
-    healthText.textContent = health.text;
-
-    article.append(title, meta, note);
-    if (health.ok !== true) {
-      article.append(healthText);
-    }
-    grid.append(article);
+  article.append(title, meta, note);
+  if (health.ok !== true) {
+    article.append(healthText);
   }
+  return article;
 }
 
 function createCardImageAction(game) {

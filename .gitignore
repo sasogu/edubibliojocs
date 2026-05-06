@@ -1,2 +1,3 @@
 scripts/deploy.sh
 .github/workflows/deploy.yml
+scripts/import-ludix.mjs
