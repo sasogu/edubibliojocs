@@ -3,7 +3,7 @@
     "id": "edu365-sant-jordi-2026",
     "title": "Sant Jordi 2026",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2026/intro/index.html",
     "notes": "Jocs i sorpreses per celebrar el Sant Jordi",
     "levels": [
@@ -14,13 +14,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:45.360Z"
+    "fetchedAt": "2026-05-06T16:07:18.862Z"
   },
   {
     "id": "edu365-houston-tenim-problemes",
     "title": "Houston, tenim problemes!",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/houston/intro/index.html",
     "notes": "Una abella recorre un prat resolent reptes matemàtics",
     "levels": [
@@ -31,13 +31,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:45.455Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-anem-a-mitges",
     "title": "Anem a mitges!",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/anem-mitges/intro/index.html",
     "notes": "Descobreix les fraccions dividint fruites en parts iguals",
     "levels": [
@@ -48,13 +48,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:45.571Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-agent-antifaltes-2",
     "title": "Agent Antifaltes 2",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/agent2/intro/index.html",
     "notes": "Aventura de detectiu d'ortografia. Segon episodi",
     "levels": [
@@ -65,13 +65,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:45.646Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-jam-session",
     "title": "Jam Session",
     "area": "Musica",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/jam_session/intro/index.html",
     "notes": "Juga i identifica instruments musicals",
     "levels": [
@@ -82,13 +82,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:45.895Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-pensem",
     "title": "Pensem",
     "area": "Logica",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/pensem/intro/index.html",
     "notes": "Completa sèries i seqüències de patrons",
     "levels": [
@@ -100,7 +100,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:45.961Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-pensam",
@@ -118,13 +118,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.025Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-agent-antifaltes",
     "title": "Agent Antifaltes",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/agent/index.html",
     "notes": "Converteix-te en detectiu de l'ortografia",
     "levels": [
@@ -136,13 +136,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.061Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-la-bibliotecapp",
     "title": "La Bibliotecapp",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/bibliotecapp/index.html",
     "notes": "Descobreix aventures literàries amb vuit opcions diferents",
     "levels": [
@@ -154,13 +154,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.159Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-que-fem-primer",
     "title": "Què fem primer?",
     "area": "Logica",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sequenciacio/index.html",
     "notes": "Ordena imatges en la seqüència correcta",
     "levels": [
@@ -171,7 +171,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.200Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-que-hem-prumer",
@@ -188,13 +188,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.301Z"
+    "fetchedAt": "2026-05-06T16:07:18.863Z"
   },
   {
     "id": "edu365-escape-cub",
     "title": "Escape Cub",
     "area": "Diversas áreas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/escapecub/index.html",
     "notes": "Respon preguntes de colors i navega per la ruta de fugida",
     "levels": [
@@ -206,13 +206,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.338Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-electricitat-i-magnetisme",
     "title": "Electricitat i magnetisme",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/electricitat/index.html",
     "notes": "Explora els efectes de l'electricitat i el magnetisme",
     "levels": [
@@ -224,13 +224,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.379Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-coneixement-del-cos",
     "title": "Coneixement del cos",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/coneixementcos/index.html",
     "notes": "Aprèn sobre higiene, nutrició i benestar",
     "levels": [
@@ -242,13 +242,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.453Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-animalarium",
     "title": "Animalarium",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/animalarium/index.html",
     "notes": "Explora animals domèstics, exòtics i salvatges",
     "levels": [
@@ -260,13 +260,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.506Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-no-et-descomptis-3",
     "title": "No et descomptis 3",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/euro3/index.html",
     "notes": "Càlcul mental amb monedes i bitllets",
     "levels": [
@@ -277,13 +277,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.544Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-viatgers-del-temps",
     "title": "Viatgers del temps",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/pitagores/intro/index.html",
     "notes": "Viatgers en el temps exploren el teorema de Pitàgores",
     "levels": [
@@ -294,13 +294,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.648Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-el-cos",
     "title": "El cos",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/cos/index.html",
     "notes": "Aprèn els noms de les parts del cos en català",
     "levels": [
@@ -311,7 +311,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.686Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-eth-cos",
@@ -328,13 +328,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.726Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-els-sentits",
     "title": "Els sentits",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sentits/index.html",
     "notes": "Descobreix els cinc sentits humans jugant",
     "levels": [
@@ -345,7 +345,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.771Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-es-sensi",
@@ -362,13 +362,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.816Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-sumem-de-l-1-al-10",
     "title": "Sumem de l'1 al 10",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sumar/index.html",
     "notes": "Practica la suma de l'1 al 10",
     "levels": [
@@ -379,13 +379,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.855Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-no-et-descomptis-2",
     "title": "No et descomptis 2",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/euro2/index.html",
     "notes": "Suma i iniciació a la moneda",
     "levels": [
@@ -396,13 +396,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.899Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-castaween",
     "title": "Castaween",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/castaween/intro/index.html",
     "notes": "Jocs bilingües per a la Castanyada i Halloween",
     "levels": [
@@ -413,13 +413,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.941Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-jocs-de-tardor",
     "title": "Jocs de tardor",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/jocsdetardor/index.html",
     "notes": "Jocs i activitats de la festa de tardor",
     "levels": [
@@ -431,13 +431,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:46.985Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-tardor-2023",
     "title": "Tardor 2023",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/tardor-2023/intro/index.html",
     "notes": "Celebració de tardor amb jocs tradicionals",
     "levels": [
@@ -449,13 +449,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.125Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-la-castanyada",
     "title": "La Castanyada",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/castanyada/index.html",
     "notes": "Jocs i activitats de la Castanyada",
     "levels": [
@@ -467,13 +467,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.168Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-castanyes-i-carbasses",
     "title": "Castanyes i carbasses",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carbasses/intro/index.html",
     "notes": "Tradicions de tardor a través de jocs interactius",
     "levels": [
@@ -485,13 +485,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.208Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-la-magia-de-nadal",
     "title": "La màgia de Nadal",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal25/intro/index.html",
     "notes": "Celebració de Nadal amb activitats interactives",
     "levels": [
@@ -502,13 +502,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.278Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-escudella-de-jocs",
     "title": "Escudella de jocs",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/escudella/intro/index.html",
     "notes": "Jocs i tradicions de Nadal",
     "levels": [
@@ -519,13 +519,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.319Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-nadal-2023",
     "title": "Nadal 2023",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal23/intro/index.html",
     "notes": "Activitats i jocs interactius de Nadal",
     "levels": [
@@ -537,13 +537,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.392Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-jocs-d-hivern",
     "title": "Jocs d'hivern",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/hivern/index.html",
     "notes": "Memòria, tradicions, pessebre i decoració de Nadal",
     "levels": [
@@ -555,13 +555,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.437Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-nadal",
     "title": "Nadal",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal/index.html",
     "notes": "Endevinalles, cançons i tradicions nadalenques",
     "levels": [
@@ -573,13 +573,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.492Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-els-carnavals-del-mon",
     "title": "Els carnavals del món",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carnavals-mon/intro/index.html",
     "notes": "Tradicions de carnaval arreu del món",
     "levels": [
@@ -591,13 +591,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.537Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-carnaval-2025",
     "title": "Carnaval 2025",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval-2025/intro/index.html",
     "notes": "Endevina sons i completa sèries de Carnaval",
     "levels": [
@@ -609,13 +609,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.586Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-disfressa-t",
     "title": "Disfressa't",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/disfressat/intro/index.html",
     "notes": "Activitats de Carnaval: observació i atenció",
     "levels": [
@@ -627,13 +627,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.655Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-carnaval-2023",
     "title": "Carnaval 2023",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval2023/intro/index.html",
     "notes": "Descobreix tradicions i personatges del Carnaval",
     "levels": [
@@ -645,13 +645,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.732Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-carnaval",
     "title": "Carnaval",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval/intro/index.html",
     "notes": "Jocs i tradicions festives de Carnaval",
     "levels": [
@@ -663,13 +663,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.767Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-castells-i-cavallers",
     "title": "Castells i cavallers",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2025/intro/index.html",
     "notes": "Prepara el Sant Jordi amb reptes interactius",
     "levels": [
@@ -680,13 +680,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.804Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-sant-jordi-2024",
     "title": "Sant Jordi 2024",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2024/intro/index.html",
     "notes": "Dragons, llibres, roses i elements literaris",
     "levels": [
@@ -697,13 +697,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.875Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-sant-jordi-2023",
     "title": "Sant Jordi 2023",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2023/intro/index.html",
     "notes": "Personatges de la llegenda i reptes interactius",
     "levels": [
@@ -715,13 +715,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.914Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-sant-jordi",
     "title": "Sant Jordi",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/santjordi/index.html",
     "notes": "Prepara la celebració del 23 abril amb jocs",
     "levels": [
@@ -733,13 +733,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.951Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-les-fruites",
     "title": "Les fruites",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/fruites/index.html",
     "notes": "Lectura i activitats amb fruites en català",
     "levels": [
@@ -751,7 +751,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:47.991Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-las-frutas",
@@ -769,13 +769,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.034Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-mateorit",
     "title": "Mateorit",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/MATeorit/index.html",
     "notes": "Evita l'impacte del meteorit resolent sumes",
     "levels": [
@@ -786,13 +786,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.077Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-mateorit-2",
     "title": "Mateorit 2",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/MATeorit2/index.html",
     "notes": "Aventura espacial avançada amb reptes matemàtics",
     "levels": [
@@ -803,13 +803,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.122Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-enlaira-t",
     "title": "Enlaira't",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/sistema_solar/index.html",
     "notes": "Capes de l'atmosfera i sistema solar",
     "levels": [
@@ -820,7 +820,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.158Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-take-off",
@@ -837,13 +837,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.238Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-no-et-descomptis",
     "title": "No et descomptis!",
     "area": "Matematicas",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/euros/index.html",
     "notes": "Càlcul mental amb monedes i operacions",
     "levels": [
@@ -854,7 +854,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.283Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-take-your-time",
@@ -871,13 +871,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.326Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-pren-te-el-teu-temps",
     "title": "Pren-te el teu temps",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/temps/index.html",
     "notes": "Aprèn a llegir l'hora correctament en català",
     "levels": [
@@ -888,13 +888,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.366Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-continents-i-oceans",
     "title": "Continents i oceans",
     "area": "Ciencias Sociales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/continents/index.html",
     "notes": "Localitza continents i oceans al mapa del món",
     "levels": [
@@ -905,7 +905,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.404Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-continents-and-oceans",
@@ -922,7 +922,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.457Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-es-colors",
@@ -939,7 +939,7 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.498Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-the-colors",
@@ -956,13 +956,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.536Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-ciber-odissea",
     "title": "Ciber-Odissea",
     "area": "Informatica",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/ciberodissea/index.html",
     "notes": "Tecnologia digital, internet i xarxes socials",
     "levels": [
@@ -974,13 +974,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.573Z"
+    "fetchedAt": "2026-05-06T16:07:18.864Z"
   },
   {
     "id": "edu365-paraules-estranyes",
     "title": "Paraules estranyes",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/paraules-estranyes/index.html",
     "notes": "Explora paraules estranyes i misteris lèxics",
     "levels": [
@@ -991,13 +991,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.619Z"
+    "fetchedAt": "2026-05-06T16:07:18.865Z"
   },
   {
     "id": "edu365-atrapa-el-residu",
     "title": "Atrapa el residu",
     "area": "Ciencias Naturales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/reciclatge/index.html",
     "notes": "Aprèn a classificar residus correctament",
     "levels": [
@@ -1008,13 +1008,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.702Z"
+    "fetchedAt": "2026-05-06T16:07:18.865Z"
   },
   {
     "id": "edu365-easter",
     "title": "Easter",
     "area": "Dias especiales",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/easter/index.html",
     "notes": "Tradicions de Pasqua en català i anglès",
     "levels": [
@@ -1026,13 +1026,13 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.748Z"
+    "fetchedAt": "2026-05-06T16:07:18.865Z"
   },
   {
     "id": "edu365-lletres-sobre-rodes",
     "title": "Lletres sobre rodes",
     "area": "Lengua",
-    "language": "Catalan",
+    "language": "Catalan/Valencià",
     "url": "https://www.edu365.cat/interactius/lletres/index.html",
     "notes": "Jocs de paraules amb temàtica de skate",
     "levels": [
@@ -1043,6 +1043,795 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T15:54:48.789Z"
+    "fetchedAt": "2026-05-06T16:07:18.865Z"
+  },
+  {
+    "id": "edu365-explore-mars",
+    "title": "Explore Mars",
+    "area": "Informatica",
+    "language": "Castellano",
+    "url": "https://spaceplace.nasa.gov/explore-mars/sp/",
+    "notes": "Navega la superfície de Mart amb un rover per recollir informació sobre roques marcians",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-explore-mars.png",
+    "imageSource": "https://www.edu365.cat/img/product/explore-mars-joc.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.157Z"
+  },
+  {
+    "id": "edu365-microstudio",
+    "title": "MicroStudio",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://microstudio.dev/",
+    "notes": "Motor de videojocs en línia gratuït per crear, exportar i compartir jocs",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-microstudio.png",
+    "imageSource": "https://www.edu365.cat/img/product/microstudio.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.349Z"
+  },
+  {
+    "id": "edu365-monogame",
+    "title": "MonoGame",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://monogame.net/",
+    "notes": "Framework de codi obert per al desenvolupament de jocs 2D i 3D en C#",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-monogame.png",
+    "imageSource": "https://www.edu365.cat/img/product/monogame.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.533Z"
+  },
+  {
+    "id": "edu365-unity",
+    "title": "Unity",
+    "area": "Informatica",
+    "language": "Castellano",
+    "url": "https://unity.com/es",
+    "notes": "Motor de desenvolupament de jocs per a experiències VR/AR i simulacions",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-unity.png",
+    "imageSource": "https://www.edu365.cat/img/product/unity.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.670Z"
+  },
+  {
+    "id": "edu365-gamemaker-studio",
+    "title": "GameMaker Studio",
+    "area": "Informatica",
+    "language": "Castellano",
+    "url": "https://gamemaker.io/es",
+    "notes": "Plataforma visual de creació de jocs 2D amb el llenguatge GML",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-gamemaker-studio.png",
+    "imageSource": "https://www.edu365.cat/img/product/game-maker-studio.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.749Z"
+  },
+  {
+    "id": "edu365-wokwi",
+    "title": "Wokwi",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://wokwi.com/",
+    "notes": "Simulador d'electrònica al navegador per a Arduino, ESP32 i Raspberry Pi",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-wokwi.png",
+    "imageSource": "https://www.edu365.cat/img/product/wokwi.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.795Z"
+  },
+  {
+    "id": "edu365-rodo-codo",
+    "title": "Rodo Codo",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.rodocodo.com/free-coding-game-for-kids/",
+    "notes": "Joc de puzles interactiu que ensenya conceptes de programació a través del moviment",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-rodo-codo.png",
+    "imageSource": "https://www.edu365.cat/img/product/rodocodo.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.834Z"
+  },
+  {
+    "id": "edu365-grinch-game",
+    "title": "Grinch Game",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.grinchhourofcode.com/game.html",
+    "notes": "Lliçó interactiva de programació amb temàtica nadalenca",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-grinch-game.png",
+    "imageSource": "https://www.edu365.cat/img/product/grinch-game.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.911Z"
+  },
+  {
+    "id": "edu365-elevator-saga",
+    "title": "Elevator Saga",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://play.elevatorsaga.com/",
+    "notes": "Joc de programació on has d'escriure codi en JavaScript per controlar ascensors",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-elevator-saga.png",
+    "imageSource": "https://www.edu365.cat/img/product/play-elevatorsaga.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.949Z"
+  },
+  {
+    "id": "edu365-super-coding-ball",
+    "title": "Super Coding Ball",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.supercodingball.com/home",
+    "notes": "Joc interactiu per resoldre reptes de programació amb una pilota virtual",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-super-coding-ball.png",
+    "imageSource": "https://www.edu365.cat/img/product/super-coding-ball.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:19.986Z"
+  },
+  {
+    "id": "edu365-css-diner",
+    "title": "CSS Diner",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://flukeout.github.io/",
+    "notes": "Joc interactiu per aprendre i practicar CSS de manera divertida",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-css-diner.png",
+    "imageSource": "https://www.edu365.cat/img/product/css-diner.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.027Z"
+  },
+  {
+    "id": "edu365-blockly-games",
+    "title": "Blockly Games",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://blockly.games/?lang=ca",
+    "notes": "Jocs de programació per blocs per a iniciació a la programació",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-blockly-games.png",
+    "imageSource": "https://www.edu365.cat/img/product/blocklygames.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.069Z"
+  },
+  {
+    "id": "edu365-easy-game-maker",
+    "title": "Easy Game Maker",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.easygamemaker.com/",
+    "notes": "Creació gratuïta de jocs 2D visuals sense necessitat de codi",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-easy-game-maker.png",
+    "imageSource": "https://www.edu365.cat/img/product/easy-game-maker.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.114Z"
+  },
+  {
+    "id": "edu365-flexbox-froggy",
+    "title": "Flexbox Froggy",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://flexboxfroggy.com/",
+    "notes": "Joc interactiu per aprendre les propietats CSS Flexbox",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-flexbox-froggy.png",
+    "imageSource": "https://www.edu365.cat/img/product/flexboxfroggy.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.152Z"
+  },
+  {
+    "id": "edu365-codingame",
+    "title": "CodinGame",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.codingame.com/start/",
+    "notes": "Plataforma competitiva per aprendre programació a través de reptes i jocs",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-codingame.png",
+    "imageSource": "https://www.edu365.cat/img/product/codingame.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.197Z"
+  },
+  {
+    "id": "edu365-8bitworkshop",
+    "title": "8bitworkshop",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://8bitworkshop.com/",
+    "notes": "Aprèn a programar jocs retro de 8 bits dels anys 80 i 90",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-8bitworkshop.png",
+    "imageSource": "https://www.edu365.cat/img/product/8bit-workshop.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.232Z"
+  },
+  {
+    "id": "edu365-codedex",
+    "title": "Codédex",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.codedex.io/",
+    "notes": "Aprenentatge gamificat amb cursos interactius de Python, HTML, CSS i JS",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-codedex.png",
+    "imageSource": "https://www.edu365.cat/img/product/codedex.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.271Z"
+  },
+  {
+    "id": "edu365-godot",
+    "title": "Godot",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://godotengine.org/",
+    "notes": "Motor gràfic de codi obert per al desenvolupament de videojocs multiplataforma",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-godot.png",
+    "imageSource": "https://www.edu365.cat/img/product/godot.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.307Z"
+  },
+  {
+    "id": "edu365-rpg-playground",
+    "title": "RPG Playground",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://rpgplayground.com/",
+    "notes": "Editor de jocs RPG amb capacitats de programació",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-rpg-playground.png",
+    "imageSource": "https://www.edu365.cat/img/product/rpg-playground.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.351Z"
+  },
+  {
+    "id": "edu365-gb-studio",
+    "title": "GB Studio",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.gbstudio.dev/",
+    "notes": "Editor per crear jocs a l'estil de Game Boy",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-gb-studio.png",
+    "imageSource": "https://www.edu365.cat/img/product/gb-studio.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.390Z"
+  },
+  {
+    "id": "edu365-nasa-s-return-to-the-moon",
+    "title": "NASA's Return to the Moon",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.tynker.com/hour-of-code/nasa-return-to-moon",
+    "notes": "Aventures de programació amb temàtica espacial de la NASA",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-nasa-s-return-to-the-moon.png",
+    "imageSource": "https://www.edu365.cat/img/product/nasa_return_moon.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.462Z"
+  },
+  {
+    "id": "edu365-open-roberta",
+    "title": "Open Roberta",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://lab.open-roberta.org/",
+    "notes": "Programa diferents robots i simula el seu comportament al navegador",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-open-roberta.png",
+    "imageSource": "https://www.edu365.cat/img/product/open_roberta.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.503Z"
+  },
+  {
+    "id": "edu365-alice",
+    "title": "Alice",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "http://www.alice.org/",
+    "notes": "Entorn de programació per crear animacions 3D i històries interactives",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-alice.png",
+    "imageSource": "https://www.edu365.cat/img/product/alice_programacio.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.540Z"
+  },
+  {
+    "id": "edu365-sonic-pi",
+    "title": "Sonic Pi",
+    "area": "Musica",
+    "language": "Ingles",
+    "url": "https://sonic-pi.net/",
+    "notes": "Eina de creació i interpretació de música basada en codi",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-sonic-pi.png",
+    "imageSource": "https://www.edu365.cat/img/product/sonic-pi.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.582Z"
+  },
+  {
+    "id": "edu365-micro-bit",
+    "title": "Micro:bit",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://makecode.microbit.org/",
+    "notes": "Simulador de programació per als dispositius BBC Micro:bit",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-micro-bit.png",
+    "imageSource": "https://www.edu365.cat/img/product/microbit.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.621Z"
+  },
+  {
+    "id": "edu365-free-code-camp",
+    "title": "Free Code Camp",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.freecodecamp.org/",
+    "notes": "Aprèn programació web amb projectes des de casa",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-free-code-camp.png",
+    "imageSource": "https://www.edu365.cat/img/product/free_code_camp.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.659Z"
+  },
+  {
+    "id": "edu365-mit-app-inventor",
+    "title": "MIT App Inventor",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://appinventor.mit.edu/",
+    "notes": "Programa les teves aplicacions per a dispositius mòbils",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-mit-app-inventor.png",
+    "imageSource": "https://www.edu365.cat/img/product/app_inventor.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.703Z"
+  },
+  {
+    "id": "edu365-code-combat",
+    "title": "Code Combat",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://codecombat.com/",
+    "notes": "Introducció a la programació i al disseny de jocs a través de reptes",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-code-combat.png",
+    "imageSource": "https://www.edu365.cat/img/product/code-combat.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.813Z"
+  },
+  {
+    "id": "edu365-studio-code",
+    "title": "Studio Code",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://studio.code.org/",
+    "notes": "Reptes de jocs per blocs que ensenyen els fonaments de la programació",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-studio-code.png",
+    "imageSource": "https://www.edu365.cat/img/product/code_studio_platform.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.880Z"
+  },
+  {
+    "id": "edu365-crunchzilla",
+    "title": "Crunchzilla",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.crunchzilla.com/",
+    "notes": "Tutorial interactiu per aprendre programació JavaScript",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-crunchzilla.png",
+    "imageSource": "https://www.edu365.cat/img/product/crunchzilla2.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:20.918Z"
+  },
+  {
+    "id": "edu365-phaser",
+    "title": "Phaser",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://phaser.io/",
+    "notes": "Framework JavaScript per al desenvolupament ràpid de jocs HTML5",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-phaser.png",
+    "imageSource": "https://www.edu365.cat/img/product/phaser_io.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.020Z"
+  },
+  {
+    "id": "edu365-swift-playgrounds",
+    "title": "Swift Playgrounds",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://developer.apple.com/swift-playgrounds/",
+    "notes": "App d'Apple per a iPad i Mac per aprendre Swift",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-swift-playgrounds.png",
+    "imageSource": "https://www.edu365.cat/img/product/swift_playgrounds.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.060Z"
+  },
+  {
+    "id": "edu365-thunkable",
+    "title": "Thunkable",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://thunkable.com/",
+    "notes": "Plataforma de disseny d'aplicacions mòbils sense codi",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-thunkable.png",
+    "imageSource": "https://www.edu365.cat/img/product/thunkable.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.101Z"
+  },
+  {
+    "id": "edu365-scratchjr",
+    "title": "ScratchJr",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "http://www.scratchjr.org/",
+    "notes": "App de programació per blocs per a nens petits per crear històries",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-scratchjr.png",
+    "imageSource": "https://www.edu365.cat/img/product/scratch_junior.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.136Z"
+  },
+  {
+    "id": "edu365-robocode",
+    "title": "Robocode",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://robocode.sourceforge.io/",
+    "notes": "Joc de programació per aprendre Java desenvolupant robots de combat",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-robocode.png",
+    "imageSource": "https://www.edu365.cat/img/product/robocode_java.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.175Z"
+  },
+  {
+    "id": "edu365-cody-roby",
+    "title": "Cody & Roby",
+    "area": "Informatica",
+    "language": "Castellano",
+    "url": "https://code.intef.es/prop_didacticas/cody-roby/",
+    "notes": "Jocs de programació desconnectada amb robots per a totes les edats",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-cody-roby.png",
+    "imageSource": "https://www.edu365.cat/img/product/cody_roby.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.215Z"
+  },
+  {
+    "id": "edu365-botlogic",
+    "title": "Botlogic",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://botlogic.us/",
+    "notes": "Resol problemes de lògica mentre aprens conceptes de programació",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-botlogic.png",
+    "imageSource": "https://www.edu365.cat/img/product/botlogic.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.255Z"
+  },
+  {
+    "id": "edu365-gamefroot",
+    "title": "Gamefroot",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://make.gamefroot.com/",
+    "notes": "Dissenya i programa el teu primer videojoc",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-gamefroot.png",
+    "imageSource": "https://www.edu365.cat/img/product/gamefroot.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.297Z"
+  },
+  {
+    "id": "edu365-scratch",
+    "title": "Scratch",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://scratch.mit.edu/",
+    "notes": "Crea històries, jocs i animacions amb programació per blocs",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-scratch.png",
+    "imageSource": "https://www.edu365.cat/img/product/scratch.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.344Z"
+  },
+  {
+    "id": "edu365-code-monkey",
+    "title": "Code Monkey",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://app.codemonkey.com/challenges/0",
+    "notes": "Fonaments de programació a través de reptes amb personatges",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-code-monkey.png",
+    "imageSource": "https://www.edu365.cat/img/product/code_monkey_infantil.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.380Z"
+  },
+  {
+    "id": "edu365-gdevelop",
+    "title": "GDevelop",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://gdevelop.io/",
+    "notes": "Programari de codi obert i multiplataforma per dissenyar videojocs",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-gdevelop.png",
+    "imageSource": "https://www.edu365.cat/img/product/gdevelop_programacio2.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.450Z"
+  },
+  {
+    "id": "edu365-mimo",
+    "title": "Mimo",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://mimo.org/",
+    "notes": "Aprenentatge interactiu d'HTML5, CSS i JavaScript",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-mimo.png",
+    "imageSource": "https://www.edu365.cat/img/product/mimo_programacio.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.484Z"
+  },
+  {
+    "id": "edu365-kodu-game-lab",
+    "title": "Kodu Game Lab",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://www.kodugamelab.com/",
+    "notes": "Entorn de desenvolupament de jocs 3D que ensenya fonaments de programació",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-kodu-game-lab.png",
+    "imageSource": "https://www.edu365.cat/img/product/kodu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.585Z"
+  },
+  {
+    "id": "edu365-run-marco",
+    "title": "Run Marco!",
+    "area": "Informatica",
+    "language": "Ingles",
+    "url": "https://runmarco.allcancode.com/",
+    "notes": "Reptes de programació amb personatges per a joves aprenents",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-run-marco.png",
+    "imageSource": "https://www.edu365.cat/img/product/runmarco.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.702Z"
+  },
+  {
+    "id": "edu365-makecode-arcade",
+    "title": "Makecode Arcade",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://arcade.makecode.com/",
+    "notes": "Creació de jocs d'arcade per blocs amb introducció a JavaScript i Python",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-makecode-arcade.png",
+    "imageSource": "https://www.edu365.cat/img/product/makecode_arcade.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T16:07:21.749Z"
   }
 ]
