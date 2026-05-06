@@ -69,6 +69,41 @@ Para importar desde otro archivo:
 node scripts/import-csv.mjs ruta/al/archivo.csv
 ```
 
+## Capturar imagenes automaticamente
+
+Puedes generar capturas para juegos sin `image` usando Chromium en modo headless:
+
+```bash
+npm run capture:images -- --limit 25
+```
+
+El script:
+
+- abre la URL original del juego
+- guarda una captura en `assets/game-images/`
+- actualiza `data/games.json` con el campo `image`
+
+Opciones utiles:
+
+```bash
+# Solo un juego concreto
+npm run capture:images -- --id ludix-actividades-de-lectura
+
+# Solo un dominio concreto
+npm run capture:images -- --host clic.xtec.cat --limit 50
+
+# Simular sin escribir cambios en games.json
+npm run capture:images -- --host clic.xtec.cat --limit 10 --dry-run
+
+# Forzar recaptura
+npm run capture:images -- --id ludix-actividades-de-lectura --force
+```
+
+Variables opcionales:
+
+- `CHROMIUM_BIN`: ruta al ejecutable de Chromium o Chrome
+- `BROWSER_BIN`: alias alternativo
+
 ## Publicacion
 
 Puedes publicar en GitHub Pages, Netlify o Cloudflare Pages. El sitio no necesita backend.

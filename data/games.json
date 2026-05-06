@@ -325,7 +325,9 @@
     "notes": "Activitats JClic en catala per al treball de lectoescriptura inicial.",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "image": "assets/game-images/abecedari-valencia.png",
+    "imageSource": "https://clic.xtec.cat/ca/jclic/"
   },
   {
     "id": "mapes-espanya",
@@ -962,7 +964,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-100-palabras.png",
+    "imageSource": "https://clic.xtec.cat/projects/100paraules/jclic.js/index.html"
   },
   {
     "id": "ludix-5-senses",
@@ -1052,7 +1056,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-abc-juego-interactivo.png",
+    "imageSource": "https://clic.xtec.cat/projects/abcsons/jclic.js/index.html"
   },
   {
     "id": "ludix-abraham",
@@ -1078,7 +1084,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-actividades-de-lectura.png",
+    "imageSource": "https://clic.xtec.cat/projects/lectinfa/jclic.js/index.html"
   },
   {
     "id": "ludix-actividades-de-lengua",
@@ -1090,7 +1098,9 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-actividades-de-lengua.png",
+    "imageSource": "https://clic.xtec.cat/projects/llengso/jclic.js/index.html"
   },
   {
     "id": "ludix-adivina-cuadrilateros",
@@ -1167,7 +1177,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-adivina-adivinanza-2.png",
+    "imageSource": "https://clic.xtec.cat/projects/endevina/jclic.js/index.html"
   },
   {
     "id": "ludix-adivina-adivinanza-3",
@@ -1361,7 +1373,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-amigos-de-los-animales.png",
+    "imageSource": "https://clic.xtec.cat/projects/vertebra/jclic.js/index.html"
   },
   {
     "id": "ludix-animaciones",
@@ -1581,7 +1595,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-animales-vertebrados-2.png",
+    "imageSource": "https://clic.xtec.cat/projects/avertebr/jclic.js/index.html"
   },
   {
     "id": "ludix-animales-viviparos",
@@ -1607,7 +1623,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-animals-everywhere.png",
+    "imageSource": "https://clic.xtec.cat/projects/anim_en/jclic.js/index.html"
   },
   {
     "id": "ludix-animaux-de-la-ferme",
@@ -1671,7 +1689,9 @@
     "levels": [
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-aparatos-del-cuerpo.png",
+    "imageSource": "https://clic.xtec.cat/projects/aparells/jclic.js/index.html"
   },
   {
     "id": "ludix-apostoles-de-jesus",
@@ -1737,7 +1757,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-aprende-los-animales.png",
+    "imageSource": "https://clic.xtec.cat/projects/animale2/jclic.js/index.html"
   },
   {
     "id": "ludix-aprendo-a-escribir",
@@ -2344,7 +2366,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-calendario-y-reloj.png",
+    "imageSource": "https://clic.xtec.cat/projects/medinat3/calre3/jclic.js/index.html"
   },
   {
     "id": "ludix-caminamos-con-jesus",
@@ -2385,7 +2409,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-caperucita-roja.png",
+    "imageSource": "https://clic.xtec.cat/projects/caputxe2/jclic.js/index.html"
   },
   {
     "id": "ludix-capitales-de-europa",
@@ -2770,7 +2796,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-colors-2.png",
+    "imageSource": "https://clic.xtec.cat/projects/colour2/jclic.js/index.html"
   },
   {
     "id": "ludix-colours",
@@ -2808,7 +2836,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-comarcas-de-cataluna.png",
+    "imageSource": "https://clic.xtec.cat/users/mnebot1/comarques/index.html"
   },
   {
     "id": "ludix-come-sumas",
@@ -2880,7 +2910,9 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-comprension-lectora.png",
+    "imageSource": "https://clic.xtec.cat/projects/compesp/jclic.js/index.html"
   },
   {
     "id": "ludix-comunidades-autonomas",
@@ -2996,7 +3028,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-contar.png",
+    "imageSource": "https://clic.xtec.cat/projects/cuenta/jclic.js/index.html"
   },
   {
     "id": "ludix-contar-del-1-al-9",
@@ -3008,7 +3042,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-contar-del-1-al-9.png",
+    "imageSource": "https://clic.xtec.cat/projects/comptar/jclic.js/index.html"
   },
   {
     "id": "ludix-continentes-y-oceanos",
@@ -3046,7 +3082,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-contra-el-bullying.png",
+    "imageSource": "https://clic.xtec.cat/projects/bully/jclic.js/index.html"
   },
   {
     "id": "ludix-copia-el-dibujo",
@@ -3227,7 +3265,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-cuerpos-geometricos.png",
+    "imageSource": "https://clic.xtec.cat/projects/geom/jclic.js/index.html"
   },
   {
     "id": "ludix-cuerpos-geometricos-2",
@@ -3412,7 +3452,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-deportes-y-valores.png",
+    "imageSource": "https://clic.xtec.cat/projects/esports2/jclic.js/index.html"
   },
   {
     "id": "ludix-derechos-del-menor",
@@ -3425,7 +3467,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-derechos-del-menor.png",
+    "imageSource": "https://clic.xtec.cat/projects/derechos/jclic.js/index.html"
   },
   {
     "id": "ludix-descubre-el-dibujo-del-verano",
@@ -3502,7 +3546,9 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-dias-y-meses.png",
+    "imageSource": "https://clic.xtec.cat/projects/diames/jclic.js/index.html"
   },
   {
     "id": "ludix-dias-y-meses-2",
@@ -3514,7 +3560,9 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-dias-y-meses-2.png",
+    "imageSource": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=1"
   },
   {
     "id": "ludix-dibuja-pinta-y-colorea",
@@ -3903,7 +3951,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-ejercicios-de-ortografia.png",
+    "imageSource": "https://clic.xtec.cat/projects/ortogra/jclic.js/index.html"
   },
   {
     "id": "ludix-el-abecedario",
@@ -5599,7 +5649,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-la-castanera.png",
+    "imageSource": "https://clic.xtec.cat/projects/castanye/jclic.js/index.html"
   },
   {
     "id": "ludix-la-celula",
@@ -5736,7 +5788,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-la-paz.png",
+    "imageSource": "https://clic.xtec.cat/projects/la_paz/jclic.js/index.html"
   },
   {
     "id": "ludix-la-ratita-presumida",
@@ -5749,7 +5803,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-la-ratita-presumida.png",
+    "imageSource": "https://clic.xtec.cat/projects/laratita/jclic.js/index.html"
   },
   {
     "id": "ludix-la-reconquista",
@@ -5862,7 +5918,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-las-7-diferencias.png",
+    "imageSource": "https://clic.xtec.cat/users/clic/7diferencias/index.html"
   },
   {
     "id": "ludix-las-capas-de-la-tierra",
@@ -5886,7 +5944,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-las-emociones.png",
+    "imageSource": "https://clic.xtec.cat/projects/emocion/jclic.js/index.html"
   },
   {
     "id": "ludix-las-fotosintesis",
@@ -5912,7 +5972,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-las-horas.png",
+    "imageSource": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=2"
   },
   {
     "id": "ludix-las-letras-del-faraon",
@@ -6203,7 +6265,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-lectoescritura.png",
+    "imageSource": "https://clic.xtec.cat/projects/lectura/jclic.js/index.html"
   },
   {
     "id": "ludix-lectura-comprensiva",
@@ -6216,7 +6280,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-lectura-comprensiva.png",
+    "imageSource": "https://clic.xtec.cat/projects/compre/jclic.js/index.html"
   },
   {
     "id": "ludix-lee-y-colorea",
@@ -6268,7 +6334,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-leo-lee.png",
+    "imageSource": "https://clic.xtec.cat/projects/leo_lee/jclic.js/index.html"
   },
   {
     "id": "ludix-les-animaux-et-leur-cri",
@@ -6320,7 +6388,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-les-vocals.png",
+    "imageSource": "https://clic.xtec.cat/projects/vocals2/jclic.js/index.html"
   },
   {
     "id": "ludix-letra-por-letra",
@@ -6345,7 +6415,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-letras.png",
+    "imageSource": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=1&nivell=a&tema=2"
   },
   {
     "id": "ludix-lines-of-symmetry",
@@ -6383,7 +6455,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-3-cerditos.png",
+    "imageSource": "https://clic.xtec.cat/projects/porquets/jclic.js/index.html"
   },
   {
     "id": "ludix-los-4-evangelios",
@@ -6408,7 +6482,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-alimentos.png",
+    "imageSource": "https://clic.xtec.cat/projects/ali_log/jclic.js/index.html"
   },
   {
     "id": "ludix-los-alimentos-2",
@@ -6421,7 +6497,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-alimentos-2.png",
+    "imageSource": "https://clic.xtec.cat/projects/taliment/jclic.js/index.html"
   },
   {
     "id": "ludix-los-articulos",
@@ -6433,7 +6511,9 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-articulos.png",
+    "imageSource": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=1"
   },
   {
     "id": "ludix-los-continentes",
@@ -6459,7 +6539,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-disfraces.png",
+    "imageSource": "https://clic.xtec.cat/projects/carnaval9/jclic.js/index.html"
   },
   {
     "id": "ludix-los-doce-apostoles",
@@ -6509,7 +6591,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-musicos-de-bremen.png",
+    "imageSource": "https://clic.xtec.cat/projects/musicos/jclic.js/index.html"
   },
   {
     "id": "ludix-los-numeros",
@@ -6522,7 +6606,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-numeros.png",
+    "imageSource": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=1&nivell=a&tema=3"
   },
   {
     "id": "ludix-los-objetos-liturgicos",
@@ -6547,7 +6633,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-oficios.png",
+    "imageSource": "https://clic.xtec.cat/projects/oficis2/jclic.js/index.html"
   },
   {
     "id": "ludix-los-patriarcas-de-israel",
@@ -6583,7 +6671,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-los-tres-osos.png",
+    "imageSource": "https://clic.xtec.cat/projects/osos/jclic.js/index.html"
   },
   {
     "id": "ludix-lucky-drops",
@@ -6773,7 +6863,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-martina-y-los-sentidos.png",
+    "imageSource": "https://clic.xtec.cat/projects/sentits3/jclic.js/index.html"
   },
   {
     "id": "ludix-masculino-y-femenino",
@@ -6785,7 +6877,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-masculino-y-femenino.png",
+    "imageSource": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=2"
   },
   {
     "id": "ludix-math-lines",
@@ -6877,7 +6971,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-medidas-de-longitud.png",
+    "imageSource": "https://clic.xtec.cat/projects/medilong/jclic.js/index.html"
   },
   {
     "id": "ludix-medios-de-transporte",
@@ -6891,7 +6987,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-medios-de-transporte.png",
+    "imageSource": "https://clic.xtec.cat/projects/transpo2/jclic.js/index.html"
   },
   {
     "id": "ludix-memoria",
@@ -7435,7 +7533,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-normas-de-acentuacion.png",
+    "imageSource": "https://clic.xtec.cat/projects/accents/jclic.js/index.html"
   },
   {
     "id": "ludix-number-ninja-multiples",
@@ -7497,7 +7597,9 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-numbers.png",
+    "imageSource": "https://clic.xtec.cat/projects/numbers/jclic.js/index.html"
   },
   {
     "id": "ludix-numbers-10-100",
@@ -7585,7 +7687,9 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-observa.png",
+    "imageSource": "https://clic.xtec.cat/projects/observa/jclic.js/index.html"
   },
   {
     "id": "ludix-observacion-halloween",
@@ -7624,7 +7728,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-ordena.png",
+    "imageSource": "https://clic.xtec.cat/projects/ordena/jclic.js/index.html"
   },
   {
     "id": "ludix-ordena-las-letras",
@@ -7743,7 +7849,9 @@
     "levels": [
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-ortografia-y-gramatica-catalana.png",
+    "imageSource": "https://clic.xtec.cat/projects/ortogram/jclic.js/index.html"
   },
   {
     "id": "ludix-owl-planes",
@@ -7982,7 +8090,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-palabras-sinonimas.png",
+    "imageSource": "https://clic.xtec.cat/projects/sinonims/jclic.js/index.html"
   },
   {
     "id": "ludix-palestina",
@@ -8074,7 +8184,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-partes-del-ordenador.png",
+    "imageSource": "https://clic.xtec.cat/projects/ordinad/jclic.js/index.html"
   },
   {
     "id": "ludix-pasa-palabra-sant-jordi",
@@ -8233,7 +8345,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-pasqua.png",
+    "imageSource": "https://clic.xtec.cat/projects/pasqua2/jclic.js/index.html"
   },
   {
     "id": "ludix-passaparaula",
@@ -8335,7 +8449,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-pedro-y-el-lobo.png",
+    "imageSource": "https://clic.xtec.cat/projects/perellop/jclic.js/index.html"
   },
   {
     "id": "ludix-penguin-jump",
@@ -8452,7 +8568,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-phonics.png",
+    "imageSource": "https://clic.xtec.cat/projects/phonics/jclic.js/index.html"
   },
   {
     "id": "ludix-piano",
@@ -8906,7 +9024,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-que-numero-falta.png",
+    "imageSource": "https://clic.xtec.cat/projects/sumes/jclic.js/index.html"
   },
   {
     "id": "ludix-que-palabra-es",
@@ -9061,7 +9181,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-refranes.png",
+    "imageSource": "https://clic.xtec.cat/projects/dites/jclic.js/index.html"
   },
   {
     "id": "ludix-relier-les-points",
@@ -9252,7 +9374,9 @@
     "levels": [
       "Infantil"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-ricitos-de-oro.png",
+    "imageSource": "https://clic.xtec.cat/projects/ricitos/jclic.js/index.html"
   },
   {
     "id": "ludix-road-rally",
@@ -9356,7 +9480,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-salix-y-los-sentidos.png",
+    "imageSource": "https://clic.xtec.cat/projects/sentits2/jclic.js/index.html"
   },
   {
     "id": "ludix-salta-y-calcula",
@@ -9396,7 +9522,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-salvajes-y-domesticos.png",
+    "imageSource": "https://clic.xtec.cat/projects/sal_dom/jclic.js/index.html"
   },
   {
     "id": "ludix-sant-jordi",
@@ -9461,7 +9589,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-semanas-y-meses.png",
+    "imageSource": "https://clic.xtec.cat/projects/setmes2/jclic.js/index.html"
   },
   {
     "id": "ludix-series",
@@ -9474,7 +9604,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-series.png",
+    "imageSource": "https://clic.xtec.cat/projects/enserie/jclic.js/index.html"
   },
   {
     "id": "ludix-series-de-10-en-10",
@@ -9588,7 +9720,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-silabas.png",
+    "imageSource": "https://clic.xtec.cat/projects/silabas3/jclic.js/index.html"
   },
   {
     "id": "ludix-silabas-2",
@@ -9601,7 +9735,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-silabas-2.png",
+    "imageSource": "https://clic.xtec.cat/projects/trebsil/jclic.js/index.html"
   },
   {
     "id": "ludix-silabas-encantadas",
@@ -9627,7 +9763,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-silabas-y-acentuacion.png",
+    "imageSource": "https://clic.xtec.cat/projects/siltoacc/jclic.js/index.html"
   },
   {
     "id": "ludix-simetria",
@@ -9652,7 +9790,9 @@
     "levels": [
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-simetrias.png",
+    "imageSource": "https://clic.xtec.cat/projects/simetria/jclic.js/index.html"
   },
   {
     "id": "ludix-simon-de-pascua",
@@ -9768,7 +9908,9 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-solidaridad.png",
+    "imageSource": "https://clic.xtec.cat/projects/racismo/jclic.js/index.html"
   },
   {
     "id": "ludix-sonidos-de-animales",
@@ -9781,7 +9923,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-sonidos-de-animales.png",
+    "imageSource": "https://clic.xtec.cat/projects/disc_au1/jclic.js/index.html"
   },
   {
     "id": "ludix-sonidos-de-animales-2",
@@ -9819,7 +9963,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-sopa-de-letras.png",
+    "imageSource": "https://clic.xtec.cat/projects/sopaval/jclic.js/index.html"
   },
   {
     "id": "ludix-sopa-de-letras-2",
@@ -9884,7 +10030,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-sopas-de-letras.png",
+    "imageSource": "https://clic.xtec.cat/projects/sopacas/jclic.js/index.html"
   },
   {
     "id": "ludix-sort-the-letters",
@@ -10068,7 +10216,9 @@
       "Infantil",
       "Primaria 1er ciclo"
     ],
-    "source": "ludix"
+    "source": "ludix",
+    "image": "assets/game-images/ludix-sudoku.png",
+    "imageSource": "https://clic.xtec.cat/projects/sudoku2/jclic.js/index.html"
   },
   {
     "id": "ludix-sudoku-medieval",

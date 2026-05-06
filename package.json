@@ -6,6 +6,7 @@
   "type": "module",
   "scripts": {
     "check:links": "node ./scripts/check-links.mjs",
+    "capture:images": "node ./scripts/capture-game-images.mjs",
     "import:csv": "node ./scripts/import-csv.mjs",
     "import:wp": "node ./scripts/import-wordpress.mjs",
     "import:wp:merge": "node ./scripts/import-wordpress.mjs --merge",
