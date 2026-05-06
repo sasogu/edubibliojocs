@@ -11,7 +11,6 @@
     "import:wp": "node ./scripts/import-wordpress.mjs",
     "import:wp:merge": "node ./scripts/import-wordpress.mjs --merge",
     "import:wp:images": "node ./scripts/import-wordpress-images.mjs",
-    "import:ludix": "node ./scripts/import-ludix.mjs",
     "import:apis": "node ./scripts/setup-api-imports.mjs",
     "import:apis:extract": "node ./scripts/setup-api-imports.mjs --extract-only",
     "import:apis:learningapps": "node ./scripts/import-educational-apis.mjs learningapps",

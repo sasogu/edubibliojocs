@@ -87,7 +87,7 @@ Opciones utiles:
 
 ```bash
 # Solo un juego concreto
-npm run capture:images -- --id ludix-actividades-de-lectura
+npm run capture:images -- --id actividades-de-lectura
 
 # Solo un dominio concreto
 npm run capture:images -- --host clic.xtec.cat --limit 50
@@ -96,7 +96,7 @@ npm run capture:images -- --host clic.xtec.cat --limit 50
 npm run capture:images -- --host clic.xtec.cat --limit 10 --dry-run
 
 # Forzar recaptura
-npm run capture:images -- --id ludix-actividades-de-lectura --force
+npm run capture:images -- --id actividades-de-lectura --force
 ```
 
 Variables opcionales:
