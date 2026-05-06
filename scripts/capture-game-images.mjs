@@ -55,6 +55,13 @@ for (const game of pendingGames) {
     continue;
   }
 
+  const preflight = await checkUrlReachable(game.url, options);
+  if (!preflight.ok) {
+    failed += 1;
+    logProgress("fail", game, preflight.reason);
+    continue;
+  }
+
   logProgress("shot", game, game.url);
   const result = await captureScreenshot(game.url, capturePath, options);
   if (!result.ok) {
@@ -264,6 +271,39 @@ async function captureScreenshot(url, outputPath, options) {
       await fs.rm(outputPath, { force: true }).catch(() => {});
     }
     await fs.rm(tempDir, { recursive: true, force: true });
+  }
+}
+
+async function checkUrlReachable(url, options) {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => {
+    controller.abort();
+  }, Math.max(4000, Math.min(options.delayMs, 15000)));
+
+  try {
+    const response = await fetch(url, {
+      redirect: "follow",
+      signal: controller.signal,
+      headers: {
+        "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome Safari"
+      }
+    });
+
+    if (!response.ok) {
+      return {
+        ok: false,
+        reason: `respuesta HTTP ${response.status}`
+      };
+    }
+
+    return { ok: true };
+  } catch (error) {
+    return {
+      ok: false,
+      reason: summarizeFailure(error?.message || "error de red")
+    };
+  } finally {
+    clearTimeout(timeoutId);
   }
 }
 
