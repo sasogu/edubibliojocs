@@ -67,7 +67,7 @@
   {
     "id": "aranas-2",
     "title": "Arañas",
-    "area": "General",
+    "area": "Ciencias Naturales",
     "language": "Castellano",
     "url": "https://edutictac.es/inici/flash/aulademusica24aranas.swf",
     "notes": "Juego Flash",
@@ -92,7 +92,7 @@
   {
     "id": "bomomo",
     "title": "Bomomo",
-    "area": "General",
+    "area": "Plastica",
     "language": "Catalan/Valencià",
     "url": "https://bomomo.com/",
     "notes": "Per a pintar&#8230;",
@@ -105,7 +105,7 @@
   {
     "id": "caracol-bob",
     "title": "CARACOL BOB",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://www.juegos.com/juego/caracol-bob",
     "notes": "Demuestra tu ingenio salvando al caracol Bob",
@@ -118,7 +118,7 @@
   {
     "id": "code-org",
     "title": "Code.org",
-    "area": "General",
+    "area": "Informatica",
     "language": "Castellano",
     "url": "https://studio.code.org/courses",
     "notes": "Per aprendre a programar amb blocs",
@@ -181,7 +181,7 @@
   {
     "id": "qplay",
     "title": "EduHoot",
-    "area": "General",
+    "area": "Diversas áreas",
     "language": "Castellano",
     "url": "https://eduhoot.edutictac.es/",
     "notes": "Joc similar a Kahhot",
@@ -242,7 +242,7 @@
   {
     "id": "el-buho-boo",
     "title": "EL BUHO BOO",
-    "area": "General",
+    "area": "Plastica",
     "language": "Castellano",
     "url": "https://www.elbuhoboo.com/",
     "notes": "JOCS DE PINTAR I RATOLÍ",
@@ -307,7 +307,7 @@
   {
     "id": "la-tienda-de-enriqueta",
     "title": "La tienda de Enriqueta",
-    "area": "General",
+    "area": "Musica",
     "language": "Castellano",
     "url": "https://edutictac.es/inici/flash/aulademusicaenriqueta.swf",
     "notes": "Juego Flash",
@@ -356,7 +356,7 @@
   {
     "id": "memoria-visual",
     "title": "MEMORIA VISUAL",
-    "area": "General",
+    "area": "Logica",
     "language": "Catalan/Valencià",
     "url": "https://edutictac.es/blog/bibliojocs/memoria-visual/",
     "notes": "Juegos de memoria visual con imagenes y palabras. Enlace externo original no disponible.",
@@ -408,7 +408,7 @@
   {
     "id": "pajarologia-2",
     "title": "Pajarología",
-    "area": "General",
+    "area": "Ciencias Naturales",
     "language": "Castellano",
     "url": "https://edutictac.es/inici/flash/pajarologia.swf",
     "notes": "Juego Flash",
@@ -422,7 +422,7 @@
   {
     "id": "paper-minecraft",
     "title": "Paper Minecraft",
-    "area": "General",
+    "area": "Informatica",
     "language": "Castellano",
     "url": "https://scratch.mit.edu/projects/14217557/fullscreen/",
     "notes": "Paper Minecraft",
@@ -448,7 +448,7 @@
   {
     "id": "puzzles-2",
     "title": "Puzzles",
-    "area": "General",
+    "area": "Logica",
     "language": "Catalan/Valencià",
     "url": "http://www.jigzone.com/puzzles/D8055D4B0A77&#038;z=5?v=22858",
     "notes": "Puzzles temas variados multipiezas.",
@@ -485,7 +485,7 @@
   {
     "id": "scratch",
     "title": "Scratch",
-    "area": "General",
+    "area": "Informatica",
     "language": "Castellano",
     "url": "https://scratch.mit.edu/explore/projects/all",
     "notes": "Importado desde listado de WordPress",
@@ -535,7 +535,7 @@
   {
     "id": "tangram",
     "title": "Tangram",
-    "area": "General",
+    "area": "Logica",
     "language": "Catalan/Valencià",
     "url": "https://toytheater.com/tangram/",
     "notes": "Tangram",
@@ -561,7 +561,7 @@
   {
     "id": "trencaclosques",
     "title": "Trencaclosques",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://www.jigsawplanet.com/",
     "notes": "Rompecabezas",
@@ -661,7 +661,7 @@
   {
     "id": "memory",
     "title": "Memory",
-    "area": "General",
+    "area": "Logica",
     "levels": [
       "Primaria 1er ciclo",
       "Primaria 2o ciclo",
@@ -676,7 +676,7 @@
   {
     "id": "cuatro-en-raya",
     "title": "Cuatro en raya",
-    "area": "General",
+    "area": "Logica",
     "levels": [
       "Primaria 1er ciclo",
       "Primaria 2o ciclo",
@@ -789,7 +789,7 @@
   {
     "id": "gato-atrapalo",
     "title": "Gato atrápalo",
-    "area": "General",
+    "area": "Logica",
     "levels": [
       "Primaria 3er ciclo"
     ],
@@ -1251,7 +1251,7 @@
   {
     "id": "ajedrez-para-dos-jugadores",
     "title": "Ajedrez para dos jugadores",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://cristic.my.canva.site/ajedrez",
     "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -1353,7 +1353,7 @@
   {
     "id": "animaciones",
     "title": "Animaciones",
-    "area": "General",
+    "area": "Informatica",
     "language": "Ingles",
     "url": "https://www.abcya.com/games/animate",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -2088,7 +2088,7 @@
   {
     "id": "blocky",
     "title": "Blocky",
-    "area": "General",
+    "area": "Informatica",
     "language": "Ingles",
     "url": "https://plays.org/game/blocky/",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
@@ -2441,7 +2441,7 @@
   {
     "id": "cenefas",
     "title": "Cenefas",
-    "area": "General",
+    "area": "Plastica",
     "language": "Castellano",
     "url": "https://genmagic.net/visualflash.html?id=espai1c",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -2782,7 +2782,7 @@
   {
     "id": "como-subrayar-un-texto",
     "title": "Cómo subrayar un texto",
-    "area": "General",
+    "area": "Lengua",
     "language": "Castellano",
     "url": "https://www.educ.ar/recursos/fullscreen/show/49339#h5pbookid=870425608&chapter=h5p-interactive-book-chapter-186a2429-c253-40e0-899c-4d96401d1a4e&section=0",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
@@ -2970,7 +2970,7 @@
   {
     "id": "contra-el-bullying",
     "title": "Contra el bullying",
-    "area": "General",
+    "area": "Educacion emocional",
     "language": "Castellano",
     "url": "https://clic.xtec.cat/projects/bully/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -3071,7 +3071,7 @@
   {
     "id": "crea-un-robot",
     "title": "Crea un robot",
-    "area": "General",
+    "area": "Plastica",
     "language": "Castellano",
     "url": "https://www.ecasals.net/es/uploads/resources/s205/1056396/index.html",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
@@ -3336,7 +3336,7 @@
   {
     "id": "derechos-del-menor",
     "title": "Derechos del menor",
-    "area": "General",
+    "area": "Ciencias Sociales",
     "language": "Castellano",
     "url": "https://clic.xtec.cat/projects/derechos/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -3440,7 +3440,7 @@
   {
     "id": "dibuja-pinta-y-colorea",
     "title": "Dibuja, pinta y colorea",
-    "area": "General",
+    "area": "Plastica",
     "language": "Castellano",
     "url": "https://cristic.my.canva.site/dibuja-y-colorea",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -3615,7 +3615,7 @@
   {
     "id": "donde-esta-mi-sombra",
     "title": "Dónde está mi sombra",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://cristic.my.canva.site/donde-esta-mi-sombra",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -3778,7 +3778,7 @@
   {
     "id": "edu365",
     "title": "Edu365",
-    "area": "General",
+    "area": "Diversas áreas",
     "language": "Catalan/Valencià",
     "url": "http://www.edu365.cat/",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
@@ -4321,7 +4321,7 @@
   {
     "id": "esquemas-conceptuales",
     "title": "Esquemas conceptuales",
-    "area": "General",
+    "area": "Lengua",
     "language": "Castellano",
     "url": "https://www.educ.ar/recursos/fullscreen/show/49673",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
@@ -5005,7 +5005,7 @@
   {
     "id": "iguales-y-diferentes",
     "title": "Iguales y diferentes",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://cristic.my.canva.site/iguales-y-diferentes",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -5078,7 +5078,7 @@
   {
     "id": "jclic-catalogo",
     "title": "JClic",
-    "area": "General",
+    "area": "Diversas áreas",
     "language": "Catalan/Valencià",
     "url": "http://clic.xtec.cat/db/listact_es.jsp",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
@@ -5183,7 +5183,7 @@
   {
     "id": "juego-limpio",
     "title": "Juego limpio",
-    "area": "General",
+    "area": "Educacion emocional",
     "language": "Castellano",
     "url": "https://clic.xtec.cat/projects/jlimpio/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -5545,7 +5545,7 @@
   {
     "id": "la-paz",
     "title": "La paz",
-    "area": "General",
+    "area": "Educacion emocional",
     "language": "Castellano",
     "url": "https://clic.xtec.cat/projects/la_paz/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -5655,7 +5655,7 @@
   {
     "id": "las-5-diferencias",
     "title": "Las 5 diferencias",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://genmagic.net/visualflash.html?id=difer5c",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -5668,7 +5668,7 @@
   {
     "id": "las-7-diferencias",
     "title": "Las 7 diferencias",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://clic.xtec.cat/users/clic/7diferencias/index.html",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -6421,7 +6421,7 @@
   {
     "id": "mahjong",
     "title": "Mahjong",
-    "area": "General",
+    "area": "Logica",
     "language": "Ingles",
     "url": "https://games.gameboss.com/mahjongreal/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -6448,7 +6448,7 @@
   {
     "id": "make-a-face",
     "title": "Make a face",
-    "area": "General",
+    "area": "Plastica",
     "language": "Ingles",
     "url": "https://www.abcya.com/games/make_a_face",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
@@ -6522,7 +6522,7 @@
   {
     "id": "mapas-conceptuales",
     "title": "Mapas conceptuales",
-    "area": "General",
+    "area": "Lengua",
     "language": "Castellano",
     "url": "https://www.educ.ar/recursos/fullscreen/show/49785",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
@@ -6693,7 +6693,7 @@
   {
     "id": "memoria",
     "title": "Memoria",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://arbolabcgames.top/F12ABC/",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
@@ -6733,7 +6733,7 @@
   {
     "id": "memoria-visual-catalogo",
     "title": "Memoria visual",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://cristic.my.canva.site/memoria-visual",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -6747,7 +6747,7 @@
   {
     "id": "memory-catalogo",
     "title": "Memory",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://www.ecasals.net/es/uploads/resources/s205/1056398/index.html",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
@@ -6760,7 +6760,7 @@
   {
     "id": "memory-classic",
     "title": "Memory classic",
-    "area": "General",
+    "area": "Logica",
     "language": "Ingles",
     "url": "https://cdn.primarygames.com/HTML5/MemoryClassic/",
     "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -6812,7 +6812,7 @@
   {
     "id": "memory-de-los-planetas",
     "title": "Memory de los planetas",
-    "area": "General",
+    "area": "Ciencias Naturales",
     "language": "Castellano",
     "url": "https://www.ecasals.net/es/uploads/resources/s205/1059090/index.html",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
@@ -6825,7 +6825,7 @@
   {
     "id": "memory-de-mariquitas",
     "title": "Memory de mariquitas",
-    "area": "General",
+    "area": "Ciencias Naturales",
     "language": "Castellano",
     "url": "https://www.ecasals.net/es/uploads/resources/s210/1081963/index.html",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
@@ -6852,7 +6852,7 @@
   {
     "id": "memory-genmagic",
     "title": "Memory Genmagic",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://genmagic.net/visualflash.html?id=memory2c",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -7346,7 +7346,7 @@
   {
     "id": "observa",
     "title": "Observa",
-    "area": "General",
+    "area": "Logica",
     "language": "Catalan/Valencià",
     "url": "https://clic.xtec.cat/projects/observa/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo.",
@@ -8217,7 +8217,7 @@
   {
     "id": "pinta-caras",
     "title": "Pinta caras",
-    "area": "General",
+    "area": "Plastica",
     "language": "Castellano",
     "url": "https://genmagic.net/visualflash.html?id=petits2c",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -8472,7 +8472,7 @@
   {
     "id": "puzzle-de-emojis",
     "title": "Puzzle de emojis",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://cristic.my.canva.site/puzzles-de-emojis",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -8486,7 +8486,7 @@
   {
     "id": "puzzle-drops",
     "title": "Puzzle drops",
-    "area": "General",
+    "area": "Logica",
     "language": "Ingles",
     "url": "https://www.abcya.com/games/puzzle_drops",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
@@ -8511,7 +8511,7 @@
   {
     "id": "puzzles",
     "title": "Puzzles",
-    "area": "General",
+    "area": "Logica",
     "language": "Ingles",
     "url": "https://cdn2.kidmons.com/games/puzzle4kids/index.php",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -8523,7 +8523,7 @@
   {
     "id": "puzzles-2-catalogo",
     "title": "Puzzles",
-    "area": "General",
+    "area": "Logica",
     "language": "Ingles",
     "url": "https://tipirate.net/jeux/jeux-2-4-ans/jeu-des-ombres/",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -8561,7 +8561,7 @@
   {
     "id": "puzzles-variados",
     "title": "Puzzles variados",
-    "area": "General",
+    "area": "Logica",
     "language": "Ingles",
     "url": "https://media.safekidgames.com/puzzles-and-matching/index.html",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo.",
@@ -8694,7 +8694,7 @@
   {
     "id": "rainbow-stacker",
     "title": "Rainbow stacker",
-    "area": "General",
+    "area": "Logica",
     "language": "Ingles",
     "url": "https://www.abcya.com/games/rainbow_stacker",
     "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -8853,7 +8853,7 @@
   {
     "id": "resolucion-de-conflictos-i",
     "title": "Resolución de conflictos I",
-    "area": "General",
+    "area": "Educacion emocional",
     "language": "Castellano",
     "url": "https://educaixa.org/microsites/Resolucio_de_conflictes/resolucion_conflict_caso_laura_juan/Contenidos/recursos_aux/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -8865,7 +8865,7 @@
   {
     "id": "resolucion-de-conflictos-i-2",
     "title": "Resolución de conflictos I",
-    "area": "General",
+    "area": "Educacion emocional",
     "language": "Castellano",
     "url": "https://educaixa.org/microsites/Resolucio_de_conflictes/resolucion_conflic_caso_monica/Contenidos/recursos_aux/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -8877,7 +8877,7 @@
   {
     "id": "resolucion-de-conflictos-iii",
     "title": "Resolución de conflictos III",
-    "area": "General",
+    "area": "Educacion emocional",
     "language": "Castellano",
     "url": "https://educaixa.org/microsites/Resolucio_de_conflictes/resolucion_conflic_caso_eduardo_guillermo/Contenidos/recursos_aux/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -9112,7 +9112,7 @@
   {
     "id": "secret-coder",
     "title": "Secret coder",
-    "area": "General",
+    "area": "Informatica",
     "language": "Ingles",
     "url": "https://learnenglishkids.britishcouncil.org/nsassets/secret-coder/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -9422,7 +9422,7 @@
   {
     "id": "solidaridad",
     "title": "Solidaridad",
-    "area": "General",
+    "area": "Educacion emocional",
     "language": "Castellano",
     "url": "https://clic.xtec.cat/projects/racismo/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -9586,7 +9586,7 @@
   {
     "id": "space-explorer",
     "title": "Space explorer",
-    "area": "General",
+    "area": "Ciencias Naturales",
     "language": "Ingles",
     "url": "https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-ngk-space-explorer/1.0.3/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -9672,7 +9672,7 @@
   {
     "id": "style-a-hero",
     "title": "Style a hero",
-    "area": "General",
+    "area": "Plastica",
     "language": "Ingles",
     "url": "https://learnenglishkids.britishcouncil.org/nsassets/Style-a-hero/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -9726,7 +9726,7 @@
   {
     "id": "sudoku-medieval",
     "title": "Sudoku medieval",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://www.ecasals.net/es/uploads/resources/s198/1021786/index.html",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
@@ -9739,7 +9739,7 @@
   {
     "id": "sudoku-para-ninos",
     "title": "Sudoku para niños",
-    "area": "General",
+    "area": "Logica",
     "language": "Castellano",
     "url": "https://cristic.my.canva.site/sudoku-para-ninos",
     "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
@@ -9904,7 +9904,7 @@
   {
     "id": "tangram-2",
     "title": "Tangram",
-    "area": "General",
+    "area": "Logica",
     "language": "Ingles",
     "url": "https://www.abcya.com/games/tangrams",
     "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
