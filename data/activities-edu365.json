@@ -1,0 +1,1048 @@
+[
+  {
+    "id": "edu365-sant-jordi-2026",
+    "title": "Sant Jordi 2026",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/sant-jordi-2026/intro/index.html",
+    "notes": "Jocs i sorpreses per celebrar el Sant Jordi",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-sant-jordi-2026.png",
+    "imageSource": "https://www.edu365.cat/img/product/sant-jordi-2026-interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:45.360Z"
+  },
+  {
+    "id": "edu365-houston-tenim-problemes",
+    "title": "Houston, tenim problemes!",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/houston/intro/index.html",
+    "notes": "Una abella recorre un prat resolent reptes matemàtics",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-houston-tenim-problemes.png",
+    "imageSource": "https://www.edu365.cat/img/product/houston-problemes-interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:45.455Z"
+  },
+  {
+    "id": "edu365-anem-a-mitges",
+    "title": "Anem a mitges!",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/anem-mitges/intro/index.html",
+    "notes": "Descobreix les fraccions dividint fruites en parts iguals",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-anem-a-mitges.png",
+    "imageSource": "https://www.edu365.cat/img/product/anem-mitges-interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:45.571Z"
+  },
+  {
+    "id": "edu365-agent-antifaltes-2",
+    "title": "Agent Antifaltes 2",
+    "area": "Lengua",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/agent2/intro/index.html",
+    "notes": "Aventura de detectiu d'ortografia. Segon episodi",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-agent-antifaltes-2.png",
+    "imageSource": "https://www.edu365.cat/img/product/antifaltes-2.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:45.646Z"
+  },
+  {
+    "id": "edu365-jam-session",
+    "title": "Jam Session",
+    "area": "Musica",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/jam_session/intro/index.html",
+    "notes": "Juga i identifica instruments musicals",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-jam-session.png",
+    "imageSource": "https://www.edu365.cat/img/product/jam_session-520.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:45.895Z"
+  },
+  {
+    "id": "edu365-pensem",
+    "title": "Pensem",
+    "area": "Logica",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/pensem/intro/index.html",
+    "notes": "Completa sèries i seqüències de patrons",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-pensem.png",
+    "imageSource": "https://www.edu365.cat/img/product/pensem-nou.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:45.961Z"
+  },
+  {
+    "id": "edu365-pensam",
+    "title": "Pensam",
+    "area": "Logica",
+    "language": "Aranes",
+    "url": "https://www.edu365.cat/interactius/pensem-aranes/index.html",
+    "notes": "Completa sèries i patrons en aranès",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-pensam.png",
+    "imageSource": "https://www.edu365.cat/img/product/pensam.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.025Z"
+  },
+  {
+    "id": "edu365-agent-antifaltes",
+    "title": "Agent Antifaltes",
+    "area": "Lengua",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/agent/index.html",
+    "notes": "Converteix-te en detectiu de l'ortografia",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-agent-antifaltes.png",
+    "imageSource": "https://www.edu365.cat/img/product/antifaltes.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.061Z"
+  },
+  {
+    "id": "edu365-la-bibliotecapp",
+    "title": "La Bibliotecapp",
+    "area": "Lengua",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/bibliotecapp/index.html",
+    "notes": "Descobreix aventures literàries amb vuit opcions diferents",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-la-bibliotecapp.png",
+    "imageSource": "https://www.edu365.cat/img/product/bibliotecapp_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.159Z"
+  },
+  {
+    "id": "edu365-que-fem-primer",
+    "title": "Què fem primer?",
+    "area": "Logica",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/sequenciacio/index.html",
+    "notes": "Ordena imatges en la seqüència correcta",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-que-fem-primer.png",
+    "imageSource": "https://www.edu365.cat/img/product/femprimer_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.200Z"
+  },
+  {
+    "id": "edu365-que-hem-prumer",
+    "title": "Qué hèm prumèr?",
+    "area": "Logica",
+    "language": "Aranes",
+    "url": "https://www.edu365.cat/interactius/sequenciacio-aranes/index.html",
+    "notes": "Ordena imatges en la seqüència correcta en aranès",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-que-hem-prumer.png",
+    "imageSource": "https://www.edu365.cat/img/product/que-hem-prumer.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.301Z"
+  },
+  {
+    "id": "edu365-escape-cub",
+    "title": "Escape Cub",
+    "area": "Diversas áreas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/escapecub/index.html",
+    "notes": "Respon preguntes de colors i navega per la ruta de fugida",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-escape-cub.png",
+    "imageSource": "https://www.edu365.cat/img/product/escapecub-520.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.338Z"
+  },
+  {
+    "id": "edu365-electricitat-i-magnetisme",
+    "title": "Electricitat i magnetisme",
+    "area": "Ciencias Naturales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/electricitat/index.html",
+    "notes": "Explora els efectes de l'electricitat i el magnetisme",
+    "levels": [
+      "Primaria 3er ciclo",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/edu365-electricitat-i-magnetisme.png",
+    "imageSource": "https://www.edu365.cat/img/product/electricitat_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.379Z"
+  },
+  {
+    "id": "edu365-coneixement-del-cos",
+    "title": "Coneixement del cos",
+    "area": "Ciencias Naturales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/coneixementcos/index.html",
+    "notes": "Aprèn sobre higiene, nutrició i benestar",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-coneixement-del-cos.png",
+    "imageSource": "https://www.edu365.cat/img/product/coneixement-cos-520.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.453Z"
+  },
+  {
+    "id": "edu365-animalarium",
+    "title": "Animalarium",
+    "area": "Ciencias Naturales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/animalarium/index.html",
+    "notes": "Explora animals domèstics, exòtics i salvatges",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-animalarium.png",
+    "imageSource": "https://www.edu365.cat/img/product/animalarium_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.506Z"
+  },
+  {
+    "id": "edu365-no-et-descomptis-3",
+    "title": "No et descomptis 3",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/euro3/index.html",
+    "notes": "Càlcul mental amb monedes i bitllets",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-no-et-descomptis-3.png",
+    "imageSource": "https://www.edu365.cat/img/product/no_descomptis3.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.544Z"
+  },
+  {
+    "id": "edu365-viatgers-del-temps",
+    "title": "Viatgers del temps",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/pitagores/intro/index.html",
+    "notes": "Viatgers en el temps exploren el teorema de Pitàgores",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-viatgers-del-temps.png",
+    "imageSource": "https://www.edu365.cat/img/product/viatgers-del-temps.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.648Z"
+  },
+  {
+    "id": "edu365-el-cos",
+    "title": "El cos",
+    "area": "Ciencias Naturales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/cos/index.html",
+    "notes": "Aprèn els noms de les parts del cos en català",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-el-cos.png",
+    "imageSource": "https://www.edu365.cat/img/product/cos-interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.686Z"
+  },
+  {
+    "id": "edu365-eth-cos",
+    "title": "Eth còs",
+    "area": "Ciencias Naturales",
+    "language": "Aranes",
+    "url": "https://www.edu365.cat/interactius/cos-aranes/index.html",
+    "notes": "Noms de les parts del cos en aranès",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-eth-cos.png",
+    "imageSource": "https://www.edu365.cat/img/product/eth-cos.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.726Z"
+  },
+  {
+    "id": "edu365-els-sentits",
+    "title": "Els sentits",
+    "area": "Ciencias Naturales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/sentits/index.html",
+    "notes": "Descobreix els cinc sentits humans jugant",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-els-sentits.png",
+    "imageSource": "https://www.edu365.cat/img/product/els-sentits.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.771Z"
+  },
+  {
+    "id": "edu365-es-sensi",
+    "title": "Es sensi",
+    "area": "Ciencias Naturales",
+    "language": "Aranes",
+    "url": "https://www.edu365.cat/interactius/sentits-aranes/index.html",
+    "notes": "Els cinc sentits en aranès",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-es-sensi.png",
+    "imageSource": "https://www.edu365.cat/img/product/es-sensi.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.816Z"
+  },
+  {
+    "id": "edu365-sumem-de-l-1-al-10",
+    "title": "Sumem de l'1 al 10",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/sumar/index.html",
+    "notes": "Practica la suma de l'1 al 10",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-sumem-de-l-1-al-10.png",
+    "imageSource": "https://www.edu365.cat/img/product/sumem.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.855Z"
+  },
+  {
+    "id": "edu365-no-et-descomptis-2",
+    "title": "No et descomptis 2",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/euro2/index.html",
+    "notes": "Suma i iniciació a la moneda",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-no-et-descomptis-2.png",
+    "imageSource": "https://www.edu365.cat/img/product/no_descomptis2.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.899Z"
+  },
+  {
+    "id": "edu365-castaween",
+    "title": "Castaween",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/castaween/intro/index.html",
+    "notes": "Jocs bilingües per a la Castanyada i Halloween",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-castaween.png",
+    "imageSource": "https://www.edu365.cat/img/product/castaween-25.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.941Z"
+  },
+  {
+    "id": "edu365-jocs-de-tardor",
+    "title": "Jocs de tardor",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/jocsdetardor/index.html",
+    "notes": "Jocs i activitats de la festa de tardor",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-jocs-de-tardor.png",
+    "imageSource": "https://www.edu365.cat/img/product/jocstardor_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:46.985Z"
+  },
+  {
+    "id": "edu365-tardor-2023",
+    "title": "Tardor 2023",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/tardor-2023/intro/index.html",
+    "notes": "Celebració de tardor amb jocs tradicionals",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-tardor-2023.png",
+    "imageSource": "https://www.edu365.cat/img/product/tardor_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.125Z"
+  },
+  {
+    "id": "edu365-la-castanyada",
+    "title": "La Castanyada",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/castanyada/index.html",
+    "notes": "Jocs i activitats de la Castanyada",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-la-castanyada.png",
+    "imageSource": "https://www.edu365.cat/img/product/castanyada_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.168Z"
+  },
+  {
+    "id": "edu365-castanyes-i-carbasses",
+    "title": "Castanyes i carbasses",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/carbasses/intro/index.html",
+    "notes": "Tradicions de tardor a través de jocs interactius",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-castanyes-i-carbasses.png",
+    "imageSource": "https://www.edu365.cat/img/product/castanyes_carbasses_800x520.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.208Z"
+  },
+  {
+    "id": "edu365-la-magia-de-nadal",
+    "title": "La màgia de Nadal",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/nadal25/intro/index.html",
+    "notes": "Celebració de Nadal amb activitats interactives",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-la-magia-de-nadal.png",
+    "imageSource": "https://www.edu365.cat/img/product/magia-nadal-interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.278Z"
+  },
+  {
+    "id": "edu365-escudella-de-jocs",
+    "title": "Escudella de jocs",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/escudella/intro/index.html",
+    "notes": "Jocs i tradicions de Nadal",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-escudella-de-jocs.png",
+    "imageSource": "https://www.edu365.cat/img/product/escudella-de-jocs-800x520.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.319Z"
+  },
+  {
+    "id": "edu365-nadal-2023",
+    "title": "Nadal 2023",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/nadal23/intro/index.html",
+    "notes": "Activitats i jocs interactius de Nadal",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-nadal-2023.png",
+    "imageSource": "https://www.edu365.cat/img/product/nadal2023_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.392Z"
+  },
+  {
+    "id": "edu365-jocs-d-hivern",
+    "title": "Jocs d'hivern",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/hivern/index.html",
+    "notes": "Memòria, tradicions, pessebre i decoració de Nadal",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-jocs-d-hivern.png",
+    "imageSource": "https://www.edu365.cat/img/product/jocshivern_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.437Z"
+  },
+  {
+    "id": "edu365-nadal",
+    "title": "Nadal",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/nadal/index.html",
+    "notes": "Endevinalles, cançons i tradicions nadalenques",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-nadal.png",
+    "imageSource": "https://www.edu365.cat/img/product/nadal_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.492Z"
+  },
+  {
+    "id": "edu365-els-carnavals-del-mon",
+    "title": "Els carnavals del món",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/carnavals-mon/intro/index.html",
+    "notes": "Tradicions de carnaval arreu del món",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-els-carnavals-del-mon.png",
+    "imageSource": "https://www.edu365.cat/img/product/carnavals-mon-800.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.537Z"
+  },
+  {
+    "id": "edu365-carnaval-2025",
+    "title": "Carnaval 2025",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/carnaval-2025/intro/index.html",
+    "notes": "Endevina sons i completa sèries de Carnaval",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-carnaval-2025.png",
+    "imageSource": "https://www.edu365.cat/img/product/carnaval-25_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.586Z"
+  },
+  {
+    "id": "edu365-disfressa-t",
+    "title": "Disfressa't",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/disfressat/intro/index.html",
+    "notes": "Activitats de Carnaval: observació i atenció",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-disfressa-t.png",
+    "imageSource": "https://www.edu365.cat/img/product/disfressat_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.655Z"
+  },
+  {
+    "id": "edu365-carnaval-2023",
+    "title": "Carnaval 2023",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/carnaval2023/intro/index.html",
+    "notes": "Descobreix tradicions i personatges del Carnaval",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-carnaval-2023.png",
+    "imageSource": "https://www.edu365.cat/img/product/caranval2023_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.732Z"
+  },
+  {
+    "id": "edu365-carnaval",
+    "title": "Carnaval",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/carnaval/intro/index.html",
+    "notes": "Jocs i tradicions festives de Carnaval",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-carnaval.png",
+    "imageSource": "https://www.edu365.cat/img/product/carnaval_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.767Z"
+  },
+  {
+    "id": "edu365-castells-i-cavallers",
+    "title": "Castells i cavallers",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/sant-jordi-2025/intro/index.html",
+    "notes": "Prepara el Sant Jordi amb reptes interactius",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-castells-i-cavallers.png",
+    "imageSource": "https://www.edu365.cat/img/product/sant-jordi-2025.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.804Z"
+  },
+  {
+    "id": "edu365-sant-jordi-2024",
+    "title": "Sant Jordi 2024",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/sant-jordi-2024/intro/index.html",
+    "notes": "Dragons, llibres, roses i elements literaris",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-sant-jordi-2024.png",
+    "imageSource": "https://www.edu365.cat/img/product/st-jordi-24_800.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.875Z"
+  },
+  {
+    "id": "edu365-sant-jordi-2023",
+    "title": "Sant Jordi 2023",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/sant-jordi-2023/intro/index.html",
+    "notes": "Personatges de la llegenda i reptes interactius",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-sant-jordi-2023.png",
+    "imageSource": "https://www.edu365.cat/img/product/santjordi2023_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.914Z"
+  },
+  {
+    "id": "edu365-sant-jordi",
+    "title": "Sant Jordi",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/santjordi/index.html",
+    "notes": "Prepara la celebració del 23 abril amb jocs",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-sant-jordi.png",
+    "imageSource": "https://www.edu365.cat/img/product/santjordi_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.951Z"
+  },
+  {
+    "id": "edu365-les-fruites",
+    "title": "Les fruites",
+    "area": "Lengua",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/fruites/index.html",
+    "notes": "Lectura i activitats amb fruites en català",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-les-fruites.png",
+    "imageSource": "https://www.edu365.cat/img/product/fruites_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:47.991Z"
+  },
+  {
+    "id": "edu365-las-frutas",
+    "title": "Las frutas",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://www.edu365.cat/interactius/frutas/index.html",
+    "notes": "Vocabulario de frutas en castellano",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-las-frutas.png",
+    "imageSource": "https://www.edu365.cat/img/product/frutas_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.034Z"
+  },
+  {
+    "id": "edu365-mateorit",
+    "title": "Mateorit",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/MATeorit/index.html",
+    "notes": "Evita l'impacte del meteorit resolent sumes",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-mateorit.png",
+    "imageSource": "https://www.edu365.cat/img/product/mateorit_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.077Z"
+  },
+  {
+    "id": "edu365-mateorit-2",
+    "title": "Mateorit 2",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/MATeorit2/index.html",
+    "notes": "Aventura espacial avançada amb reptes matemàtics",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-mateorit-2.png",
+    "imageSource": "https://www.edu365.cat/img/product/mateorit2_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.122Z"
+  },
+  {
+    "id": "edu365-enlaira-t",
+    "title": "Enlaira't",
+    "area": "Ciencias Naturales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/sistema_solar/index.html",
+    "notes": "Capes de l'atmosfera i sistema solar",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-enlaira-t.png",
+    "imageSource": "https://www.edu365.cat/img/product/enlairat_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.158Z"
+  },
+  {
+    "id": "edu365-take-off",
+    "title": "Take off",
+    "area": "Ciencias Naturales",
+    "language": "Ingles",
+    "url": "https://www.edu365.cat/interactius/take_off/index.html",
+    "notes": "Atmosphere and solar system in English",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-take-off.png",
+    "imageSource": "https://www.edu365.cat/img/product/takeoff_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.238Z"
+  },
+  {
+    "id": "edu365-no-et-descomptis",
+    "title": "No et descomptis!",
+    "area": "Matematicas",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/euros/index.html",
+    "notes": "Càlcul mental amb monedes i operacions",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-no-et-descomptis.png",
+    "imageSource": "https://www.edu365.cat/img/product/descomptis_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.283Z"
+  },
+  {
+    "id": "edu365-take-your-time",
+    "title": "Take your time",
+    "area": "Ingles",
+    "language": "Ingles",
+    "url": "https://www.edu365.cat/interactius/time/index.html",
+    "notes": "Learn to tell the time correctly in English",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-take-your-time.png",
+    "imageSource": "https://www.edu365.cat/img/product/taketime_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.326Z"
+  },
+  {
+    "id": "edu365-pren-te-el-teu-temps",
+    "title": "Pren-te el teu temps",
+    "area": "Lengua",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/temps/index.html",
+    "notes": "Aprèn a llegir l'hora correctament en català",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-pren-te-el-teu-temps.png",
+    "imageSource": "https://www.edu365.cat/img/product/prentemps_interactiu-800.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.366Z"
+  },
+  {
+    "id": "edu365-continents-i-oceans",
+    "title": "Continents i oceans",
+    "area": "Ciencias Sociales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/continents/index.html",
+    "notes": "Localitza continents i oceans al mapa del món",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-continents-i-oceans.png",
+    "imageSource": "https://www.edu365.cat/img/product/continents_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.404Z"
+  },
+  {
+    "id": "edu365-continents-and-oceans",
+    "title": "Continents and oceans",
+    "area": "Ciencias Sociales",
+    "language": "Ingles",
+    "url": "https://www.edu365.cat/interactius/continents-english/index.html",
+    "notes": "Continents and oceans with English vocabulary",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-continents-and-oceans.png",
+    "imageSource": "https://www.edu365.cat/img/product/continents_eng_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.457Z"
+  },
+  {
+    "id": "edu365-es-colors",
+    "title": "Es colors",
+    "area": "Lengua",
+    "language": "Aranes",
+    "url": "https://www.edu365.cat/interactius/color-aranes/index.html",
+    "notes": "Noms dels colors en aranès",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-es-colors.png",
+    "imageSource": "https://www.edu365.cat/img/product/escolors_interacitu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.498Z"
+  },
+  {
+    "id": "edu365-the-colors",
+    "title": "The colors",
+    "area": "Ingles",
+    "language": "Ingles",
+    "url": "https://www.edu365.cat/interactius/color/index.html",
+    "notes": "Learn English color vocabulary through play",
+    "levels": [
+      "Infantil"
+    ],
+    "image": "assets/game-images/edu365-the-colors.png",
+    "imageSource": "https://www.edu365.cat/img/product/thecolors_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.536Z"
+  },
+  {
+    "id": "edu365-ciber-odissea",
+    "title": "Ciber-Odissea",
+    "area": "Informatica",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/ciberodissea/index.html",
+    "notes": "Tecnologia digital, internet i xarxes socials",
+    "levels": [
+      "Primaria",
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/edu365-ciber-odissea.png",
+    "imageSource": "https://www.edu365.cat/img/product/ciberodissea_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.573Z"
+  },
+  {
+    "id": "edu365-paraules-estranyes",
+    "title": "Paraules estranyes",
+    "area": "Lengua",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/paraules-estranyes/index.html",
+    "notes": "Explora paraules estranyes i misteris lèxics",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-paraules-estranyes.png",
+    "imageSource": "https://www.edu365.cat/img/product/estranyes_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.619Z"
+  },
+  {
+    "id": "edu365-atrapa-el-residu",
+    "title": "Atrapa el residu",
+    "area": "Ciencias Naturales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/reciclatge/index.html",
+    "notes": "Aprèn a classificar residus correctament",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-atrapa-el-residu.png",
+    "imageSource": "https://www.edu365.cat/img/product/atrapa_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.702Z"
+  },
+  {
+    "id": "edu365-easter",
+    "title": "Easter",
+    "area": "Dias especiales",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/easter/index.html",
+    "notes": "Tradicions de Pasqua en català i anglès",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-easter.png",
+    "imageSource": "https://www.edu365.cat/img/product/easter-game.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.748Z"
+  },
+  {
+    "id": "edu365-lletres-sobre-rodes",
+    "title": "Lletres sobre rodes",
+    "area": "Lengua",
+    "language": "Catalan",
+    "url": "https://www.edu365.cat/interactius/lletres/index.html",
+    "notes": "Jocs de paraules amb temàtica de skate",
+    "levels": [
+      "Primaria"
+    ],
+    "image": "assets/game-images/edu365-lletres-sobre-rodes.png",
+    "imageSource": "https://www.edu365.cat/img/product/lletresrodes_interactiu.png",
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat",
+    "fetchedAt": "2026-05-06T15:54:48.789Z"
+  }
+]
