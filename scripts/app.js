@@ -23,6 +23,7 @@ const state = {
 };
 
 setLang(detectLang());
+registerServiceWorker();
 
 boot().catch((error) => {
   console.error("No se pudo iniciar la aplicacion", error);
@@ -61,6 +62,18 @@ async function fetchJson(url, optional = false) {
     throw new Error(`Fallo al cargar ${url}: ${response.status}`);
   }
   return response.json();
+}
+
+function registerServiceWorker() {
+  if (!("serviceWorker" in navigator)) {
+    return;
+  }
+
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js").catch((error) => {
+      console.warn("No se pudo registrar el service worker", error);
+    });
+  });
 }
 
 function buildReportIndex(results) {
