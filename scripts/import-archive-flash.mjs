@@ -105,7 +105,7 @@ function mapArea(subjects) {
   for (const [pattern, area] of AREA_MAP) {
     if (pattern.test(text)) return area;
   }
-  return "General";
+  return "Juegos";
 }
 
 function mapLanguage(lang) {
