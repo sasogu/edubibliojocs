@@ -4442,18 +4442,6 @@
     ]
   },
   {
-    "id": "halloween-chain",
-    "title": "Halloween Chain",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://cdn.primarygames.com/HTML5/HalloweenChain/",
-    "notes": "Actividad interactiva para practicar dias especiales en Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ]
-  },
-  {
     "id": "halloween-memory",
     "title": "Halloween memory",
     "area": "Dias especiales",
@@ -5969,19 +5957,6 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
-    ]
-  },
-  {
-    "id": "make-an-easter-egg-2",
-    "title": "Make an easter egg",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://cdn.primarygames.com/HTML5/MakeAnEasterEgg/",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
     ]
   },
   {
@@ -12426,21 +12401,6 @@
     "fetchedAt": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "edu365-construct-3",
-    "title": "Construct 3",
-    "area": "Informatica",
-    "language": "Català/Valencià",
-    "url": "https://www.construct.net/en",
-    "notes": "Plataforma visual per crear videojocs 2D sense programar, al navegador",
-    "levels": [
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/videojoc.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
     "id": "edu365-shakespeare-timeline-pbs",
     "title": "Shakespeare Timeline (PBS)",
     "area": "Lengua",
@@ -12726,21 +12686,6 @@
     "notes": "Primatòleg i estudi de primats",
     "levels": [
       "Primaria",
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "edu365-cervantes-en-la-bne",
-    "title": "Cervantes en la BNE",
-    "area": "Lengua",
-    "language": "Català/Valencià",
-    "url": "https://cervantes.bne.es/",
-    "notes": "Accés digital a llibres, il·lustracions i vídeos sobre Cervantes",
-    "levels": [
       "Secundaria"
     ],
     "source": "edu365",
@@ -13429,21 +13374,6 @@
     "notes": "Plataforma per dissenyar i personalitzar materials gràfics, inclosos còmics",
     "levels": [
       "Primaria",
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/comic.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "edu365-fonts-de-la-illustracio-i-el-comic-bnc",
-    "title": "Fonts de la il·lustració i el còmic (BNC)",
-    "area": "Artes",
-    "language": "Català/Valencià",
-    "url": "https://www.bnc.cat/Il-lustracio-i-comic",
-    "notes": "Visió general sobre la història de la il·lustració i el còmic a Catalunya",
-    "levels": [
       "Secundaria"
     ],
     "source": "edu365",
@@ -14870,22 +14800,6 @@
     "fetchedAt": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "edu365-portrait-illustration-maker",
-    "title": "Portrait Illustration Maker",
-    "area": "Artes",
-    "language": "Català/Valencià",
-    "url": "https://illustmaker.abi-station.com/index_en.shtml",
-    "notes": "Crea el teu avatar amb un estil de videojoc japonès",
-    "levels": [
-      "Primaria",
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
     "id": "edu365-doppelme",
     "title": "DoppelMe",
     "area": "Artes",
@@ -15089,22 +15003,6 @@
     "fetchedAt": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "edu365-com-es-forma-una-illa-volcanica-nasa",
-    "title": "Com es forma una illa volcànica? (NASA)",
-    "area": "Ciencias Naturales",
-    "language": "Català/Valencià",
-    "url": "https://www.nationalgeographic.es/video/tv/video-la-nasa-explica-como-nacen-las-islas-volcanicas-con-una-animacion",
-    "notes": "Animació de la NASA per explicar com neixen les illes volcàniques",
-    "levels": [
-      "Primaria",
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/volcans.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
     "id": "edu365-volcano-world",
     "title": "Volcano World",
     "area": "Ciencias Naturales",
@@ -15230,22 +15128,6 @@
     "fetchedAt": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "edu365-agencia-de-ciberseguretat-de-catalunya",
-    "title": "Agència de Ciberseguretat de Catalunya",
-    "area": "Seguridad Digital",
-    "language": "Català/Valencià",
-    "url": "https://internetsegura.cat/",
-    "notes": "Descobreix novetats i recursos per navegar amb seguretat",
-    "levels": [
-      "Primaria",
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
     "id": "edu365-scratchy-contrasenya-segura",
     "title": "Scratchy - Contrasenya segura",
     "area": "Seguridad Digital",
@@ -15285,21 +15167,6 @@
     "notes": "Què cal saber per gestionar i protegir les nostres dades a la xarxa",
     "levels": [
       "Primaria",
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "edu365-videos-internet-per-als-adolescents-cac",
-    "title": "Vídeos Internet per als adolescents (CAC)",
-    "area": "Seguridad Digital",
-    "language": "Català/Valencià",
-    "url": "https://www.cac.cat/videos-internet-als-adolescents",
-    "notes": "Recomanacions per a l'ús responsable d'internet",
-    "levels": [
       "Secundaria"
     ],
     "source": "edu365",
@@ -15470,21 +15337,6 @@
     "language": "Català/Valencià",
     "url": "https://impactlab.org/",
     "notes": "Mapes interactius per explorar com el canvi climàtic ens afectarà",
-    "levels": [
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "edu365-que-es-el-cambio-climatico-onu",
-    "title": "¿Qué es el cambio climático? (ONU)",
-    "area": "Ciencias Naturales",
-    "language": "Català/Valencià",
-    "url": "https://www.un.org/es/climatechange/what-is-climate-change",
-    "notes": "Consulta les últimes investigacions de les Nacions Unides",
     "levels": [
       "Secundaria"
     ],
