@@ -1070,7 +1070,8 @@ function createReportButton(gameKeyValue, article) {
         article.appendChild(feedback);
         setTimeout(() => feedback.remove(), 4000);
 
-        if ((state.brokenSummary.get(gameKeyValue) || 0) >= REPORT_THRESHOLD) {
+        const bd = state.brokenSummary.get(gameKeyValue);
+        if ((bd?.count || 0) >= REPORT_THRESHOLD || bd?.adminReported) {
           render();
         }
       } catch (error) {
