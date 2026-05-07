@@ -8,7 +8,7 @@ const DEFAULT_GAME_IMAGE = "./assets/game-images/generic-game.svg";
 const PAGE_SIZE = 48;
 const FAVORITES_STORAGE_KEY = "bibliojocs-favorites";
 const RATINGS_STORAGE_KEY = "bibliojocs-ratings";
-const FIREBASE_CONFIG_MODULE = "./firebase-config.js";
+const FIREBASE_CONFIG_MODULE = "../firebase-config.js";
 
 const searchInput = document.querySelector("#searchInput");
 const levelFilter = document.querySelector("#levelFilter");
@@ -492,7 +492,7 @@ async function initPreferenceBackend() {
     const googleAuthEnabled = Boolean(firebaseSettings.googleAuthEnabled);
 
     if (!auth.currentUser) {
-      await authModule.signInAnonymously(auth);
+      await authModule.signInAnonymously(auth).catch(() => {});
     }
 
     const db = firestoreModule.getFirestore(app);
