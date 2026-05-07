@@ -1,216 +1,297 @@
 # Bibliojocs
 
-Sitio estatico para gestionar enlaces de juegos educativos.
+Directori de jocs educatius per a Infantil, Primària i Secundària. Lloc estàtic (HTML + CSS + JS pur) amb sincronització opcional via Firebase.
 
-## Estructura
+🌐 **Producció**: [edutictac.es](https://edutictac.es)
 
-- `index.html`: pagina principal
-- `data/games.json`: listado editable de juegos
-- `scripts/check-links.mjs`: verificador de enlaces
-- `reports/link-report.json`: informe generado automaticamente
-- `.github/workflows/link-check.yml`: chequeo diario en GitHub Actions
+---
 
-## Como editar juegos
+## Índex
 
-1. Abre `data/games.json`.
-2. Anade, edita o elimina entradas.
-3. Mantiene este formato por juego:
+- [Estructura del projecte](#estructura-del-projecte)
+- [Instal·lació](#installació)
+- [Gestió del catàleg](#gestió-del-catàleg)
+- [Importació de continguts](#importació-de-continguts)
+- [Captura d'imatges](#captura-dimatges)
+- [Verificació d'enllaços](#verificació-denllaços)
+- [Firebase](#firebase)
+- [Deploy](#deploy)
+
+---
+
+## Estructura del projecte
+
+```
+├── index.html                  Pàgina principal
+├── firebase-config.js          Credencials Firebase (NO està en git)
+├── sw.js                       Service Worker (PWA)
+├── data/
+│   ├── games.json              Catàleg principal d'activitats
+│   ├── games-home.json         Subconjunt per la càrrega inicial (generat)
+│   └── archive-flash-staging.json  Entrades pendents de revisió (Archive.org)
+├── assets/
+│   ├── game-images/            Captures de pantalla dels jocs
+│   └── flash/                  Fitxers .swf locals (NO estan en git)
+├── reports/
+│   └── link-report.json        Informe d'estat dels enllaços (generat)
+├── scripts/
+│   ├── check-links.mjs         Verificador d'enllaços
+│   ├── generate-home.mjs       Genera games-home.json
+│   ├── import-csv.mjs          Importa des de CSV
+│   ├── import-wordpress.mjs    Importa des de WordPress
+│   ├── import-archive-flash.mjs  Importa Flash educatiu d'Archive.org
+│   ├── capture-game-images.mjs Captura automàtica d'imatges
+│   └── deploy.sh               Script de deploy per SSH
+└── styles/
+    └── site.css
+```
+
+---
+
+## Instal·lació
+
+```bash
+git clone https://github.com/sasogu/edubibliojocs.git
+cd edubibliojocs
+npm install
+```
+
+---
+
+## Gestió del catàleg
+
+El catàleg és `data/games.json`. Cada entrada té aquest format:
 
 ```json
 {
-  "id": "id-unico",
-  "title": "Titulo",
+  "id": "id-unic",
+  "title": "Títol del joc",
+  "title_ca": "Títol en català (opcional)",
   "area": "Matematicas",
-  "level": "Primaria 1er ciclo",
   "language": "Castellano",
-  "url": "https://ejemplo.com",
-  "notes": "Descripcion corta"
+  "url": "https://exemple.com/joc",
+  "notes": "Descripció breu",
+  "notes_ca": "Descripció en català (opcional)",
+  "levels": ["Primaria 1er ciclo", "Primaria 2o ciclo"],
+  "image": "assets/game-images/nom-del-joc.png",
+  "flash": true
 }
 ```
 
-## Detectar enlaces rotos
+**Camps obligatoris**: `id`, `title`, `url`
 
-Ejecuta:
+**Valors vàlids per `area`**: `Matematicas`, `Lengua`, `Ciencias Naturales`, `Sociales`, `Plastica`, `Musica`, `Ingles`, `Educación Física`, `Informática`, `Logica`, `General`, `Seguridad Digital`, `Tecnologia`, `Religion`, `Frances`
 
-```bash
-npm run check:links
-```
+**Valors vàlids per `levels`**: `Infantil`, `Primaria`, `Primaria 1er ciclo`, `Primaria 2o ciclo`, `Primaria 3er ciclo`, `Secundaria`
 
-Esto crea o actualiza `reports/link-report.json` con estado HTTP y severidad:
+**Valors vàlids per `language`**: `Castellano`, `Català/Valencià`, `Inglés`, `Francés`, `Aranes`
 
-- `error`: bloquea la ejecucion (por ejemplo, 404 o fallo de red).
-- `warning`: no bloquea por defecto (por ejemplo, timeout o 5xx temporal).
+El camp `flash: true` activa el reproductor Ruffle integrat per a fitxers `.swf`.
 
-Si quieres que los avisos tambien bloqueen:
+---
 
-```bash
-STRICT_WARNINGS=true npm run check:links
-```
+## Importació de continguts
 
-## Importar desde CSV
+### Des de CSV
 
-Puedes importar un catalogo completo con este formato de columnas:
-
-```csv
-id,title,area,level,language,url,notes
-```
-
-Hay una plantilla en `data/games.sample.csv`.
-
-Para importar desde `data/games.csv`:
+Format de les columnes: `id,title,area,level,language,url,notes`
 
 ```bash
-npm run import:csv
+npm run import:csv                          # llegeix data/games.csv
+node scripts/import-csv.mjs ruta/arxiu.csv  # fitxer alternatiu
 ```
 
-Para importar desde otro archivo:
+### Des de WordPress
 
 ```bash
-node scripts/import-csv.mjs ruta/al/archivo.csv
+npm run import:wp          # importació completa
+npm run import:wp:merge    # fusiona amb el catàleg existent
+npm run import:wp:images   # descarrega imatges de WordPress
 ```
 
-## Capturar imagenes automaticamente
+### Flash educatiu d'Archive.org
 
-Puedes generar capturas para juegos sin `image` usando Chromium en modo headless:
+Descarrega jocs Flash educatius d'Archive.org i els allotja localment (necessari perquè Archive.org està bloquejat a les xarxes escolars).
 
 ```bash
-npm run capture:images -- --limit 25
+# 1. Cerca sense descarregar (per veure quants jocs hi ha)
+npm run import:flash:dry
+
+# 2. Descàrrega real (es pot aturar i reprendre)
+npm run import:flash
+
+# 3. Opcions avançades
+node scripts/import-archive-flash.mjs --limit 50
+node scripts/import-archive-flash.mjs --query "math elementary"
+
+# 4. Revisa data/archive-flash-staging.json i elimina els que no vulguis
+
+# 5. Afegeix els aprovats a games.json
+npm run import:flash:apply
 ```
 
-El script:
+**Notes**:
+- Els `.swf` es guarden a `assets/flash/` i **no estan en git** (massa pesats), però el deploy els puja al servidor via rsync.
+- El script és *resumible*: guarda el progrés a `data/archive-flash-state.json`.
+- Mida màxima per fitxer: 100 MB.
+- Mapatge automàtic de matèries, idiomes i etapes a partir dels tags d'Archive.org.
 
-- abre la URL original del juego
-- guarda una captura en `assets/game-images/`
-- actualiza `data/games.json` con el campo `image`
+---
 
-Opciones utiles:
+## Captura d'imatges
+
+Genera captures de pantalla automàtiques per als jocs sense imatge usant Chromium en mode headless:
 
 ```bash
-# Solo un juego concreto
-npm run capture:images -- --id actividades-de-lectura
-
-# Solo un dominio concreto
+npm run capture:images -- --limit 25        # fins a 25 captures
+npm run capture:images -- --id nom-del-joc  # un joc concret
 npm run capture:images -- --host clic.xtec.cat --limit 50
-
-# Simular sin escribir cambios en games.json
-npm run capture:images -- --host clic.xtec.cat --limit 10 --dry-run
-
-# Forzar recaptura
-npm run capture:images -- --id actividades-de-lectura --force
+npm run capture:images -- --force           # força recaptura
+npm run capture:images -- --dry-run        # simula sense escriure
 ```
 
-Variables opcionales:
+Variables d'entorn opcionals: `CHROMIUM_BIN`, `BROWSER_BIN`
 
-- `CHROMIUM_BIN`: ruta al ejecutable de Chromium o Chrome
-- `BROWSER_BIN`: alias alternativo
+---
 
-## Publicacion
+## Verificació d'enllaços
 
-Puedes publicar en GitHub Pages, Netlify o Cloudflare Pages. El sitio no necesita backend.
+```bash
+npm run check:links               # verifica tots els URL del catàleg
+STRICT_WARNINGS=true npm run check:links  # tracta avisos com a errors
+```
 
-## Favoritos y valoraciones compartidas con Firebase
+Genera `reports/link-report.json` amb l'estat HTTP de cada URL. La interfície mostra el resultat directament a cada targeta.
 
-Ahora la app puede trabajar en dos modos:
+El workflow `.github/workflows/link-check.yml` executa la verificació diàriament de forma automàtica.
 
-- Local (por defecto): favoritos y valoraciones en localStorage.
-- Firebase: favoritos por usuario + valoraciones compartidas entre usuarios.
+---
 
-### 1) Configurar Firebase
+## Firebase
 
-Edita `scripts/firebase-config.js`:
+La app funciona en dos modes:
 
-1. Rellena `firebaseConfig` con los valores de tu proyecto.
-2. Cambia `enabled` a `true`.
-3. Si quieres sincronizacion por cuenta Google, cambia `googleAuthEnabled` a `true`.
+| Mode | Favorits | Valoracions | Sincronització |
+|------|----------|-------------|----------------|
+| Local (per defecte) | localStorage | localStorage | No |
+| Firebase | Firestore per usuari | Firestore compartides | Sí (tots els dispositius) |
 
-### 2) Activar servicios en Firebase Console
+### 1. Configurar `firebase-config.js`
 
-1. Authentication -> Sign-in method -> habilita `Anonymous`.
-2. Firestore Database -> crea la base de datos en modo produccion.
-3. (Opcional) Authentication -> Sign-in method -> habilita `Google`.
-4. En Authentication -> Settings -> Authorized domains, anade tu dominio de produccion.
+Crea el fitxer `firebase-config.js` a l'arrel del projecte (no està en git):
 
-### 3) Estructura de datos usada
+```js
+export const firebaseSettings = {
+  enabled: true,
+  googleAuthEnabled: true,
+  adminEmail: "el-teu-email@gmail.com",  // email de l'administrador
+};
 
-- `users/{uid}/favorites/{gameId}`
-- `users/{uid}/ratings/{gameId}` con `value` de 1 a 5
-- `ratingSummary/{gameId}` con `sum`, `count`, `avg`
+export const firebaseConfig = {
+  apiKey: "...",
+  authDomain: "...",
+  projectId: "...",
+  storageBucket: "...",
+  messagingSenderId: "...",
+  appId: "...",
+};
+```
 
-### 4) Reglas iniciales recomendadas (Firestore Rules)
+### 2. Activar serveis a Firebase Console
 
-```text
+1. **Authentication → Sign-in method** → habilita `Anonymous`
+2. **Authentication → Sign-in method** → habilita `Google` (si vols comptes)
+3. **Authentication → Settings → Authorized domains** → afegeix el teu domini
+4. **Firestore Database** → crea la base de dades en mode producció
+
+### 3. Regles de Firestore
+
+```js
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-    match /users/{userId}/favorites/{gameId} {
-      allow read, write: if request.auth != null && request.auth.uid == userId;
-    }
 
-    match /users/{userId}/ratings/{gameId} {
+    match /users/{userId}/{document=**} {
       allow read, write: if request.auth != null && request.auth.uid == userId;
     }
 
     match /ratingSummary/{gameId} {
-      allow read: if true;
-      allow write: if request.auth != null;
+      allow read: if request.auth != null;
+      allow write: if request.auth != null
+                   && request.auth.token.firebase.sign_in_provider != 'anonymous';
+    }
+
+    match /brokenReports/{gameId} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null
+                   && request.auth.token.firebase.sign_in_provider != 'anonymous';
+    }
+
+    match /submissions/{submissionId} {
+      allow read: if request.auth != null;
+      allow write: if request.auth != null
+                   && request.auth.token.firebase.sign_in_provider != 'anonymous';
     }
   }
 }
 ```
 
-Con esto, cada usuario conserva sus favoritos/nota, y la media de estrellas se comparte entre todos.
+### 4. Estructura de dades a Firestore
 
-Si ademas activas Google Sign-In, el usuario podra iniciar sesion y mantener sus favoritos/valoraciones al cambiar de navegador o dispositivo.
+```
+users/{uid}/favorites/{gameId}       → favorits per usuari
+users/{uid}/ratings/{gameId}         → valoració personal (value: 1-5)
+users/{uid}/reports/{gameId}         → reportes "no funciona" per usuari
+ratingSummary/{gameId}               → {avg, count} valoració agregada
+brokenReports/{gameId}               → {count, adminReported} reportes agregats
+submissions/{submissionId}           → activitats proposades pels usuaris
+```
 
-### Deploy local por SSH (directo al servidor)
+### 5. Funcions d'administrador
 
-Si quieres subir desde tu maquina al servidor que ya usas por SSH, tienes este script:
+L'usuari amb l'email configurat a `adminEmail` té accés a:
 
-1. Ruta: `scripts/deploy.sh`
-2. Comando: `npm run deploy`
-3. Destino preconfigurado: `samgua@edutictac.es:2222` -> `/var/www/my_webapp__4/www`
+- **Filtre "No funciona (admin)"**: activitats amagades (≥ 3 reports d'usuaris o marcades per l'admin). L'admin pot marcar una activitat i desapareix immediatament per a tothom.
+- **Filtre "Reportades (admin)"**: activitats amb 1-2 reports, visibles però vigilades.
 
-Variables opcionales (si quieres sobreescribir):
+---
 
-- `DEPLOY_HOST`: host o IP del servidor
-- `DEPLOY_USER`: usuario SSH
-- `DEPLOY_PORT` (opcional): por defecto `22`
-- `DEPLOY_PATH` (opcional): por defecto `/var/www/my_webapp__4/www`
-- `DEPLOY_SSH_KEY` (opcional): ruta a clave privada SSH
-- `DRY_RUN=1` (opcional): simula sin copiar
-- `VERIFY_URL` (opcional): URL publica para verificacion HTTP opcional
-- `VERIFY_TIMEOUT` (opcional): timeout HTTP en segundos
-- `SKIP_VERIFY=1` (opcional): omite la verificacion final
-- `VERIFY_STRICT=1` (opcional): si falla la verificacion HTTP opcional, termina con error
-- `FIX_PERMS=1` (opcional): fuerza permisos seguros web (carpetas 755, ficheros 644)
+## Deploy
 
-Ejemplo real:
+### Deploy ràpid (sense verificació d'enllaços)
+
+```bash
+npm run deploy:fast
+```
+
+### Deploy complet (amb verificació d'enllaços)
 
 ```bash
 npm run deploy
 ```
 
-Prueba en modo simulacion:
+### Simulació sense pujar res
 
 ```bash
 npm run deploy:dry
 ```
 
-Por defecto, en deploy real el script ajusta permisos web en destino, luego comprueba por SSH que existe `index.html`. La verificacion HTTP publica solo se ejecuta si defines `VERIFY_URL`.
+### Variables de configuració del deploy
 
-Tambien tienes despliegue automatico por SSH con GitHub Actions en `.github/workflows/deploy.yml`.
+| Variable | Per defecte | Descripció |
+|----------|-------------|------------|
+| `DEPLOY_HOST` | `edutictac.es` | Host del servidor |
+| `DEPLOY_USER` | `samgua` | Usuari SSH |
+| `DEPLOY_PORT` | `2222` | Port SSH |
+| `DEPLOY_PATH` | `/var/www/my_webapp__4/www` | Ruta remota |
+| `DEPLOY_SSH_KEY` | — | Clau privada SSH |
+| `DRY_RUN=1` | — | Simula sense copiar |
+| `SKIP_LINKS=1` | — | Omet la verificació d'enllaços |
+| `SKIP_VERIFY=1` | — | Omet la verificació post-deploy |
+| `FIX_PERMS=1` | `1` | Ajusta permisos (dirs 755, fitxers 644) |
 
-### Deploy a servidor por SSH
+### Deploy automàtic via GitHub Actions
 
-1. Crea estos Secrets en GitHub (Settings > Secrets and variables > Actions):
+El workflow `.github/workflows/deploy.yml` fa el deploy automàticament en fer push a `main`. Configura aquests Secrets a GitHub (Settings → Secrets → Actions):
 
-- `DEPLOY_HOST`: host o IP del servidor
-- `DEPLOY_USER`: usuario SSH
-- `DEPLOY_PATH`: carpeta destino en el servidor (por ejemplo `/var/www/bibliojocs`)
-- `DEPLOY_SSH_KEY`: clave privada SSH (formato OpenSSH)
-- `DEPLOY_PORT` (opcional): puerto SSH, por defecto `22`
-
-2. Sube la clave publica correspondiente al archivo `authorized_keys` del servidor.
-3. Haz push a `main` o ejecuta manualmente el workflow `Deploy to Server`.
-
-El deploy sincroniza el sitio con `rsync --delete` y excluye archivos de desarrollo.
+- `DEPLOY_HOST`, `DEPLOY_USER`, `DEPLOY_PATH`, `DEPLOY_SSH_KEY`, `DEPLOY_PORT`
