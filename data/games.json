@@ -129,17 +129,6 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/Screenshot_20200128_124949.png"
   },
   {
-    "id": "collabora",
-    "title": "Col·labora",
-    "area": "General",
-    "language": "Castellano",
-    "url": "https://m0n.co/usp",
-    "notes": "Aquest és un projecte obert en el qual tot aquell interessat pot participar. Si trobeu algun joc a faltar, podeu enviar-ho en aquesta secció. L&#8217;afegirem el més aviat possible. Moltes gràcies!",
-    "levels": [
-      "Primaria"
-    ]
-  },
-  {
     "id": "comenotas",
     "title": "ComeNotas",
     "area": "Musica",
