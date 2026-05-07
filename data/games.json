@@ -11536,21 +11536,6 @@
     "fetchedAt": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "edu365-retrobat",
-    "title": "Retrobat",
-    "area": "Tecnología",
-    "language": "Català/Valencià",
-    "url": "https://www.retrobat.org/accueil-es/",
-    "notes": "Emulador de consoles antigues",
-    "levels": [
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/open-source.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
     "id": "edu365-opentoonz",
     "title": "OpenToonz",
     "area": "Artes",
@@ -12426,21 +12411,6 @@
     "fetchedAt": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "edu365-meshmixer",
-    "title": "Meshmixer",
-    "area": "Artes",
-    "language": "Català/Valencià",
-    "url": "http://www.meshmixer.com/",
-    "notes": "Programari de modelatge en 3D per crear, reconstruir i esculpir dissenys",
-    "levels": [
-      "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
     "id": "edu365-google-web-designer",
     "title": "Google Web Designer",
     "area": "Informatica",
@@ -12964,21 +12934,6 @@
     "fetchedAt": "2026-05-07T00:00:00.000Z"
   },
   {
-    "id": "edu365-lilla-del-mussol",
-    "title": "L'illa del mussol",
-    "area": "Manualitats",
-    "language": "Català/Valencià",
-    "url": "https://www.edu365.cat/taller/estiu2023/illa-mussol-joc.pdf",
-    "notes": "Construeix el teu joc de taula i prepara't per viure una aventura pirata",
-    "levels": [
-      "Primaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
     "id": "edu365-ull-viu",
     "title": "Ull viu!",
     "area": "Manualitats",
@@ -13368,21 +13323,6 @@
     "levels": [
       "Primaria",
       "Secundaria"
-    ],
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat/comic.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
-  },
-  {
-    "id": "edu365-super-action-comic-maker",
-    "title": "Super Action Comic Maker",
-    "area": "Artes",
-    "language": "Català/Valencià",
-    "url": "https://www.culturestreet.org.uk/activities/superactioncomicmaker/",
-    "notes": "Eina en línia per crear còmics interactius de manera senzilla",
-    "levels": [
-      "Primaria"
     ],
     "source": "edu365",
     "sourceColor": "#00529B",
