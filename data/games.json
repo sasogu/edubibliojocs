@@ -282,19 +282,6 @@
     "flash": true
   },
   {
-    "id": "abecedari-valencia",
-    "title": "Lletres i abecedari",
-    "area": "Lectoescritura",
-    "language": "Català/Valencià",
-    "url": "https://clic.xtec.cat/ca/jclic/",
-    "notes": "Activitats JClic en catala per al treball de lectoescriptura inicial.",
-    "levels": [
-      "Infantil"
-    ],
-    "image": "assets/game-images/abecedari-valencia.png",
-    "imageSource": "https://clic.xtec.cat/ca/jclic/"
-  },
-  {
     "id": "mapes-espanya",
     "title": "Mapas interactivos de Espana",
     "area": "Sociales",
