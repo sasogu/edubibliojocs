@@ -135,12 +135,17 @@ function setReportBanner(report) {
 
 function hydrateFilterOptions() {
   fillSelect(levelFilter, uniqueLevelValues(state.games));
-  fillSelect(languageFilter, uniqueValues(state.games, "language"));
+  fillSelect(languageFilter, uniqueLanguageValues(state.games));
   fillSelect(areaFilter, uniqueValues(state.games, "area"));
 }
 
 function uniqueLevelValues(items) {
   const all = items.flatMap((g) => g.levels || (g.level ? [g.level] : []));
+  return [...new Set(all)].sort((a, b) => a.localeCompare(b));
+}
+
+function uniqueLanguageValues(items) {
+  const all = items.flatMap((game) => gameLanguages(game));
   return [...new Set(all)].sort((a, b) => a.localeCompare(b));
 }
 
@@ -155,6 +160,17 @@ function fillSelect(select, values) {
 
 function uniqueValues(items, key) {
   return [...new Set(items.map((item) => item[key]).filter(Boolean))].sort((a, b) => a.localeCompare(b));
+}
+
+function gameLanguages(game) {
+  const raw = game?.languages || game?.language;
+  const values = Array.isArray(raw) ? raw : [raw];
+  return values.map((value) => String(value || "").trim()).filter(Boolean);
+}
+
+function gameLanguageText(game) {
+  const languages = gameLanguages(game);
+  return languages.length > 0 ? languages.join(", ") : "";
 }
 
 function wireEvents() {
@@ -283,7 +299,7 @@ function render() {
       return false;
     }
 
-    if (selectedLanguage && game.language !== selectedLanguage) {
+    if (selectedLanguage && !gameLanguages(game).includes(selectedLanguage)) {
       return false;
     }
 
@@ -292,7 +308,7 @@ function render() {
     }
 
     if (term) {
-      const haystack = [game.title, game.area, game.notes, game.language, ...gameLevels]
+      const haystack = [game.title, game.area, game.notes, ...gameLanguages(game), ...gameLevels]
         .filter(Boolean)
         .join(" ")
         .toLowerCase();
@@ -326,7 +342,7 @@ function gameKey(game) {
     return byUrl;
   }
 
-  const fallback = [game.title, game.area, game.language]
+  const fallback = [game.title, game.area, gameLanguageText(game)]
     .filter(Boolean)
     .join("|")
     .toLowerCase();
@@ -728,7 +744,7 @@ function buildCard(game) {
   meta.className = "meta";
 
   const area = tag(game.area || "General");
-  const language = tag(game.language || "Idioma no definido", "lang");
+  const language = tag(gameLanguageText(game) || "Idioma no definido", "lang");
   const gameLevels = game.levels || (game.level ? [game.level] : [i18n("no_level")]);
   const levelTags = gameLevels.map((l) => tag(l));
   const flashTag = game.flash ? [tag("Flash", "flash")] : [];

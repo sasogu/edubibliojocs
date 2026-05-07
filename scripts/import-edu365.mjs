@@ -80,7 +80,7 @@ const RAW_ACTIVITIES = [
   { title: 'Ciber-Odissea', path: '/interactius/ciberodissea/index.html', img: 'ciberodissea_interactiu.png', subject: 'informatica', level: 'primaria-secundaria', language: 'Catalan/Valencià', notes: 'Tecnologia digital, internet i xarxes socials' },
   { title: 'Paraules estranyes', path: '/interactius/paraules-estranyes/index.html', img: 'estranyes_interactiu.png', subject: 'lengua', level: 'primaria', language: 'Catalan/Valencià', notes: 'Explora paraules estranyes i misteris lèxics' },
   { title: 'Atrapa el residu', path: '/interactius/reciclatge/index.html', img: 'atrapa_interactiu.png', subject: 'ciencias', level: 'primaria', language: 'Catalan/Valencià', notes: 'Aprèn a classificar residus correctament' },
-  { title: 'Easter', path: '/interactius/easter/index.html', img: 'easter-game.png', subject: 'cultural', level: 'infantil-primaria', language: 'Catalan/Valencià', notes: 'Tradicions de Pasqua en català i anglès' },
+  { title: 'Easter', path: '/interactius/easter/index.html', img: 'easter-game.png', subject: 'cultural', level: 'infantil-primaria', language: ['Catalan/Valencià', 'Ingles'], notes: 'Tradicions de Pasqua en català i anglès' },
   { title: 'Lletres sobre rodes', path: '/interactius/lletres/index.html', img: 'lletresrodes_interactiu.png', subject: 'lengua', level: 'primaria', language: 'Catalan/Valencià', notes: 'Jocs de paraules amb temàtica de skate' },
 ];
 

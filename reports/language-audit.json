@@ -1,0 +1,906 @@
+{
+  "generatedAt": "2026-05-07T06:09:42.253Z",
+  "applied": [
+    {
+      "id": "edu365-easter",
+      "change": "language -> [Catalan/Valencià, Ingles]",
+      "reason": "notes mention català i anglès"
+    },
+    {
+      "id": "aranas-2",
+      "change": "area -> Musica",
+      "reason": "actividad de música corregida por revisión manual"
+    },
+    {
+      "id": "pajarologia-2",
+      "change": "area -> Musica",
+      "reason": "actividad de música corregida por revisión manual"
+    }
+  ],
+  "candidates": {
+    "textMultilingual": [
+      {
+        "id": "edu365-easter",
+        "title": "Easter",
+        "area": "Dias especiales",
+        "language": [
+          "Catalan/Valencià",
+          "Ingles"
+        ],
+        "url": "https://www.edu365.cat/interactius/easter/index.html"
+      }
+    ],
+    "duplicateTitleDifferentLanguages": [
+      {
+        "title": "Adivinanzas",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "adivinanzas",
+            "title": "Adivinanzas",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "http://www.aplicaciones.info/adivina/adivina.htm"
+          },
+          {
+            "id": "adivinanzas-catalogo",
+            "title": "Adivinanzas",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://www.edu365.cat/flash/endevinalles/portada.htm"
+          }
+        ]
+      },
+      {
+        "title": "Cuerpos geométricos",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "cuerpos-geometricos",
+            "title": "Cuerpos geométricos",
+            "area": "Matematicas",
+            "language": [
+              "Castellano"
+            ],
+            "url": "http://www3.gobiernodecanarias.org/medusa/contenidosdigitales/ucticee/s2/CD120803001/index.html#/lang/es/pag/ddce41b88906cbea1ba6213dfa4d2cb7"
+          },
+          {
+            "id": "cuerpos-geometricos-catalogo",
+            "title": "Cuerpos geométricos",
+            "area": "Matematicas",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/geom/jclic.js/index.html"
+          },
+          {
+            "id": "cuerpos-geometricos-2",
+            "title": "Cuerpos geométricos",
+            "area": "Matematicas",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://www.nctm.org/tools/mathresources/NCTM_GeometricSolids.html"
+          }
+        ]
+      },
+      {
+        "title": "JClic",
+        "languages": [
+          "Catalan/Valencià",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "jclic",
+            "title": "JClic",
+            "area": "Musica",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://clic.xtec.cat/repo/"
+          },
+          {
+            "id": "jclic-catalogo",
+            "title": "JClic",
+            "area": "Diversas áreas",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "http://clic.xtec.cat/db/listact_es.jsp"
+          }
+        ]
+      },
+      {
+        "title": "MEMORIA VISUAL",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "memoria-visual",
+            "title": "MEMORIA VISUAL",
+            "area": "Logica",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://edutictac.es/blog/bibliojocs/memoria-visual/"
+          },
+          {
+            "id": "memoria-visual-2",
+            "title": "Memoria Visual",
+            "area": "Logica",
+            "language": [
+              "Castellano"
+            ],
+            "url": "http://jeux.lulu.pagesperso-orange.fr/html/memory/memrySom.htm"
+          },
+          {
+            "id": "memoria-visual-catalogo",
+            "title": "Memoria visual",
+            "area": "Logica",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://cristic.my.canva.site/memoria-visual"
+          }
+        ]
+      },
+      {
+        "title": "Puzzles",
+        "languages": [
+          "Catalan/Valencià",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "puzzles-2",
+            "title": "Puzzles",
+            "area": "Logica",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "http://www.jigzone.com/puzzles/D8055D4B0A77&#038;z=5?v=22858"
+          },
+          {
+            "id": "puzzles",
+            "title": "Puzzles",
+            "area": "Logica",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://cdn2.kidmons.com/games/puzzle4kids/index.php"
+          },
+          {
+            "id": "puzzles-2-catalogo",
+            "title": "Puzzles",
+            "area": "Logica",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://tipirate.net/jeux/jeux-2-4-ans/jeu-des-ombres/"
+          }
+        ]
+      },
+      {
+        "title": "Scratch",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "scratch",
+            "title": "Scratch",
+            "area": "Informatica",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://scratch.mit.edu/explore/projects/all"
+          },
+          {
+            "id": "scratch-catalogo",
+            "title": "Scratch",
+            "area": "Informatica",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted"
+          },
+          {
+            "id": "edu365-scratch",
+            "title": "Scratch",
+            "area": "Informatica",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://scratch.mit.edu/"
+          }
+        ]
+      },
+      {
+        "title": "Sudoku",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "sudoku",
+            "title": "Sudoku",
+            "area": "Matematicas",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://www.sudoku-online.org/sudokus-ninos.php"
+          },
+          {
+            "id": "sudoku-catalogo",
+            "title": "Sudoku",
+            "area": "Matematicas",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/sudoku2/jclic.js/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Tablas de multiplicar",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "tablas-de-multiplicar",
+            "title": "Tablas de multiplicar",
+            "area": "Matematicas",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://vedoque.com/juegos/matematicas/tablas-multiplicar/"
+          },
+          {
+            "id": "tablas-de-multiplicar-catalogo",
+            "title": "Tablas de multiplicar",
+            "area": "Matematicas",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/taules3/jclic.js/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Tangram",
+        "languages": [
+          "Catalan/Valencià",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "tangram",
+            "title": "Tangram",
+            "area": "Logica",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://toytheater.com/tangram/"
+          },
+          {
+            "id": "tangram-catalogo",
+            "title": "Tangram",
+            "area": "Matematicas",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/tangram/jclic.js/index.html"
+          },
+          {
+            "id": "tangram-2",
+            "title": "Tangram",
+            "area": "Logica",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://www.abcya.com/games/tangrams"
+          }
+        ]
+      },
+      {
+        "title": "Memory",
+        "languages": [
+          "Castellano",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "memory",
+            "title": "Memory",
+            "area": "Logica",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://toytheater.com/visual-memory/"
+          },
+          {
+            "id": "memory-catalogo",
+            "title": "Memory",
+            "area": "Logica",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://www.ecasals.net/es/uploads/resources/s205/1056398/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Adivina, adivinanza",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "adivina-adivinanza",
+            "title": "Adivina, adivinanza",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://cristic.my.canva.site/endevina-endevinalla"
+          },
+          {
+            "id": "adivina-adivinanza-2",
+            "title": "Adivina, adivinanza",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/endevina/jclic.js/index.html"
+          },
+          {
+            "id": "adivina-adivinanza-3",
+            "title": "Adivina, adivinanza",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://cristic.my.canva.site/adivina-adivinanza"
+          }
+        ]
+      },
+      {
+        "title": "Animales vertebrados",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "animales-vertebrados",
+            "title": "Animales vertebrados",
+            "area": "Ciencias Naturales",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/seres-vivos/relacionar-vertebrados/actividad.html"
+          },
+          {
+            "id": "animales-vertebrados-2",
+            "title": "Animales vertebrados",
+            "area": "Ciencias Naturales",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/avertebr/jclic.js/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Aprendo a escribir",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "aprendo-a-escribir",
+            "title": "Aprendo a escribir",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://cristic.my.canva.site/aprendo-a-escribir"
+          },
+          {
+            "id": "aprendo-a-escribir-2",
+            "title": "Aprendo a escribir",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://cristic.my.canva.site/aprenc-a-escriure"
+          }
+        ]
+      },
+      {
+        "title": "Arrastra y coloca",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "arrastra-y-coloca",
+            "title": "Arrastra y coloca",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://genmagic.net/visualflash.html?id=posan2c"
+          },
+          {
+            "id": "arrastra-y-coloca-2",
+            "title": "Arrastra y coloca",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://genmagic.net/visualflash.html?id=posan2"
+          }
+        ]
+      },
+      {
+        "title": "Continentes y océanos",
+        "languages": [
+          "Catalan/Valencià",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "continentes-y-oceanos",
+            "title": "Continentes y océanos",
+            "area": "Ciencias Sociales",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://www.edu365.cat/interactius/continents/index.html"
+          },
+          {
+            "id": "continentes-y-oceanos-2",
+            "title": "Continentes y océanos",
+            "area": "Ciencias Sociales",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://mrnussbaum.com/storage/uploads/activities/compgames/contoceans/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Descubre la cara",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "descubre-la-cara",
+            "title": "Descubre la cara",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://genmagic.net/visualflash.html?id=mascotes8c"
+          },
+          {
+            "id": "descubre-la-cara-2",
+            "title": "Descubre la cara",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://genmagic.net/visualflash.html?id=mascotes8"
+          }
+        ]
+      },
+      {
+        "title": "Días y meses",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "dias-y-meses",
+            "title": "Días y meses",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://clic.xtec.cat/projects/diames/jclic.js/index.html"
+          },
+          {
+            "id": "dias-y-meses-2",
+            "title": "Días y meses",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=1"
+          }
+        ]
+      },
+      {
+        "title": "El juego de las vocales",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "el-juego-de-las-vocales",
+            "title": "El juego de las vocales",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://cristic.my.canva.site/juego-de-las-vocales"
+          },
+          {
+            "id": "el-juego-de-las-vocales-2",
+            "title": "El juego de las vocales",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://cristic.my.canva.site/joc-de-les-vocals"
+          }
+        ]
+      },
+      {
+        "title": "El reloj",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "el-reloj",
+            "title": "El reloj",
+            "area": "Matematicas",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://recursosyoaprendoencasa.grupo-sm.com/primaria-matematicas-4-el-reloj/"
+          },
+          {
+            "id": "el-reloj-2",
+            "title": "El reloj",
+            "area": "Matematicas",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/rellotge/jclic.js/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Elementos tecnológicos",
+        "languages": [
+          "Catalan/Valencià",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "elementos-tecnologicos",
+            "title": "Elementos tecnológicos",
+            "area": "Informatica",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=923d6420-fa4f-11ec-adca-e11b60726ecc"
+          },
+          {
+            "id": "elementos-tecnologicos-2",
+            "title": "Elementos tecnológicos",
+            "area": "Informatica",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=34221BCE-E47A-49CC-9339-F5A9F50CBB9B"
+          }
+        ]
+      },
+      {
+        "title": "Frases al revés",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "frases-al-reves",
+            "title": "Frases al revés",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://genmagic.net/visualflash.html?id=alrev1c"
+          },
+          {
+            "id": "frases-al-reves-2",
+            "title": "Frases al revés",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://genmagic.net/visualflash.html?id=alrev1"
+          }
+        ]
+      },
+      {
+        "title": "Geometría plana",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "geometria-plana",
+            "title": "Geometría plana",
+            "area": "Matematicas",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/poligons/jclic.js/index.html"
+          },
+          {
+            "id": "geometria-plana-2",
+            "title": "Geometría plana",
+            "area": "Matematicas",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://clic.xtec.cat/projects/poligoes/jclic.js/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Pequeñas historias",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià",
+          "Frances",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "pequenas-historias",
+            "title": "Pequeñas historias",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://apliense.xtec.cat/petites_histories/?lang=es"
+          },
+          {
+            "id": "pequenas-historias-2",
+            "title": "Pequeñas historias",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "http://apliedu.xtec.cat/petites_histories/?lang=ca"
+          },
+          {
+            "id": "pequenas-historias-3",
+            "title": "Pequeñas historias",
+            "area": "Ingles",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://apliense.xtec.cat/petites_histories/?lang=en"
+          },
+          {
+            "id": "pequenas-historias-4",
+            "title": "Pequeñas historias",
+            "area": "Frances",
+            "language": [
+              "Frances"
+            ],
+            "url": "https://apliense.xtec.cat/petites_histories/?lang=fr"
+          }
+        ]
+      },
+      {
+        "title": "Sílabas",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "silabas",
+            "title": "Sílabas",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://clic.xtec.cat/projects/silabas3/jclic.js/index.html"
+          },
+          {
+            "id": "silabas-2",
+            "title": "Sílabas",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/trebsil/jclic.js/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Sistema Solar",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "sistema-solar",
+            "title": "Sistema Solar",
+            "area": "Ciencias Sociales",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://juegosinfantiles.bosquedefantasias.com/juegos/materia-energia/universo-test/actividad.html"
+          },
+          {
+            "id": "sistema-solar-2",
+            "title": "Sistema Solar",
+            "area": "Ciencias Sociales",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://www.edu365.cat/interactius/sistema_solar/index.html"
+          }
+        ]
+      },
+      {
+        "title": "Sonidos de animales",
+        "languages": [
+          "Castellano",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "sonidos-de-animales",
+            "title": "Sonidos de animales",
+            "area": "Ciencias Naturales",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://clic.xtec.cat/projects/disc_au1/jclic.js/index.html"
+          },
+          {
+            "id": "sonidos-de-animales-2",
+            "title": "Sonidos de animales",
+            "area": "Ingles",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://www.eslgamesplus.com/members/html5/pirate-board-games/zoo-pirate/pirate.html"
+          }
+        ]
+      },
+      {
+        "title": "Sopa de letras",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "sopa-de-letras",
+            "title": "Sopa de letras",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://clic.xtec.cat/projects/sopaval/jclic.js/index.html"
+          },
+          {
+            "id": "sopa-de-letras-2",
+            "title": "Sopa de letras",
+            "area": "Dias especiales",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://cristic.my.canva.site/sopa-de-letras-carnaval"
+          }
+        ]
+      },
+      {
+        "title": "Vocales divertidas",
+        "languages": [
+          "Castellano",
+          "Catalan/Valencià"
+        ],
+        "items": [
+          {
+            "id": "vocales-divertidas",
+            "title": "Vocales divertidas",
+            "area": "Lengua",
+            "language": [
+              "Catalan/Valencià"
+            ],
+            "url": "https://genmagic.net/visualflash.html?id=vd1"
+          },
+          {
+            "id": "vocales-divertidas-2",
+            "title": "Vocales divertidas",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://genmagic.net/visualflash.html?id=vd1c"
+          }
+        ]
+      }
+    ],
+    "sameUrlIgnoringLanguageParam": [
+      {
+        "key": "https://apliense.xtec.cat/petites_histories/?",
+        "languages": [
+          "Castellano",
+          "Frances",
+          "Ingles"
+        ],
+        "items": [
+          {
+            "id": "pequenas-historias",
+            "title": "Pequeñas historias",
+            "area": "Lengua",
+            "language": [
+              "Castellano"
+            ],
+            "url": "https://apliense.xtec.cat/petites_histories/?lang=es"
+          },
+          {
+            "id": "pequenas-historias-3",
+            "title": "Pequeñas historias",
+            "area": "Ingles",
+            "language": [
+              "Ingles"
+            ],
+            "url": "https://apliense.xtec.cat/petites_histories/?lang=en"
+          },
+          {
+            "id": "pequenas-historias-4",
+            "title": "Pequeñas historias",
+            "area": "Frances",
+            "language": [
+              "Frances"
+            ],
+            "url": "https://apliense.xtec.cat/petites_histories/?lang=fr"
+          }
+        ]
+      }
+    ]
+  }
+}

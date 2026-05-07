@@ -1014,7 +1014,10 @@
     "id": "edu365-easter",
     "title": "Easter",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": [
+      "Catalan/Valencià",
+      "Ingles"
+    ],
     "url": "https://www.edu365.cat/interactius/easter/index.html",
     "notes": "Tradicions de Pasqua en català i anglès",
     "levels": [

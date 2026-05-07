@@ -67,7 +67,7 @@
   {
     "id": "aranas-2",
     "title": "Arañas",
-    "area": "Ciencias Naturales",
+    "area": "Musica",
     "language": "Castellano",
     "url": "https://edutictac.es/inici/flash/aulademusica24aranas.swf",
     "notes": "Juego Flash",
@@ -408,7 +408,7 @@
   {
     "id": "pajarologia-2",
     "title": "Pajarología",
-    "area": "Ciencias Naturales",
+    "area": "Musica",
     "language": "Castellano",
     "url": "https://edutictac.es/inici/flash/pajarologia.swf",
     "notes": "Juego Flash",
@@ -11565,7 +11565,10 @@
     "id": "edu365-easter",
     "title": "Easter",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": [
+      "Catalan/Valencià",
+      "Ingles"
+    ],
     "url": "https://www.edu365.cat/interactius/easter/index.html",
     "notes": "Tradicions de Pasqua en català i anglès",
     "levels": [
