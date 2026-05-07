@@ -108,6 +108,93 @@ const strings = {
   },
 };
 
+const areaLabels = {
+  es: {
+    Artes: "Artes",
+    "Ciencias Naturales": "Ciencias Naturales",
+    "Ciencias Sociales": "Ciencias Sociales",
+    "Conocimiento del Medio": "Conocimiento del Medio",
+    "Dias especiales": "Días especiales",
+    "Diversas áreas": "Diversas áreas",
+    "Educacion emocional": "Educación emocional",
+    Frances: "Francés",
+    General: "General",
+    Informatica: "Informática",
+    Ingles: "Inglés",
+    Lectoescritura: "Lectoescritura",
+    Lengua: "Lengua",
+    Logica: "Lógica",
+    Manualitats: "Manualidades",
+    Matematicas: "Matemáticas",
+    Musica: "Música",
+    Plastica: "Plástica",
+    Religion: "Religión",
+    "Seguridad Digital": "Seguridad Digital",
+    Sociales: "Sociales",
+    "Tecnología": "Tecnología",
+  },
+  ca: {
+    Artes: "Arts",
+    "Ciencias Naturales": "Ciències naturals",
+    "Ciencias Sociales": "Ciències socials",
+    "Conocimiento del Medio": "Coneixement del medi",
+    "Dias especiales": "Dies especials",
+    "Diversas áreas": "Diverses àrees",
+    "Educacion emocional": "Educació emocional",
+    Frances: "Francés",
+    General: "General",
+    Informatica: "Informàtica",
+    Ingles: "Anglés",
+    Lectoescritura: "Lectoescriptura",
+    Lengua: "Llengua",
+    Logica: "Lògica",
+    Manualitats: "Manualitats",
+    Matematicas: "Matemàtiques",
+    Musica: "Música",
+    Plastica: "Plàstica",
+    Religion: "Religió",
+    "Seguridad Digital": "Seguretat digital",
+    Sociales: "Socials",
+    "Tecnología": "Tecnologia",
+  },
+};
+
+const languageLabels = {
+  es: {
+    Aranes: "Aranés",
+    Castellano: "Castellano",
+    "Català/Valencià": "Catalán/Valenciano",
+    Frances: "Francés",
+    Ingles: "Inglés",
+  },
+  ca: {
+    Aranes: "Aranés",
+    Castellano: "Castellà",
+    "Català/Valencià": "Català/Valencià",
+    Frances: "Francés",
+    Ingles: "Anglés",
+  },
+};
+
+const levelLabels = {
+  es: {
+    Infantil: "Infantil",
+    Primaria: "Primaria",
+    "Primaria 1er ciclo": "Primaria 1er ciclo",
+    "Primaria 2o ciclo": "Primaria 2.º ciclo",
+    "Primaria 3er ciclo": "Primaria 3er ciclo",
+    Secundaria: "Secundaria",
+  },
+  ca: {
+    Infantil: "Infantil",
+    Primaria: "Primària",
+    "Primaria 1er ciclo": "Primària 1r cicle",
+    "Primaria 2o ciclo": "Primària 2n cicle",
+    "Primaria 3er ciclo": "Primària 3r cicle",
+    Secundaria: "Secundària",
+  },
+};
+
 let _lang = "es";
 
 export function detectLang() {
@@ -131,4 +218,16 @@ export function getLang() {
 export function i18n(key, ...args) {
   const val = strings[_lang]?.[key] ?? strings.es[key];
   return typeof val === "function" ? val(...args) : (val ?? key);
+}
+
+export function areaLabel(area) {
+  return areaLabels[_lang]?.[area] ?? areaLabels.es[area] ?? area;
+}
+
+export function languageLabel(language) {
+  return languageLabels[_lang]?.[language] ?? languageLabels.es[language] ?? language;
+}
+
+export function levelLabel(level) {
+  return levelLabels[_lang]?.[level] ?? levelLabels.es[level] ?? level;
 }

@@ -1,4 +1,4 @@
-import { i18n, detectLang, setLang, getLang, LANGS } from "./i18n.js";
+import { i18n, areaLabel, languageLabel, levelLabel, detectLang, setLang, getLang, LANGS } from "./i18n.js";
 
 const dataUrl = "./data/games.json";
 const reportUrl = "./reports/link-report.json";
@@ -181,9 +181,9 @@ function setReportBanner(report) {
 }
 
 function hydrateFilterOptions() {
-  fillSelect(levelFilter, uniqueLevelValues(state.games));
-  fillSelect(languageFilter, uniqueLanguageValues(state.games));
-  fillSelect(areaFilter, uniqueValues(state.games, "area"));
+  fillSelect(levelFilter, uniqueLevelValues(state.games), levelLabel);
+  fillSelect(languageFilter, uniqueLanguageValues(state.games), languageLabel);
+  fillSelect(areaFilter, uniqueValues(state.games, "area"), areaLabel);
 }
 
 function uniqueLevelValues(items) {
@@ -196,13 +196,27 @@ function uniqueLanguageValues(items) {
   return [...new Set(all)].sort((a, b) => a.localeCompare(b));
 }
 
-function fillSelect(select, values) {
+function fillSelect(select, values, formatLabel = (value) => value) {
   for (const value of values) {
     const option = document.createElement("option");
     option.value = value;
-    option.textContent = value;
+    option.textContent = formatLabel(value);
     select.append(option);
   }
+}
+
+function updateSelectLabels(select, formatLabel) {
+  select.querySelectorAll("option").forEach((option) => {
+    if (option.value) {
+      option.textContent = formatLabel(option.value);
+    }
+  });
+}
+
+function updateDynamicFilterLabels() {
+  updateSelectLabels(levelFilter, levelLabel);
+  updateSelectLabels(languageFilter, languageLabel);
+  updateSelectLabels(areaFilter, areaLabel);
 }
 
 function uniqueValues(items, key) {
@@ -217,7 +231,7 @@ function gameLanguages(game) {
 
 function gameLanguageText(game) {
   const languages = gameLanguages(game);
-  return languages.length > 0 ? languages.join(", ") : "";
+  return languages.length > 0 ? languages.map(languageLabel).join(", ") : "";
 }
 
 function wireEvents() {
@@ -239,6 +253,7 @@ function wireEvents() {
       setLang(btn.dataset.lang);
       updateLangButtons();
       applyStaticTranslations();
+      updateDynamicFilterLabels();
       updatePreferencesNote();
       updateAuthUi();
       if (state.lastReport) {
@@ -355,7 +370,16 @@ function render() {
     }
 
     if (term) {
-      const haystack = [game.title, game.area, game.notes, ...gameLanguages(game), ...gameLevels]
+      const haystack = [
+        game.title,
+        game.area,
+        areaLabel(game.area),
+        game.notes,
+        ...gameLanguages(game),
+        ...gameLanguages(game).map(languageLabel),
+        ...gameLevels,
+        ...gameLevels.map(levelLabel)
+      ]
         .filter(Boolean)
         .join(" ")
         .toLowerCase();
@@ -389,7 +413,7 @@ function gameKey(game) {
     return byUrl;
   }
 
-  const fallback = [game.title, game.area, gameLanguageText(game)]
+  const fallback = [game.title, game.area, gameLanguages(game).join(", ")]
     .filter(Boolean)
     .join("|")
     .toLowerCase();
@@ -790,10 +814,10 @@ function buildCard(game) {
   const meta = document.createElement("div");
   meta.className = "meta";
 
-  const area = tag(game.area || "General");
+  const area = tag(areaLabel(game.area || "General"));
   const language = tag(gameLanguageText(game) || "Idioma no definido", "lang");
   const gameLevels = game.levels || (game.level ? [game.level] : [i18n("no_level")]);
-  const levelTags = gameLevels.map((l) => tag(l));
+  const levelTags = gameLevels.map((l) => tag(levelLabel(l)));
   const flashTag = game.flash ? [tag("Flash", "flash")] : [];
 
   meta.append(area, ...levelTags, language, ...flashTag);
