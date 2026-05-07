@@ -100,6 +100,7 @@
         </div>
         <div class="auth-actions">
           <button id="signInGoogleBtn" type="button" class="btn-auth" data-i18n="auth_signin_google">Entrar con Google</button>
+          <button id="submitActivityBtn" type="button" class="btn-auth secondary hidden" data-i18n="submit_btn">Proponer actividad</button>
           <button id="signOutBtn" type="button" class="btn-auth secondary" data-i18n="auth_signout">Cerrar sesion</button>
         </div>
       </div>
@@ -147,6 +148,11 @@
         <span data-i18n="favorites_only">Solo mis favoritos</span>
       </label>
 
+      <label class="check-wrap">
+        <input id="submissionsOnly" type="checkbox" />
+        <span data-i18n="submissions_only">Solo propuestas</span>
+      </label>
+
       <p id="personalPrefsNote" class="personal-note" data-i18n="personal_prefs_note_local">Favoritos y valoraciones se guardan solo en este navegador (localStorage).</p>
     </section>
 
@@ -180,6 +186,43 @@
       </div>
     </div>
     <div id="flashContainer" class="flash-container"></div>
+  </dialog>
+
+  <dialog id="submitDialog" class="submit-dialog" aria-labelledby="submitDialogTitle">
+    <h2 id="submitDialogTitle" class="submit-dialog-title" data-i18n="submit_dialog_title">Proponer una actividad</h2>
+    <form id="submitForm">
+      <div class="submit-fields">
+        <label>
+          <span data-i18n="submit_field_title">Nombre de la actividad</span>
+          <input id="submitTitle" type="text" required autocomplete="off" />
+        </label>
+        <label>
+          <span data-i18n="submit_field_url">Enlace (URL)</span>
+          <input id="submitUrl" type="url" required autocomplete="off" />
+        </label>
+        <label>
+          <span data-i18n="area_label">Materia</span>
+          <select id="submitArea">
+            <option value="">—</option>
+          </select>
+        </label>
+        <label>
+          <span data-i18n="language_label">Idioma</span>
+          <select id="submitLanguage">
+            <option value="">—</option>
+          </select>
+        </label>
+        <label>
+          <span data-i18n="submit_field_notes">Descripcion (opcional)</span>
+          <textarea id="submitNotes" rows="3"></textarea>
+        </label>
+      </div>
+      <p id="submitFeedback" class="submit-feedback hidden" aria-live="polite"></p>
+      <div class="submit-actions">
+        <button type="button" id="submitCancelBtn" class="btn-auth secondary" data-i18n="submit_cancel">Cancelar</button>
+        <button type="submit" id="submitSendBtn" class="btn-auth" data-i18n="submit_send">Enviar</button>
+      </div>
+    </form>
   </dialog>
 
   <script type="module" src="./scripts/app.js"></script>

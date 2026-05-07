@@ -15,6 +15,7 @@ const levelFilter = document.querySelector("#levelFilter");
 const languageFilter = document.querySelector("#languageFilter");
 const areaFilter = document.querySelector("#areaFilter");
 const favoritesOnly = document.querySelector("#favoritesOnly");
+const submissionsOnly = document.querySelector("#submissionsOnly");
 const ratingFilter = document.querySelector("#ratingFilter");
 const grid = document.querySelector("#grid");
 const loadMoreBtn = document.querySelector("#loadMoreBtn");
@@ -26,10 +27,21 @@ const authPanel = document.querySelector("#authPanel");
 const authStatus = document.querySelector("#authStatus");
 const signInGoogleBtn = document.querySelector("#signInGoogleBtn");
 const signOutBtn = document.querySelector("#signOutBtn");
+const submitActivityBtn = document.querySelector("#submitActivityBtn");
+const submitDialog = document.querySelector("#submitDialog");
+const submitForm = document.querySelector("#submitForm");
+const submitTitleInput = document.querySelector("#submitTitle");
+const submitUrlInput = document.querySelector("#submitUrl");
+const submitNotesInput = document.querySelector("#submitNotes");
+const submitAreaSelect = document.querySelector("#submitArea");
+const submitLanguageSelect = document.querySelector("#submitLanguage");
+const submitCancelBtn = document.querySelector("#submitCancelBtn");
+const submitFeedback = document.querySelector("#submitFeedback");
 const swVersion = document.querySelector("#swVersion");
 
 const state = {
   games: [],
+  submissions: [],
   filtered: [],
   visibleCount: 0,
   isPartialLoad: false,
@@ -69,6 +81,10 @@ async function boot() {
   render();
 
   // Fase 2: càrrega completa en segon pla (no bloqueja la UI)
+  if (state.firebase) {
+    loadSubmissions().catch((err) => console.warn("Error en carregar propostes", err));
+  }
+
   Promise.all([
     fetchJson(dataUrl),
     fetchJson(reportUrl, true),
@@ -197,13 +213,18 @@ function setReportBanner(report) {
   statusStrip.classList.add("ok");
 }
 
+function allGames() {
+  return state.submissions.length > 0 ? [...state.games, ...state.submissions] : state.games;
+}
+
 function hydrateFilterOptions() {
+  const games = allGames();
   clearSelect(levelFilter);
   clearSelect(languageFilter);
   clearSelect(areaFilter);
-  fillSelect(levelFilter, uniqueLevelValues(state.games), levelLabel);
-  fillSelect(languageFilter, uniqueLanguageValues(state.games), languageLabel);
-  fillSelect(areaFilter, uniqueValues(state.games, "area"), areaLabel);
+  fillSelect(levelFilter, uniqueLevelValues(games), levelLabel);
+  fillSelect(languageFilter, uniqueLanguageValues(games), languageLabel);
+  fillSelect(areaFilter, uniqueValues(games, "area"), areaLabel);
 }
 
 function clearSelect(select) {
@@ -264,6 +285,9 @@ function wireEvents() {
   languageFilter.addEventListener("change", render);
   areaFilter.addEventListener("change", render);
   favoritesOnly.addEventListener("change", render);
+  if (submissionsOnly) {
+    submissionsOnly.addEventListener("change", render);
+  }
   ratingFilter.addEventListener("change", render);
   loadMoreBtn.addEventListener("click", showMore);
   if (signInGoogleBtn) {
@@ -271,6 +295,20 @@ function wireEvents() {
   }
   if (signOutBtn) {
     signOutBtn.addEventListener("click", signOutFromGoogle);
+  }
+  if (submitActivityBtn) {
+    submitActivityBtn.addEventListener("click", openSubmitDialog);
+  }
+  if (submitCancelBtn) {
+    submitCancelBtn.addEventListener("click", () => submitDialog?.close());
+  }
+  if (submitDialog) {
+    submitDialog.addEventListener("click", (e) => {
+      if (e.target === submitDialog) submitDialog.close();
+    });
+  }
+  if (submitForm) {
+    submitForm.addEventListener("submit", handleSubmitForm);
   }
   document.querySelectorAll(".btn-lang").forEach((btn) => {
     btn.addEventListener("click", () => {
@@ -339,6 +377,7 @@ function updateAuthUi() {
   if (state.backendMode !== "firebase" || !state.firebase) {
     authPanel.classList.add("hidden");
     authStatus.textContent = i18n("auth_status_local");
+    if (submitActivityBtn) submitActivityBtn.classList.add("hidden");
     return;
   }
 
@@ -351,6 +390,7 @@ function updateAuthUi() {
     authStatus.textContent = i18n("auth_loading");
     signInGoogleBtn.classList.add("hidden");
     signOutBtn.classList.add("hidden");
+    if (submitActivityBtn) submitActivityBtn.classList.add("hidden");
     return;
   }
 
@@ -360,23 +400,27 @@ function updateAuthUi() {
       : i18n("auth_status_google_disabled");
     signInGoogleBtn.classList.toggle("hidden", !googleEnabled);
     signOutBtn.classList.add("hidden");
+    if (submitActivityBtn) submitActivityBtn.classList.add("hidden");
     return;
   }
 
   authStatus.textContent = i18n("auth_status_google", currentUserDisplayName(user));
   signInGoogleBtn.classList.add("hidden");
   signOutBtn.classList.remove("hidden");
+  if (submitActivityBtn) submitActivityBtn.classList.remove("hidden");
 }
 
 function render() {
+  const games = allGames();
   const term = searchInput.value.trim().toLowerCase();
   const selectedLevel = levelFilter.value;
   const selectedLanguage = languageFilter.value;
   const selectedArea = areaFilter.value;
   const onlyFavorites = favoritesOnly.checked;
+  const onlySubmissions = submissionsOnly?.checked;
   const minRating = Number(ratingFilter.value || 0);
 
-  const filtered = state.games.filter((game) => {
+  const filtered = games.filter((game) => {
     const key = gameKey(game);
     const filterRating = getRatingForFilter(key);
     const gameLevels = game.levels || (game.level ? [game.level] : []);
@@ -416,6 +460,10 @@ function render() {
       return false;
     }
 
+    if (onlySubmissions && !game._isSubmission) {
+      return false;
+    }
+
     if (minRating > 0 && filterRating < minRating) {
       return false;
     }
@@ -427,7 +475,7 @@ function render() {
   state.visibleCount = 0;
   grid.innerHTML = "";
   showMore();
-  resultCount.textContent = i18n("result_count", filtered.length, state.games.length);
+  resultCount.textContent = i18n("result_count", filtered.length, games.length);
   emptyState.classList.toggle("hidden", filtered.length > 0);
 }
 
@@ -507,6 +555,7 @@ async function initPreferenceBackend() {
     state.firebase = {
       db,
       auth,
+      addDoc: firestoreModule.addDoc,
       collection: firestoreModule.collection,
       deleteDoc: firestoreModule.deleteDoc,
       doc: firestoreModule.doc,
@@ -828,7 +877,10 @@ function buildCard(game) {
   const ratingSummary = state.ratingSummary.get(key) || null;
 
   const article = document.createElement("article");
-  article.className = `card ${health.ok === false ? "broken" : ""}`;
+  const cardClasses = ["card"];
+  if (game._isSubmission) cardClasses.push("submission");
+  if (health.ok === false) cardClasses.push("broken");
+  article.className = cardClasses.join(" ");
 
   const imageAction = createCardImageAction(game);
   article.appendChild(imageAction);
@@ -848,8 +900,9 @@ function buildCard(game) {
   const gameLevels = game.levels || (game.level ? [game.level] : [i18n("no_level")]);
   const levelTags = gameLevels.map((l) => tag(levelLabel(l)));
   const flashTag = game.flash ? [tag("Flash", "flash")] : [];
+  const submissionTag = game._isSubmission ? [tag(i18n("submission_badge"), "submission")] : [];
 
-  meta.append(area, ...levelTags, language, ...flashTag);
+  meta.append(...submissionTag, area, ...levelTags, language, ...flashTag);
 
   const note = document.createElement("p");
   note.className = "note";
@@ -864,6 +917,12 @@ function buildCard(game) {
   article.append(cardHead, meta, ratingControl, note);
   if (health.ok !== true) {
     article.append(healthText);
+  }
+  if (game._isSubmission && game._submittedBy) {
+    const byLine = document.createElement("p");
+    byLine.className = "note submission-by";
+    byLine.textContent = i18n("submission_by", game._submittedBy);
+    article.append(byLine);
   }
   return article;
 }
@@ -1005,6 +1064,96 @@ function tag(text, extraClass = "") {
   span.className = `tag ${extraClass}`.trim();
   span.textContent = text;
   return span;
+}
+
+// --- Submissions ---
+
+async function loadSubmissions() {
+  if (!state.firebase) return;
+  const { collection, db, getDocs } = state.firebase;
+  const snap = await getDocs(collection(db, "submissions"));
+  state.submissions = snap.docs
+    .map((d) => {
+      const data = d.data();
+      return {
+        title: String(data.title || "").trim(),
+        url: String(data.url || "").trim(),
+        notes: String(data.notes || "").trim(),
+        area: String(data.area || "General").trim(),
+        language: String(data.language || "").trim(),
+        _isSubmission: true,
+        _submittedBy: String(data.submittedBy?.name || "").trim(),
+        _id: d.id,
+      };
+    })
+    .filter((g) => g.title && g.url);
+  hydrateFilterOptions();
+  render();
+}
+
+function openSubmitDialog() {
+  if (!submitDialog) return;
+  const games = allGames();
+
+  clearSelect(submitAreaSelect);
+  fillSelect(submitAreaSelect, uniqueValues(games, "area"), areaLabel);
+
+  clearSelect(submitLanguageSelect);
+  fillSelect(submitLanguageSelect, uniqueLanguageValues(games), languageLabel);
+
+  submitForm?.reset();
+  if (submitFeedback) {
+    submitFeedback.className = "submit-feedback hidden";
+    submitFeedback.textContent = "";
+  }
+  submitDialog.showModal();
+}
+
+async function handleSubmitForm(e) {
+  e.preventDefault();
+  if (!state.firebase) return;
+
+  const { auth, addDoc, collection, db, serverTimestamp } = state.firebase;
+  const user = auth.currentUser;
+  if (!user || user.isAnonymous) return;
+
+  const title = submitTitleInput?.value.trim() || "";
+  const url = submitUrlInput?.value.trim() || "";
+  const notes = submitNotesInput?.value.trim() || "";
+  const area = submitAreaSelect?.value || "General";
+  const language = submitLanguageSelect?.value || "";
+
+  if (!title || !url) return;
+
+  if (submitSendBtn) submitSendBtn.disabled = true;
+  showSubmitFeedback(i18n("submit_loading"), "");
+
+  try {
+    await addDoc(collection(db, "submissions"), {
+      title,
+      url,
+      notes,
+      area,
+      language,
+      submittedBy: { uid: user.uid, name: user.displayName || user.email || "" },
+      submittedAt: serverTimestamp(),
+    });
+    showSubmitFeedback(i18n("submit_success"), "ok");
+    submitForm?.reset();
+    await loadSubmissions();
+    setTimeout(() => submitDialog?.close(), 1800);
+  } catch (error) {
+    console.error("Error en enviar proposta", error);
+    showSubmitFeedback(i18n("submit_error"), "error");
+  } finally {
+    if (submitSendBtn) submitSendBtn.disabled = false;
+  }
+}
+
+function showSubmitFeedback(text, type) {
+  if (!submitFeedback) return;
+  submitFeedback.textContent = text;
+  submitFeedback.className = `submit-feedback${type ? ` ${type}` : ""}`;
 }
 
 // --- Ruffle / Flash player ---

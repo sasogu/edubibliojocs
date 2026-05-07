@@ -510,6 +510,26 @@ select:focus {
   color: #7a3b00;
 }
 
+.tag.submission {
+  background: #eaf8f3;
+  border-color: #97d9ce;
+  color: var(--accent-2);
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+}
+
+.card.submission {
+  border-color: #97d9ce;
+  background: #f5fdfb;
+}
+
+.submission-by {
+  font-size: 0.8rem;
+  color: var(--accent-2);
+}
+
 .btn-flash {
   justify-self: start;
   font-weight: 700;
@@ -526,6 +546,75 @@ select:focus {
 
 .btn-flash:hover {
   background: #b85a18;
+}
+
+.submit-dialog {
+  border: none;
+  border-radius: 18px;
+  padding: 1.5rem;
+  width: min(520px, 96vw);
+  box-shadow: 0 24px 60px rgba(31, 42, 68, 0.2);
+  background: var(--card);
+}
+
+.submit-dialog::backdrop {
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(3px);
+}
+
+.submit-dialog-title {
+  margin: 0 0 1.1rem;
+  font-family: "Space Grotesk", sans-serif;
+  font-size: 1.2rem;
+}
+
+.submit-fields {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.submit-fields textarea {
+  width: 100%;
+  border: 1px solid #ddb875;
+  border-radius: 10px;
+  padding: 0.62rem 0.72rem;
+  font: inherit;
+  color: var(--ink);
+  background: #fffcf3;
+  resize: vertical;
+  min-height: 80px;
+}
+
+.submit-fields textarea:focus {
+  outline: 2px solid color-mix(in srgb, var(--accent) 65%, white);
+  outline-offset: 1px;
+}
+
+.submit-feedback {
+  margin: 0.8rem 0 0;
+  font-size: 0.88rem;
+  padding: 0.5rem 0.7rem;
+  border-radius: 8px;
+  border: 1px solid transparent;
+}
+
+.submit-feedback.ok {
+  background: #effcf6;
+  border-color: #99dfc0;
+  color: #085b3c;
+}
+
+.submit-feedback.error {
+  background: #fff5f1;
+  border-color: #f5b19a;
+  color: var(--danger);
+}
+
+.submit-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.5rem;
+  margin-top: 1rem;
 }
 
 .flash-dialog {
