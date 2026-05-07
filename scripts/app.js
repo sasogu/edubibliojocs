@@ -440,9 +440,11 @@ function render() {
     if (term) {
       const haystack = [
         game.title,
+        game.title_ca,
         game.area,
         areaLabel(game.area),
         game.notes,
+        game.notes_ca,
         ...gameLanguages(game),
         ...gameLanguages(game).map(languageLabel),
         ...gameLevels,
@@ -869,6 +871,14 @@ function linkHealth(url) {
   return { ok: false, text: i18n("link_error", reason) };
 }
 
+function localizedTitle(game) {
+  return getLang() === "ca" ? (game.title_ca || game.title) : game.title;
+}
+
+function localizedNotes(game) {
+  return getLang() === "ca" ? (game.notes_ca || game.notes) : game.notes;
+}
+
 function buildCard(game) {
   const health = linkHealth(game.url);
   const key = gameKey(game);
@@ -886,7 +896,7 @@ function buildCard(game) {
   article.appendChild(imageAction);
 
   const title = document.createElement("h3");
-  title.textContent = game.title || i18n("no_title");
+  title.textContent = localizedTitle(game) || i18n("no_title");
 
   const cardHead = document.createElement("div");
   cardHead.className = "card-head";
@@ -906,7 +916,7 @@ function buildCard(game) {
 
   const note = document.createElement("p");
   note.className = "note";
-  note.textContent = game.notes || i18n("no_notes");
+  note.textContent = localizedNotes(game) || i18n("no_notes");
 
   const ratingControl = createRatingControl(key, userRating, ratingSummary);
 

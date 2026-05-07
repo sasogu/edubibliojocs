@@ -33933,5 +33933,18 @@
     "notes": "",
     "source": "jclic",
     "image": "./assets/game-images/jclic/zwa.webp"
+  },
+  {
+    "title": "La Dama d'Elx",
+    "url": "https://clic.xtec.cat/projects/damaelx/jclic.js/index.html",
+    "area": "Conocimiento del Medio",
+    "levels": [
+      "Primaria 1er ciclo",
+      "Primaria 3er ciclo"
+    ],
+    "language": "Català/Valencià",
+    "notes": "",
+    "source": "jclic",
+    "image": "./assets/game-images/jclic/damaelx.webp"
   }
 ]
