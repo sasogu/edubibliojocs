@@ -340,7 +340,9 @@
       "Infantil"
     ],
     "image": "assets/game-images/memoria-visual.jpg",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/memory.jpg"
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/memory.jpg",
+    "title_ca": "MEMÒRIA VISUAL",
+    "notes_ca": "Jocs de memòria visual amb imatges i paraules. Enllaç extern original no disponible."
   },
   {
     "id": "ortografia-espacial",
@@ -493,7 +495,9 @@
     "notes": "Repositorio de juegos de matematicas para reforzar calculo y logica.",
     "levels": [
       "Primaria 1er ciclo"
-    ]
+    ],
+    "title_ca": "Sumes i restes fins a 20",
+    "notes_ca": "Repositori de jocs de matemàtiques per a reforçar el càlcul i la lògica."
   },
   {
     "id": "tablas-de-multiplicar",
@@ -597,7 +601,9 @@
     "url": "https://aprendomusica.com/const2/03atrapanotas/game.html",
     "notes": "Juego tipo Simón identificando notas sol-la-mi.",
     "image": "assets/game-images/simon-s-l-m.jpg",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/simon.jpg"
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/simon.jpg",
+    "title_ca": "Simó s-l-m",
+    "notes_ca": "Joc tipus Simó per identificar les notes sol-la-mi."
   },
   {
     "id": "youdj",
@@ -749,7 +755,9 @@
     "url": "http://www.educaplus.org/game/encierra-al-gato",
     "notes": "Procura que el gato no se escape cerrándole el paso con círculos grises.",
     "image": "assets/game-images/gato-atrapalo.png",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Gato-atrapalo.png"
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Gato-atrapalo.png",
+    "title_ca": "Gat, atrapa'l!",
+    "notes_ca": "Intenta que el gat no escape tancant-li el pas amb cercles grisos."
   },
   {
     "id": "canarias-recursos-digitales",
@@ -1602,7 +1610,9 @@
     "levels": [
       "Infantil",
       "Primaria 1er ciclo"
-    ]
+    ],
+    "title_ca": "Aprenc a escriure",
+    "notes_ca": "Activitat interactiva per a practicar llengua en Infantil, Primària 1r cicle."
   },
   {
     "id": "area-shape-game",
@@ -1641,7 +1651,9 @@
       "Primaria 1er ciclo"
     ],
     "image": "assets/game-images/genmagic-generic.png",
-    "imageSource": "https://genmagic.net/visualflash.html?id=posan2"
+    "imageSource": "https://genmagic.net/visualflash.html?id=posan2",
+    "title_ca": "Arrossega i col·loca",
+    "notes_ca": "Activitat interactiva per a practicar llengua en Infantil, Primària 1r cicle."
   },
   {
     "id": "arregla-las-frases",
@@ -2468,7 +2480,9 @@
       "Primaria 2o ciclo"
     ],
     "image": "assets/game-images/comarcas-de-cataluna.png",
-    "imageSource": "https://clic.xtec.cat/users/mnebot1/comarques/index.html"
+    "imageSource": "https://clic.xtec.cat/users/mnebot1/comarques/index.html",
+    "title_ca": "Comarques de Catalunya",
+    "notes_ca": "Activitat interactiva per a practicar ciències socials en Primària 2n cicle."
   },
   {
     "id": "come-sumas",
@@ -3589,7 +3603,9 @@
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "title_ca": "El joc de les vocals",
+    "notes_ca": "Activitat interactiva per a practicar llengua en Infantil."
   },
   {
     "id": "el-laboratorio-del-ogro",
@@ -3657,7 +3673,9 @@
     "notes": "Actividad interactiva para practicar ciencias sociales en Infantil.",
     "levels": [
       "Infantil"
-    ]
+    ],
+    "title_ca": "La tardor",
+    "notes_ca": "Activitat interactiva per a practicar ciències socials en Infantil."
   },
   {
     "id": "el-paleolitico",
@@ -4949,7 +4967,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
-    ]
+    ],
+    "title_ca": "La Castanyada",
+    "notes_ca": "Activitat interactiva per a practicar dies especials en Infantil, Primària 1r cicle, Primària 2n cicle, Primària 3r cicle."
   },
   {
     "id": "la-castanera",
@@ -4965,7 +4985,9 @@
       "Primaria 3er ciclo"
     ],
     "image": "assets/game-images/la-castanera.png",
-    "imageSource": "https://clic.xtec.cat/projects/castanye/jclic.js/index.html"
+    "imageSource": "https://clic.xtec.cat/projects/castanye/jclic.js/index.html",
+    "title_ca": "La castanyera",
+    "notes_ca": "Activitat interactiva per a practicar dies especials en Infantil, Primària 1r cicle, Primària 2n cicle, Primària 3r cicle."
   },
   {
     "id": "la-celula",
@@ -6530,7 +6552,9 @@
       "Primaria 3er ciclo"
     ],
     "image": "assets/game-images/normas-de-acentuacion.png",
-    "imageSource": "https://clic.xtec.cat/projects/accents/jclic.js/index.html"
+    "imageSource": "https://clic.xtec.cat/projects/accents/jclic.js/index.html",
+    "title_ca": "Normes d'accentuació",
+    "notes_ca": "Activitat interactiva per a practicar llengua en Primària 2n cicle, Primària 3r cicle."
   },
   {
     "id": "numbers",
@@ -7371,7 +7395,9 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
-    ]
+    ],
+    "title_ca": "Petites històries",
+    "notes_ca": "Activitat interactiva per a practicar llengua en Primària 1r cicle, Primària 2n cicle, Primària 3r cicle."
   },
   {
     "id": "pequenas-historias-3",
@@ -8464,7 +8490,9 @@
       "Primaria 3er ciclo"
     ],
     "image": "assets/game-images/silabas-y-acentuacion.png",
-    "imageSource": "https://clic.xtec.cat/projects/siltoacc/jclic.js/index.html"
+    "imageSource": "https://clic.xtec.cat/projects/siltoacc/jclic.js/index.html",
+    "title_ca": "Síl·labes i accentuació",
+    "notes_ca": "Activitat interactiva per a practicar llengua en Primària 2n cicle, Primària 3r cicle."
   },
   {
     "id": "simetria",
@@ -13974,7 +14002,9 @@
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
     "fetchedAt": "2026-05-07T00:00:00.000Z",
     "image": "assets/game-images/edu365-sabies-que-la-narracion.jpg",
-    "imageSource": "https://img.youtube.com/vi/9sVy3yWHOgM/hqdefault.jpg"
+    "imageSource": "https://img.youtube.com/vi/9sVy3yWHOgM/hqdefault.jpg",
+    "title_ca": "Sabies que...? La narració",
+    "notes_ca": "Explicar fets reals o ficticis, el rol del narrador en les històries"
   },
   {
     "id": "edu365-sabies-que-representacio-cossos-en-3d",
@@ -15678,7 +15708,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/diccionaris.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "title_ca": "Diccionari de la llengua espanyola (RAE)",
+    "notes_ca": "Repertori ampli de termes i definicions actualitzades del castellà"
   },
   {
     "id": "edu365-decat-etimologia-catalana",
@@ -25345,7 +25377,9 @@
     "language": "Català/Valencià",
     "notes": "",
     "source": "jclic",
-    "image": "./assets/game-images/jclic/numeradv.webp"
+    "image": "./assets/game-images/jclic/numeradv.webp",
+    "title_ca": "Numeració - DV",
+    "notes_ca": ""
   },
   {
     "title": "Numeració romana",

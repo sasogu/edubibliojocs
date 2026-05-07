@@ -283,7 +283,9 @@
       "Infantil"
     ],
     "image": "assets/game-images/memoria-visual.jpg",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/memory.jpg"
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/memory.jpg",
+    "title_ca": "MEMÒRIA VISUAL",
+    "notes_ca": "Jocs de memòria visual amb imatges i paraules. Enllaç extern original no disponible."
   },
   {
     "id": "ortografia-espacial",
@@ -493,7 +495,9 @@
     "url": "https://aprendomusica.com/const2/03atrapanotas/game.html",
     "notes": "Juego tipo Simón identificando notas sol-la-mi.",
     "image": "assets/game-images/simon-s-l-m.jpg",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/simon.jpg"
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/simon.jpg",
+    "title_ca": "Simó s-l-m",
+    "notes_ca": "Joc tipus Simó per identificar les notes sol-la-mi."
   },
   {
     "id": "memory",
@@ -550,7 +554,9 @@
     "url": "http://www.educaplus.org/game/encierra-al-gato",
     "notes": "Procura que el gato no se escape cerrándole el paso con círculos grises.",
     "image": "assets/game-images/gato-atrapalo.png",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Gato-atrapalo.png"
+    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Gato-atrapalo.png",
+    "title_ca": "Gat, atrapa'l!",
+    "notes_ca": "Intenta que el gat no escape tancant-li el pas amb cercles grisos."
   },
   {
     "id": "cuantas-abejas-hay",
