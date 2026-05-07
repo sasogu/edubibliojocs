@@ -522,6 +522,11 @@ async function initPreferenceBackend() {
     };
 
     state.authReady = true;
+    authModule.onAuthStateChanged(auth, () => {
+      if (state.authReady) {
+        updateAuthUi();
+      }
+    });
     await loadFirebasePreferences();
     state.backendMode = "firebase";
     updatePreferencesNote();
@@ -554,12 +559,12 @@ async function signInWithGoogle() {
     provider.setCustomParameters({ prompt: "select_account" });
     await signInWithPopup(auth, provider);
     await refreshFirebaseUserData();
-    updateAuthUi();
     render();
   } catch (error) {
     console.error(i18n("auth_error_google"), error);
   } finally {
     signInGoogleBtn.disabled = false;
+    updateAuthUi();
   }
 }
 
@@ -572,14 +577,14 @@ async function signOutFromGoogle() {
   try {
     const { auth, signInAnonymously, signOut } = state.firebase;
     await signOut(auth);
-    await signInAnonymously(auth);
+    await signInAnonymously(auth).catch(() => {});
     await refreshFirebaseUserData();
-    updateAuthUi();
     render();
   } catch (error) {
     console.error("No se pudo cerrar sesion", error);
   } finally {
     signOutBtn.disabled = false;
+    updateAuthUi();
   }
 }
 
