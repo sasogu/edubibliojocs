@@ -1,4 +1,4 @@
-const CACHE_NAME = "bibliojocs-v0.1";
+const CACHE_NAME = "bibliojocs-v0.4";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -37,6 +37,17 @@ self.addEventListener("activate", (event) => {
       ))
       .then(() => self.clients.claim())
   );
+});
+
+self.addEventListener("message", (event) => {
+  if (event.data?.type !== "GET_SW_VERSION") {
+    return;
+  }
+
+  event.source?.postMessage({
+    type: "SW_VERSION",
+    version: CACHE_NAME
+  });
 });
 
 self.addEventListener("fetch", (event) => {

@@ -11509,5 +11509,4425 @@
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat",
     "fetchedAt": "2026-05-06T16:07:21.749Z"
+  },
+  {
+    "id": "edu365-linux-mint",
+    "title": "Linux Mint",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://linuxmint.com/",
+    "notes": "Sistema operatiu lliure i de codi obert basat en Ubuntu",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-libreoffice",
+    "title": "LibreOffice",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.libreoffice.org/",
+    "notes": "Suite ofimàtica gratuïta compatible amb Microsoft Office",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-librecad",
+    "title": "LibreCAD",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://librecad.org/",
+    "notes": "Aplicació CAD de codi obert per disseny 2D",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-krita",
+    "title": "Krita",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://krita.org/es/",
+    "notes": "Programari de pintura digital professional, lliure",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-avidemux",
+    "title": "Avidemux",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://avidemux.sourceforge.net/",
+    "notes": "Editor de vídeo per tall, filtrat i codificació",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-linkat-gnu-linux",
+    "title": "Linkat GNU Linux",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "http://linkat.xtec.cat/portal/index.php",
+    "notes": "Distribució educativa del Departament d'Educació",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-retrobat",
+    "title": "Retrobat",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.retrobat.org/accueil-es/",
+    "notes": "Emulador de consoles antigues",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-opentoonz",
+    "title": "OpenToonz",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://opentoonz.github.io/es/index.html",
+    "notes": "Programari de codi obert per a la producció de dibuixos animats en 2D",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-audacity",
+    "title": "Audacity",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.audacityteam.org",
+    "notes": "Programari per editar i enregistrar àudio",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-openshot",
+    "title": "OpenShot",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.openshot.org/",
+    "notes": "Editor de vídeo amb funcionalitats avançades",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-openscad",
+    "title": "OpenSCAD",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "http://www.openscad.org/",
+    "notes": "Programari per crear objectes CAD 3D sòlids",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-ardour",
+    "title": "Ardour",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://ardour.org/",
+    "notes": "Programari d'àudio digital de codi obert per gravar, editar i mesclar",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-natron",
+    "title": "Natron",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://natrongithub.github.io/",
+    "notes": "Edició de vídeo avançada i postproducció digital",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-gimp",
+    "title": "GIMP",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.gimp.org/",
+    "notes": "Editor d'imatges multiplataforma de codi obert",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-batocera",
+    "title": "Batocera",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://batocera.org/",
+    "notes": "Distribució de Linux per emular consoles de videojoc antigues",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-inkscape",
+    "title": "Inkscape",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://inkscape.org/",
+    "notes": "Editor professional de gràfics vectorials de codi obert",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-shotcut",
+    "title": "Shotcut",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://shotcut.org/",
+    "notes": "Editor de vídeo gratuït, de codi obert i multiplataforma",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-audiomass",
+    "title": "Audiomass",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://audiomass.co/",
+    "notes": "Editor d'àudio en línia sense instal·lació",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-obs-studio",
+    "title": "OBS Studio",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://obsproject.com/",
+    "notes": "Programari de codi obert per emetre en streaming",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-blender",
+    "title": "Blender",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.blender.org/",
+    "notes": "Programari de creació 3D gratuït i de codi obert",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sweet-home-3d",
+    "title": "Sweet Home 3D",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.sweethome3d.com/es/",
+    "notes": "Disseny de plànols en 2D i visualització en 3D",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-freecad",
+    "title": "FreeCAD",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.freecad.org/",
+    "notes": "Programari de modelatge 3D paramètric",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-guitarix",
+    "title": "Guitarix",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://guitarix.org/",
+    "notes": "Amplificador virtual de guitarra per a Linux",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-leocad",
+    "title": "LeoCAD",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.leocad.org/",
+    "notes": "Disseny de figures amb peces de construcció",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-helm",
+    "title": "Helm",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://tytel.org/helm/",
+    "notes": "Sintetitzador virtual de codi obert",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-musescore-studio",
+    "title": "MuseScore Studio",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://musescore.org/ca",
+    "notes": "Programari professional de notació musical, totalment gratuït",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-lenmus-phonascus",
+    "title": "LenMus Phonascus",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "http://www.lenmus.org/en/noticias",
+    "notes": "Programa per estudiar teoria musical",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-raspberry-pi-os",
+    "title": "Raspberry Pi OS",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.raspberrypi.com/software/",
+    "notes": "Sistema operatiu per al vostre ordinador Raspberry Pi",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-piano-booster",
+    "title": "Piano Booster",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.pianobooster.org/index.html",
+    "notes": "Programari de codi obert que reprodueix fitxers MIDI per aprendre piano",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-ubuntu",
+    "title": "Ubuntu",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://ubuntu.com/",
+    "notes": "Sistema operatiu gratuït i de codi obert basat en Linux",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-ultimaker-cura",
+    "title": "UltiMaker Cura",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://ultimaker.com/software/ultimaker-cura/",
+    "notes": "Programari per gestionar impressions 3D",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-elementary-os",
+    "title": "Elementary OS",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://elementary.io/ca/",
+    "notes": "Sistema operatiu alternatiu per a Windows i macOS",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-fedora",
+    "title": "Fedora",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://fedoraproject.org/ca/",
+    "notes": "Sistema operatiu basat en GNU/Linux 100% lliure",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-retro-virtual-machine",
+    "title": "Retro Virtual Machine",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.retrovirtualmachine.org/",
+    "notes": "Emulador de màquines de 8 bits",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-mixxx",
+    "title": "Mixxx",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://mixxx.org/",
+    "notes": "Programari de codi obert per fer de DJ",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-recalbox",
+    "title": "Recalbox",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.recalbox.com/",
+    "notes": "Consola de jocs retro de codi obert amb més de 100 sistemes emulats",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-retropie",
+    "title": "Retropie",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://retropie.org.uk/",
+    "notes": "Converteix el teu ordinador en una consola clàssica amb aquest emulador",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/open-source.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-cueprompter",
+    "title": "CuePrompter",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://cueprompter.com/",
+    "notes": "Converteix el teu navegador en un teleprompter per llegir textos",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-unreal-engine",
+    "title": "Unreal Engine",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.unrealengine.com/es-ES",
+    "notes": "Motor de creació 3D per videojocs, animacions i entorns virtuals",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-reaper",
+    "title": "Reaper",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.reaper.fm/",
+    "notes": "DAW professional per gravar, editar i masteritzar àudio",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-national-film-board-of-canada",
+    "title": "National Film Board of Canada",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.nfb.ca/",
+    "notes": "Plataforma amb documentals sobre temes socials i educatius",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-learning-light-google",
+    "title": "Learning Light (Google)",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://artsandculture.google.com/experiment/learning-light/ywEbheTXDCXJCQ?cp",
+    "notes": "Experiment interactiu sobre il·luminació en fotografia i cinema",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-clipchamp",
+    "title": "Clipchamp",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://clipchamp.com/es/",
+    "notes": "Editor de vídeo gratuït de Microsoft per fer vídeos fàcilment",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-camerasim",
+    "title": "CameraSim",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.camerasim.com",
+    "notes": "Aprèn fotografia: diafragma, velocitat d'obturació i ISO",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-clideo",
+    "title": "Clideo",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://clideo.com/es",
+    "notes": "Plataforma en línia amb eines gratuïtes per editar vídeos al navegador",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-brickfilms",
+    "title": "Brickfilms",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://brickfilms.com/",
+    "notes": "Plataforma de recursos per a animacions stop-motion amb peces Lego",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-zu3d",
+    "title": "Zu3D",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.zu3d.com/",
+    "notes": "Programari stop-motion per a PC, Mac i iPad",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-riverside",
+    "title": "Riverside",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://riverside.fm/",
+    "notes": "Eina per gravar vídeos i àudios d'alta qualitat (podcasts, entrevistes)",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-wikiflix",
+    "title": "Wikiflix",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://wikiflix.toolforge.org/#/",
+    "notes": "Explora pel·lícules en domini públic i llicències obertes",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-stop-motion-magazine",
+    "title": "Stop Motion Magazine",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://stopmotionmagazine.com/",
+    "notes": "Revista digital amb notícies i recursos sobre stop motion",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-animashooter",
+    "title": "Animashooter",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "http://www.animashooter.ru/",
+    "notes": "Programari d'animació per Windows i Linux",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-davinci-resolve-18",
+    "title": "DaVinci Resolve 18",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.blackmagicdesign.com/ar/products/davinciresolve/whatsnew",
+    "notes": "Edició de vídeo professional amb funcionalitats per a animacions gràfiques",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-dragonframe",
+    "title": "Dragonframe",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.dragonframe.com/",
+    "notes": "Programari stop-motion professional amb prova gratuïta de 30 dies",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-animatron-studio",
+    "title": "Animatron Studio",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.animatron.com/studio",
+    "notes": "Aplicació per crear animacions atractives en HTML5",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-adobe-color",
+    "title": "Adobe Color",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://color.adobe.com/es/create/color-wheel",
+    "notes": "Roda cromàtica interactiva per triar paletes de colors",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-photopea",
+    "title": "Photopea",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.photopea.com/",
+    "notes": "Editor d'imatges avançat, gratuït i en línia",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-jahshaka",
+    "title": "Jahshaka",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.jahshaka.com/",
+    "notes": "Construeix mons virtuals en tres dimensions",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-artweaver-7",
+    "title": "Artweaver 7",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.artweaver.de/en",
+    "notes": "Programari de pintura digital amb pinzells realistes",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-fire-alpaca",
+    "title": "Fire Alpaca",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://firealpaca.com/es/",
+    "notes": "Programari gratuït de pintura digital per a Windows i Mac",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-shot-designer",
+    "title": "Shot Designer",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.hollywoodcamerawork.com/shot-designer.html",
+    "notes": "Programari per planificar escenes del muntatge (versió gratuïta disponible)",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-storyboarder",
+    "title": "Storyboarder",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://wonderunit.com/storyboarder/",
+    "notes": "Programari per dissenyar storyboards",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sculptgl",
+    "title": "SculptGL",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://stephaneginier.com/sculptgl/",
+    "notes": "Aplicació web de modelat 3D esculptura",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-kinoscope-google-arts",
+    "title": "Kinoscope (Google Arts)",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://artsandculture.google.com/asset/kinoscope-a-vr-journey-into-the-world-of-cinema/mgHwbzF-ExSqCQ",
+    "notes": "Viatge immersiu per la història del cinema (Google Arts & Culture)",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pexels",
+    "title": "Pexels",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.pexels.com/ca-es/",
+    "notes": "Fotos i vídeos d'estoc gratuïts sense necessitat d'atribució",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-make-human",
+    "title": "Make Human",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://static.makehumancommunity.org/makehuman.html",
+    "notes": "Dissenya personatges humans en 3D (compatible Blender i MeshLab)",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-meshmixer",
+    "title": "Meshmixer",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "http://www.meshmixer.com/",
+    "notes": "Programari de modelatge en 3D per crear, reconstruir i esculpir dissenys",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-google-web-designer",
+    "title": "Google Web Designer",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://webdesigner.withgoogle.com/",
+    "notes": "Introducció al disseny web i vídeos interactius HTML5",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/edicio-produccio-audiovisual-batxillerat.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-construct-3",
+    "title": "Construct 3",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.construct.net/en",
+    "notes": "Plataforma visual per crear videojocs 2D sense programar, al navegador",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/videojoc.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-shakespeare-timeline-pbs",
+    "title": "Shakespeare Timeline (PBS)",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.pbs.org/wnet/shakespeare-uncovered/timeline/",
+    "notes": "Línia del temps interactiva sobre la vida i obra de William Shakespeare",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-lobra-de-gaudi",
+    "title": "L'obra de Gaudí",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://consellantonigaudi.cat/obra/",
+    "notes": "Plataforma sobre el llegat arquitectònic i artístic de Gaudí",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-cervantes-en-la-escuela",
+    "title": "Cervantes en la escuela",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "http://www.cervantesenlaescuela.es/",
+    "notes": "Recurs interactiu sobre la vida i obra de Miguel de Cervantes",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-lobra-dantoni-gaudi-la-pedrera",
+    "title": "L'obra d'Antoni Gaudí (La Pedrera)",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.lapedrera.com/ca/obra-antoni-gaudi/",
+    "notes": "Coneix l'obra de Gaudí i el seu llenguatge arquitectònic",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-oceanicas",
+    "title": "Oceánicas",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://oceanicas.ieo.es/",
+    "notes": "Divulgació científica sobre dones en investigació marina",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sagrada-familia-antoni-gaudi",
+    "title": "Sagrada Família - Antoni Gaudí",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://educa.sagradafamilia.org/recursos-i-materials?p_r_p_categoryId=1487053",
+    "notes": "Jocs, vídeos i activitats sobre la Sagrada Família",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-federico-garcia-lorca-cervantes-virtual",
+    "title": "Federico García Lorca (Cervantes Virtual)",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.cervantesvirtual.com/portales/federico_garcia_lorca/",
+    "notes": "Portal amb obra, biografia, manuscrits i estudis crítics de Lorca",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-historia-de-la-ciencia-fisicaquimica",
+    "title": "Historia de la Ciencia (FisicaQuimica)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/",
+    "notes": "Biografies de científics i científiques destacats",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-mortadelo-y-filemon",
+    "title": "Mortadelo y Filemón",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://mortadelo-filemon.es/",
+    "notes": "Web dedicada als emblemàtics personatges de còmic creats per Francisco Ibáñez",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-famous-composers",
+    "title": "Famous Composers",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.pianolessons4children.com/composers/",
+    "notes": "Llegat de compositors com Bach, Mozart, Beethoven, Chopin",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-galeria-de-metges-catalans",
+    "title": "Galeria de metges catalans",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.galeriametges.cat/home.php",
+    "notes": "Professionals mèdics catalans destacats",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-personatges-historics-google-arts",
+    "title": "Personatges històrics (Google Arts)",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://artsandculture.google.com/category/historical-figure?hl=es&tab=pop",
+    "notes": "Explora figures clau de la història mundial",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-the-kapralova-society",
+    "title": "The Kapralova Society",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "http://www.kapralova.org/index.htm",
+    "notes": "La compositora txeca Kaprálová: vida, música i rol femení",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-freddiemeter",
+    "title": "FreddieMeter",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://experiments.withgoogle.com/freddiemeter",
+    "notes": "Grava la teva veu i compara-la amb Freddie Mercury de Queen",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-poemes-de-la-joana-raspall",
+    "title": "Poemes de la Joana Raspall",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://clic.xtec.cat/projects/jraspall/jclic.js/index.html",
+    "notes": "Vida i obra de la poeta catalana Joana Raspall",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-locell-de-foc-de-stravinski",
+    "title": "L'ocell de foc de Stravinski",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.edu365.cat/flash/stravinski/index.html",
+    "notes": "Descobreix el geni rus de la música Igor Stravinski",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pau-casals-storymapjs",
+    "title": "Pau Casals (StoryMapJS)",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://uploads.knightlab.com/storymapjs/7849dbb5d930c289c2b97ca7121a45c2/pau-casals-1/index.html",
+    "notes": "Mapa interactiu de moments clau en la vida de Pau Casals",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-catalegs-raonats-de-lobra-de-dali",
+    "title": "Catàlegs Raonats de l'Obra de Dalí",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.salvador-dali.org/ca/obra/cataleg-raonat/",
+    "notes": "La producció artística de Salvador Dalí al teu abast",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-jordi-sabater-i-pi",
+    "title": "Jordi Sabater i Pi",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://recercaiuniversitats.gencat.cat/ca/03_ambits_dactuacio/commemoracions/jordi-sabater-pi/index.html",
+    "notes": "Primatòleg i estudi de primats",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-cervantes-en-la-bne",
+    "title": "Cervantes en la BNE",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://cervantes.bne.es/",
+    "notes": "Accés digital a llibres, il·lustracions i vídeos sobre Cervantes",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-hola-beethoven",
+    "title": "Hola, Beethoven",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://hallo.beethoven.de/html5/start.html",
+    "notes": "Endinsa't en el món del compositor Ludwig van Beethoven",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sur-le-pas-de-darwin-galapagos",
+    "title": "Sur le pas de Darwin (Galápagos)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.cite-sciences.fr/juniors/darwin-galapagos/index.html",
+    "notes": "Les illes Galápagos amb Darwin: evolució i biodiversitat",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-kids-csic",
+    "title": "Kids CSIC",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.kids.csic.es/index.html",
+    "notes": "Desperta la teva curiositat científica amb vídeos i experiments",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-manuel-de-pedrolo-biblioteca-digital",
+    "title": "Manuel de Pedrolo (Biblioteca Digital)",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://bibliotecavirtual.diba.cat/manuel-de-pedrolo",
+    "notes": "L'univers literari de l'escriptor Manuel de Pedrolo",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-herge-tintin",
+    "title": "Hergé - Tintín",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.tintin.com/es/herge",
+    "notes": "Dibuixant i guionista creador de Tintín",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-elles-biografies-de-dones",
+    "title": "Elles! Biografies de dones",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://dones.gencat.cat/web/.content/03_ambits/docs/cdoc_publicacions_Elles.pdf",
+    "notes": "Recull de biografies de 65 dones oblidades en la història",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-museu-schulz-snoopy",
+    "title": "Museu Schulz (Snoopy)",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://schulzmuseum.org/about-schulz/",
+    "notes": "Biografia de Charles Schulz, creador de Snoopy",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-miro-en-joc",
+    "title": "Miró en joc",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.fmirobcn.org/ca/activitats/families/miro-en-joc/",
+    "notes": "Recursos educatius sobre Joan Miró",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-museu-van-gogh",
+    "title": "Museu Van Gogh",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://museovangogh.org/",
+    "notes": "Museu virtual de Vincent Van Gogh",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-visita-virtual-museu-dali",
+    "title": "Visita virtual Museu Dalí",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.salvador-dali.org/es/museos/teatro-museo-dali-de-figueres/visita-virtual/",
+    "notes": "Recorregut virtual per les sales del museu Dalí de Figueres",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-the-beatles-story",
+    "title": "The Beatles Story",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.beatlesstory.com/education/games-and-quizzes/",
+    "notes": "Jocs i qüestionaris sobre The Beatles",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-biografies-de-liders-politics-cidob",
+    "title": "Biografies de líders polítics (CIDOB)",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.cidob.org/lideres-politicos/biografias-lideres-politicos",
+    "notes": "Biografies de líders polítics mundials",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/protagonistes.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-lilla-del-mussol",
+    "title": "L'illa del mussol",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://www.edu365.cat/taller/estiu2023/illa-mussol-joc.pdf",
+    "notes": "Construeix el teu joc de taula i prepara't per viure una aventura pirata",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-ull-viu",
+    "title": "Ull viu!",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/guingueta/ull-viu.pdf",
+    "notes": "Joc per posar a prova la vista i descobrir qui té l'ull més viu",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-cavallet-joc-descuma",
+    "title": "Cavallet (joc d'escuma)",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/olimpiades-estiu/cavallet-A4.pdf",
+    "notes": "Transforma un tub d'escuma en cavallet per jugar",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pai-pai-de-paper",
+    "title": "Pai-pai de paper",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/olimpiades-estiu/instruccions_paipai-A4.pdf",
+    "notes": "Fes un ventall de paper per refrescar-te",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-futboli-de-paper",
+    "title": "Futbolí de paper",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/olimpiades-estiu/futboli-A4.pdf",
+    "notes": "Crea el teu propi futbolí de paper i diverteix-te jugant partits",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-jocs-medievals",
+    "title": "Jocs medievals",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/santjordi2024/jocs_medievals_A4.pdf",
+    "notes": "Jocs de punteria amb materials reciclats",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-joc-de-pesca-reciclat",
+    "title": "Joc de pesca (reciclat)",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/carnaval2024/joc_pesca_A4.pdf",
+    "notes": "Construeix un joc de pesca amb materials reciclats",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-motxilla-astronauta",
+    "title": "Motxilla astronauta",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/carnaval_venusia/motxilla-astronauta.pdf",
+    "notes": "Construeix una motxilla espacial amb materials reciclats",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-mussol-volador",
+    "title": "Mussol volador",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/tardor2023/mussol_volador.pdf",
+    "notes": "Crea un mussol amb ales que es mouen de veritat",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-ventilador-sense-motor",
+    "title": "Ventilador sense motor",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/guingueta/ventilador.pdf",
+    "notes": "Construeix un ventilador amb materials reciclats",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pinyata-castell",
+    "title": "Pinyata castell",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/santjordi2025/pinyata.pdf",
+    "notes": "Construeix una pinyata en forma de castell",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-basquet-tap",
+    "title": "Bàsquet-tap",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/guingueta/basquet-tap.pdf",
+    "notes": "Construeix el teu propi joc de bàsquet amb taps i cartró",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-passa-la",
+    "title": "Passa-la!",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/guingueta/passa-la.pdf",
+    "notes": "Joc d'habilitat amb caixa, gomes i taps",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-la-llegenda-sense-fi",
+    "title": "La llegenda sense fi",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/santjordi2025/llegenda-sense-fi.pdf",
+    "notes": "Inventa històries noves cada vegada",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-la-disfressa-esbojarrada",
+    "title": "La disfressa esbojarrada",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/carnaval2024/disfressa_esbojarradda_bn_A4.pdf",
+    "notes": "Crea disfresses barrejant vestits de manera divertida",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-el-laberint-del-drac-i-la-rosa",
+    "title": "El laberint del drac i la rosa",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/sant_jordi2023/laberint_drac_princesa_A4.pdf",
+    "notes": "Ressegueix el camí i pinta el dibuix del drac i la princesa",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pinta-la-sardina",
+    "title": "Pinta la sardina",
+    "area": "Matematicas",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/carnaval2023/pinta_A4.pdf",
+    "notes": "Resol sumes i pinta la sardina",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-joc-de-memoria-estiu",
+    "title": "Joc de memòria (estiu)",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://www.edu365.cat/taller/estiu2023/memory_estiu.pdf",
+    "notes": "Retalla les cartes i juga a fer parelles",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-eduween-joc-de-cartes",
+    "title": "Eduween (joc de cartes)",
+    "area": "Manualitats",
+    "language": "Catalan/Valencià",
+    "url": "https://edu365.cat/taller/monstres_ombres/cartes_eduween_A4.pdf",
+    "notes": "Joc de cartes amb personatges terrorífics de Halloween",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/fem-estiu.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-comics-biblioteca-virtual-diba",
+    "title": "Còmics - Biblioteca Virtual DIBA",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://bibliotecavirtual.diba.cat/ca/comics",
+    "notes": "Selecció de còmics amb recomanacions, novetats i llistes temàtiques",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-historia-y-comic",
+    "title": "Historia y Cómic",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://historiaycomic.wordpress.com/",
+    "notes": "Blog que combina la divulgació històrica amb el còmic",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-gomic",
+    "title": "Gomic",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://gomic.eu/",
+    "notes": "Plataforma per descobrir històries d'acció, aventura, amor i ciència-ficció",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-tintincom",
+    "title": "Tintin.com",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.tintin.com/es",
+    "notes": "Portal oficial dedicat a les aventures de Tintín",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-continguts-epva-comic",
+    "title": "Continguts EPVA: Còmic",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://educacionplasticayvisual.com/lenguajes-visuales/comic/",
+    "notes": "Recursos sobre què és un còmic i quins són els seus elements bàsics",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-google-arts-culture-comic",
+    "title": "Google Arts & Culture - Còmic",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://artsandculture.google.com/entity/comics/m012h24?hl=en",
+    "notes": "Explora la història, l'art i la influència del còmic",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-storyboard-that",
+    "title": "Storyboard That",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.storyboardthat.com/",
+    "notes": "Eina en línia per crear storyboards, còmics i organitzadors gràfics",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-comicat",
+    "title": "Comicat",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.comicat.cat/",
+    "notes": "Blog dedicat al còmic en català amb ressenyes i novetats",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-super-action-comic-maker",
+    "title": "Super Action Comic Maker",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.culturestreet.org.uk/activities/superactioncomicmaker/",
+    "notes": "Eina en línia per crear còmics interactius de manera senzilla",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-asterix",
+    "title": "Astèrix",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://asterix.com/es/",
+    "notes": "Informació sobre els àlbums, personatges i autors d'Astèrix",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-comiclopedia-lambiek",
+    "title": "Comiclopedia (Lambiek)",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.lambiek.net/comiclopedia.html",
+    "notes": "Enciclopèdia en línia dedicada als artistes de còmic",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-tebeosfera",
+    "title": "Tebeosfera",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.tebeosfera.com/",
+    "notes": "Enciclopèdia digital dedicada al còmic i a la historieta",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-canva-comic-strips",
+    "title": "Canva - Comic Strips",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.canva.com/create/comic-strips/",
+    "notes": "Crea tires còmiques de manera fàcil amb plantilles personalitzables",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-ai-comic-factory",
+    "title": "AI Comic Factory",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://aicomicfactory.com/playground",
+    "notes": "Plataforma que permet crear còmics generats per intel·ligència artificial",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-digital-comic-museum",
+    "title": "Digital Comic Museum",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://digitalcomicmuseum.com/",
+    "notes": "Biblioteca en línia amb còmics antics de domini públic",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-editorg",
+    "title": "Edit.org",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://edit.org/",
+    "notes": "Plataforma per dissenyar i personalitzar materials gràfics, inclosos còmics",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-fonts-de-la-illustracio-i-el-comic-bnc",
+    "title": "Fonts de la il·lustració i el còmic (BNC)",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.bnc.cat/Il-lustracio-i-comic",
+    "notes": "Visió general sobre la història de la il·lustració i el còmic a Catalunya",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/comic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-les-habilitats-personals",
+    "title": "Sabies que...? Les habilitats personals",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=cmtyKyFoIJs",
+    "notes": "Les habilitats motores ens permeten desplaçar-nos, mantenir l'equilibri i fer acrobàcies",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-la-noticia",
+    "title": "Sabies que...? La notícia",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=z5NrDcdhdmQ",
+    "notes": "Les notícies i els periodistes ens mantenen informats del que passa al món",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-el-comic",
+    "title": "Sabies que...? El còmic",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=fagSCWev6UM",
+    "notes": "Les històries del còmic poden ser còmiques, intrigants o d'aventures",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-les-composicions-musicals",
+    "title": "Sabies que...? Les composicions musicals",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=EzcW-LIuSMM",
+    "notes": "La música és un llenguatge universal present a totes les cultures",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-street-art",
+    "title": "Sabies que...? Street Art",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=tb3MwFIORpY",
+    "notes": "Obres d'art trobades a les parets d'edificis i tanques al passejar",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-art-i-emocions",
+    "title": "Sabies que...? Art i emocions",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=Bovii1DEcbk",
+    "notes": "Exploració de les respostes emocionals a l'art, el cinema i la poesia",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-els-llibres-de-cavalleria",
+    "title": "Sabies que...? Els llibres de cavalleria",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=Lc8sA_MCW4o",
+    "notes": "Guerrers, reines poderoses i bruixots famosos en la tradició oral i literatura",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-textos-instructius-i-descriptius",
+    "title": "Sabies que...? Textos instructius i descriptius",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=DW_UPZXAOow",
+    "notes": "Tipus de textos: receptes, instruccions de muntatge i retrats",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-ens-expressem-movent-nos",
+    "title": "Sabies que...? Ens expressem movent-nos",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=JT3dW5pSFhc",
+    "notes": "Sentiments i estats d'ànim reflectits en expressions facials i corporals",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-funcio-de-relacio",
+    "title": "Sabies que...? Funció de relació",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=qXlZ2ivxKLA",
+    "notes": "Capacitat dels éssers vius de rebre informació de l'entorn i actuar en conseqüència",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-fraccions",
+    "title": "Sabies que...? Fraccions",
+    "area": "Matematicas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=x8zlX7OTpXc",
+    "notes": "Les fraccions representen parts d'una unitat dividida en parts iguals",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-impressionisme",
+    "title": "Sabies que...? Impressionisme",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=RxmQ9xCqCjU",
+    "notes": "Moviment artístic que sorgeix a França a finals del segle XIX",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-avantguardes",
+    "title": "Sabies que...? Avantguardes",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=pKzdNBr5BcM",
+    "notes": "Període social complex del segle XX amb repercussions en l'art i la societat",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-revolucio-industrial",
+    "title": "Sabies que...? Revolució Industrial",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=812yz0QJIcs",
+    "notes": "La major transformació econòmica, social i tecnològica de la història humana",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-la-publicitat",
+    "title": "Sabies que...? La publicitat",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=nYd7WdpYWQ4",
+    "notes": "Presentació atractiva de productes mitjançant tècniques publicitàries",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-literatura",
+    "title": "Sabies que...? Literatura",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=Ljoq7txdZDQ",
+    "notes": "Permet viatjar a llocs, conèixer gent i viure aventures de tota mena",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-la-diversitat-de-llengues",
+    "title": "Sabies que...? La diversitat de llengües",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=grhB5iz1yQc",
+    "notes": "Més de 7000 llengües vives al món que interactuen i es barregen",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-limpressionisme-musical",
+    "title": "Sabies que...? L'impressionisme musical",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=PzKHJKpUY1c",
+    "notes": "Moviment artístic amb melodies fluïdes sense forma musical marcada",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-expressions-fetes",
+    "title": "Sabies que...? Expressions fetes",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=0ZuMAH6rsP4",
+    "notes": "Expressions idiomàtiques i el seu significat cultural en la llengua",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-les-qualitats-fisiques",
+    "title": "Sabies que...? Les qualitats físiques",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=DDFToAwHdC0",
+    "notes": "Treballar resistència, força, velocitat i flexibilitat per estar en forma",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-videojocs",
+    "title": "Sabies que...? Videojocs",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=6321Y57kxLs",
+    "notes": "Objectes tridimensionals, dimensions i materials que ens envolten",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-els-nombres-naturals",
+    "title": "Sabies que...? Els nombres naturals",
+    "area": "Matematicas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=rcy3JvOLu-Y",
+    "notes": "Sistema decimal per comptar, però sempre comptem igual?",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-mates-i-esport",
+    "title": "Sabies que...? Mates i esport",
+    "area": "Matematicas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=2M0o9xPr29U",
+    "notes": "Aplicació d'àrees, volums, massa i longitud en contextos esportius",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-el-nostre-planeta",
+    "title": "Sabies que...? El nostre planeta",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=RmsS39qEEvU",
+    "notes": "Subsistemes terrestres interdependents amb terratrèmols i volcans",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-les-caracteristiques-duna-canco",
+    "title": "Sabies que...? Les característiques d'una cançó",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=Qf87W7SBfOk",
+    "notes": "Anàlisi de les característiques emocionals i missatges de les cançons",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-ciencia-i-pseudociencia",
+    "title": "Sabies que...? Ciència i pseudociència",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=vDge4g8nBTM",
+    "notes": "Ciència basada en hipòtesis verificables vs. pseudociències no demostrables",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-energia-de-km-0",
+    "title": "Sabies que...? Energia de km 0",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=MQjr7nqQfqo",
+    "notes": "Fonts renovables i eficiència energètica per reduir l'impacte ambiental",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-plastic-i-metalls",
+    "title": "Sabies que...? Plàstic i metalls",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=G3Nhw8m3YSM",
+    "notes": "Productes formats per múltiples materials",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-els-estils-musicals",
+    "title": "Sabies que...? Els estils musicals",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=ljuERUgYtxg",
+    "notes": "Evolució musical històrica amb estils associats a cada època",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-el-text-narratiu",
+    "title": "Sabies que...? El text narratiu",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=-tQby7lkrzY",
+    "notes": "Novel·les i narracions amb elements inesperats i imaginatius",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-temps-de-castells",
+    "title": "Sabies que...? Temps de castells",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=NN5Q7v9S1pI",
+    "notes": "Organització social feudal, paper de l'església i condicions dels serfs",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-lart-idioma-universal",
+    "title": "Sabies que...? L'Art, idioma universal",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=0FZ7FtTv60U",
+    "notes": "L'art com a mitjà universal de comunicació i expressió",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-energia",
+    "title": "Sabies que...? Energia",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=CHu7v6ypz2k",
+    "notes": "Definició d'energia: cinètica, tèrmica, elèctrica i altres tipus",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-fake-news",
+    "title": "Sabies que...? Fake news",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=RXp0jOw-p_U",
+    "notes": "Notícies falses per desinformar o manipular l'opinió pública",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-la-narracion",
+    "title": "Sabies que...? La narración",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=9sVy3yWHOgM",
+    "notes": "Explicar fets reals o ficticis, el rol del narrador en les històries",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-representacio-cossos-en-3d",
+    "title": "Sabies que...? Representació cossos en 3D",
+    "area": "Matematicas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=jUd6slMUp6w",
+    "notes": "Conversió de figures planes bidimensionals a representació tridimensional",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-les-maquines",
+    "title": "Sabies que...? Les màquines",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=3xi9hrtJ3qs",
+    "notes": "De les màquines simples a les complexes",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-energia-i-maquines",
+    "title": "Sabies que...? Energia i màquines",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=O4mT9uPdqsw",
+    "notes": "Transformació d'energia de combustible en cinètica per al moviment",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-atoms-elements-i-taula-periodica",
+    "title": "Sabies que...? Àtoms, elements i taula periòdica",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=6BJvJSKAGtA",
+    "notes": "Matèria formada per elements químics amb característiques concretes",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-reaccions-quimiques",
+    "title": "Sabies que...? Reaccions químiques",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=eqe0WivH0wk",
+    "notes": "Múltiples tipus: respiració i obtenció d'energia dels aliments",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-consumidors-i-medi-ambient",
+    "title": "Sabies que...? Consumidors i medi ambient",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=Jn2usmExfD0",
+    "notes": "Quantitat ingent de productes comprats, usats i llençats diàriament",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-el-badminton",
+    "title": "Sabies que...? El bàdminton",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=GiEcDRmh3bE",
+    "notes": "L'esport de raqueta més ràpid, el volant supera un F1",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-parkour",
+    "title": "Sabies que...? Parkour",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=FX52t75ZsxU",
+    "notes": "L'art del desplaçament mitjançant moviment lliure",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-fraccions-decimals-i-percentatges",
+    "title": "Sabies que...? Fraccions, decimals i percentatges",
+    "area": "Matematicas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=3nIOuxY2qRI",
+    "notes": "Representen situacions quotidianes de manera més efectiva",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-equacions",
+    "title": "Sabies que...? Equacions",
+    "area": "Matematicas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=yaeIxvLZ0ZY",
+    "notes": "Trobar valors desconeguts a partir de dades concretes",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-som-una-maquina-perfecta",
+    "title": "Sabies que...? Som una màquina perfecta",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=t4Gu3PJ-Pmw",
+    "notes": "Sentits i sistema nerviós coordinen respostes per mantenir l'equilibri",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-expressions-discriminatories",
+    "title": "Sabies que...? Expressions discriminatòries",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=N-fYF8VS4yE",
+    "notes": "Expressions fetes que poden resultar discriminatòries o ofensives",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-parlar-i-escriure",
+    "title": "Sabies que...? Parlar i escriure",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=Jd9fClFWp68",
+    "notes": "La manera de parlar i escriure reflecteix la nostra personalitat",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-tipus-dhabitatges",
+    "title": "Sabies que...? Tipus d'habitatges",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=e-QkORFRKf4",
+    "notes": "Habitatges adaptats a l'entorn segons la regió geogràfica",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-electronica-digital",
+    "title": "Sabies que...? Electrònica digital",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=5BcIrGOU8uA",
+    "notes": "Llenguatge dels ordinadors i aparells electrònics",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-el-romanticismo-literario",
+    "title": "Sabies que...? El Romanticismo literario",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=Af-kNqkPde8",
+    "notes": "Moviment literari espanyol de la primera meitat del segle XIX",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-la-musica-del-segle-xx",
+    "title": "Sabies que...? La música del segle XX",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=FLI7p0JCZsQ",
+    "notes": "Es basa fonamentalment en música africana: blues i jazz",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-les-forces-i-les-seves-lleis",
+    "title": "Sabies que...? Les forces i les seves lleis",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=PMrWqHeYBaM",
+    "notes": "Lleis que regeixen les forces físiques",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-caracteristiques-de-la-materia",
+    "title": "Sabies que...? Característiques de la matèria",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=49vbcu27WqY",
+    "notes": "Propietats de substàncies i conducció d'electricitat",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-som-com-som",
+    "title": "Sabies que...? Som com som",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=AO7XjyXOprg",
+    "notes": "Trets hereditaris com el color dels ulls i el grup sanguini",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-finances",
+    "title": "Sabies que...? Finances",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=YToZO8aX-ic",
+    "notes": "Ingressos, despeses, capacitat d'estalvi i interessos en l'anàlisi financer",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-felicos-anys-20",
+    "title": "Sabies que...? Feliços anys 20",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=FPhVS90t6fU",
+    "notes": "El segle XX marcat per les Guerres Mundials I i II",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-que-es-el-disseny",
+    "title": "Sabies que...? Què és el disseny?",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=YuRrgLb_vkU",
+    "notes": "Disseny de roba, interiors, gràfic i aplicacions diverses",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-sabies-que-la-hipotenusa",
+    "title": "Sabies que...? La hipotenusa",
+    "area": "Matematicas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/watch?v=Jge9yxXJfNE",
+    "notes": "Fórmula per calcular la longitud de rampes a diferents alçades",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/sabies-que.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-voki",
+    "title": "Voki",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.voki.com/",
+    "notes": "Creació d'avatars animats per a contingut educatiu",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/animacio.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-distrosea",
+    "title": "Distrosea",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://distrosea.com/",
+    "notes": "Prova diferents distribucions Linux directament des del navegador",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-web-rewind",
+    "title": "Web Rewind",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://web-rewind.com/",
+    "notes": "Explora moments destacats de la història d'Internet de forma visual",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-macintosh-repository",
+    "title": "Macintosh Repository",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.macintoshrepository.org/",
+    "notes": "Arxiu digital col·laboratiu on es conserven programes antics de Mac",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-zx-spectrum-games",
+    "title": "ZX Spectrum Games",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://torinak.com/qaop/games",
+    "notes": "Videojocs clàssics de ZX Spectrum disponibles al navegador",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-blankpage",
+    "title": "Blankpage",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://blankpage.im",
+    "notes": "Editor de text minimalista sense distraccions per a l'escriptura",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-opengameartorg",
+    "title": "OpenGameArt.org",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://opengameart.org/",
+    "notes": "Plataforma gratuïta amb recursos gràfics i sonors per a videojocs",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-cpm-box",
+    "title": "CP/M Box",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.habisoft.com/pcw/es.htm",
+    "notes": "Emulador per executar programari Amstrad PCW",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-flowlab",
+    "title": "Flowlab",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://flowlab.io/",
+    "notes": "Programari en línia per dissenyar i desenvolupar jocs sense programar",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-figuro",
+    "title": "Figuro",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.figuro.io/Home/Welcome",
+    "notes": "Eina gratuïta per dissenyar i modelar en 3D des del navegador",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-tv-garden",
+    "title": "TV Garden",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://tv.garden/",
+    "notes": "Plataforma gratuïta per veure canals de televisió en directe de tot el món",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-bricklink-studio",
+    "title": "Bricklink Studio",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.bricklink.com/v3/studio/main.page",
+    "notes": "Dissenya i construeix amb peces virtuals LEGO",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-bbc-computer-literacy-project",
+    "title": "BBC Computer Literacy Project",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://clp.bbcrewind.co.uk/beeb",
+    "notes": "Arxiu digital per explorar programes informàtics dels anys 80",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-timeline-js",
+    "title": "Timeline JS",
+    "area": "Ciencias Sociales",
+    "language": "Catalan/Valencià",
+    "url": "https://timeline.knightlab.com/",
+    "notes": "Crea i publica la teva línia de temps interactiva amb Google Sheets",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-inklewriter",
+    "title": "Inklewriter",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.inklestudios.com/inklewriter/",
+    "notes": "Crea aventures interactives i sorprèn els teus lectors",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-elementari",
+    "title": "Elementari",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://elementari.com/",
+    "notes": "Plataforma per llegir, escriure, codificar, col·laborar i compartir històries",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-panzoid",
+    "title": "Panzoid",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://panzoid.com/",
+    "notes": "Dissenya títols espectaculars per als teus vídeos",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-kassel-labs",
+    "title": "Kassel Labs",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://kassellabs.io/",
+    "notes": "Dissenya entrades i crèdits cinematogràfics per a les teves creacions",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-bbc-micro-games-archive",
+    "title": "BBC Micro Games Archive",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.bbcmicro.co.uk/index.php",
+    "notes": "Emuladors, jocs i recursos per a l'ordinador BBC Micro",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pce-macplus-emulator",
+    "title": "PCE Macplus Emulator",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://jamesfriend.com.au/pce-js/pce-js-apps/",
+    "notes": "Emulació de Mac Plus amb programari descatalogat",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-chrome-os-flex",
+    "title": "Chrome OS Flex",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://chromeenterprise.google/os/chromeosflex/",
+    "notes": "Sistema operatiu al núvol per modernitzar el teu dispositiu",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pokecardmaker",
+    "title": "Pokecardmaker",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://pokecardmaker.com/configurator/",
+    "notes": "Aplicació per dissenyar cartes Pokemon personalitzades",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-internet-arcade-archiveorg",
+    "title": "Internet Arcade (Archive.org)",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://archive.org/details/internetarcade",
+    "notes": "Centenars de videojocs clàssics de qualsevol gènere i estil",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-teachflix",
+    "title": "Teachflix",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://teachflix.org/",
+    "notes": "Col·lecció de vídeos educatius ordenats per categories i àrees",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-typewrite-something",
+    "title": "Typewrite Something",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://typewritesomething.com/",
+    "notes": "Viatja al passat i descobreix com era utilitzar una màquina d'escriure",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-radio-garden",
+    "title": "Radio Garden",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://radio.garden/visit/annaba/30mjio1R",
+    "notes": "Navega per milers d'emissores de ràdio de tot el món",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-vdjoc-videojocs-en-catala",
+    "title": "VDJOC - Videojocs en català",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://llengua.gencat.cat/ca/serveis/videojocs/",
+    "notes": "Consulta l'oferta disponible de videojocs en català",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-portrait-illustration-maker",
+    "title": "Portrait Illustration Maker",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://illustmaker.abi-station.com/index_en.shtml",
+    "notes": "Crea el teu avatar amb un estil de videojoc japonès",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-doppelme",
+    "title": "DoppelMe",
+    "area": "Artes",
+    "language": "Catalan/Valencià",
+    "url": "https://www.doppelme.com/",
+    "notes": "Genera els teus avatars per a les teves xarxes socials",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pcjs-machines",
+    "title": "PCjs Machines",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.pcjs.org/",
+    "notes": "Projecte de codi obert que permet emular ordinadors i programari antic",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-thingiverse",
+    "title": "Thingiverse",
+    "area": "Tecnología",
+    "language": "Catalan/Valencià",
+    "url": "https://www.thingiverse.com/",
+    "notes": "Troba i descarrega objectes per imprimir-los en 3D",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-cospaces-edu",
+    "title": "CoSpaces Edu",
+    "area": "Informatica",
+    "language": "Catalan/Valencià",
+    "url": "https://www.cospaces.io/",
+    "notes": "Dissenya escenaris de realitat virtual i immersiva",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-geocaching",
+    "title": "Geocaching",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://www.geocaching.com/play",
+    "notes": "Uneix-te al joc de la cerca del tresor més gran del món",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-wikiloc",
+    "title": "Wikiloc",
+    "area": "Diversas áreas",
+    "language": "Catalan/Valencià",
+    "url": "https://ca.wikiloc.com/",
+    "notes": "Descobreix i comparteix rutes a l'aire lliure a peu o en bicicleta",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-transitions-dj",
+    "title": "Transitions DJ",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "https://dj.app/",
+    "notes": "Aplicació web gratuïta per fer de DJ des del navegador",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-linkat-radio",
+    "title": "Linkat Ràdio",
+    "area": "Musica",
+    "language": "Catalan/Valencià",
+    "url": "http://linkat.xtec.cat/portal_linkat/wikilinkat/index.php/Perfil_Ràdio",
+    "notes": "Escriptori personalitzat per fomentar la ràdio escolar",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/digital-taller.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-el-vulcanisme-a-catalunya",
+    "title": "El vulcanisme a Catalunya",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "http://www.gencat.cat/mediamb/publicacions/monografies/vulcanisme.pdf",
+    "notes": "Coneix les zones volcàniques de casa nostra",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-volcanes-de-canarias",
+    "title": "Volcanes de Canarias",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.volcanesdecanarias.org/",
+    "notes": "Plataforma dedicada a la divulgació científica sobre l'activitat volcànica",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-top-10-largest-volcanoes-arcgis",
+    "title": "Top 10 Largest Volcanoes (ArcGIS)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.arcgis.com/apps/MapTour/index.html?appid=d9eabc7a3c64462bb964d1d4bbd765de",
+    "notes": "Descobreix els volcans més alts del planeta en un mapa interactiu",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-volcano-models-bgs",
+    "title": "Volcano Models (BGS)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.bgs.ac.uk/discovering-geology/maps-and-resources/earth-hazards/volcano-models/",
+    "notes": "Informació i models educatius sobre el funcionament volcànic",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-vigilancia-volcanica-ign",
+    "title": "Vigilància volcànica (IGN)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.ign.es/web/ign/portal/vlc-area-volcanologia",
+    "notes": "Seguiment de l'activitat volcànica de l'Instituto Geográfico Nacional",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-com-es-forma-una-illa-volcanica-nasa",
+    "title": "Com es forma una illa volcànica? (NASA)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.nationalgeographic.es/video/tv/video-la-nasa-explica-como-nacen-las-islas-volcanicas-con-una-animacion",
+    "notes": "Animació de la NASA per explicar com neixen les illes volcàniques",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-volcano-world",
+    "title": "Volcano World",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://volcano.oregonstate.edu/volcano_table",
+    "notes": "Llistat exhaustiu de volcans de tots els continents",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-global-volcanism-program-smithsonian",
+    "title": "Global Volcanism Program (Smithsonian)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://volcano.si.edu/",
+    "notes": "Portal del Smithsonian Institution dedicat a la vigilància volcànica",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-what-are-volcanoes-time-for-kids",
+    "title": "What Are Volcanoes? (Time for Kids)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.timeforkids.com/g34/volcanoes-2/",
+    "notes": "Explicació de què són els volcans i com funcionen",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-volcans-mapa-interactiu",
+    "title": "Volcans - Mapa interactiu",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://world-geography-games.com/es/world_volcanoes.html",
+    "notes": "Juga amb aquest mapa del món interactiu i situa-hi els principals volcans",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-la-vida-secreta-dels-volcans",
+    "title": "La vida secreta dels volcans",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.scienceinschool.org/es/article/2013/muons-es/",
+    "notes": "Article divulgatiu de Science in School sobre els volcans",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/volcans.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-aixafa-lestafa",
+    "title": "Aixafa l'estafa",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://www.3cat.cat/3cat/aixafa-estafa/",
+    "notes": "Protegeix-te del frau digital! Descobreix com navegar amb seguretat",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-relats-de-ciberseguretat",
+    "title": "Relats de ciberseguretat",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://ciberseguretat.gencat.cat/ca/ciutadania/recursos-educatius/relats-ciberseguretat/",
+    "notes": "Contes sobre protecció a internet de forma entretinguda",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-kiddle",
+    "title": "Kiddle",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://es.kiddle.co/",
+    "notes": "Cercador segur per a menors: informació, imatges i vídeos",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-agencia-de-ciberseguretat-de-catalunya",
+    "title": "Agència de Ciberseguretat de Catalunya",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://internetsegura.cat/",
+    "notes": "Descobreix novetats i recursos per navegar amb seguretat",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-scratchy-contrasenya-segura",
+    "title": "Scratchy - Contrasenya segura",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://projectes.xtec.cat/programacioirobotica/mri4-scratchy-vol-una-contrasenya-segura/",
+    "notes": "Aprèn a crear contrasenyes segures mitjançant Scratch",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-canalprioritario-aepd",
+    "title": "#CanalPrioritario (AEPD)",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://www.aepd.es/canalprioritario",
+    "notes": "Sol·licita la retirada de contingut inadequat a internet",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-capsules-sobre-proteccio-de-dades",
+    "title": "Càpsules sobre protecció de dades",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://apdcat.gencat.cat/ca/sala_de_premsa/Galeria-multimedia/videos/campanyes/pindoles-per-a-una-privacitat-saludable/",
+    "notes": "Què cal saber per gestionar i protegir les nostres dades a la xarxa",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-videos-internet-per-als-adolescents-cac",
+    "title": "Vídeos Internet per als adolescents (CAC)",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://www.cac.cat/videos-internet-als-adolescents",
+    "notes": "Recomanacions per a l'ús responsable d'internet",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-pantallas-amigas",
+    "title": "Pantallas Amigas",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://www.pantallasamigas.net/",
+    "notes": "Col·lecció de recursos, consells i guies per a una vida digital sana",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-cuidado-con-la-webcam",
+    "title": "¡Cuidado con la webcam!",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://cuidadoconlawebcam.com/",
+    "notes": "Consells de prevenció de riscos associats a les càmeres web",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-netsmartz-kids",
+    "title": "Netsmartz Kids",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://www.netsmartzkids.org/games/",
+    "notes": "Vídeos i jocs per aprendre a navegar de manera segura",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-cyberscouts-incibe",
+    "title": "Cyberscouts (INCIBE)",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://www.incibe.es/menores/juegos/cyberscouts/",
+    "notes": "Minijocs per ampliar coneixements de ciberseguretat",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-learn-to-check",
+    "title": "Learn to Check",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://learntocheck.org/ca/",
+    "notes": "Claus per contrastar la desinformació i avaluar la fiabilitat",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-interland-reality-river-google",
+    "title": "Interland: Reality River (Google)",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://beinternetawesome.withgoogle.com/en_us/interland/es-419/",
+    "notes": "Joc de Google per aprendre a navegar de manera segura a la xarxa",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-internet-seguracat-youtube",
+    "title": "Internet Segura.cat (YouTube)",
+    "area": "Seguridad Digital",
+    "language": "Catalan/Valencià",
+    "url": "https://www.youtube.com/user/Internetposahiseny",
+    "notes": "Col·lecció de vídeos per aprendre a navegar de forma segura",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/internet-segura.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-superherois-per-laccio-climatica",
+    "title": "Superherois per l'acció climàtica",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://lykio-dev-data.s3.eu-central-1.amazonaws.com/FTP/games/EU/values/index.html",
+    "notes": "Converteix-te en superheroi del medi ambient amb missions i jocs",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-global-climate-change-nasa",
+    "title": "Global Climate Change (NASA)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://climate.nasa.gov/",
+    "notes": "Recurs de la NASA que explora el canvi climàtic, les seves causes i efectes",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-aixi-ens-afecta-el-canvi-climatic-greenpeace",
+    "title": "Així ens afecta el canvi climàtic (Greenpeace)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://es.greenpeace.org/ca/trabajamos-en/cambio-climatico/asi-afecta-el-cambio-climatico/",
+    "notes": "Ones de calor, fenòmens meteorològics extrems i espècies invasores",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-real-world-costs-of-climate-change-impactlab",
+    "title": "Real-world costs of climate change (ImpactLab)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://impactlab.org/",
+    "notes": "Mapes interactius per explorar com el canvi climàtic ens afectarà",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-que-es-el-cambio-climatico-onu",
+    "title": "¿Qué es el cambio climático? (ONU)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.un.org/es/climatechange/what-is-climate-change",
+    "notes": "Consulta les últimes investigacions de les Nacions Unides",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-ipcc-wgi-interactive-atlas",
+    "title": "IPCC WGI Interactive Atlas",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://interactive-atlas.ipcc.ch/",
+    "notes": "Eina interactiva d'anàlisi sobre els efectes climàtics",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-earth-observatory-nasa",
+    "title": "Earth Observatory (NASA)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://earthobservatory.nasa.gov/global-maps",
+    "notes": "Col·lecció de mapes globals per estudiar el canvi climàtic",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-climate-time-machine-nasa",
+    "title": "Climate Time Machine (NASA)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://climate.nasa.gov/interactives/climate-time-machine",
+    "notes": "Vídeos que mostren els efectes del canvi climàtic en els últims anys",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/canvi-climatic.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-configuracio-electronica",
+    "title": "Configuració electrònica",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://felipsarroca.github.io/edu-apps/ConfiguracioElectronica2/",
+    "notes": "Mostra com s'omplen els orbitals d'un àtom i la seva posició a la taula periòdica",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-elemental-comics",
+    "title": "Elemental Còmics",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://eboixader.github.io/Comic-Elements-v.2/",
+    "notes": "Descobreix la química a través del còmic i completa reptes sobre elements",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-3d-visualization-of-periodic-table",
+    "title": "3D Visualization of Periodic Table",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://graphoverflow.com/graphs/3d-periodic-table.html",
+    "notes": "Visualització interactiva en 3D de la taula periòdica",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-discover-periodic-tables-iypt",
+    "title": "Discover Periodic Tables (IYPT)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://iypt2019.org/discover-periodic-tables/",
+    "notes": "Recursos per explorar la taula periòdica dels elements",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-taula-periodica-interactiva-ptable",
+    "title": "Taula periòdica interactiva (Ptable)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://ptable.com/?lang=ca#",
+    "notes": "Aprèn les propietats dels elements de manera interactiva en català",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-juga-amb-la-taula-periodica",
+    "title": "Juga amb la taula periòdica",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://52gamespt.wordpress.com/category/catala/",
+    "notes": "Col·lecció de jocs sobre la taula periòdica dels elements",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-la-historia-de-la-taula-periodica-rsc",
+    "title": "La història de la taula periòdica (RSC)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.rsc.org/periodic-table/history",
+    "notes": "Descobreix l'evolució i creixement de la taula periòdica",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-periodic-table-infographics",
+    "title": "Periodic Table Infographics",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://www.compoundchem.com/category/periodic-tables/",
+    "notes": "Col·lecció d'infografies basades en la taula periòdica",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-periodic-videos-ted-ed",
+    "title": "Periodic Videos (TED-Ed)",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://ed.ted.com/periodic-videos",
+    "notes": "Un vídeo per a cada element de la taula periòdica",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-the-periodic-table-of-the-elements",
+    "title": "The Periodic Table of the Elements",
+    "area": "Ciencias Naturales",
+    "language": "Catalan/Valencià",
+    "url": "https://elements.wlonk.com/ElementsTable.htm",
+    "notes": "Coneix els elements químics amb dibuixos il·lustratius",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/taula-periodica.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-termcat",
+    "title": "Termcat",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.termcat.cat/ca/diccionaris-en-linia/",
+    "notes": "Diccionaris terminològics agrupats en grans sectors temàtics",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-enciclopediacat",
+    "title": "Enciclopèdia.cat",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.enciclopedia.cat/",
+    "notes": "Portal amb gran varietat de continguts de coneixement en llengua catalana",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-mira-que-dic-llengua-de-signes",
+    "title": "Mira què dic! (Llengua de signes)",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://projectes.edigital.cat/signes/",
+    "notes": "Diccionari multimèdia de la llengua de signes catalana",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-diccionari-de-sinonims-iec",
+    "title": "Diccionari de sinònims (IEC)",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://sinonims.iec.cat/",
+    "notes": "Útil per enriquir el vocabulari i expressar-se amb més precisió en català",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-diccionaricat",
+    "title": "Diccionari.cat",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.diccionari.cat/",
+    "notes": "Eina essencial per consultar significats, conjugacions i usos correctes",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-didac-diccionari-escolar",
+    "title": "Didac - Diccionari escolar",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.diccionari.cat/didac",
+    "notes": "Diccionari escolar dissenyat específicament per a estudiants",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-diccionari-catala-valencia-balear",
+    "title": "Diccionari català - valencià - balear",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://dcvb.iec.cat/",
+    "notes": "Recull el lèxic de les variants dialectals del català",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-el-meu-primer-diccionari-dangles",
+    "title": "El meu primer diccionari d'anglès",
+    "area": "Ingles",
+    "language": "Catalan/Valencià",
+    "url": "https://www.diccionari.cat/index-de-lamines",
+    "notes": "Eina pedagògica per introduir vocabulari bàsic d'anglès",
+    "levels": [
+      "Primaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-diccionario-de-la-lengua-espanola-rae",
+    "title": "Diccionario de la lengua española (RAE)",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://dle.rae.es/?w=diccionario",
+    "notes": "Repertori ampli de termes i definicions actualitzades del castellà",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-decat-etimologia-catalana",
+    "title": "DECAT (Etimologia catalana)",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://decat.iec.cat/veuredoc.asp?id=188068",
+    "notes": "Informació detallada sobre termes, la seva evolució històrica i variants",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-oncat-onomastica",
+    "title": "OnCat (Onomàstica)",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://oncat.iec.cat/entrada.asp",
+    "notes": "Portal per consultar definicions precises i classificacions semàntiques",
+    "levels": [
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-diccionari-illustrat-catala-amazic",
+    "title": "Diccionari il·lustrat català - amazic",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.edu365.cat/diccionaris/agora/dic/agora.html",
+    "notes": "Vocabulari bàsic amb il·lustració i pronunciació de paraules en amazic",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-diccionari-illustrat-catala-arab",
+    "title": "Diccionari il·lustrat català - àrab",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.edu365.cat/diccionaris/catala_arab/index.htm",
+    "notes": "Vocabulari bàsic amb il·lustració i pronunciació de paraules en àrab",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-diccionari-illustrat-catala-urdu",
+    "title": "Diccionari il·lustrat català - urdú",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.edu365.cat/diccionaris/catala_urdu/index.htm",
+    "notes": "Vocabulari bàsic amb il·lustració i pronunciació de paraules en urdú",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
+  },
+  {
+    "id": "edu365-diccionari-illustrat-catala-xines",
+    "title": "Diccionari il·lustrat català - xinès",
+    "area": "Lengua",
+    "language": "Catalan/Valencià",
+    "url": "https://www.edu365.cat/diccionaris/catala_xines/index.htm",
+    "notes": "Vocabulari bàsic amb il·lustració i pronunciació de paraules en xinès",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "source": "edu365",
+    "sourceColor": "#00529B",
+    "sourceUrl": "https://www.edu365.cat/diccionaris.html",
+    "fetchedAt": "2026-05-07T00:00:00.000Z"
   }
 ]

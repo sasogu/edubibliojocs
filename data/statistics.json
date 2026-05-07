@@ -1,20 +1,37 @@
 {
-  "timestamp": "2026-05-06T12:24:12.518Z",
-  "totalActivities": 18,
-  "bySource": {
-    "LearningApps.org": 5,
-    "Didactalia": 6,
-    "H5P": 7
+  "total": 1184,
+  "bySources": {
+    "unknown": 789,
+    "edu365": 395
   },
   "byArea": {
-    "Matematicas": 3,
-    "Lengua": 4,
-    "Geografía": 3,
-    "Ciencias": 5,
-    "Historia": 2,
-    "Sociales": 1
+    "Matematicas": 194,
+    "Lengua": 190,
+    "Ciencias Naturales": 107,
+    "Informatica": 95,
+    "Ingles": 83,
+    "Artes": 77,
+    "Dias especiales": 70,
+    "Ciencias Sociales": 65,
+    "Musica": 60,
+    "Religion": 34,
+    "Logica": 32,
+    "Tecnología": 32,
+    "Educacion emocional": 31,
+    "Frances": 25,
+    "Plastica": 23,
+    "Manualitats": 16,
+    "General": 15,
+    "Seguridad Digital": 15,
+    "Diversas áreas": 14,
+    "Sociales": 3
   },
-  "byLanguage": {
-    "Castellano": 18
+  "byLevel": {
+    "Primaria 1er ciclo": 365,
+    "Infantil": 304,
+    "Primaria": 234,
+    "Primaria 2o ciclo": 428,
+    "Primaria 3er ciclo": 388,
+    "Secundaria": 222
   }
 }
