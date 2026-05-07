@@ -1,4 +1,4 @@
-const CACHE_NAME = "bibliojocs-v0.9.5";
+const CACHE_NAME = "bibliojocs-v0.9.8";
 const APP_SHELL = [
   "./",
   "./index.html",

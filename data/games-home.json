@@ -247,19 +247,6 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/curso2-2.gif"
   },
   {
-    "id": "abecedari-valencia",
-    "title": "Lletres i abecedari",
-    "area": "Lectoescritura",
-    "language": "Català/Valencià",
-    "url": "https://clic.xtec.cat/ca/jclic/",
-    "notes": "Activitats JClic en catala per al treball de lectoescriptura inicial.",
-    "levels": [
-      "Infantil"
-    ],
-    "image": "assets/game-images/abecedari-valencia.png",
-    "imageSource": "https://clic.xtec.cat/ca/jclic/"
-  },
-  {
     "id": "mastermind-logica",
     "title": "Mastermind Lógica",
     "area": "Matematicas",
@@ -638,5 +625,18 @@
     ],
     "image": "assets/game-images/actividades-de-lectura.png",
     "imageSource": "https://clic.xtec.cat/projects/lectinfa/jclic.js/index.html"
+  },
+  {
+    "id": "actividades-de-lengua",
+    "title": "Actividades de lengua",
+    "area": "Lengua",
+    "language": "Català/Valencià",
+    "url": "https://clic.xtec.cat/projects/llengso/jclic.js/index.html",
+    "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
+    "levels": [
+      "Primaria 1er ciclo"
+    ],
+    "image": "assets/game-images/actividades-de-lengua.png",
+    "imageSource": "https://clic.xtec.cat/projects/llengso/jclic.js/index.html"
   }
 ]
