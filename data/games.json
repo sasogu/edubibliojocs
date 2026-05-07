@@ -584,30 +584,6 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/Where-is-cat-.png"
   },
   {
-    "id": "memoria-visual-2",
-    "title": "Memoria Visual",
-    "area": "Logica",
-    "levels": [
-      "Infantil"
-    ],
-    "language": "Castellano",
-    "url": "http://jeux.lulu.pagesperso-orange.fr/html/memory/memrySom.htm",
-    "notes": "Juegos de memoria visual con imágenes y palabras.",
-    "image": "assets/game-images/memoria-visual-2.jpg",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/memory.jpg"
-  },
-  {
-    "id": "personajes-geometricos",
-    "title": "Personajes geométricos",
-    "area": "Matematicas",
-    "levels": [
-      "Infantil"
-    ],
-    "language": "Català/Valencià",
-    "url": "https://bibliojocs.edutictac.es/go/geometricos/",
-    "notes": "Actividad sobre formas geométricas."
-  },
-  {
     "id": "chrome-music-lab",
     "title": "Chrome Music Lab",
     "area": "Musica",
@@ -785,19 +761,6 @@
     "notes": "Procura que el gato no se escape cerrándole el paso con círculos grises.",
     "image": "assets/game-images/gato-atrapalo.png",
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Gato-atrapalo.png"
-  },
-  {
-    "id": "el-buho-boo-2",
-    "title": "EL BUHO BOO",
-    "area": "Diversas áreas",
-    "levels": [
-      "Infantil"
-    ],
-    "language": "Castellano",
-    "url": "https://www.elbuhoboo.com/juegos-educativos.php",
-    "notes": "Juegos educativos de pintura y ratón.",
-    "image": "assets/game-images/el-buho-boo-2.png",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/Captura-de-pantalla_2020-03-28_12-59-43.png"
   },
   {
     "id": "canarias-recursos-digitales",
@@ -11250,24 +11213,6 @@
     "fetchedAt": "2026-05-06T16:07:20.918Z"
   },
   {
-    "id": "edu365-phaser",
-    "title": "Phaser",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://phaser.io/",
-    "notes": "Framework JavaScript per al desenvolupament ràpid de jocs HTML5",
-    "levels": [
-      "Primaria",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/edu365-phaser.png",
-    "imageSource": "https://www.edu365.cat/img/product/phaser_io.png",
-    "source": "edu365",
-    "sourceColor": "#00529B",
-    "sourceUrl": "https://www.edu365.cat",
-    "fetchedAt": "2026-05-06T16:07:21.020Z"
-  },
-  {
     "id": "edu365-swift-playgrounds",
     "title": "Swift Playgrounds",
     "area": "Informatica",
@@ -13590,7 +13535,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-les-habilitats-personals.jpg",
+    "imageSource": "https://img.youtube.com/vi/cmtyKyFoIJs/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-la-noticia",
@@ -13605,7 +13552,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-la-noticia.jpg",
+    "imageSource": "https://img.youtube.com/vi/z5NrDcdhdmQ/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-el-comic",
@@ -13620,7 +13569,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-el-comic.jpg",
+    "imageSource": "https://img.youtube.com/vi/fagSCWev6UM/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-les-composicions-musicals",
@@ -13635,7 +13586,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-les-composicions-musicals.jpg",
+    "imageSource": "https://img.youtube.com/vi/EzcW-LIuSMM/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-street-art",
@@ -13650,7 +13603,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-street-art.jpg",
+    "imageSource": "https://img.youtube.com/vi/tb3MwFIORpY/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-art-i-emocions",
@@ -13665,7 +13620,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-art-i-emocions.jpg",
+    "imageSource": "https://img.youtube.com/vi/Bovii1DEcbk/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-els-llibres-de-cavalleria",
@@ -13680,7 +13637,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-els-llibres-de-cavalleria.jpg",
+    "imageSource": "https://img.youtube.com/vi/Lc8sA_MCW4o/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-textos-instructius-i-descriptius",
@@ -13695,7 +13654,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-textos-instructius-i-descriptius.jpg",
+    "imageSource": "https://img.youtube.com/vi/DW_UPZXAOow/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-ens-expressem-movent-nos",
@@ -13710,7 +13671,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-ens-expressem-movent-nos.jpg",
+    "imageSource": "https://img.youtube.com/vi/JT3dW5pSFhc/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-funcio-de-relacio",
@@ -13725,7 +13688,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-funcio-de-relacio.jpg",
+    "imageSource": "https://img.youtube.com/vi/qXlZ2ivxKLA/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-fraccions",
@@ -13740,7 +13705,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-fraccions.jpg",
+    "imageSource": "https://img.youtube.com/vi/x8zlX7OTpXc/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-impressionisme",
@@ -13755,7 +13722,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-impressionisme.jpg",
+    "imageSource": "https://img.youtube.com/vi/RxmQ9xCqCjU/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-avantguardes",
@@ -13770,7 +13739,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-avantguardes.jpg",
+    "imageSource": "https://img.youtube.com/vi/pKzdNBr5BcM/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-revolucio-industrial",
@@ -13785,7 +13756,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-revolucio-industrial.jpg",
+    "imageSource": "https://img.youtube.com/vi/812yz0QJIcs/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-la-publicitat",
@@ -13800,7 +13773,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-la-publicitat.jpg",
+    "imageSource": "https://img.youtube.com/vi/nYd7WdpYWQ4/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-literatura",
@@ -13815,7 +13790,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-literatura.jpg",
+    "imageSource": "https://img.youtube.com/vi/Ljoq7txdZDQ/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-la-diversitat-de-llengues",
@@ -13830,7 +13807,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-la-diversitat-de-llengues.jpg",
+    "imageSource": "https://img.youtube.com/vi/grhB5iz1yQc/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-limpressionisme-musical",
@@ -13845,7 +13824,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-limpressionisme-musical.jpg",
+    "imageSource": "https://img.youtube.com/vi/PzKHJKpUY1c/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-expressions-fetes",
@@ -13860,7 +13841,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-expressions-fetes.jpg",
+    "imageSource": "https://img.youtube.com/vi/0ZuMAH6rsP4/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-les-qualitats-fisiques",
@@ -13875,7 +13858,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-les-qualitats-fisiques.jpg",
+    "imageSource": "https://img.youtube.com/vi/DDFToAwHdC0/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-videojocs",
@@ -13890,7 +13875,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-videojocs.jpg",
+    "imageSource": "https://img.youtube.com/vi/6321Y57kxLs/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-els-nombres-naturals",
@@ -13905,7 +13892,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-els-nombres-naturals.jpg",
+    "imageSource": "https://img.youtube.com/vi/rcy3JvOLu-Y/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-mates-i-esport",
@@ -13920,7 +13909,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-mates-i-esport.jpg",
+    "imageSource": "https://img.youtube.com/vi/2M0o9xPr29U/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-el-nostre-planeta",
@@ -13935,7 +13926,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-el-nostre-planeta.jpg",
+    "imageSource": "https://img.youtube.com/vi/RmsS39qEEvU/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-les-caracteristiques-duna-canco",
@@ -13950,7 +13943,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-les-caracteristiques-duna-canco.jpg",
+    "imageSource": "https://img.youtube.com/vi/Qf87W7SBfOk/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-ciencia-i-pseudociencia",
@@ -13965,7 +13960,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-ciencia-i-pseudociencia.jpg",
+    "imageSource": "https://img.youtube.com/vi/vDge4g8nBTM/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-energia-de-km-0",
@@ -13980,7 +13977,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-energia-de-km-0.jpg",
+    "imageSource": "https://img.youtube.com/vi/MQjr7nqQfqo/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-plastic-i-metalls",
@@ -13995,7 +13994,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-plastic-i-metalls.jpg",
+    "imageSource": "https://img.youtube.com/vi/G3Nhw8m3YSM/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-els-estils-musicals",
@@ -14010,7 +14011,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-els-estils-musicals.jpg",
+    "imageSource": "https://img.youtube.com/vi/ljuERUgYtxg/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-el-text-narratiu",
@@ -14025,7 +14028,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-el-text-narratiu.jpg",
+    "imageSource": "https://img.youtube.com/vi/-tQby7lkrzY/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-temps-de-castells",
@@ -14040,7 +14045,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-temps-de-castells.jpg",
+    "imageSource": "https://img.youtube.com/vi/NN5Q7v9S1pI/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-lart-idioma-universal",
@@ -14055,7 +14062,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-lart-idioma-universal.jpg",
+    "imageSource": "https://img.youtube.com/vi/0FZ7FtTv60U/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-energia",
@@ -14070,7 +14079,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-energia.jpg",
+    "imageSource": "https://img.youtube.com/vi/CHu7v6ypz2k/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-fake-news",
@@ -14085,7 +14096,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-fake-news.jpg",
+    "imageSource": "https://img.youtube.com/vi/RXp0jOw-p_U/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-la-narracion",
@@ -14100,7 +14113,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-la-narracion.jpg",
+    "imageSource": "https://img.youtube.com/vi/9sVy3yWHOgM/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-representacio-cossos-en-3d",
@@ -14115,7 +14130,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-representacio-cossos-en-3d.jpg",
+    "imageSource": "https://img.youtube.com/vi/jUd6slMUp6w/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-les-maquines",
@@ -14130,7 +14147,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-les-maquines.jpg",
+    "imageSource": "https://img.youtube.com/vi/3xi9hrtJ3qs/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-energia-i-maquines",
@@ -14145,7 +14164,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-energia-i-maquines.jpg",
+    "imageSource": "https://img.youtube.com/vi/O4mT9uPdqsw/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-atoms-elements-i-taula-periodica",
@@ -14160,7 +14181,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-atoms-elements-i-taula-periodica.jpg",
+    "imageSource": "https://img.youtube.com/vi/6BJvJSKAGtA/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-reaccions-quimiques",
@@ -14175,7 +14198,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-reaccions-quimiques.jpg",
+    "imageSource": "https://img.youtube.com/vi/eqe0WivH0wk/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-consumidors-i-medi-ambient",
@@ -14190,7 +14215,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-consumidors-i-medi-ambient.jpg",
+    "imageSource": "https://img.youtube.com/vi/Jn2usmExfD0/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-el-badminton",
@@ -14205,7 +14232,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-el-badminton.jpg",
+    "imageSource": "https://img.youtube.com/vi/GiEcDRmh3bE/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-parkour",
@@ -14220,7 +14249,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-parkour.jpg",
+    "imageSource": "https://img.youtube.com/vi/FX52t75ZsxU/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-fraccions-decimals-i-percentatges",
@@ -14235,7 +14266,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-fraccions-decimals-i-percentatges.jpg",
+    "imageSource": "https://img.youtube.com/vi/3nIOuxY2qRI/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-equacions",
@@ -14250,7 +14283,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-equacions.jpg",
+    "imageSource": "https://img.youtube.com/vi/yaeIxvLZ0ZY/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-som-una-maquina-perfecta",
@@ -14265,7 +14300,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-som-una-maquina-perfecta.jpg",
+    "imageSource": "https://img.youtube.com/vi/t4Gu3PJ-Pmw/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-expressions-discriminatories",
@@ -14280,7 +14317,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-expressions-discriminatories.jpg",
+    "imageSource": "https://img.youtube.com/vi/N-fYF8VS4yE/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-parlar-i-escriure",
@@ -14295,7 +14334,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-parlar-i-escriure.jpg",
+    "imageSource": "https://img.youtube.com/vi/Jd9fClFWp68/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-tipus-dhabitatges",
@@ -14310,7 +14351,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-tipus-dhabitatges.jpg",
+    "imageSource": "https://img.youtube.com/vi/e-QkORFRKf4/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-electronica-digital",
@@ -14325,7 +14368,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-electronica-digital.jpg",
+    "imageSource": "https://img.youtube.com/vi/5BcIrGOU8uA/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-el-romanticismo-literario",
@@ -14340,7 +14385,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-el-romanticismo-literario.jpg",
+    "imageSource": "https://img.youtube.com/vi/Af-kNqkPde8/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-la-musica-del-segle-xx",
@@ -14355,7 +14402,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-la-musica-del-segle-xx.jpg",
+    "imageSource": "https://img.youtube.com/vi/FLI7p0JCZsQ/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-les-forces-i-les-seves-lleis",
@@ -14370,7 +14419,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-les-forces-i-les-seves-lleis.jpg",
+    "imageSource": "https://img.youtube.com/vi/PMrWqHeYBaM/hqdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-caracteristiques-de-la-materia",
@@ -14385,7 +14436,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-caracteristiques-de-la-materia.jpg",
+    "imageSource": "https://img.youtube.com/vi/49vbcu27WqY/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-som-com-som",
@@ -14400,7 +14453,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-som-com-som.jpg",
+    "imageSource": "https://img.youtube.com/vi/AO7XjyXOprg/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-finances",
@@ -14415,7 +14470,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-finances.jpg",
+    "imageSource": "https://img.youtube.com/vi/YToZO8aX-ic/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-felicos-anys-20",
@@ -14430,7 +14487,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-felicos-anys-20.jpg",
+    "imageSource": "https://img.youtube.com/vi/FPhVS90t6fU/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-que-es-el-disseny",
@@ -14445,7 +14504,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-que-es-el-disseny.jpg",
+    "imageSource": "https://img.youtube.com/vi/YuRrgLb_vkU/maxresdefault.jpg"
   },
   {
     "id": "edu365-sabies-que-la-hipotenusa",
@@ -14460,7 +14521,9 @@
     "source": "edu365",
     "sourceColor": "#00529B",
     "sourceUrl": "https://www.edu365.cat/sabies-que.html",
-    "fetchedAt": "2026-05-07T00:00:00.000Z"
+    "fetchedAt": "2026-05-07T00:00:00.000Z",
+    "image": "assets/game-images/edu365-sabies-que-la-hipotenusa.jpg",
+    "imageSource": "https://img.youtube.com/vi/Jge9yxXJfNE/maxresdefault.jpg"
   },
   {
     "id": "edu365-voki",
