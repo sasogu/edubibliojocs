@@ -25,6 +25,7 @@ const authPanel = document.querySelector("#authPanel");
 const authStatus = document.querySelector("#authStatus");
 const signInGoogleBtn = document.querySelector("#signInGoogleBtn");
 const signOutBtn = document.querySelector("#signOutBtn");
+const swVersion = document.querySelector("#swVersion");
 
 const state = {
   games: [],
@@ -43,6 +44,7 @@ const state = {
 
 setLang(detectLang());
 registerServiceWorker();
+updateSwVersionFromSource();
 
 boot().catch((error) => {
   console.error("No se pudo iniciar la aplicacion", error);
@@ -90,11 +92,56 @@ function registerServiceWorker() {
     return;
   }
 
-  window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js").catch((error) => {
-      console.warn("No se pudo registrar el service worker", error);
-    });
+  navigator.serviceWorker.addEventListener("message", (event) => {
+    if (event.data?.type === "SW_VERSION") {
+      setSwVersion(event.data.version);
+    }
   });
+
+  window.addEventListener("load", async () => {
+    try {
+      const registration = await navigator.serviceWorker.register("./sw.js");
+      requestSwVersion(registration);
+    } catch (error) {
+      console.warn("No se pudo registrar el service worker", error);
+    }
+  });
+}
+
+async function updateSwVersionFromSource() {
+  if (!swVersion) {
+    return;
+  }
+
+  try {
+    const response = await fetch("./sw.js", { cache: "no-store" });
+    if (!response.ok) {
+      return;
+    }
+
+    const source = await response.text();
+    const match = source.match(/CACHE_NAME\s*=\s*["']([^"']+)["']/);
+    if (match?.[1]) {
+      setSwVersion(match[1]);
+    }
+  } catch (error) {
+    console.warn("No se pudo leer la version del service worker", error);
+  }
+}
+
+function requestSwVersion(registration) {
+  const worker = registration.active || registration.waiting || registration.installing || navigator.serviceWorker.controller;
+  if (worker) {
+    worker.postMessage({ type: "GET_SW_VERSION" });
+  }
+}
+
+function setSwVersion(version) {
+  if (!swVersion || !version) {
+    return;
+  }
+
+  swVersion.textContent = `SW ${version}`;
 }
 
 function buildReportIndex(results) {
