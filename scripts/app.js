@@ -198,9 +198,16 @@ function setReportBanner(report) {
 }
 
 function hydrateFilterOptions() {
+  clearSelect(levelFilter);
+  clearSelect(languageFilter);
+  clearSelect(areaFilter);
   fillSelect(levelFilter, uniqueLevelValues(state.games), levelLabel);
   fillSelect(languageFilter, uniqueLanguageValues(state.games), languageLabel);
   fillSelect(areaFilter, uniqueValues(state.games, "area"), areaLabel);
+}
+
+function clearSelect(select) {
+  select.querySelectorAll("option:not([value=''])").forEach((o) => o.remove());
 }
 
 function uniqueLevelValues(items) {
