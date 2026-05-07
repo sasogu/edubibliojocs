@@ -367,11 +367,12 @@ function updatePreferencesNote() {
     return;
   }
 
-  const key = state.backendMode === "firebase"
-    ? "personal_prefs_note_firebase"
-    : "personal_prefs_note_local";
+  const isGoogleUser = state.backendMode === "firebase"
+    && state.firebase?.auth.currentUser
+    && !state.firebase.auth.currentUser.isAnonymous;
+  const key = isGoogleUser ? "personal_prefs_note_firebase" : "personal_prefs_note_local";
   personalPrefsNote.textContent = i18n(key);
-  personalPrefsNote.classList.toggle("remote", state.backendMode === "firebase");
+  personalPrefsNote.classList.toggle("remote", isGoogleUser);
 }
 
 function isAdmin() {
