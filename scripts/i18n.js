@@ -3,7 +3,7 @@ export const LANGS = ["es", "ca"];
 
 const strings = {
   es: {
-    subtitle: "Juegos educativos seleccionados para Infantil y Primaria, con filtros rápidos para encontrar la actividad perfecta en cada momento.",
+    subtitle: "Juegos educativos seleccionados para Infantil, Primaria y Secundaria, con filtros rápidos para encontrar la actividad perfecta en cada momento.",
     auth_title: "Cuenta",
     auth_loading: "Conectando cuenta...",
     auth_signin_google: "Entrar con Google",
@@ -24,7 +24,7 @@ const strings = {
     rating_min_label: "Valoracion minima",
     rating_all_filter: "Todas las valoraciones",
     personal_prefs_note_local: "Favoritos y valoraciones se guardan solo en este navegador (localStorage).",
-    personal_prefs_note_firebase: "Favoritos por usuario y valoraciones compartidas guardadas en Firebase.",
+    personal_prefs_note_firebase: "Favoritos por usuario y valoraciones compartidas guardadas en la nube.",
     area_label: "Materia",
     area_all: "Todas",
     section_title: "Juegos",
@@ -68,7 +68,7 @@ const strings = {
     submit_loading: "Enviando...",
   },
   ca: {
-    subtitle: "Jocs educatius seleccionats per a Infantil i Primària, amb filtres ràpids per trobar l'activitat perfecta en cada moment.",
+    subtitle: "Jocs educatius seleccionats per a Infantil, Primària i Secundària, amb filtres ràpids per trobar l'activitat perfecta en cada moment.",
     auth_title: "Compte",
     auth_loading: "Connectant compte...",
     auth_signin_google: "Entrar amb Google",
@@ -89,7 +89,7 @@ const strings = {
     rating_min_label: "Valoracio minima",
     rating_all_filter: "Totes les valoracions",
     personal_prefs_note_local: "Favorits i valoracions es guarden nomes en este navegador (localStorage).",
-    personal_prefs_note_firebase: "Favorits per usuari i valoracions compartides guardades en Firebase.",
+    personal_prefs_note_firebase: "Favorits per usuari i valoracions compartides guardades en el núvol.",
     area_label: "Matèria",
     area_all: "Totes",
     section_title: "Jocs",
