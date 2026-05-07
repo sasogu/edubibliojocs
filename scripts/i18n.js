@@ -66,6 +66,10 @@ const strings = {
     submit_success: "¡Gracias! La actividad se ha enviado.",
     submit_error: "No se pudo enviar. Inténtalo de nuevo.",
     submit_loading: "Enviando...",
+    report_broken: "Reportar que no funciona",
+    report_broken_active: "Ya lo has reportado",
+    report_broken_feedback: "Gracias, lo revisaremos pronto.",
+    broken_only: "No funciona (admin)",
   },
   ca: {
     subtitle: "Jocs educatius seleccionats per a Infantil, Primària i Secundària, amb filtres ràpids per trobar l'activitat perfecta en cada moment.",
@@ -131,6 +135,10 @@ const strings = {
     submit_success: "Gràcies! L'activitat s'ha enviat.",
     submit_error: "No s'ha pogut enviar. Torna-ho a intentar.",
     submit_loading: "Enviant...",
+    report_broken: "Reportar que no funciona",
+    report_broken_active: "Ja ho has reportat",
+    report_broken_feedback: "Gràcies, ho revisarem aviat.",
+    broken_only: "No funciona (admin)",
   },
 };
 

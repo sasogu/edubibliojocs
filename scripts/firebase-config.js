@@ -3,6 +3,8 @@ export const firebaseSettings = {
   enabled: false,
   // Opcional: activa boton de login Google (requiere proveedor Google habilitado en Firebase Auth).
   googleAuthEnabled: false,
+  // Email del administrador: ve el filtro "No funciona" y los reports de usuarios.
+  adminEmail: "",
 };
 
 export const firebaseConfig = {

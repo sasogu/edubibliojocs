@@ -8,6 +8,7 @@ const DEFAULT_GAME_IMAGE = "./assets/game-images/generic-game.svg";
 const PAGE_SIZE = 48;
 const FAVORITES_STORAGE_KEY = "bibliojocs-favorites";
 const RATINGS_STORAGE_KEY = "bibliojocs-ratings";
+const REPORT_THRESHOLD = 3;
 const FIREBASE_CONFIG_MODULE = "../firebase-config.js";
 
 const searchInput = document.querySelector("#searchInput");
@@ -16,6 +17,8 @@ const languageFilter = document.querySelector("#languageFilter");
 const areaFilter = document.querySelector("#areaFilter");
 const favoritesOnly = document.querySelector("#favoritesOnly");
 const submissionsOnly = document.querySelector("#submissionsOnly");
+const brokenOnly = document.querySelector("#brokenOnly");
+const brokenOnlyLabel = document.querySelector("#brokenOnlyLabel");
 const ratingFilter = document.querySelector("#ratingFilter");
 const grid = document.querySelector("#grid");
 const loadMoreBtn = document.querySelector("#loadMoreBtn");
@@ -51,6 +54,9 @@ const state = {
   favorites: new Set(),
   userRatings: new Map(),
   ratingSummary: new Map(),
+  userReports: new Set(),
+  brokenSummary: new Map(),
+  adminEmail: "",
   backendMode: "local",
   firebase: null,
   authReady: false,
@@ -288,6 +294,9 @@ function wireEvents() {
   if (submissionsOnly) {
     submissionsOnly.addEventListener("change", render);
   }
+  if (brokenOnly) {
+    brokenOnly.addEventListener("change", render);
+  }
   ratingFilter.addEventListener("change", render);
   loadMoreBtn.addEventListener("click", showMore);
   if (signInGoogleBtn) {
@@ -360,6 +369,12 @@ function updatePreferencesNote() {
   personalPrefsNote.classList.toggle("remote", state.backendMode === "firebase");
 }
 
+function isAdmin() {
+  if (!state.firebase || !state.adminEmail) return false;
+  const user = state.firebase.auth.currentUser;
+  return Boolean(user && user.email === state.adminEmail);
+}
+
 function currentUserDisplayName(user) {
   const raw = user?.displayName || user?.email || user?.phoneNumber || "";
   const trimmed = String(raw).trim();
@@ -408,6 +423,7 @@ function updateAuthUi() {
   signInGoogleBtn.classList.add("hidden");
   signOutBtn.classList.remove("hidden");
   if (submitActivityBtn) submitActivityBtn.classList.remove("hidden");
+  if (brokenOnlyLabel) brokenOnlyLabel.classList.toggle("hidden", !isAdmin());
 }
 
 function render() {
@@ -418,12 +434,22 @@ function render() {
   const selectedArea = areaFilter.value;
   const onlyFavorites = favoritesOnly.checked;
   const onlySubmissions = submissionsOnly?.checked;
+  const onlyBroken = brokenOnly?.checked;
   const minRating = Number(ratingFilter.value || 0);
 
   const filtered = games.filter((game) => {
     const key = gameKey(game);
     const filterRating = getRatingForFilter(key);
     const gameLevels = game.levels || (game.level ? [game.level] : []);
+    const reportCount = state.brokenSummary.get(key) || 0;
+    const isBroken = reportCount >= REPORT_THRESHOLD;
+
+    if (onlyBroken) {
+      return isBroken;
+    }
+    if (isBroken && !isAdmin()) {
+      return false;
+    }
 
     if (selectedLevel && !gameLevels.includes(selectedLevel)) {
       return false;
@@ -547,6 +573,7 @@ async function initPreferenceBackend() {
     const app = appModule.initializeApp(firebaseConfig);
     const auth = authModule.getAuth(app);
     const googleAuthEnabled = Boolean(firebaseSettings.googleAuthEnabled);
+    state.adminEmail = String(firebaseSettings.adminEmail || "").trim();
 
     if (!auth.currentUser) {
       await authModule.signInAnonymously(auth).catch(() => {});
@@ -595,6 +622,8 @@ async function refreshFirebaseUserData() {
   state.favorites = new Set();
   state.userRatings = new Map();
   state.ratingSummary = new Map();
+  state.userReports = new Set();
+  state.brokenSummary = new Map();
   await loadFirebasePreferences();
 }
 
@@ -688,10 +717,12 @@ async function loadFirebasePreferences() {
     return;
   }
 
-  const [favSnapshot, ratingSnapshot, summarySnapshot] = await Promise.all([
+  const [favSnapshot, ratingSnapshot, summarySnapshot, reportSnapshot, brokenSnapshot] = await Promise.all([
     getDocs(collection(db, "users", uid, "favorites")),
     getDocs(collection(db, "users", uid, "ratings")),
     getDocs(collection(db, "ratingSummary")),
+    getDocs(collection(db, "users", uid, "reports")),
+    getDocs(collection(db, "brokenReports")),
   ]);
 
   state.favorites = new Set(
@@ -714,6 +745,20 @@ async function loadFirebasePreferences() {
         return [key, { avg, count }];
       })
       .filter(([key, summary]) => key && Number.isFinite(summary.avg) && Number.isFinite(summary.count) && summary.count > 0),
+  );
+
+  state.userReports = new Set(
+    reportSnapshot.docs.map((docSnap) => gameKeyFromDocId(docSnap.id)).filter(Boolean),
+  );
+
+  state.brokenSummary = new Map(
+    brokenSnapshot.docs
+      .map((docSnap) => {
+        const count = Number(docSnap.data()?.count || 0);
+        const key = gameKeyFromDocId(docSnap.id);
+        return [key, count];
+      })
+      .filter(([key, count]) => key && count > 0),
   );
 }
 
@@ -900,7 +945,10 @@ function buildCard(game) {
 
   const cardHead = document.createElement("div");
   cardHead.className = "card-head";
-  cardHead.append(title, createFavoriteButton(key, isFavorite));
+  const reportBtn = createReportButton(key, article);
+  const cardHeadButtons = [createFavoriteButton(key, isFavorite)];
+  if (reportBtn) cardHeadButtons.push(reportBtn);
+  cardHead.append(title, ...cardHeadButtons);
 
   const meta = document.createElement("div");
   meta.className = "meta";
@@ -964,6 +1012,69 @@ function createFavoriteButton(gameKeyValue, isFavorite) {
       button.disabled = false;
     }
   });
+
+  return button;
+}
+
+async function reportBroken(gameKeyValue) {
+  if (state.backendMode !== "firebase" || !state.firebase) return;
+  const { auth, collection, db, doc, runTransaction, serverTimestamp, setDoc } = state.firebase;
+  const uid = auth.currentUser?.uid;
+  if (!uid || auth.currentUser.isAnonymous) return;
+
+  const userReportRef = doc(db, "users", uid, "reports", gameDocId(gameKeyValue));
+  const summaryRef = doc(db, "brokenReports", gameDocId(gameKeyValue));
+
+  await runTransaction(db, async (tx) => {
+    const summarySnap = await tx.get(summaryRef);
+    const current = Number(summarySnap.data()?.count || 0);
+    tx.set(userReportRef, { reportedAt: serverTimestamp() }, { merge: true });
+    tx.set(summaryRef, { count: current + 1 }, { merge: true });
+  });
+
+  state.userReports.add(gameKeyValue);
+  const prev = state.brokenSummary.get(gameKeyValue) || 0;
+  state.brokenSummary.set(gameKeyValue, prev + 1);
+}
+
+function createReportButton(gameKeyValue, article) {
+  if (state.backendMode !== "firebase") return null;
+  const user = state.firebase?.auth.currentUser;
+  if (!user || user.isAnonymous) return null;
+
+  const alreadyReported = state.userReports.has(gameKeyValue);
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = `report-btn${alreadyReported ? " active" : ""}`;
+  button.textContent = "⚠";
+  button.title = alreadyReported ? i18n("report_broken_active") : i18n("report_broken");
+  button.setAttribute("aria-label", button.title);
+  button.disabled = alreadyReported;
+
+  if (!alreadyReported) {
+    button.addEventListener("click", async () => {
+      button.disabled = true;
+      try {
+        await reportBroken(gameKeyValue);
+        button.classList.add("active");
+        button.title = i18n("report_broken_active");
+        button.setAttribute("aria-label", button.title);
+
+        const feedback = document.createElement("p");
+        feedback.className = "report-feedback";
+        feedback.textContent = i18n("report_broken_feedback");
+        article.appendChild(feedback);
+        setTimeout(() => feedback.remove(), 4000);
+
+        if ((state.brokenSummary.get(gameKeyValue) || 0) >= REPORT_THRESHOLD) {
+          render();
+        }
+      } catch (error) {
+        console.error("No se pudo reportar actividad", error);
+        button.disabled = false;
+      }
+    });
+  }
 
   return button;
 }
