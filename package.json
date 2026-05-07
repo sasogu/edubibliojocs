@@ -18,6 +18,9 @@
     "import:apis:h5p": "node ./scripts/import-educational-apis.mjs h5p",
     "import:apis:manager": "node ./scripts/import-activities-manager.mjs",
     "import:edu365": "node ./scripts/import-edu365.mjs",
+    "import:flash": "node ./scripts/import-archive-flash.mjs",
+    "import:flash:dry": "node ./scripts/import-archive-flash.mjs --dry-run",
+    "import:flash:apply": "node ./scripts/import-archive-flash.mjs --apply",
     "deploy": "DEPLOY_HOST=edutictac.es DEPLOY_USER=samgua DEPLOY_PORT=2222 DEPLOY_PATH=/var/www/my_webapp__4/www DEPLOY_SSH_CONFIG=/dev/null bash ./scripts/deploy.sh",
     "deploy:fast": "DEPLOY_HOST=edutictac.es DEPLOY_USER=samgua DEPLOY_PORT=2222 DEPLOY_PATH=/var/www/my_webapp__4/www DEPLOY_SSH_CONFIG=/dev/null SKIP_LINKS=1 bash ./scripts/deploy.sh",
     "deploy:dry": "DEPLOY_HOST=edutictac.es DEPLOY_USER=samgua DEPLOY_PORT=2222 DEPLOY_PATH=/var/www/my_webapp__4/www DEPLOY_SSH_CONFIG=/dev/null DRY_RUN=1 bash ./scripts/deploy.sh"

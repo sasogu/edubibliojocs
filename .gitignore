@@ -3,3 +3,5 @@ scripts/deploy.sh
 /node_modules
 scripts/firebase-config.js
 firebase-config.js
+assets/flash/
+data/archive-flash-state.json
