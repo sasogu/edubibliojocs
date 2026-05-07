@@ -447,7 +447,7 @@ function render() {
     if (onlyBroken) {
       return isBroken;
     }
-    if (isBroken && !isAdmin()) {
+    if (isBroken) {
       return false;
     }
 
