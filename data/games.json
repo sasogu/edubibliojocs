@@ -93,7 +93,7 @@
     "id": "bomomo",
     "title": "Bomomo",
     "area": "Plastica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://bomomo.com/",
     "notes": "Per a pintar&#8230;",
     "levels": [
@@ -307,7 +307,7 @@
     "id": "abecedari-valencia",
     "title": "Lletres i abecedari",
     "area": "Lectoescritura",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/ca/jclic/",
     "notes": "Activitats JClic en catala per al treball de lectoescriptura inicial.",
     "levels": [
@@ -344,7 +344,7 @@
     "id": "memoria-visual",
     "title": "MEMORIA VISUAL",
     "area": "Logica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edutictac.es/blog/bibliojocs/memoria-visual/",
     "notes": "Juegos de memoria visual con imagenes y palabras. Enlace externo original no disponible.",
     "levels": [
@@ -436,7 +436,7 @@
     "id": "puzzles-2",
     "title": "Puzzles",
     "area": "Logica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.jigzone.com/puzzles/D8055D4B0A77&#038;z=5?v=22858",
     "notes": "Puzzles temas variados multipiezas.",
     "levels": [
@@ -449,7 +449,7 @@
     "id": "repaso-tablas-dianas-moviles",
     "title": "Repaso tablas dianas móviles.",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.educaplus.org/game/dianas-moviles-producto",
     "notes": "Repaso tablas",
     "levels": [
@@ -499,7 +499,7 @@
     "id": "sumes-restes-1",
     "title": "Sumas y restas hasta 20",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.arbolabc.com/juegos-de-matematicas",
     "notes": "Repositorio de juegos de matematicas para reforzar calculo y logica.",
     "levels": [
@@ -523,7 +523,7 @@
     "id": "tangram",
     "title": "Tangram",
     "area": "Logica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://toytheater.com/tangram/",
     "notes": "Tangram",
     "levels": [
@@ -603,7 +603,7 @@
     "levels": [
       "Infantil"
     ],
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://bibliojocs.edutictac.es/go/geometricos/",
     "notes": "Actividad sobre formas geométricas."
   },
@@ -628,7 +628,7 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://aprendomusica.com/const2/03atrapanotas/game.html",
     "notes": "Juego tipo Simón identificando notas sol-la-mi.",
     "image": "assets/game-images/simon-s-l-m.jpg",
@@ -641,7 +641,7 @@
     "levels": [
       "Primaria 1er ciclo"
     ],
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://youdj.online/",
     "notes": "Per aprendre a ser un dj."
   },
@@ -780,7 +780,7 @@
     "levels": [
       "Primaria 3er ciclo"
     ],
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.educaplus.org/game/encierra-al-gato",
     "notes": "Procura que el gato no se escape cerrándole el paso con círculos grises.",
     "image": "assets/game-images/gato-atrapalo.png",
@@ -942,7 +942,7 @@
     "id": "100-palabras",
     "title": "100 palabras",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/100paraules/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -1027,7 +1027,7 @@
     "id": "actividades-de-lectura",
     "title": "Actividades de lectura",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/lectinfa/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -1041,7 +1041,7 @@
     "id": "actividades-de-lengua",
     "title": "Actividades de lengua",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/llengso/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -1100,7 +1100,7 @@
     "id": "adivina-adivinanza",
     "title": "Adivina, adivinanza",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/endevina-endevinalla",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -1113,7 +1113,7 @@
     "id": "adivina-adivinanza-2",
     "title": "Adivina, adivinanza",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/endevina/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -1140,7 +1140,7 @@
     "id": "adivinanzas-catalogo",
     "title": "Adivinanzas",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/flash/endevinalles/portada.htm",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -1185,7 +1185,7 @@
     "id": "agente-anti-faltas",
     "title": "Agente anti faltas",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/agent/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -1270,7 +1270,7 @@
     "id": "amigos-de-los-animales",
     "title": "Amigos de los animales",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/vertebra/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 2o ciclo.",
     "levels": [
@@ -1465,7 +1465,7 @@
     "id": "animales-vertebrados-2",
     "title": "Animales vertebrados",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/avertebr/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 2o ciclo.",
     "levels": [
@@ -1554,7 +1554,7 @@
     "id": "aparatos-del-cuerpo",
     "title": "Aparatos del cuerpo",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/aparells/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 3er ciclo.",
     "levels": [
@@ -1644,7 +1644,7 @@
     "id": "aprendo-a-escribir-2",
     "title": "Aprendo a escribir",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/aprenc-a-escriure",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -1681,7 +1681,7 @@
     "id": "arrastra-y-coloca-2",
     "title": "Arrastra y coloca",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=posan2",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -1723,7 +1723,7 @@
     "id": "atrapa-el-residuo",
     "title": "Atrapa el residuo",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/reciclatge/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -1831,7 +1831,7 @@
     "id": "aventurate",
     "title": "Aventúrate",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/flash/aventurat/",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -2132,7 +2132,7 @@
     "id": "calendario-y-reloj",
     "title": "Calendario y reloj",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/medinat3/calre3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -2156,7 +2156,7 @@
     "id": "caperucita-roja",
     "title": "Caperucita Roja",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/caputxe2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -2509,7 +2509,7 @@
     "id": "comarcas-de-cataluna",
     "title": "Comarcas de Cataluña",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/users/mnebot1/comarques/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 2o ciclo.",
     "levels": [
@@ -2566,7 +2566,7 @@
     "id": "completa",
     "title": "Completa",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=enom1",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -2693,7 +2693,7 @@
     "id": "contar-del-1-al-9",
     "title": "Contar del 1 al 9",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/comptar/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil.",
     "levels": [
@@ -2706,7 +2706,7 @@
     "id": "continentes-y-oceanos",
     "title": "Continentes y océanos",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/continents/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -2905,7 +2905,7 @@
     "id": "cuerpos-geometricos-catalogo",
     "title": "Cuerpos geométricos",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/geom/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -3066,7 +3066,7 @@
     "id": "deportes-y-valores",
     "title": "Deportes y valores",
     "area": "Educacion emocional",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/esports2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar educacion emocional en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -3119,7 +3119,7 @@
     "id": "descubre-la-cara-2",
     "title": "Descubre la cara",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=mascotes8",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -3171,7 +3171,7 @@
     "id": "dias-y-meses-2",
     "title": "Días y meses",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=1",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -3276,7 +3276,7 @@
     "id": "dictados",
     "title": "Dictados",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://llengua.gencat.cat/ca/serveis/aprendre_catala/recursos-per-al-professorat/dictats-en-linia/aspectes-ortografics/",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -3492,7 +3492,7 @@
     "id": "edu365",
     "title": "Edu365",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.edu365.cat/",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
     "levels": [
@@ -3527,7 +3527,7 @@
     "id": "el-abecedario",
     "title": "El abecedario",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/alfabet/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -3550,7 +3550,7 @@
     "id": "el-alfabeto",
     "title": "El alfabeto",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -3598,7 +3598,7 @@
     "id": "el-invierno",
     "title": "El invierno",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/l_hivern/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -3632,7 +3632,7 @@
     "id": "el-juego-de-las-vocales-2",
     "title": "El juego de las vocales",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/joc-de-les-vocals",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -3666,7 +3666,7 @@
     "id": "el-mon-et-parla",
     "title": "El món et parla",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/mon/monp4/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -3700,7 +3700,7 @@
     "id": "el-otono",
     "title": "El otoño",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/tardor7/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Infantil.",
     "levels": [
@@ -3733,7 +3733,7 @@
     "id": "el-reloj-2",
     "title": "El reloj",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/rellotge/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -3767,7 +3767,7 @@
     "id": "elementos-tecnologicos-2",
     "title": "Elementos tecnológicos",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://static.tinytap.com/media/webplayer/webplayer.html?id=34221BCE-E47A-49CC-9339-F5A9F50CBB9B",
     "notes": "Actividad interactiva para practicar informatica en Primaria 2o ciclo.",
     "levels": [
@@ -3778,7 +3778,7 @@
     "id": "els-colors",
     "title": "Els colors",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/colors3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -3922,7 +3922,7 @@
     "id": "endevina-qui-soc",
     "title": "Endevina qui soc",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/endevina-qui-soc-iniciacio-a-la-lectura",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -3946,7 +3946,7 @@
     "id": "entrenate-para-leer",
     "title": "Entrénate para leer",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/flash/entrena/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -4121,7 +4121,7 @@
     "id": "fem-feinetes",
     "title": "Fem feinetes",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/feinetes/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -4181,7 +4181,7 @@
     "id": "flores",
     "title": "Flores",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/flors/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 2o ciclo.",
     "levels": [
@@ -4216,7 +4216,7 @@
     "id": "formas-verbales",
     "title": "Formas verbales",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=b&tema=6",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -4290,7 +4290,7 @@
     "id": "frases-al-reves-2",
     "title": "Frases al revés",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=alrev1",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -4349,7 +4349,7 @@
     "id": "garbancito",
     "title": "Garbancito",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/patufet/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -4361,7 +4361,7 @@
     "id": "geoclic",
     "title": "Geoclic",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/geoclice/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 3er ciclo.",
     "levels": [
@@ -4372,7 +4372,7 @@
     "id": "geometria",
     "title": "Geometría",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/geomet3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -4385,7 +4385,7 @@
     "id": "geometria-plana",
     "title": "Geometría plana",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/poligons/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -4407,7 +4407,7 @@
     "id": "gestion-emocional",
     "title": "Gestión emocional",
     "area": "Educacion emocional",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/emocion_3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar educacion emocional en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -4594,7 +4594,7 @@
     "id": "hoy-cocinas-tu",
     "title": "Hoy cocinas tú",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://espaiescoles.farmaceuticonline.com/jocshtml5/fesDeCuiner_ca/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Primaria 1er ciclo.",
     "levels": [
@@ -4725,7 +4725,7 @@
     "id": "jclic-catalogo",
     "title": "JClic",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://clic.xtec.cat/db/listact_es.jsp",
     "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
     "levels": [
@@ -4842,7 +4842,7 @@
     "id": "jugamos-a-calcular",
     "title": "Jugamos a calcular",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/jugcalc/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -4855,7 +4855,7 @@
     "id": "jugamos-con-sumas",
     "title": "Jugamos con sumas",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=jtausum",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo.",
     "levels": [
@@ -5001,7 +5001,7 @@
     "id": "la-castanada",
     "title": "La Castañada",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://clic.xtec.cat/quaderns/biblioteca/lacastanyada_ca/html/section_1.htm?&appl=http://clic.xtec.cat/qv_viewer/dist/html/appl/&css=http://clic.xtec.cat/qv_viewer/dist/html/css/&js=http://clic.xtec.cat/qv_viewer/dist/html/scripts/&lang=ca&skin=infantil&biblio=true&xml=lacastanyada_ca/lacastanyada_ca.xml&base=lacastanyada_ca&skin=infantil§ion=1&lang=ca",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -5015,7 +5015,7 @@
     "id": "la-castanera",
     "title": "La castañera",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/castanye/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -5324,7 +5324,7 @@
     "id": "las-horas",
     "title": "Las horas",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=3&nivell=a&tema=2",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -5338,7 +5338,7 @@
     "id": "las-letras-del-faraon",
     "title": "Las letras del faraón",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=lab2",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5398,7 +5398,7 @@
     "id": "laura-y-juan-1",
     "title": "Laura y Juan 1",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/01_medicina.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5409,7 +5409,7 @@
     "id": "laura-y-juan-10",
     "title": "Laura y Juan 10",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/10_tecnologia-agroalimentaria.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5420,7 +5420,7 @@
     "id": "laura-y-juan-2",
     "title": "Laura y Juan 2",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/02_informatica.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5431,7 +5431,7 @@
     "id": "laura-y-juan-4",
     "title": "Laura y Juan 4",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/04_biologia.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5442,7 +5442,7 @@
     "id": "laura-y-juan-5",
     "title": "Laura y Juan 5",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/05_arqueologia.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5453,7 +5453,7 @@
     "id": "laura-y-juan-7",
     "title": "Laura y Juan 7",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/07_biologia-conservacio.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5464,7 +5464,7 @@
     "id": "laura-y-juan-8",
     "title": "Laura y Juan 8",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/08_nanotecnologia.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5475,7 +5475,7 @@
     "id": "laura-y-juan-9",
     "title": "Laura y Juan 9",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/recercaiuniversitats/contes/contes/pdf/09_neurobiologia.pdf",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -5609,7 +5609,7 @@
     "id": "lectura-comprensiva",
     "title": "Lectura comprensiva",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/compre/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -5711,7 +5711,7 @@
     "id": "les-vocals",
     "title": "Les vocals",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/vocals2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -5724,7 +5724,7 @@
     "id": "letra-por-letra",
     "title": "Letra por letra",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/flash/lletraxlletra/portada.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -5736,7 +5736,7 @@
     "id": "letras",
     "title": "Letras",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=1&nivell=a&tema=2",
     "notes": "Actividad interactiva para practicar lengua en Infantil.",
     "levels": [
@@ -5772,7 +5772,7 @@
     "id": "los-3-cerditos",
     "title": "Los 3 cerditos",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/porquets/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -5825,7 +5825,7 @@
     "id": "los-articulos",
     "title": "Los artículos",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=1",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -5849,7 +5849,7 @@
     "id": "los-disfraces",
     "title": "Los disfraces",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/carnaval9/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -5900,7 +5900,7 @@
     "id": "los-numeros",
     "title": "Los números",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=1&nivell=a&tema=3",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -5925,7 +5925,7 @@
     "id": "los-oficios",
     "title": "Los oficios",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/oficis2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -6047,7 +6047,7 @@
     "id": "martina-y-los-sentidos",
     "title": "Martina y los sentidos",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/sentits3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Infantil.",
     "levels": [
@@ -6060,7 +6060,7 @@
     "id": "masculino-y-femenino",
     "title": "Masculino y femenino",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=2",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -6595,7 +6595,7 @@
     "id": "normas-de-acentuacion",
     "title": "Normas de acentuación",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/accents/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -6693,7 +6693,7 @@
     "id": "observa",
     "title": "Observa",
     "area": "Logica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/observa/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo.",
     "levels": [
@@ -6783,7 +6783,7 @@
     "id": "ordena-les-lletres",
     "title": "Ordena les lletres",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/ordena-les-lletres",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -6833,7 +6833,7 @@
     "id": "ortografia-ciclo-inicial",
     "title": "Ortografía ciclo inicial",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/flash/ortografia_ci/ortografia.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -6844,7 +6844,7 @@
     "id": "ortografia-y-gramatica-catalana",
     "title": "Ortografía y gramática catalana",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/ortogram/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 3er ciclo.",
     "levels": [
@@ -6971,7 +6971,7 @@
     "id": "palabras",
     "title": "Palabras",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/flash/lletraxlletra/paraules.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -7054,7 +7054,7 @@
     "id": "palabras-sinonimas",
     "title": "Palabras sinónimas",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/sinonims/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -7078,7 +7078,7 @@
     "id": "panellets",
     "title": "Panellets",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/flash/panellets/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7092,7 +7092,7 @@
     "id": "paraules-magiques",
     "title": "Paraules màgiques",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/paraules-magiques",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7141,7 +7141,7 @@
     "id": "partes-del-ordenador",
     "title": "Partes del ordenador",
     "area": "Plastica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/ordinad/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar plastica en Primaria 2o ciclo.",
     "levels": [
@@ -7154,7 +7154,7 @@
     "id": "pasa-palabra-sant-jordi",
     "title": "Pasa palabra Sant Jordi",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/pasapalabras_app/inicio/?id=santjordi2020",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7291,7 +7291,7 @@
     "id": "pasqua",
     "title": "Pasqua",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/pasqua2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil.",
     "levels": [
@@ -7304,7 +7304,7 @@
     "id": "passaparaula",
     "title": "Passaparaula",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/joc-interactiu-passaparaula-catala",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7316,7 +7316,7 @@
     "id": "passaparaula-d-8217-estiu",
     "title": "Passaparaula d&#8217;estiu",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/passaparaula-estiu",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7387,7 +7387,7 @@
     "id": "pedro-y-el-lobo",
     "title": "Pedro y el lobo",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/perellop/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar musica en Primaria 2o ciclo.",
     "levels": [
@@ -7437,7 +7437,7 @@
     "id": "pequenas-historias-2",
     "title": "Pequeñas historias",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://apliedu.xtec.cat/petites_histories/?lang=ca",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7636,7 +7636,7 @@
     "id": "poemas-de-navidad",
     "title": "Poemas de Navidad",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/flash/poesia/menu_nad.htm",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -7650,7 +7650,7 @@
     "id": "poesia",
     "title": "Poesia",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/flash/poesia/portada.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -7897,7 +7897,7 @@
     "id": "que-numero-falta",
     "title": "Qué número falta",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/sumes/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -7970,7 +7970,7 @@
     "id": "quina-paraula-es",
     "title": "Quina paraula és",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cristic.my.canva.site/quina-paraula-es-pasqua",
     "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8031,7 +8031,7 @@
     "id": "refranes",
     "title": "Refranes",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/dites/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -8281,7 +8281,7 @@
     "id": "salix-y-los-sentidos",
     "title": "Sálix y los sentidos",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/sentits2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar ciencias naturales en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -8334,7 +8334,7 @@
     "id": "sant-jordi",
     "title": "Sant Jordi",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2025/index.html",
     "notes": "Actividad interactiva para practicar dias especiales en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8358,7 +8358,7 @@
     "id": "scratch-catalogo",
     "title": "Scratch",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://scratch.mit.edu/projects/editor/?tutorial=getStarted",
     "notes": "Actividad interactiva para practicar informatica en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8382,7 +8382,7 @@
     "id": "semanas-y-meses",
     "title": "Semanas y meses",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/setmes2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -8503,7 +8503,7 @@
     "id": "silabas-2",
     "title": "Sílabas",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/trebsil/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8529,7 +8529,7 @@
     "id": "silabas-y-acentuacion",
     "title": "Sílabas y acentuación",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/siltoacc/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo, Primaria 3er ciclo.",
     "levels": [
@@ -8606,7 +8606,7 @@
     "id": "sistema-solar-2",
     "title": "Sistema Solar",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sistema_solar/index.html",
     "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 2o ciclo.",
     "levels": [
@@ -8715,7 +8715,7 @@
     "id": "sopa-de-letras",
     "title": "Sopa de letras",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/sopaval/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo, Primaria 2o ciclo.",
     "levels": [
@@ -8926,7 +8926,7 @@
     "id": "sudoku-catalogo",
     "title": "Sudoku",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/sudoku2/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -9013,7 +9013,7 @@
     "id": "superdomino",
     "title": "Superdómino",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/superdfr/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -9024,7 +9024,7 @@
     "id": "tablas-de-multiplicar-catalogo",
     "title": "Tablas de multiplicar",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/taules3/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
     "levels": [
@@ -9058,7 +9058,7 @@
     "id": "tangram-catalogo",
     "title": "Tangram",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/tangram/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -9164,7 +9164,7 @@
     "id": "trazo-imprenta-minuscula",
     "title": "Trazo imprenta minúscula",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/lengua/trazaminusculas/#!/NewPage",
     "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
     "levels": [
@@ -9534,7 +9534,7 @@
     "id": "vocabulario-de-acciones",
     "title": "Vocabulario de acciones",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/accions/jclic.js/index.html",
     "notes": "Actividad interactiva para practicar lengua en Primaria 2o ciclo.",
     "levels": [
@@ -9559,7 +9559,7 @@
     "id": "vocales-divertidas",
     "title": "Vocales divertidas",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://genmagic.net/visualflash.html?id=vd1",
     "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
     "levels": [
@@ -9676,7 +9676,7 @@
     "id": "edu365-sant-jordi-2026",
     "title": "Sant Jordi 2026",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2026/intro/index.html",
     "notes": "Jocs i sorpreses per celebrar el Sant Jordi",
     "levels": [
@@ -9693,7 +9693,7 @@
     "id": "edu365-houston-tenim-problemes",
     "title": "Houston, tenim problemes!",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/houston/intro/index.html",
     "notes": "Una abella recorre un prat resolent reptes matemàtics",
     "levels": [
@@ -9710,7 +9710,7 @@
     "id": "edu365-anem-a-mitges",
     "title": "Anem a mitges!",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/anem-mitges/intro/index.html",
     "notes": "Descobreix les fraccions dividint fruites en parts iguals",
     "levels": [
@@ -9727,7 +9727,7 @@
     "id": "edu365-agent-antifaltes-2",
     "title": "Agent Antifaltes 2",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/agent2/intro/index.html",
     "notes": "Aventura de detectiu d'ortografia. Segon episodi",
     "levels": [
@@ -9744,7 +9744,7 @@
     "id": "edu365-jam-session",
     "title": "Jam Session",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/jam_session/intro/index.html",
     "notes": "Juga i identifica instruments musicals",
     "levels": [
@@ -9761,7 +9761,7 @@
     "id": "edu365-pensem",
     "title": "Pensem",
     "area": "Logica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/pensem/intro/index.html",
     "notes": "Completa sèries i seqüències de patrons",
     "levels": [
@@ -9797,7 +9797,7 @@
     "id": "edu365-agent-antifaltes",
     "title": "Agent Antifaltes",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/agent/index.html",
     "notes": "Converteix-te en detectiu de l'ortografia",
     "levels": [
@@ -9815,7 +9815,7 @@
     "id": "edu365-la-bibliotecapp",
     "title": "La Bibliotecapp",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/bibliotecapp/index.html",
     "notes": "Descobreix aventures literàries amb vuit opcions diferents",
     "levels": [
@@ -9833,7 +9833,7 @@
     "id": "edu365-que-fem-primer",
     "title": "Què fem primer?",
     "area": "Logica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sequenciacio/index.html",
     "notes": "Ordena imatges en la seqüència correcta",
     "levels": [
@@ -9867,7 +9867,7 @@
     "id": "edu365-escape-cub",
     "title": "Escape Cub",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/escapecub/index.html",
     "notes": "Respon preguntes de colors i navega per la ruta de fugida",
     "levels": [
@@ -9885,7 +9885,7 @@
     "id": "edu365-electricitat-i-magnetisme",
     "title": "Electricitat i magnetisme",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/electricitat/index.html",
     "notes": "Explora els efectes de l'electricitat i el magnetisme",
     "levels": [
@@ -9903,7 +9903,7 @@
     "id": "edu365-coneixement-del-cos",
     "title": "Coneixement del cos",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/coneixementcos/index.html",
     "notes": "Aprèn sobre higiene, nutrició i benestar",
     "levels": [
@@ -9921,7 +9921,7 @@
     "id": "edu365-animalarium",
     "title": "Animalarium",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/animalarium/index.html",
     "notes": "Explora animals domèstics, exòtics i salvatges",
     "levels": [
@@ -9939,7 +9939,7 @@
     "id": "edu365-no-et-descomptis-3",
     "title": "No et descomptis 3",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/euro3/index.html",
     "notes": "Càlcul mental amb monedes i bitllets",
     "levels": [
@@ -9956,7 +9956,7 @@
     "id": "edu365-viatgers-del-temps",
     "title": "Viatgers del temps",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/pitagores/intro/index.html",
     "notes": "Viatgers en el temps exploren el teorema de Pitàgores",
     "levels": [
@@ -9973,7 +9973,7 @@
     "id": "edu365-el-cos",
     "title": "El cos",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/cos/index.html",
     "notes": "Aprèn els noms de les parts del cos en català",
     "levels": [
@@ -10007,7 +10007,7 @@
     "id": "edu365-els-sentits",
     "title": "Els sentits",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sentits/index.html",
     "notes": "Descobreix els cinc sentits humans jugant",
     "levels": [
@@ -10041,7 +10041,7 @@
     "id": "edu365-sumem-de-l-1-al-10",
     "title": "Sumem de l'1 al 10",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sumar/index.html",
     "notes": "Practica la suma de l'1 al 10",
     "levels": [
@@ -10058,7 +10058,7 @@
     "id": "edu365-no-et-descomptis-2",
     "title": "No et descomptis 2",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/euro2/index.html",
     "notes": "Suma i iniciació a la moneda",
     "levels": [
@@ -10075,7 +10075,7 @@
     "id": "edu365-castaween",
     "title": "Castaween",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/castaween/intro/index.html",
     "notes": "Jocs bilingües per a la Castanyada i Halloween",
     "levels": [
@@ -10092,7 +10092,7 @@
     "id": "edu365-jocs-de-tardor",
     "title": "Jocs de tardor",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/jocsdetardor/index.html",
     "notes": "Jocs i activitats de la festa de tardor",
     "levels": [
@@ -10110,7 +10110,7 @@
     "id": "edu365-tardor-2023",
     "title": "Tardor 2023",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/tardor-2023/intro/index.html",
     "notes": "Celebració de tardor amb jocs tradicionals",
     "levels": [
@@ -10128,7 +10128,7 @@
     "id": "edu365-la-castanyada",
     "title": "La Castanyada",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/castanyada/index.html",
     "notes": "Jocs i activitats de la Castanyada",
     "levels": [
@@ -10146,7 +10146,7 @@
     "id": "edu365-castanyes-i-carbasses",
     "title": "Castanyes i carbasses",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/carbasses/intro/index.html",
     "notes": "Tradicions de tardor a través de jocs interactius",
     "levels": [
@@ -10164,7 +10164,7 @@
     "id": "edu365-la-magia-de-nadal",
     "title": "La màgia de Nadal",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal25/intro/index.html",
     "notes": "Celebració de Nadal amb activitats interactives",
     "levels": [
@@ -10181,7 +10181,7 @@
     "id": "edu365-escudella-de-jocs",
     "title": "Escudella de jocs",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/escudella/intro/index.html",
     "notes": "Jocs i tradicions de Nadal",
     "levels": [
@@ -10198,7 +10198,7 @@
     "id": "edu365-nadal-2023",
     "title": "Nadal 2023",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal23/intro/index.html",
     "notes": "Activitats i jocs interactius de Nadal",
     "levels": [
@@ -10216,7 +10216,7 @@
     "id": "edu365-jocs-d-hivern",
     "title": "Jocs d'hivern",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/hivern/index.html",
     "notes": "Memòria, tradicions, pessebre i decoració de Nadal",
     "levels": [
@@ -10234,7 +10234,7 @@
     "id": "edu365-nadal",
     "title": "Nadal",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/nadal/index.html",
     "notes": "Endevinalles, cançons i tradicions nadalenques",
     "levels": [
@@ -10252,7 +10252,7 @@
     "id": "edu365-els-carnavals-del-mon",
     "title": "Els carnavals del món",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/carnavals-mon/intro/index.html",
     "notes": "Tradicions de carnaval arreu del món",
     "levels": [
@@ -10270,7 +10270,7 @@
     "id": "edu365-carnaval-2025",
     "title": "Carnaval 2025",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval-2025/intro/index.html",
     "notes": "Endevina sons i completa sèries de Carnaval",
     "levels": [
@@ -10288,7 +10288,7 @@
     "id": "edu365-disfressa-t",
     "title": "Disfressa't",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/disfressat/intro/index.html",
     "notes": "Activitats de Carnaval: observació i atenció",
     "levels": [
@@ -10306,7 +10306,7 @@
     "id": "edu365-carnaval-2023",
     "title": "Carnaval 2023",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval2023/intro/index.html",
     "notes": "Descobreix tradicions i personatges del Carnaval",
     "levels": [
@@ -10324,7 +10324,7 @@
     "id": "edu365-carnaval",
     "title": "Carnaval",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/carnaval/intro/index.html",
     "notes": "Jocs i tradicions festives de Carnaval",
     "levels": [
@@ -10342,7 +10342,7 @@
     "id": "edu365-castells-i-cavallers",
     "title": "Castells i cavallers",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2025/intro/index.html",
     "notes": "Prepara el Sant Jordi amb reptes interactius",
     "levels": [
@@ -10359,7 +10359,7 @@
     "id": "edu365-sant-jordi-2024",
     "title": "Sant Jordi 2024",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2024/intro/index.html",
     "notes": "Dragons, llibres, roses i elements literaris",
     "levels": [
@@ -10376,7 +10376,7 @@
     "id": "edu365-sant-jordi-2023",
     "title": "Sant Jordi 2023",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sant-jordi-2023/intro/index.html",
     "notes": "Personatges de la llegenda i reptes interactius",
     "levels": [
@@ -10394,7 +10394,7 @@
     "id": "edu365-sant-jordi",
     "title": "Sant Jordi",
     "area": "Dias especiales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/santjordi/index.html",
     "notes": "Prepara la celebració del 23 abril amb jocs",
     "levels": [
@@ -10412,7 +10412,7 @@
     "id": "edu365-les-fruites",
     "title": "Les fruites",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/fruites/index.html",
     "notes": "Lectura i activitats amb fruites en català",
     "levels": [
@@ -10448,7 +10448,7 @@
     "id": "edu365-mateorit",
     "title": "Mateorit",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/MATeorit/index.html",
     "notes": "Evita l'impacte del meteorit resolent sumes",
     "levels": [
@@ -10465,7 +10465,7 @@
     "id": "edu365-mateorit-2",
     "title": "Mateorit 2",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/MATeorit2/index.html",
     "notes": "Aventura espacial avançada amb reptes matemàtics",
     "levels": [
@@ -10482,7 +10482,7 @@
     "id": "edu365-enlaira-t",
     "title": "Enlaira't",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/sistema_solar/index.html",
     "notes": "Capes de l'atmosfera i sistema solar",
     "levels": [
@@ -10516,7 +10516,7 @@
     "id": "edu365-no-et-descomptis",
     "title": "No et descomptis!",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/euros/index.html",
     "notes": "Càlcul mental amb monedes i operacions",
     "levels": [
@@ -10550,7 +10550,7 @@
     "id": "edu365-pren-te-el-teu-temps",
     "title": "Pren-te el teu temps",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/temps/index.html",
     "notes": "Aprèn a llegir l'hora correctament en català",
     "levels": [
@@ -10567,7 +10567,7 @@
     "id": "edu365-continents-i-oceans",
     "title": "Continents i oceans",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/continents/index.html",
     "notes": "Localitza continents i oceans al mapa del món",
     "levels": [
@@ -10635,7 +10635,7 @@
     "id": "edu365-ciber-odissea",
     "title": "Ciber-Odissea",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/ciberodissea/index.html",
     "notes": "Tecnologia digital, internet i xarxes socials",
     "levels": [
@@ -10653,7 +10653,7 @@
     "id": "edu365-paraules-estranyes",
     "title": "Paraules estranyes",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/paraules-estranyes/index.html",
     "notes": "Explora paraules estranyes i misteris lèxics",
     "levels": [
@@ -10670,7 +10670,7 @@
     "id": "edu365-atrapa-el-residu",
     "title": "Atrapa el residu",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/reciclatge/index.html",
     "notes": "Aprèn a classificar residus correctament",
     "levels": [
@@ -10688,7 +10688,7 @@
     "title": "Easter",
     "area": "Dias especiales",
     "language": [
-      "Catalan/Valencià",
+      "Català/Valencià",
       "Ingles"
     ],
     "url": "https://www.edu365.cat/interactius/easter/index.html",
@@ -10708,7 +10708,7 @@
     "id": "edu365-lletres-sobre-rodes",
     "title": "Lletres sobre rodes",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/interactius/lletres/index.html",
     "notes": "Jocs de paraules amb temàtica de skate",
     "levels": [
@@ -10921,7 +10921,7 @@
     "id": "edu365-blockly-games",
     "title": "Blockly Games",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://blockly.games/?lang=ca",
     "notes": "Jocs de programació per blocs per a iniciació a la programació",
     "levels": [
@@ -11149,7 +11149,7 @@
     "id": "edu365-micro-bit",
     "title": "Micro:bit",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://makecode.microbit.org/",
     "notes": "Simulador de programació per als dispositius BBC Micro:bit",
     "levels": [
@@ -11219,7 +11219,7 @@
     "id": "edu365-studio-code",
     "title": "Studio Code",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://studio.code.org/",
     "notes": "Reptes de jocs per blocs que ensenyen els fonaments de la programació",
     "levels": [
@@ -11392,7 +11392,7 @@
     "id": "edu365-scratch",
     "title": "Scratch",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://scratch.mit.edu/",
     "notes": "Crea històries, jocs i animacions amb programació per blocs",
     "levels": [
@@ -11497,7 +11497,7 @@
     "id": "edu365-makecode-arcade",
     "title": "Makecode Arcade",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://arcade.makecode.com/",
     "notes": "Creació de jocs d'arcade per blocs amb introducció a JavaScript i Python",
     "levels": [
@@ -11514,7 +11514,7 @@
     "id": "edu365-linux-mint",
     "title": "Linux Mint",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://linuxmint.com/",
     "notes": "Sistema operatiu lliure i de codi obert basat en Ubuntu",
     "levels": [
@@ -11529,7 +11529,7 @@
     "id": "edu365-libreoffice",
     "title": "LibreOffice",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.libreoffice.org/",
     "notes": "Suite ofimàtica gratuïta compatible amb Microsoft Office",
     "levels": [
@@ -11545,7 +11545,7 @@
     "id": "edu365-librecad",
     "title": "LibreCAD",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://librecad.org/",
     "notes": "Aplicació CAD de codi obert per disseny 2D",
     "levels": [
@@ -11560,7 +11560,7 @@
     "id": "edu365-krita",
     "title": "Krita",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://krita.org/es/",
     "notes": "Programari de pintura digital professional, lliure",
     "levels": [
@@ -11575,7 +11575,7 @@
     "id": "edu365-avidemux",
     "title": "Avidemux",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://avidemux.sourceforge.net/",
     "notes": "Editor de vídeo per tall, filtrat i codificació",
     "levels": [
@@ -11590,7 +11590,7 @@
     "id": "edu365-linkat-gnu-linux",
     "title": "Linkat GNU Linux",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://linkat.xtec.cat/portal/index.php",
     "notes": "Distribució educativa del Departament d'Educació",
     "levels": [
@@ -11605,7 +11605,7 @@
     "id": "edu365-retrobat",
     "title": "Retrobat",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.retrobat.org/accueil-es/",
     "notes": "Emulador de consoles antigues",
     "levels": [
@@ -11620,7 +11620,7 @@
     "id": "edu365-opentoonz",
     "title": "OpenToonz",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://opentoonz.github.io/es/index.html",
     "notes": "Programari de codi obert per a la producció de dibuixos animats en 2D",
     "levels": [
@@ -11635,7 +11635,7 @@
     "id": "edu365-audacity",
     "title": "Audacity",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.audacityteam.org",
     "notes": "Programari per editar i enregistrar àudio",
     "levels": [
@@ -11650,7 +11650,7 @@
     "id": "edu365-openshot",
     "title": "OpenShot",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.openshot.org/",
     "notes": "Editor de vídeo amb funcionalitats avançades",
     "levels": [
@@ -11665,7 +11665,7 @@
     "id": "edu365-openscad",
     "title": "OpenSCAD",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.openscad.org/",
     "notes": "Programari per crear objectes CAD 3D sòlids",
     "levels": [
@@ -11680,7 +11680,7 @@
     "id": "edu365-ardour",
     "title": "Ardour",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://ardour.org/",
     "notes": "Programari d'àudio digital de codi obert per gravar, editar i mesclar",
     "levels": [
@@ -11695,7 +11695,7 @@
     "id": "edu365-natron",
     "title": "Natron",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://natrongithub.github.io/",
     "notes": "Edició de vídeo avançada i postproducció digital",
     "levels": [
@@ -11710,7 +11710,7 @@
     "id": "edu365-gimp",
     "title": "GIMP",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.gimp.org/",
     "notes": "Editor d'imatges multiplataforma de codi obert",
     "levels": [
@@ -11725,7 +11725,7 @@
     "id": "edu365-batocera",
     "title": "Batocera",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://batocera.org/",
     "notes": "Distribució de Linux per emular consoles de videojoc antigues",
     "levels": [
@@ -11740,7 +11740,7 @@
     "id": "edu365-inkscape",
     "title": "Inkscape",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://inkscape.org/",
     "notes": "Editor professional de gràfics vectorials de codi obert",
     "levels": [
@@ -11755,7 +11755,7 @@
     "id": "edu365-shotcut",
     "title": "Shotcut",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://shotcut.org/",
     "notes": "Editor de vídeo gratuït, de codi obert i multiplataforma",
     "levels": [
@@ -11770,7 +11770,7 @@
     "id": "edu365-audiomass",
     "title": "Audiomass",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://audiomass.co/",
     "notes": "Editor d'àudio en línia sense instal·lació",
     "levels": [
@@ -11786,7 +11786,7 @@
     "id": "edu365-obs-studio",
     "title": "OBS Studio",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://obsproject.com/",
     "notes": "Programari de codi obert per emetre en streaming",
     "levels": [
@@ -11801,7 +11801,7 @@
     "id": "edu365-blender",
     "title": "Blender",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.blender.org/",
     "notes": "Programari de creació 3D gratuït i de codi obert",
     "levels": [
@@ -11816,7 +11816,7 @@
     "id": "edu365-sweet-home-3d",
     "title": "Sweet Home 3D",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.sweethome3d.com/es/",
     "notes": "Disseny de plànols en 2D i visualització en 3D",
     "levels": [
@@ -11831,7 +11831,7 @@
     "id": "edu365-freecad",
     "title": "FreeCAD",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.freecad.org/",
     "notes": "Programari de modelatge 3D paramètric",
     "levels": [
@@ -11846,7 +11846,7 @@
     "id": "edu365-guitarix",
     "title": "Guitarix",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://guitarix.org/",
     "notes": "Amplificador virtual de guitarra per a Linux",
     "levels": [
@@ -11861,7 +11861,7 @@
     "id": "edu365-leocad",
     "title": "LeoCAD",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.leocad.org/",
     "notes": "Disseny de figures amb peces de construcció",
     "levels": [
@@ -11877,7 +11877,7 @@
     "id": "edu365-helm",
     "title": "Helm",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://tytel.org/helm/",
     "notes": "Sintetitzador virtual de codi obert",
     "levels": [
@@ -11892,7 +11892,7 @@
     "id": "edu365-musescore-studio",
     "title": "MuseScore Studio",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://musescore.org/ca",
     "notes": "Programari professional de notació musical, totalment gratuït",
     "levels": [
@@ -11907,7 +11907,7 @@
     "id": "edu365-lenmus-phonascus",
     "title": "LenMus Phonascus",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.lenmus.org/en/noticias",
     "notes": "Programa per estudiar teoria musical",
     "levels": [
@@ -11922,7 +11922,7 @@
     "id": "edu365-raspberry-pi-os",
     "title": "Raspberry Pi OS",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.raspberrypi.com/software/",
     "notes": "Sistema operatiu per al vostre ordinador Raspberry Pi",
     "levels": [
@@ -11937,7 +11937,7 @@
     "id": "edu365-piano-booster",
     "title": "Piano Booster",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.pianobooster.org/index.html",
     "notes": "Programari de codi obert que reprodueix fitxers MIDI per aprendre piano",
     "levels": [
@@ -11953,7 +11953,7 @@
     "id": "edu365-ubuntu",
     "title": "Ubuntu",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://ubuntu.com/",
     "notes": "Sistema operatiu gratuït i de codi obert basat en Linux",
     "levels": [
@@ -11968,7 +11968,7 @@
     "id": "edu365-ultimaker-cura",
     "title": "UltiMaker Cura",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://ultimaker.com/software/ultimaker-cura/",
     "notes": "Programari per gestionar impressions 3D",
     "levels": [
@@ -11983,7 +11983,7 @@
     "id": "edu365-elementary-os",
     "title": "Elementary OS",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://elementary.io/ca/",
     "notes": "Sistema operatiu alternatiu per a Windows i macOS",
     "levels": [
@@ -11998,7 +11998,7 @@
     "id": "edu365-fedora",
     "title": "Fedora",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://fedoraproject.org/ca/",
     "notes": "Sistema operatiu basat en GNU/Linux 100% lliure",
     "levels": [
@@ -12013,7 +12013,7 @@
     "id": "edu365-retro-virtual-machine",
     "title": "Retro Virtual Machine",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.retrovirtualmachine.org/",
     "notes": "Emulador de màquines de 8 bits",
     "levels": [
@@ -12028,7 +12028,7 @@
     "id": "edu365-mixxx",
     "title": "Mixxx",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://mixxx.org/",
     "notes": "Programari de codi obert per fer de DJ",
     "levels": [
@@ -12043,7 +12043,7 @@
     "id": "edu365-recalbox",
     "title": "Recalbox",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.recalbox.com/",
     "notes": "Consola de jocs retro de codi obert amb més de 100 sistemes emulats",
     "levels": [
@@ -12058,7 +12058,7 @@
     "id": "edu365-retropie",
     "title": "Retropie",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://retropie.org.uk/",
     "notes": "Converteix el teu ordinador en una consola clàssica amb aquest emulador",
     "levels": [
@@ -12073,7 +12073,7 @@
     "id": "edu365-cueprompter",
     "title": "CuePrompter",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cueprompter.com/",
     "notes": "Converteix el teu navegador en un teleprompter per llegir textos",
     "levels": [
@@ -12088,7 +12088,7 @@
     "id": "edu365-unreal-engine",
     "title": "Unreal Engine",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.unrealengine.com/es-ES",
     "notes": "Motor de creació 3D per videojocs, animacions i entorns virtuals",
     "levels": [
@@ -12103,7 +12103,7 @@
     "id": "edu365-reaper",
     "title": "Reaper",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.reaper.fm/",
     "notes": "DAW professional per gravar, editar i masteritzar àudio",
     "levels": [
@@ -12118,7 +12118,7 @@
     "id": "edu365-national-film-board-of-canada",
     "title": "National Film Board of Canada",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.nfb.ca/",
     "notes": "Plataforma amb documentals sobre temes socials i educatius",
     "levels": [
@@ -12133,7 +12133,7 @@
     "id": "edu365-learning-light-google",
     "title": "Learning Light (Google)",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://artsandculture.google.com/experiment/learning-light/ywEbheTXDCXJCQ?cp",
     "notes": "Experiment interactiu sobre il·luminació en fotografia i cinema",
     "levels": [
@@ -12148,7 +12148,7 @@
     "id": "edu365-clipchamp",
     "title": "Clipchamp",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clipchamp.com/es/",
     "notes": "Editor de vídeo gratuït de Microsoft per fer vídeos fàcilment",
     "levels": [
@@ -12163,7 +12163,7 @@
     "id": "edu365-camerasim",
     "title": "CameraSim",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.camerasim.com",
     "notes": "Aprèn fotografia: diafragma, velocitat d'obturació i ISO",
     "levels": [
@@ -12178,7 +12178,7 @@
     "id": "edu365-clideo",
     "title": "Clideo",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clideo.com/es",
     "notes": "Plataforma en línia amb eines gratuïtes per editar vídeos al navegador",
     "levels": [
@@ -12193,7 +12193,7 @@
     "id": "edu365-brickfilms",
     "title": "Brickfilms",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://brickfilms.com/",
     "notes": "Plataforma de recursos per a animacions stop-motion amb peces Lego",
     "levels": [
@@ -12209,7 +12209,7 @@
     "id": "edu365-zu3d",
     "title": "Zu3D",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.zu3d.com/",
     "notes": "Programari stop-motion per a PC, Mac i iPad",
     "levels": [
@@ -12225,7 +12225,7 @@
     "id": "edu365-riverside",
     "title": "Riverside",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://riverside.fm/",
     "notes": "Eina per gravar vídeos i àudios d'alta qualitat (podcasts, entrevistes)",
     "levels": [
@@ -12240,7 +12240,7 @@
     "id": "edu365-wikiflix",
     "title": "Wikiflix",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://wikiflix.toolforge.org/#/",
     "notes": "Explora pel·lícules en domini públic i llicències obertes",
     "levels": [
@@ -12255,7 +12255,7 @@
     "id": "edu365-stop-motion-magazine",
     "title": "Stop Motion Magazine",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://stopmotionmagazine.com/",
     "notes": "Revista digital amb notícies i recursos sobre stop motion",
     "levels": [
@@ -12270,7 +12270,7 @@
     "id": "edu365-animashooter",
     "title": "Animashooter",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.animashooter.ru/",
     "notes": "Programari d'animació per Windows i Linux",
     "levels": [
@@ -12285,7 +12285,7 @@
     "id": "edu365-davinci-resolve-18",
     "title": "DaVinci Resolve 18",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.blackmagicdesign.com/ar/products/davinciresolve/whatsnew",
     "notes": "Edició de vídeo professional amb funcionalitats per a animacions gràfiques",
     "levels": [
@@ -12300,7 +12300,7 @@
     "id": "edu365-dragonframe",
     "title": "Dragonframe",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.dragonframe.com/",
     "notes": "Programari stop-motion professional amb prova gratuïta de 30 dies",
     "levels": [
@@ -12315,7 +12315,7 @@
     "id": "edu365-animatron-studio",
     "title": "Animatron Studio",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.animatron.com/studio",
     "notes": "Aplicació per crear animacions atractives en HTML5",
     "levels": [
@@ -12330,7 +12330,7 @@
     "id": "edu365-adobe-color",
     "title": "Adobe Color",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://color.adobe.com/es/create/color-wheel",
     "notes": "Roda cromàtica interactiva per triar paletes de colors",
     "levels": [
@@ -12345,7 +12345,7 @@
     "id": "edu365-photopea",
     "title": "Photopea",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.photopea.com/",
     "notes": "Editor d'imatges avançat, gratuït i en línia",
     "levels": [
@@ -12360,7 +12360,7 @@
     "id": "edu365-jahshaka",
     "title": "Jahshaka",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.jahshaka.com/",
     "notes": "Construeix mons virtuals en tres dimensions",
     "levels": [
@@ -12375,7 +12375,7 @@
     "id": "edu365-artweaver-7",
     "title": "Artweaver 7",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.artweaver.de/en",
     "notes": "Programari de pintura digital amb pinzells realistes",
     "levels": [
@@ -12390,7 +12390,7 @@
     "id": "edu365-fire-alpaca",
     "title": "Fire Alpaca",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://firealpaca.com/es/",
     "notes": "Programari gratuït de pintura digital per a Windows i Mac",
     "levels": [
@@ -12405,7 +12405,7 @@
     "id": "edu365-shot-designer",
     "title": "Shot Designer",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.hollywoodcamerawork.com/shot-designer.html",
     "notes": "Programari per planificar escenes del muntatge (versió gratuïta disponible)",
     "levels": [
@@ -12420,7 +12420,7 @@
     "id": "edu365-storyboarder",
     "title": "Storyboarder",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://wonderunit.com/storyboarder/",
     "notes": "Programari per dissenyar storyboards",
     "levels": [
@@ -12435,7 +12435,7 @@
     "id": "edu365-sculptgl",
     "title": "SculptGL",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://stephaneginier.com/sculptgl/",
     "notes": "Aplicació web de modelat 3D esculptura",
     "levels": [
@@ -12450,7 +12450,7 @@
     "id": "edu365-kinoscope-google-arts",
     "title": "Kinoscope (Google Arts)",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://artsandculture.google.com/asset/kinoscope-a-vr-journey-into-the-world-of-cinema/mgHwbzF-ExSqCQ",
     "notes": "Viatge immersiu per la història del cinema (Google Arts & Culture)",
     "levels": [
@@ -12465,7 +12465,7 @@
     "id": "edu365-pexels",
     "title": "Pexels",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.pexels.com/ca-es/",
     "notes": "Fotos i vídeos d'estoc gratuïts sense necessitat d'atribució",
     "levels": [
@@ -12480,7 +12480,7 @@
     "id": "edu365-make-human",
     "title": "Make Human",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://static.makehumancommunity.org/makehuman.html",
     "notes": "Dissenya personatges humans en 3D (compatible Blender i MeshLab)",
     "levels": [
@@ -12495,7 +12495,7 @@
     "id": "edu365-meshmixer",
     "title": "Meshmixer",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.meshmixer.com/",
     "notes": "Programari de modelatge en 3D per crear, reconstruir i esculpir dissenys",
     "levels": [
@@ -12510,7 +12510,7 @@
     "id": "edu365-google-web-designer",
     "title": "Google Web Designer",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://webdesigner.withgoogle.com/",
     "notes": "Introducció al disseny web i vídeos interactius HTML5",
     "levels": [
@@ -12525,7 +12525,7 @@
     "id": "edu365-construct-3",
     "title": "Construct 3",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.construct.net/en",
     "notes": "Plataforma visual per crear videojocs 2D sense programar, al navegador",
     "levels": [
@@ -12540,7 +12540,7 @@
     "id": "edu365-shakespeare-timeline-pbs",
     "title": "Shakespeare Timeline (PBS)",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.pbs.org/wnet/shakespeare-uncovered/timeline/",
     "notes": "Línia del temps interactiva sobre la vida i obra de William Shakespeare",
     "levels": [
@@ -12555,7 +12555,7 @@
     "id": "edu365-lobra-de-gaudi",
     "title": "L'obra de Gaudí",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://consellantonigaudi.cat/obra/",
     "notes": "Plataforma sobre el llegat arquitectònic i artístic de Gaudí",
     "levels": [
@@ -12571,7 +12571,7 @@
     "id": "edu365-cervantes-en-la-escuela",
     "title": "Cervantes en la escuela",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.cervantesenlaescuela.es/",
     "notes": "Recurs interactiu sobre la vida i obra de Miguel de Cervantes",
     "levels": [
@@ -12586,7 +12586,7 @@
     "id": "edu365-lobra-dantoni-gaudi-la-pedrera",
     "title": "L'obra d'Antoni Gaudí (La Pedrera)",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.lapedrera.com/ca/obra-antoni-gaudi/",
     "notes": "Coneix l'obra de Gaudí i el seu llenguatge arquitectònic",
     "levels": [
@@ -12602,7 +12602,7 @@
     "id": "edu365-oceanicas",
     "title": "Oceánicas",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://oceanicas.ieo.es/",
     "notes": "Divulgació científica sobre dones en investigació marina",
     "levels": [
@@ -12617,7 +12617,7 @@
     "id": "edu365-sagrada-familia-antoni-gaudi",
     "title": "Sagrada Família - Antoni Gaudí",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://educa.sagradafamilia.org/recursos-i-materials?p_r_p_categoryId=1487053",
     "notes": "Jocs, vídeos i activitats sobre la Sagrada Família",
     "levels": [
@@ -12633,7 +12633,7 @@
     "id": "edu365-federico-garcia-lorca-cervantes-virtual",
     "title": "Federico García Lorca (Cervantes Virtual)",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.cervantesvirtual.com/portales/federico_garcia_lorca/",
     "notes": "Portal amb obra, biografia, manuscrits i estudis crítics de Lorca",
     "levels": [
@@ -12648,7 +12648,7 @@
     "id": "edu365-historia-de-la-ciencia-fisicaquimica",
     "title": "Historia de la Ciencia (FisicaQuimica)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://fisiquimicamente.com/recursos-fisica-quimica/historia-ciencia/",
     "notes": "Biografies de científics i científiques destacats",
     "levels": [
@@ -12663,7 +12663,7 @@
     "id": "edu365-mortadelo-y-filemon",
     "title": "Mortadelo y Filemón",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://mortadelo-filemon.es/",
     "notes": "Web dedicada als emblemàtics personatges de còmic creats per Francisco Ibáñez",
     "levels": [
@@ -12679,7 +12679,7 @@
     "id": "edu365-famous-composers",
     "title": "Famous Composers",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.pianolessons4children.com/composers/",
     "notes": "Llegat de compositors com Bach, Mozart, Beethoven, Chopin",
     "levels": [
@@ -12695,7 +12695,7 @@
     "id": "edu365-galeria-de-metges-catalans",
     "title": "Galeria de metges catalans",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.galeriametges.cat/home.php",
     "notes": "Professionals mèdics catalans destacats",
     "levels": [
@@ -12710,7 +12710,7 @@
     "id": "edu365-personatges-historics-google-arts",
     "title": "Personatges històrics (Google Arts)",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://artsandculture.google.com/category/historical-figure?hl=es&tab=pop",
     "notes": "Explora figures clau de la història mundial",
     "levels": [
@@ -12725,7 +12725,7 @@
     "id": "edu365-the-kapralova-society",
     "title": "The Kapralova Society",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.kapralova.org/index.htm",
     "notes": "La compositora txeca Kaprálová: vida, música i rol femení",
     "levels": [
@@ -12740,7 +12740,7 @@
     "id": "edu365-freddiemeter",
     "title": "FreddieMeter",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://experiments.withgoogle.com/freddiemeter",
     "notes": "Grava la teva veu i compara-la amb Freddie Mercury de Queen",
     "levels": [
@@ -12756,7 +12756,7 @@
     "id": "edu365-poemes-de-la-joana-raspall",
     "title": "Poemes de la Joana Raspall",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clic.xtec.cat/projects/jraspall/jclic.js/index.html",
     "notes": "Vida i obra de la poeta catalana Joana Raspall",
     "levels": [
@@ -12772,7 +12772,7 @@
     "id": "edu365-locell-de-foc-de-stravinski",
     "title": "L'ocell de foc de Stravinski",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/flash/stravinski/index.html",
     "notes": "Descobreix el geni rus de la música Igor Stravinski",
     "levels": [
@@ -12787,7 +12787,7 @@
     "id": "edu365-pau-casals-storymapjs",
     "title": "Pau Casals (StoryMapJS)",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://uploads.knightlab.com/storymapjs/7849dbb5d930c289c2b97ca7121a45c2/pau-casals-1/index.html",
     "notes": "Mapa interactiu de moments clau en la vida de Pau Casals",
     "levels": [
@@ -12802,7 +12802,7 @@
     "id": "edu365-catalegs-raonats-de-lobra-de-dali",
     "title": "Catàlegs Raonats de l'Obra de Dalí",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.salvador-dali.org/ca/obra/cataleg-raonat/",
     "notes": "La producció artística de Salvador Dalí al teu abast",
     "levels": [
@@ -12817,7 +12817,7 @@
     "id": "edu365-jordi-sabater-i-pi",
     "title": "Jordi Sabater i Pi",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://recercaiuniversitats.gencat.cat/ca/03_ambits_dactuacio/commemoracions/jordi-sabater-pi/index.html",
     "notes": "Primatòleg i estudi de primats",
     "levels": [
@@ -12833,7 +12833,7 @@
     "id": "edu365-cervantes-en-la-bne",
     "title": "Cervantes en la BNE",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cervantes.bne.es/",
     "notes": "Accés digital a llibres, il·lustracions i vídeos sobre Cervantes",
     "levels": [
@@ -12848,7 +12848,7 @@
     "id": "edu365-hola-beethoven",
     "title": "Hola, Beethoven",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://hallo.beethoven.de/html5/start.html",
     "notes": "Endinsa't en el món del compositor Ludwig van Beethoven",
     "levels": [
@@ -12864,7 +12864,7 @@
     "id": "edu365-sur-le-pas-de-darwin-galapagos",
     "title": "Sur le pas de Darwin (Galápagos)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.cite-sciences.fr/juniors/darwin-galapagos/index.html",
     "notes": "Les illes Galápagos amb Darwin: evolució i biodiversitat",
     "levels": [
@@ -12879,7 +12879,7 @@
     "id": "edu365-kids-csic",
     "title": "Kids CSIC",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.kids.csic.es/index.html",
     "notes": "Desperta la teva curiositat científica amb vídeos i experiments",
     "levels": [
@@ -12895,7 +12895,7 @@
     "id": "edu365-manuel-de-pedrolo-biblioteca-digital",
     "title": "Manuel de Pedrolo (Biblioteca Digital)",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://bibliotecavirtual.diba.cat/manuel-de-pedrolo",
     "notes": "L'univers literari de l'escriptor Manuel de Pedrolo",
     "levels": [
@@ -12910,7 +12910,7 @@
     "id": "edu365-herge-tintin",
     "title": "Hergé - Tintín",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.tintin.com/es/herge",
     "notes": "Dibuixant i guionista creador de Tintín",
     "levels": [
@@ -12926,7 +12926,7 @@
     "id": "edu365-elles-biografies-de-dones",
     "title": "Elles! Biografies de dones",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://dones.gencat.cat/web/.content/03_ambits/docs/cdoc_publicacions_Elles.pdf",
     "notes": "Recull de biografies de 65 dones oblidades en la història",
     "levels": [
@@ -12941,7 +12941,7 @@
     "id": "edu365-museu-schulz-snoopy",
     "title": "Museu Schulz (Snoopy)",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://schulzmuseum.org/about-schulz/",
     "notes": "Biografia de Charles Schulz, creador de Snoopy",
     "levels": [
@@ -12957,7 +12957,7 @@
     "id": "edu365-miro-en-joc",
     "title": "Miró en joc",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.fmirobcn.org/ca/activitats/families/miro-en-joc/",
     "notes": "Recursos educatius sobre Joan Miró",
     "levels": [
@@ -12973,7 +12973,7 @@
     "id": "edu365-museu-van-gogh",
     "title": "Museu Van Gogh",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://museovangogh.org/",
     "notes": "Museu virtual de Vincent Van Gogh",
     "levels": [
@@ -12988,7 +12988,7 @@
     "id": "edu365-visita-virtual-museu-dali",
     "title": "Visita virtual Museu Dalí",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.salvador-dali.org/es/museos/teatro-museo-dali-de-figueres/visita-virtual/",
     "notes": "Recorregut virtual per les sales del museu Dalí de Figueres",
     "levels": [
@@ -13003,7 +13003,7 @@
     "id": "edu365-the-beatles-story",
     "title": "The Beatles Story",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.beatlesstory.com/education/games-and-quizzes/",
     "notes": "Jocs i qüestionaris sobre The Beatles",
     "levels": [
@@ -13018,7 +13018,7 @@
     "id": "edu365-biografies-de-liders-politics-cidob",
     "title": "Biografies de líders polítics (CIDOB)",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.cidob.org/lideres-politicos/biografias-lideres-politicos",
     "notes": "Biografies de líders polítics mundials",
     "levels": [
@@ -13033,7 +13033,7 @@
     "id": "edu365-lilla-del-mussol",
     "title": "L'illa del mussol",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/taller/estiu2023/illa-mussol-joc.pdf",
     "notes": "Construeix el teu joc de taula i prepara't per viure una aventura pirata",
     "levels": [
@@ -13048,7 +13048,7 @@
     "id": "edu365-ull-viu",
     "title": "Ull viu!",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/guingueta/ull-viu.pdf",
     "notes": "Joc per posar a prova la vista i descobrir qui té l'ull més viu",
     "levels": [
@@ -13063,7 +13063,7 @@
     "id": "edu365-cavallet-joc-descuma",
     "title": "Cavallet (joc d'escuma)",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/olimpiades-estiu/cavallet-A4.pdf",
     "notes": "Transforma un tub d'escuma en cavallet per jugar",
     "levels": [
@@ -13078,7 +13078,7 @@
     "id": "edu365-pai-pai-de-paper",
     "title": "Pai-pai de paper",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/olimpiades-estiu/instruccions_paipai-A4.pdf",
     "notes": "Fes un ventall de paper per refrescar-te",
     "levels": [
@@ -13093,7 +13093,7 @@
     "id": "edu365-futboli-de-paper",
     "title": "Futbolí de paper",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/olimpiades-estiu/futboli-A4.pdf",
     "notes": "Crea el teu propi futbolí de paper i diverteix-te jugant partits",
     "levels": [
@@ -13108,7 +13108,7 @@
     "id": "edu365-jocs-medievals",
     "title": "Jocs medievals",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/santjordi2024/jocs_medievals_A4.pdf",
     "notes": "Jocs de punteria amb materials reciclats",
     "levels": [
@@ -13123,7 +13123,7 @@
     "id": "edu365-joc-de-pesca-reciclat",
     "title": "Joc de pesca (reciclat)",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/carnaval2024/joc_pesca_A4.pdf",
     "notes": "Construeix un joc de pesca amb materials reciclats",
     "levels": [
@@ -13138,7 +13138,7 @@
     "id": "edu365-motxilla-astronauta",
     "title": "Motxilla astronauta",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/carnaval_venusia/motxilla-astronauta.pdf",
     "notes": "Construeix una motxilla espacial amb materials reciclats",
     "levels": [
@@ -13153,7 +13153,7 @@
     "id": "edu365-mussol-volador",
     "title": "Mussol volador",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/tardor2023/mussol_volador.pdf",
     "notes": "Crea un mussol amb ales que es mouen de veritat",
     "levels": [
@@ -13168,7 +13168,7 @@
     "id": "edu365-ventilador-sense-motor",
     "title": "Ventilador sense motor",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/guingueta/ventilador.pdf",
     "notes": "Construeix un ventilador amb materials reciclats",
     "levels": [
@@ -13183,7 +13183,7 @@
     "id": "edu365-pinyata-castell",
     "title": "Pinyata castell",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/santjordi2025/pinyata.pdf",
     "notes": "Construeix una pinyata en forma de castell",
     "levels": [
@@ -13198,7 +13198,7 @@
     "id": "edu365-basquet-tap",
     "title": "Bàsquet-tap",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/guingueta/basquet-tap.pdf",
     "notes": "Construeix el teu propi joc de bàsquet amb taps i cartró",
     "levels": [
@@ -13213,7 +13213,7 @@
     "id": "edu365-passa-la",
     "title": "Passa-la!",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/guingueta/passa-la.pdf",
     "notes": "Joc d'habilitat amb caixa, gomes i taps",
     "levels": [
@@ -13228,7 +13228,7 @@
     "id": "edu365-la-llegenda-sense-fi",
     "title": "La llegenda sense fi",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/santjordi2025/llegenda-sense-fi.pdf",
     "notes": "Inventa històries noves cada vegada",
     "levels": [
@@ -13243,7 +13243,7 @@
     "id": "edu365-la-disfressa-esbojarrada",
     "title": "La disfressa esbojarrada",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/carnaval2024/disfressa_esbojarradda_bn_A4.pdf",
     "notes": "Crea disfresses barrejant vestits de manera divertida",
     "levels": [
@@ -13258,7 +13258,7 @@
     "id": "edu365-el-laberint-del-drac-i-la-rosa",
     "title": "El laberint del drac i la rosa",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/sant_jordi2023/laberint_drac_princesa_A4.pdf",
     "notes": "Ressegueix el camí i pinta el dibuix del drac i la princesa",
     "levels": [
@@ -13273,7 +13273,7 @@
     "id": "edu365-pinta-la-sardina",
     "title": "Pinta la sardina",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/carnaval2023/pinta_A4.pdf",
     "notes": "Resol sumes i pinta la sardina",
     "levels": [
@@ -13288,7 +13288,7 @@
     "id": "edu365-joc-de-memoria-estiu",
     "title": "Joc de memòria (estiu)",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/taller/estiu2023/memory_estiu.pdf",
     "notes": "Retalla les cartes i juga a fer parelles",
     "levels": [
@@ -13303,7 +13303,7 @@
     "id": "edu365-eduween-joc-de-cartes",
     "title": "Eduween (joc de cartes)",
     "area": "Manualitats",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edu365.cat/taller/monstres_ombres/cartes_eduween_A4.pdf",
     "notes": "Joc de cartes amb personatges terrorífics de Halloween",
     "levels": [
@@ -13318,7 +13318,7 @@
     "id": "edu365-comics-biblioteca-virtual-diba",
     "title": "Còmics - Biblioteca Virtual DIBA",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://bibliotecavirtual.diba.cat/ca/comics",
     "notes": "Selecció de còmics amb recomanacions, novetats i llistes temàtiques",
     "levels": [
@@ -13334,7 +13334,7 @@
     "id": "edu365-historia-y-comic",
     "title": "Historia y Cómic",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://historiaycomic.wordpress.com/",
     "notes": "Blog que combina la divulgació històrica amb el còmic",
     "levels": [
@@ -13350,7 +13350,7 @@
     "id": "edu365-gomic",
     "title": "Gomic",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://gomic.eu/",
     "notes": "Plataforma per descobrir històries d'acció, aventura, amor i ciència-ficció",
     "levels": [
@@ -13366,7 +13366,7 @@
     "id": "edu365-tintincom",
     "title": "Tintin.com",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.tintin.com/es",
     "notes": "Portal oficial dedicat a les aventures de Tintín",
     "levels": [
@@ -13381,7 +13381,7 @@
     "id": "edu365-continguts-epva-comic",
     "title": "Continguts EPVA: Còmic",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://educacionplasticayvisual.com/lenguajes-visuales/comic/",
     "notes": "Recursos sobre què és un còmic i quins són els seus elements bàsics",
     "levels": [
@@ -13397,7 +13397,7 @@
     "id": "edu365-google-arts-culture-comic",
     "title": "Google Arts & Culture - Còmic",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://artsandculture.google.com/entity/comics/m012h24?hl=en",
     "notes": "Explora la història, l'art i la influència del còmic",
     "levels": [
@@ -13412,7 +13412,7 @@
     "id": "edu365-storyboard-that",
     "title": "Storyboard That",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.storyboardthat.com/",
     "notes": "Eina en línia per crear storyboards, còmics i organitzadors gràfics",
     "levels": [
@@ -13428,7 +13428,7 @@
     "id": "edu365-comicat",
     "title": "Comicat",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.comicat.cat/",
     "notes": "Blog dedicat al còmic en català amb ressenyes i novetats",
     "levels": [
@@ -13444,7 +13444,7 @@
     "id": "edu365-super-action-comic-maker",
     "title": "Super Action Comic Maker",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.culturestreet.org.uk/activities/superactioncomicmaker/",
     "notes": "Eina en línia per crear còmics interactius de manera senzilla",
     "levels": [
@@ -13459,7 +13459,7 @@
     "id": "edu365-asterix",
     "title": "Astèrix",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://asterix.com/es/",
     "notes": "Informació sobre els àlbums, personatges i autors d'Astèrix",
     "levels": [
@@ -13474,7 +13474,7 @@
     "id": "edu365-comiclopedia-lambiek",
     "title": "Comiclopedia (Lambiek)",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.lambiek.net/comiclopedia.html",
     "notes": "Enciclopèdia en línia dedicada als artistes de còmic",
     "levels": [
@@ -13489,7 +13489,7 @@
     "id": "edu365-tebeosfera",
     "title": "Tebeosfera",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.tebeosfera.com/",
     "notes": "Enciclopèdia digital dedicada al còmic i a la historieta",
     "levels": [
@@ -13504,7 +13504,7 @@
     "id": "edu365-canva-comic-strips",
     "title": "Canva - Comic Strips",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.canva.com/create/comic-strips/",
     "notes": "Crea tires còmiques de manera fàcil amb plantilles personalitzables",
     "levels": [
@@ -13520,7 +13520,7 @@
     "id": "edu365-ai-comic-factory",
     "title": "AI Comic Factory",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://aicomicfactory.com/playground",
     "notes": "Plataforma que permet crear còmics generats per intel·ligència artificial",
     "levels": [
@@ -13535,7 +13535,7 @@
     "id": "edu365-digital-comic-museum",
     "title": "Digital Comic Museum",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://digitalcomicmuseum.com/",
     "notes": "Biblioteca en línia amb còmics antics de domini públic",
     "levels": [
@@ -13550,7 +13550,7 @@
     "id": "edu365-editorg",
     "title": "Edit.org",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://edit.org/",
     "notes": "Plataforma per dissenyar i personalitzar materials gràfics, inclosos còmics",
     "levels": [
@@ -13566,7 +13566,7 @@
     "id": "edu365-fonts-de-la-illustracio-i-el-comic-bnc",
     "title": "Fonts de la il·lustració i el còmic (BNC)",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.bnc.cat/Il-lustracio-i-comic",
     "notes": "Visió general sobre la història de la il·lustració i el còmic a Catalunya",
     "levels": [
@@ -13581,7 +13581,7 @@
     "id": "edu365-sabies-que-les-habilitats-personals",
     "title": "Sabies que...? Les habilitats personals",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=cmtyKyFoIJs",
     "notes": "Les habilitats motores ens permeten desplaçar-nos, mantenir l'equilibri i fer acrobàcies",
     "levels": [
@@ -13596,7 +13596,7 @@
     "id": "edu365-sabies-que-la-noticia",
     "title": "Sabies que...? La notícia",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=z5NrDcdhdmQ",
     "notes": "Les notícies i els periodistes ens mantenen informats del que passa al món",
     "levels": [
@@ -13611,7 +13611,7 @@
     "id": "edu365-sabies-que-el-comic",
     "title": "Sabies que...? El còmic",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=fagSCWev6UM",
     "notes": "Les històries del còmic poden ser còmiques, intrigants o d'aventures",
     "levels": [
@@ -13626,7 +13626,7 @@
     "id": "edu365-sabies-que-les-composicions-musicals",
     "title": "Sabies que...? Les composicions musicals",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=EzcW-LIuSMM",
     "notes": "La música és un llenguatge universal present a totes les cultures",
     "levels": [
@@ -13641,7 +13641,7 @@
     "id": "edu365-sabies-que-street-art",
     "title": "Sabies que...? Street Art",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=tb3MwFIORpY",
     "notes": "Obres d'art trobades a les parets d'edificis i tanques al passejar",
     "levels": [
@@ -13656,7 +13656,7 @@
     "id": "edu365-sabies-que-art-i-emocions",
     "title": "Sabies que...? Art i emocions",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=Bovii1DEcbk",
     "notes": "Exploració de les respostes emocionals a l'art, el cinema i la poesia",
     "levels": [
@@ -13671,7 +13671,7 @@
     "id": "edu365-sabies-que-els-llibres-de-cavalleria",
     "title": "Sabies que...? Els llibres de cavalleria",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=Lc8sA_MCW4o",
     "notes": "Guerrers, reines poderoses i bruixots famosos en la tradició oral i literatura",
     "levels": [
@@ -13686,7 +13686,7 @@
     "id": "edu365-sabies-que-textos-instructius-i-descriptius",
     "title": "Sabies que...? Textos instructius i descriptius",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=DW_UPZXAOow",
     "notes": "Tipus de textos: receptes, instruccions de muntatge i retrats",
     "levels": [
@@ -13701,7 +13701,7 @@
     "id": "edu365-sabies-que-ens-expressem-movent-nos",
     "title": "Sabies que...? Ens expressem movent-nos",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=JT3dW5pSFhc",
     "notes": "Sentiments i estats d'ànim reflectits en expressions facials i corporals",
     "levels": [
@@ -13716,7 +13716,7 @@
     "id": "edu365-sabies-que-funcio-de-relacio",
     "title": "Sabies que...? Funció de relació",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=qXlZ2ivxKLA",
     "notes": "Capacitat dels éssers vius de rebre informació de l'entorn i actuar en conseqüència",
     "levels": [
@@ -13731,7 +13731,7 @@
     "id": "edu365-sabies-que-fraccions",
     "title": "Sabies que...? Fraccions",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=x8zlX7OTpXc",
     "notes": "Les fraccions representen parts d'una unitat dividida en parts iguals",
     "levels": [
@@ -13746,7 +13746,7 @@
     "id": "edu365-sabies-que-impressionisme",
     "title": "Sabies que...? Impressionisme",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=RxmQ9xCqCjU",
     "notes": "Moviment artístic que sorgeix a França a finals del segle XIX",
     "levels": [
@@ -13761,7 +13761,7 @@
     "id": "edu365-sabies-que-avantguardes",
     "title": "Sabies que...? Avantguardes",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=pKzdNBr5BcM",
     "notes": "Període social complex del segle XX amb repercussions en l'art i la societat",
     "levels": [
@@ -13776,7 +13776,7 @@
     "id": "edu365-sabies-que-revolucio-industrial",
     "title": "Sabies que...? Revolució Industrial",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=812yz0QJIcs",
     "notes": "La major transformació econòmica, social i tecnològica de la història humana",
     "levels": [
@@ -13791,7 +13791,7 @@
     "id": "edu365-sabies-que-la-publicitat",
     "title": "Sabies que...? La publicitat",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=nYd7WdpYWQ4",
     "notes": "Presentació atractiva de productes mitjançant tècniques publicitàries",
     "levels": [
@@ -13806,7 +13806,7 @@
     "id": "edu365-sabies-que-literatura",
     "title": "Sabies que...? Literatura",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=Ljoq7txdZDQ",
     "notes": "Permet viatjar a llocs, conèixer gent i viure aventures de tota mena",
     "levels": [
@@ -13821,7 +13821,7 @@
     "id": "edu365-sabies-que-la-diversitat-de-llengues",
     "title": "Sabies que...? La diversitat de llengües",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=grhB5iz1yQc",
     "notes": "Més de 7000 llengües vives al món que interactuen i es barregen",
     "levels": [
@@ -13836,7 +13836,7 @@
     "id": "edu365-sabies-que-limpressionisme-musical",
     "title": "Sabies que...? L'impressionisme musical",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=PzKHJKpUY1c",
     "notes": "Moviment artístic amb melodies fluïdes sense forma musical marcada",
     "levels": [
@@ -13851,7 +13851,7 @@
     "id": "edu365-sabies-que-expressions-fetes",
     "title": "Sabies que...? Expressions fetes",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=0ZuMAH6rsP4",
     "notes": "Expressions idiomàtiques i el seu significat cultural en la llengua",
     "levels": [
@@ -13866,7 +13866,7 @@
     "id": "edu365-sabies-que-les-qualitats-fisiques",
     "title": "Sabies que...? Les qualitats físiques",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=DDFToAwHdC0",
     "notes": "Treballar resistència, força, velocitat i flexibilitat per estar en forma",
     "levels": [
@@ -13881,7 +13881,7 @@
     "id": "edu365-sabies-que-videojocs",
     "title": "Sabies que...? Videojocs",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=6321Y57kxLs",
     "notes": "Objectes tridimensionals, dimensions i materials que ens envolten",
     "levels": [
@@ -13896,7 +13896,7 @@
     "id": "edu365-sabies-que-els-nombres-naturals",
     "title": "Sabies que...? Els nombres naturals",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=rcy3JvOLu-Y",
     "notes": "Sistema decimal per comptar, però sempre comptem igual?",
     "levels": [
@@ -13911,7 +13911,7 @@
     "id": "edu365-sabies-que-mates-i-esport",
     "title": "Sabies que...? Mates i esport",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=2M0o9xPr29U",
     "notes": "Aplicació d'àrees, volums, massa i longitud en contextos esportius",
     "levels": [
@@ -13926,7 +13926,7 @@
     "id": "edu365-sabies-que-el-nostre-planeta",
     "title": "Sabies que...? El nostre planeta",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=RmsS39qEEvU",
     "notes": "Subsistemes terrestres interdependents amb terratrèmols i volcans",
     "levels": [
@@ -13941,7 +13941,7 @@
     "id": "edu365-sabies-que-les-caracteristiques-duna-canco",
     "title": "Sabies que...? Les característiques d'una cançó",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=Qf87W7SBfOk",
     "notes": "Anàlisi de les característiques emocionals i missatges de les cançons",
     "levels": [
@@ -13956,7 +13956,7 @@
     "id": "edu365-sabies-que-ciencia-i-pseudociencia",
     "title": "Sabies que...? Ciència i pseudociència",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=vDge4g8nBTM",
     "notes": "Ciència basada en hipòtesis verificables vs. pseudociències no demostrables",
     "levels": [
@@ -13971,7 +13971,7 @@
     "id": "edu365-sabies-que-energia-de-km-0",
     "title": "Sabies que...? Energia de km 0",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=MQjr7nqQfqo",
     "notes": "Fonts renovables i eficiència energètica per reduir l'impacte ambiental",
     "levels": [
@@ -13986,7 +13986,7 @@
     "id": "edu365-sabies-que-plastic-i-metalls",
     "title": "Sabies que...? Plàstic i metalls",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=G3Nhw8m3YSM",
     "notes": "Productes formats per múltiples materials",
     "levels": [
@@ -14001,7 +14001,7 @@
     "id": "edu365-sabies-que-els-estils-musicals",
     "title": "Sabies que...? Els estils musicals",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=ljuERUgYtxg",
     "notes": "Evolució musical històrica amb estils associats a cada època",
     "levels": [
@@ -14016,7 +14016,7 @@
     "id": "edu365-sabies-que-el-text-narratiu",
     "title": "Sabies que...? El text narratiu",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=-tQby7lkrzY",
     "notes": "Novel·les i narracions amb elements inesperats i imaginatius",
     "levels": [
@@ -14031,7 +14031,7 @@
     "id": "edu365-sabies-que-temps-de-castells",
     "title": "Sabies que...? Temps de castells",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=NN5Q7v9S1pI",
     "notes": "Organització social feudal, paper de l'església i condicions dels serfs",
     "levels": [
@@ -14046,7 +14046,7 @@
     "id": "edu365-sabies-que-lart-idioma-universal",
     "title": "Sabies que...? L'Art, idioma universal",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=0FZ7FtTv60U",
     "notes": "L'art com a mitjà universal de comunicació i expressió",
     "levels": [
@@ -14061,7 +14061,7 @@
     "id": "edu365-sabies-que-energia",
     "title": "Sabies que...? Energia",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=CHu7v6ypz2k",
     "notes": "Definició d'energia: cinètica, tèrmica, elèctrica i altres tipus",
     "levels": [
@@ -14076,7 +14076,7 @@
     "id": "edu365-sabies-que-fake-news",
     "title": "Sabies que...? Fake news",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=RXp0jOw-p_U",
     "notes": "Notícies falses per desinformar o manipular l'opinió pública",
     "levels": [
@@ -14091,7 +14091,7 @@
     "id": "edu365-sabies-que-la-narracion",
     "title": "Sabies que...? La narración",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=9sVy3yWHOgM",
     "notes": "Explicar fets reals o ficticis, el rol del narrador en les històries",
     "levels": [
@@ -14106,7 +14106,7 @@
     "id": "edu365-sabies-que-representacio-cossos-en-3d",
     "title": "Sabies que...? Representació cossos en 3D",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=jUd6slMUp6w",
     "notes": "Conversió de figures planes bidimensionals a representació tridimensional",
     "levels": [
@@ -14121,7 +14121,7 @@
     "id": "edu365-sabies-que-les-maquines",
     "title": "Sabies que...? Les màquines",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=3xi9hrtJ3qs",
     "notes": "De les màquines simples a les complexes",
     "levels": [
@@ -14136,7 +14136,7 @@
     "id": "edu365-sabies-que-energia-i-maquines",
     "title": "Sabies que...? Energia i màquines",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=O4mT9uPdqsw",
     "notes": "Transformació d'energia de combustible en cinètica per al moviment",
     "levels": [
@@ -14151,7 +14151,7 @@
     "id": "edu365-sabies-que-atoms-elements-i-taula-periodica",
     "title": "Sabies que...? Àtoms, elements i taula periòdica",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=6BJvJSKAGtA",
     "notes": "Matèria formada per elements químics amb característiques concretes",
     "levels": [
@@ -14166,7 +14166,7 @@
     "id": "edu365-sabies-que-reaccions-quimiques",
     "title": "Sabies que...? Reaccions químiques",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=eqe0WivH0wk",
     "notes": "Múltiples tipus: respiració i obtenció d'energia dels aliments",
     "levels": [
@@ -14181,7 +14181,7 @@
     "id": "edu365-sabies-que-consumidors-i-medi-ambient",
     "title": "Sabies que...? Consumidors i medi ambient",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=Jn2usmExfD0",
     "notes": "Quantitat ingent de productes comprats, usats i llençats diàriament",
     "levels": [
@@ -14196,7 +14196,7 @@
     "id": "edu365-sabies-que-el-badminton",
     "title": "Sabies que...? El bàdminton",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=GiEcDRmh3bE",
     "notes": "L'esport de raqueta més ràpid, el volant supera un F1",
     "levels": [
@@ -14211,7 +14211,7 @@
     "id": "edu365-sabies-que-parkour",
     "title": "Sabies que...? Parkour",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=FX52t75ZsxU",
     "notes": "L'art del desplaçament mitjançant moviment lliure",
     "levels": [
@@ -14226,7 +14226,7 @@
     "id": "edu365-sabies-que-fraccions-decimals-i-percentatges",
     "title": "Sabies que...? Fraccions, decimals i percentatges",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=3nIOuxY2qRI",
     "notes": "Representen situacions quotidianes de manera més efectiva",
     "levels": [
@@ -14241,7 +14241,7 @@
     "id": "edu365-sabies-que-equacions",
     "title": "Sabies que...? Equacions",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=yaeIxvLZ0ZY",
     "notes": "Trobar valors desconeguts a partir de dades concretes",
     "levels": [
@@ -14256,7 +14256,7 @@
     "id": "edu365-sabies-que-som-una-maquina-perfecta",
     "title": "Sabies que...? Som una màquina perfecta",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=t4Gu3PJ-Pmw",
     "notes": "Sentits i sistema nerviós coordinen respostes per mantenir l'equilibri",
     "levels": [
@@ -14271,7 +14271,7 @@
     "id": "edu365-sabies-que-expressions-discriminatories",
     "title": "Sabies que...? Expressions discriminatòries",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=N-fYF8VS4yE",
     "notes": "Expressions fetes que poden resultar discriminatòries o ofensives",
     "levels": [
@@ -14286,7 +14286,7 @@
     "id": "edu365-sabies-que-parlar-i-escriure",
     "title": "Sabies que...? Parlar i escriure",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=Jd9fClFWp68",
     "notes": "La manera de parlar i escriure reflecteix la nostra personalitat",
     "levels": [
@@ -14301,7 +14301,7 @@
     "id": "edu365-sabies-que-tipus-dhabitatges",
     "title": "Sabies que...? Tipus d'habitatges",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=e-QkORFRKf4",
     "notes": "Habitatges adaptats a l'entorn segons la regió geogràfica",
     "levels": [
@@ -14316,7 +14316,7 @@
     "id": "edu365-sabies-que-electronica-digital",
     "title": "Sabies que...? Electrònica digital",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=5BcIrGOU8uA",
     "notes": "Llenguatge dels ordinadors i aparells electrònics",
     "levels": [
@@ -14331,7 +14331,7 @@
     "id": "edu365-sabies-que-el-romanticismo-literario",
     "title": "Sabies que...? El Romanticismo literario",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=Af-kNqkPde8",
     "notes": "Moviment literari espanyol de la primera meitat del segle XIX",
     "levels": [
@@ -14346,7 +14346,7 @@
     "id": "edu365-sabies-que-la-musica-del-segle-xx",
     "title": "Sabies que...? La música del segle XX",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=FLI7p0JCZsQ",
     "notes": "Es basa fonamentalment en música africana: blues i jazz",
     "levels": [
@@ -14361,7 +14361,7 @@
     "id": "edu365-sabies-que-les-forces-i-les-seves-lleis",
     "title": "Sabies que...? Les forces i les seves lleis",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=PMrWqHeYBaM",
     "notes": "Lleis que regeixen les forces físiques",
     "levels": [
@@ -14376,7 +14376,7 @@
     "id": "edu365-sabies-que-caracteristiques-de-la-materia",
     "title": "Sabies que...? Característiques de la matèria",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=49vbcu27WqY",
     "notes": "Propietats de substàncies i conducció d'electricitat",
     "levels": [
@@ -14391,7 +14391,7 @@
     "id": "edu365-sabies-que-som-com-som",
     "title": "Sabies que...? Som com som",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=AO7XjyXOprg",
     "notes": "Trets hereditaris com el color dels ulls i el grup sanguini",
     "levels": [
@@ -14406,7 +14406,7 @@
     "id": "edu365-sabies-que-finances",
     "title": "Sabies que...? Finances",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=YToZO8aX-ic",
     "notes": "Ingressos, despeses, capacitat d'estalvi i interessos en l'anàlisi financer",
     "levels": [
@@ -14421,7 +14421,7 @@
     "id": "edu365-sabies-que-felicos-anys-20",
     "title": "Sabies que...? Feliços anys 20",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=FPhVS90t6fU",
     "notes": "El segle XX marcat per les Guerres Mundials I i II",
     "levels": [
@@ -14436,7 +14436,7 @@
     "id": "edu365-sabies-que-que-es-el-disseny",
     "title": "Sabies que...? Què és el disseny?",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=YuRrgLb_vkU",
     "notes": "Disseny de roba, interiors, gràfic i aplicacions diverses",
     "levels": [
@@ -14451,7 +14451,7 @@
     "id": "edu365-sabies-que-la-hipotenusa",
     "title": "Sabies que...? La hipotenusa",
     "area": "Matematicas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/watch?v=Jge9yxXJfNE",
     "notes": "Fórmula per calcular la longitud de rampes a diferents alçades",
     "levels": [
@@ -14466,7 +14466,7 @@
     "id": "edu365-voki",
     "title": "Voki",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.voki.com/",
     "notes": "Creació d'avatars animats per a contingut educatiu",
     "levels": [
@@ -14482,7 +14482,7 @@
     "id": "edu365-distrosea",
     "title": "Distrosea",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://distrosea.com/",
     "notes": "Prova diferents distribucions Linux directament des del navegador",
     "levels": [
@@ -14497,7 +14497,7 @@
     "id": "edu365-web-rewind",
     "title": "Web Rewind",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://web-rewind.com/",
     "notes": "Explora moments destacats de la història d'Internet de forma visual",
     "levels": [
@@ -14512,7 +14512,7 @@
     "id": "edu365-macintosh-repository",
     "title": "Macintosh Repository",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.macintoshrepository.org/",
     "notes": "Arxiu digital col·laboratiu on es conserven programes antics de Mac",
     "levels": [
@@ -14527,7 +14527,7 @@
     "id": "edu365-zx-spectrum-games",
     "title": "ZX Spectrum Games",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://torinak.com/qaop/games",
     "notes": "Videojocs clàssics de ZX Spectrum disponibles al navegador",
     "levels": [
@@ -14542,7 +14542,7 @@
     "id": "edu365-blankpage",
     "title": "Blankpage",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://blankpage.im",
     "notes": "Editor de text minimalista sense distraccions per a l'escriptura",
     "levels": [
@@ -14557,7 +14557,7 @@
     "id": "edu365-opengameartorg",
     "title": "OpenGameArt.org",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://opengameart.org/",
     "notes": "Plataforma gratuïta amb recursos gràfics i sonors per a videojocs",
     "levels": [
@@ -14572,7 +14572,7 @@
     "id": "edu365-cpm-box",
     "title": "CP/M Box",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.habisoft.com/pcw/es.htm",
     "notes": "Emulador per executar programari Amstrad PCW",
     "levels": [
@@ -14587,7 +14587,7 @@
     "id": "edu365-flowlab",
     "title": "Flowlab",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://flowlab.io/",
     "notes": "Programari en línia per dissenyar i desenvolupar jocs sense programar",
     "levels": [
@@ -14602,7 +14602,7 @@
     "id": "edu365-figuro",
     "title": "Figuro",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.figuro.io/Home/Welcome",
     "notes": "Eina gratuïta per dissenyar i modelar en 3D des del navegador",
     "levels": [
@@ -14617,7 +14617,7 @@
     "id": "edu365-tv-garden",
     "title": "TV Garden",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://tv.garden/",
     "notes": "Plataforma gratuïta per veure canals de televisió en directe de tot el món",
     "levels": [
@@ -14633,7 +14633,7 @@
     "id": "edu365-bricklink-studio",
     "title": "Bricklink Studio",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.bricklink.com/v3/studio/main.page",
     "notes": "Dissenya i construeix amb peces virtuals LEGO",
     "levels": [
@@ -14649,7 +14649,7 @@
     "id": "edu365-bbc-computer-literacy-project",
     "title": "BBC Computer Literacy Project",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://clp.bbcrewind.co.uk/beeb",
     "notes": "Arxiu digital per explorar programes informàtics dels anys 80",
     "levels": [
@@ -14664,7 +14664,7 @@
     "id": "edu365-timeline-js",
     "title": "Timeline JS",
     "area": "Ciencias Sociales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://timeline.knightlab.com/",
     "notes": "Crea i publica la teva línia de temps interactiva amb Google Sheets",
     "levels": [
@@ -14679,7 +14679,7 @@
     "id": "edu365-inklewriter",
     "title": "Inklewriter",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.inklestudios.com/inklewriter/",
     "notes": "Crea aventures interactives i sorprèn els teus lectors",
     "levels": [
@@ -14694,7 +14694,7 @@
     "id": "edu365-elementari",
     "title": "Elementari",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://elementari.com/",
     "notes": "Plataforma per llegir, escriure, codificar, col·laborar i compartir històries",
     "levels": [
@@ -14710,7 +14710,7 @@
     "id": "edu365-panzoid",
     "title": "Panzoid",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://panzoid.com/",
     "notes": "Dissenya títols espectaculars per als teus vídeos",
     "levels": [
@@ -14725,7 +14725,7 @@
     "id": "edu365-kassel-labs",
     "title": "Kassel Labs",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://kassellabs.io/",
     "notes": "Dissenya entrades i crèdits cinematogràfics per a les teves creacions",
     "levels": [
@@ -14740,7 +14740,7 @@
     "id": "edu365-bbc-micro-games-archive",
     "title": "BBC Micro Games Archive",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.bbcmicro.co.uk/index.php",
     "notes": "Emuladors, jocs i recursos per a l'ordinador BBC Micro",
     "levels": [
@@ -14755,7 +14755,7 @@
     "id": "edu365-pce-macplus-emulator",
     "title": "PCE Macplus Emulator",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://jamesfriend.com.au/pce-js/pce-js-apps/",
     "notes": "Emulació de Mac Plus amb programari descatalogat",
     "levels": [
@@ -14770,7 +14770,7 @@
     "id": "edu365-chrome-os-flex",
     "title": "Chrome OS Flex",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://chromeenterprise.google/os/chromeosflex/",
     "notes": "Sistema operatiu al núvol per modernitzar el teu dispositiu",
     "levels": [
@@ -14785,7 +14785,7 @@
     "id": "edu365-pokecardmaker",
     "title": "Pokecardmaker",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://pokecardmaker.com/configurator/",
     "notes": "Aplicació per dissenyar cartes Pokemon personalitzades",
     "levels": [
@@ -14801,7 +14801,7 @@
     "id": "edu365-internet-arcade-archiveorg",
     "title": "Internet Arcade (Archive.org)",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://archive.org/details/internetarcade",
     "notes": "Centenars de videojocs clàssics de qualsevol gènere i estil",
     "levels": [
@@ -14817,7 +14817,7 @@
     "id": "edu365-teachflix",
     "title": "Teachflix",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://teachflix.org/",
     "notes": "Col·lecció de vídeos educatius ordenats per categories i àrees",
     "levels": [
@@ -14833,7 +14833,7 @@
     "id": "edu365-typewrite-something",
     "title": "Typewrite Something",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://typewritesomething.com/",
     "notes": "Viatja al passat i descobreix com era utilitzar una màquina d'escriure",
     "levels": [
@@ -14849,7 +14849,7 @@
     "id": "edu365-radio-garden",
     "title": "Radio Garden",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://radio.garden/visit/annaba/30mjio1R",
     "notes": "Navega per milers d'emissores de ràdio de tot el món",
     "levels": [
@@ -14865,7 +14865,7 @@
     "id": "edu365-vdjoc-videojocs-en-catala",
     "title": "VDJOC - Videojocs en català",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://llengua.gencat.cat/ca/serveis/videojocs/",
     "notes": "Consulta l'oferta disponible de videojocs en català",
     "levels": [
@@ -14881,7 +14881,7 @@
     "id": "edu365-portrait-illustration-maker",
     "title": "Portrait Illustration Maker",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://illustmaker.abi-station.com/index_en.shtml",
     "notes": "Crea el teu avatar amb un estil de videojoc japonès",
     "levels": [
@@ -14897,7 +14897,7 @@
     "id": "edu365-doppelme",
     "title": "DoppelMe",
     "area": "Artes",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.doppelme.com/",
     "notes": "Genera els teus avatars per a les teves xarxes socials",
     "levels": [
@@ -14913,7 +14913,7 @@
     "id": "edu365-pcjs-machines",
     "title": "PCjs Machines",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.pcjs.org/",
     "notes": "Projecte de codi obert que permet emular ordinadors i programari antic",
     "levels": [
@@ -14928,7 +14928,7 @@
     "id": "edu365-thingiverse",
     "title": "Thingiverse",
     "area": "Tecnología",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.thingiverse.com/",
     "notes": "Troba i descarrega objectes per imprimir-los en 3D",
     "levels": [
@@ -14943,7 +14943,7 @@
     "id": "edu365-cospaces-edu",
     "title": "CoSpaces Edu",
     "area": "Informatica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.cospaces.io/",
     "notes": "Dissenya escenaris de realitat virtual i immersiva",
     "levels": [
@@ -14958,7 +14958,7 @@
     "id": "edu365-geocaching",
     "title": "Geocaching",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.geocaching.com/play",
     "notes": "Uneix-te al joc de la cerca del tresor més gran del món",
     "levels": [
@@ -14974,7 +14974,7 @@
     "id": "edu365-wikiloc",
     "title": "Wikiloc",
     "area": "Diversas áreas",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://ca.wikiloc.com/",
     "notes": "Descobreix i comparteix rutes a l'aire lliure a peu o en bicicleta",
     "levels": [
@@ -14990,7 +14990,7 @@
     "id": "edu365-transitions-dj",
     "title": "Transitions DJ",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://dj.app/",
     "notes": "Aplicació web gratuïta per fer de DJ des del navegador",
     "levels": [
@@ -15005,7 +15005,7 @@
     "id": "edu365-linkat-radio",
     "title": "Linkat Ràdio",
     "area": "Musica",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://linkat.xtec.cat/portal_linkat/wikilinkat/index.php/Perfil_Ràdio",
     "notes": "Escriptori personalitzat per fomentar la ràdio escolar",
     "levels": [
@@ -15021,7 +15021,7 @@
     "id": "edu365-el-vulcanisme-a-catalunya",
     "title": "El vulcanisme a Catalunya",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "http://www.gencat.cat/mediamb/publicacions/monografies/vulcanisme.pdf",
     "notes": "Coneix les zones volcàniques de casa nostra",
     "levels": [
@@ -15037,7 +15037,7 @@
     "id": "edu365-volcanes-de-canarias",
     "title": "Volcanes de Canarias",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.volcanesdecanarias.org/",
     "notes": "Plataforma dedicada a la divulgació científica sobre l'activitat volcànica",
     "levels": [
@@ -15053,7 +15053,7 @@
     "id": "edu365-top-10-largest-volcanoes-arcgis",
     "title": "Top 10 Largest Volcanoes (ArcGIS)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.arcgis.com/apps/MapTour/index.html?appid=d9eabc7a3c64462bb964d1d4bbd765de",
     "notes": "Descobreix els volcans més alts del planeta en un mapa interactiu",
     "levels": [
@@ -15069,7 +15069,7 @@
     "id": "edu365-volcano-models-bgs",
     "title": "Volcano Models (BGS)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.bgs.ac.uk/discovering-geology/maps-and-resources/earth-hazards/volcano-models/",
     "notes": "Informació i models educatius sobre el funcionament volcànic",
     "levels": [
@@ -15085,7 +15085,7 @@
     "id": "edu365-vigilancia-volcanica-ign",
     "title": "Vigilància volcànica (IGN)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.ign.es/web/ign/portal/vlc-area-volcanologia",
     "notes": "Seguiment de l'activitat volcànica de l'Instituto Geográfico Nacional",
     "levels": [
@@ -15100,7 +15100,7 @@
     "id": "edu365-com-es-forma-una-illa-volcanica-nasa",
     "title": "Com es forma una illa volcànica? (NASA)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.nationalgeographic.es/video/tv/video-la-nasa-explica-como-nacen-las-islas-volcanicas-con-una-animacion",
     "notes": "Animació de la NASA per explicar com neixen les illes volcàniques",
     "levels": [
@@ -15116,7 +15116,7 @@
     "id": "edu365-volcano-world",
     "title": "Volcano World",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://volcano.oregonstate.edu/volcano_table",
     "notes": "Llistat exhaustiu de volcans de tots els continents",
     "levels": [
@@ -15132,7 +15132,7 @@
     "id": "edu365-global-volcanism-program-smithsonian",
     "title": "Global Volcanism Program (Smithsonian)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://volcano.si.edu/",
     "notes": "Portal del Smithsonian Institution dedicat a la vigilància volcànica",
     "levels": [
@@ -15147,7 +15147,7 @@
     "id": "edu365-what-are-volcanoes-time-for-kids",
     "title": "What Are Volcanoes? (Time for Kids)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.timeforkids.com/g34/volcanoes-2/",
     "notes": "Explicació de què són els volcans i com funcionen",
     "levels": [
@@ -15162,7 +15162,7 @@
     "id": "edu365-volcans-mapa-interactiu",
     "title": "Volcans - Mapa interactiu",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://world-geography-games.com/es/world_volcanoes.html",
     "notes": "Juga amb aquest mapa del món interactiu i situa-hi els principals volcans",
     "levels": [
@@ -15178,7 +15178,7 @@
     "id": "edu365-la-vida-secreta-dels-volcans",
     "title": "La vida secreta dels volcans",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.scienceinschool.org/es/article/2013/muons-es/",
     "notes": "Article divulgatiu de Science in School sobre els volcans",
     "levels": [
@@ -15193,7 +15193,7 @@
     "id": "edu365-aixafa-lestafa",
     "title": "Aixafa l'estafa",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.3cat.cat/3cat/aixafa-estafa/",
     "notes": "Protegeix-te del frau digital! Descobreix com navegar amb seguretat",
     "levels": [
@@ -15209,7 +15209,7 @@
     "id": "edu365-relats-de-ciberseguretat",
     "title": "Relats de ciberseguretat",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://ciberseguretat.gencat.cat/ca/ciutadania/recursos-educatius/relats-ciberseguretat/",
     "notes": "Contes sobre protecció a internet de forma entretinguda",
     "levels": [
@@ -15225,7 +15225,7 @@
     "id": "edu365-kiddle",
     "title": "Kiddle",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://es.kiddle.co/",
     "notes": "Cercador segur per a menors: informació, imatges i vídeos",
     "levels": [
@@ -15241,7 +15241,7 @@
     "id": "edu365-agencia-de-ciberseguretat-de-catalunya",
     "title": "Agència de Ciberseguretat de Catalunya",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://internetsegura.cat/",
     "notes": "Descobreix novetats i recursos per navegar amb seguretat",
     "levels": [
@@ -15257,7 +15257,7 @@
     "id": "edu365-scratchy-contrasenya-segura",
     "title": "Scratchy - Contrasenya segura",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://projectes.xtec.cat/programacioirobotica/mri4-scratchy-vol-una-contrasenya-segura/",
     "notes": "Aprèn a crear contrasenyes segures mitjançant Scratch",
     "levels": [
@@ -15272,7 +15272,7 @@
     "id": "edu365-canalprioritario-aepd",
     "title": "#CanalPrioritario (AEPD)",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.aepd.es/canalprioritario",
     "notes": "Sol·licita la retirada de contingut inadequat a internet",
     "levels": [
@@ -15288,7 +15288,7 @@
     "id": "edu365-capsules-sobre-proteccio-de-dades",
     "title": "Càpsules sobre protecció de dades",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://apdcat.gencat.cat/ca/sala_de_premsa/Galeria-multimedia/videos/campanyes/pindoles-per-a-una-privacitat-saludable/",
     "notes": "Què cal saber per gestionar i protegir les nostres dades a la xarxa",
     "levels": [
@@ -15304,7 +15304,7 @@
     "id": "edu365-videos-internet-per-als-adolescents-cac",
     "title": "Vídeos Internet per als adolescents (CAC)",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.cac.cat/videos-internet-als-adolescents",
     "notes": "Recomanacions per a l'ús responsable d'internet",
     "levels": [
@@ -15319,7 +15319,7 @@
     "id": "edu365-pantallas-amigas",
     "title": "Pantallas Amigas",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.pantallasamigas.net/",
     "notes": "Col·lecció de recursos, consells i guies per a una vida digital sana",
     "levels": [
@@ -15335,7 +15335,7 @@
     "id": "edu365-cuidado-con-la-webcam",
     "title": "¡Cuidado con la webcam!",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://cuidadoconlawebcam.com/",
     "notes": "Consells de prevenció de riscos associats a les càmeres web",
     "levels": [
@@ -15351,7 +15351,7 @@
     "id": "edu365-netsmartz-kids",
     "title": "Netsmartz Kids",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.netsmartzkids.org/games/",
     "notes": "Vídeos i jocs per aprendre a navegar de manera segura",
     "levels": [
@@ -15367,7 +15367,7 @@
     "id": "edu365-cyberscouts-incibe",
     "title": "Cyberscouts (INCIBE)",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.incibe.es/menores/juegos/cyberscouts/",
     "notes": "Minijocs per ampliar coneixements de ciberseguretat",
     "levels": [
@@ -15382,7 +15382,7 @@
     "id": "edu365-learn-to-check",
     "title": "Learn to Check",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://learntocheck.org/ca/",
     "notes": "Claus per contrastar la desinformació i avaluar la fiabilitat",
     "levels": [
@@ -15397,7 +15397,7 @@
     "id": "edu365-interland-reality-river-google",
     "title": "Interland: Reality River (Google)",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://beinternetawesome.withgoogle.com/en_us/interland/es-419/",
     "notes": "Joc de Google per aprendre a navegar de manera segura a la xarxa",
     "levels": [
@@ -15412,7 +15412,7 @@
     "id": "edu365-internet-seguracat-youtube",
     "title": "Internet Segura.cat (YouTube)",
     "area": "Seguridad Digital",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.youtube.com/user/Internetposahiseny",
     "notes": "Col·lecció de vídeos per aprendre a navegar de forma segura",
     "levels": [
@@ -15428,7 +15428,7 @@
     "id": "edu365-superherois-per-laccio-climatica",
     "title": "Superherois per l'acció climàtica",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://lykio-dev-data.s3.eu-central-1.amazonaws.com/FTP/games/EU/values/index.html",
     "notes": "Converteix-te en superheroi del medi ambient amb missions i jocs",
     "levels": [
@@ -15443,7 +15443,7 @@
     "id": "edu365-global-climate-change-nasa",
     "title": "Global Climate Change (NASA)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://climate.nasa.gov/",
     "notes": "Recurs de la NASA que explora el canvi climàtic, les seves causes i efectes",
     "levels": [
@@ -15459,7 +15459,7 @@
     "id": "edu365-aixi-ens-afecta-el-canvi-climatic-greenpeace",
     "title": "Així ens afecta el canvi climàtic (Greenpeace)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://es.greenpeace.org/ca/trabajamos-en/cambio-climatico/asi-afecta-el-cambio-climatico/",
     "notes": "Ones de calor, fenòmens meteorològics extrems i espècies invasores",
     "levels": [
@@ -15475,7 +15475,7 @@
     "id": "edu365-real-world-costs-of-climate-change-impactlab",
     "title": "Real-world costs of climate change (ImpactLab)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://impactlab.org/",
     "notes": "Mapes interactius per explorar com el canvi climàtic ens afectarà",
     "levels": [
@@ -15490,7 +15490,7 @@
     "id": "edu365-que-es-el-cambio-climatico-onu",
     "title": "¿Qué es el cambio climático? (ONU)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.un.org/es/climatechange/what-is-climate-change",
     "notes": "Consulta les últimes investigacions de les Nacions Unides",
     "levels": [
@@ -15505,7 +15505,7 @@
     "id": "edu365-ipcc-wgi-interactive-atlas",
     "title": "IPCC WGI Interactive Atlas",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://interactive-atlas.ipcc.ch/",
     "notes": "Eina interactiva d'anàlisi sobre els efectes climàtics",
     "levels": [
@@ -15520,7 +15520,7 @@
     "id": "edu365-earth-observatory-nasa",
     "title": "Earth Observatory (NASA)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://earthobservatory.nasa.gov/global-maps",
     "notes": "Col·lecció de mapes globals per estudiar el canvi climàtic",
     "levels": [
@@ -15535,7 +15535,7 @@
     "id": "edu365-climate-time-machine-nasa",
     "title": "Climate Time Machine (NASA)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://climate.nasa.gov/interactives/climate-time-machine",
     "notes": "Vídeos que mostren els efectes del canvi climàtic en els últims anys",
     "levels": [
@@ -15551,7 +15551,7 @@
     "id": "edu365-configuracio-electronica",
     "title": "Configuració electrònica",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://felipsarroca.github.io/edu-apps/ConfiguracioElectronica2/",
     "notes": "Mostra com s'omplen els orbitals d'un àtom i la seva posició a la taula periòdica",
     "levels": [
@@ -15566,7 +15566,7 @@
     "id": "edu365-elemental-comics",
     "title": "Elemental Còmics",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://eboixader.github.io/Comic-Elements-v.2/",
     "notes": "Descobreix la química a través del còmic i completa reptes sobre elements",
     "levels": [
@@ -15581,7 +15581,7 @@
     "id": "edu365-3d-visualization-of-periodic-table",
     "title": "3D Visualization of Periodic Table",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://graphoverflow.com/graphs/3d-periodic-table.html",
     "notes": "Visualització interactiva en 3D de la taula periòdica",
     "levels": [
@@ -15596,7 +15596,7 @@
     "id": "edu365-discover-periodic-tables-iypt",
     "title": "Discover Periodic Tables (IYPT)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://iypt2019.org/discover-periodic-tables/",
     "notes": "Recursos per explorar la taula periòdica dels elements",
     "levels": [
@@ -15611,7 +15611,7 @@
     "id": "edu365-taula-periodica-interactiva-ptable",
     "title": "Taula periòdica interactiva (Ptable)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://ptable.com/?lang=ca#",
     "notes": "Aprèn les propietats dels elements de manera interactiva en català",
     "levels": [
@@ -15626,7 +15626,7 @@
     "id": "edu365-juga-amb-la-taula-periodica",
     "title": "Juga amb la taula periòdica",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://52gamespt.wordpress.com/category/catala/",
     "notes": "Col·lecció de jocs sobre la taula periòdica dels elements",
     "levels": [
@@ -15641,7 +15641,7 @@
     "id": "edu365-la-historia-de-la-taula-periodica-rsc",
     "title": "La història de la taula periòdica (RSC)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.rsc.org/periodic-table/history",
     "notes": "Descobreix l'evolució i creixement de la taula periòdica",
     "levels": [
@@ -15656,7 +15656,7 @@
     "id": "edu365-periodic-table-infographics",
     "title": "Periodic Table Infographics",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.compoundchem.com/category/periodic-tables/",
     "notes": "Col·lecció d'infografies basades en la taula periòdica",
     "levels": [
@@ -15671,7 +15671,7 @@
     "id": "edu365-periodic-videos-ted-ed",
     "title": "Periodic Videos (TED-Ed)",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://ed.ted.com/periodic-videos",
     "notes": "Un vídeo per a cada element de la taula periòdica",
     "levels": [
@@ -15686,7 +15686,7 @@
     "id": "edu365-the-periodic-table-of-the-elements",
     "title": "The Periodic Table of the Elements",
     "area": "Ciencias Naturales",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://elements.wlonk.com/ElementsTable.htm",
     "notes": "Coneix els elements químics amb dibuixos il·lustratius",
     "levels": [
@@ -15701,7 +15701,7 @@
     "id": "edu365-termcat",
     "title": "Termcat",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.termcat.cat/ca/diccionaris-en-linia/",
     "notes": "Diccionaris terminològics agrupats en grans sectors temàtics",
     "levels": [
@@ -15716,7 +15716,7 @@
     "id": "edu365-enciclopediacat",
     "title": "Enciclopèdia.cat",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.enciclopedia.cat/",
     "notes": "Portal amb gran varietat de continguts de coneixement en llengua catalana",
     "levels": [
@@ -15732,7 +15732,7 @@
     "id": "edu365-mira-que-dic-llengua-de-signes",
     "title": "Mira què dic! (Llengua de signes)",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://projectes.edigital.cat/signes/",
     "notes": "Diccionari multimèdia de la llengua de signes catalana",
     "levels": [
@@ -15748,7 +15748,7 @@
     "id": "edu365-diccionari-de-sinonims-iec",
     "title": "Diccionari de sinònims (IEC)",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://sinonims.iec.cat/",
     "notes": "Útil per enriquir el vocabulari i expressar-se amb més precisió en català",
     "levels": [
@@ -15764,7 +15764,7 @@
     "id": "edu365-diccionaricat",
     "title": "Diccionari.cat",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.diccionari.cat/",
     "notes": "Eina essencial per consultar significats, conjugacions i usos correctes",
     "levels": [
@@ -15780,7 +15780,7 @@
     "id": "edu365-didac-diccionari-escolar",
     "title": "Didac - Diccionari escolar",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.diccionari.cat/didac",
     "notes": "Diccionari escolar dissenyat específicament per a estudiants",
     "levels": [
@@ -15795,7 +15795,7 @@
     "id": "edu365-diccionari-catala-valencia-balear",
     "title": "Diccionari català - valencià - balear",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://dcvb.iec.cat/",
     "notes": "Recull el lèxic de les variants dialectals del català",
     "levels": [
@@ -15810,7 +15810,7 @@
     "id": "edu365-el-meu-primer-diccionari-dangles",
     "title": "El meu primer diccionari d'anglès",
     "area": "Ingles",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.diccionari.cat/index-de-lamines",
     "notes": "Eina pedagògica per introduir vocabulari bàsic d'anglès",
     "levels": [
@@ -15825,7 +15825,7 @@
     "id": "edu365-diccionario-de-la-lengua-espanola-rae",
     "title": "Diccionario de la lengua española (RAE)",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://dle.rae.es/?w=diccionario",
     "notes": "Repertori ampli de termes i definicions actualitzades del castellà",
     "levels": [
@@ -15840,7 +15840,7 @@
     "id": "edu365-decat-etimologia-catalana",
     "title": "DECAT (Etimologia catalana)",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://decat.iec.cat/veuredoc.asp?id=188068",
     "notes": "Informació detallada sobre termes, la seva evolució històrica i variants",
     "levels": [
@@ -15855,7 +15855,7 @@
     "id": "edu365-oncat-onomastica",
     "title": "OnCat (Onomàstica)",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://oncat.iec.cat/entrada.asp",
     "notes": "Portal per consultar definicions precises i classificacions semàntiques",
     "levels": [
@@ -15870,7 +15870,7 @@
     "id": "edu365-diccionari-illustrat-catala-amazic",
     "title": "Diccionari il·lustrat català - amazic",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/diccionaris/agora/dic/agora.html",
     "notes": "Vocabulari bàsic amb il·lustració i pronunciació de paraules en amazic",
     "levels": [
@@ -15886,7 +15886,7 @@
     "id": "edu365-diccionari-illustrat-catala-arab",
     "title": "Diccionari il·lustrat català - àrab",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/diccionaris/catala_arab/index.htm",
     "notes": "Vocabulari bàsic amb il·lustració i pronunciació de paraules en àrab",
     "levels": [
@@ -15902,7 +15902,7 @@
     "id": "edu365-diccionari-illustrat-catala-urdu",
     "title": "Diccionari il·lustrat català - urdú",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/diccionaris/catala_urdu/index.htm",
     "notes": "Vocabulari bàsic amb il·lustració i pronunciació de paraules en urdú",
     "levels": [
@@ -15918,7 +15918,7 @@
     "id": "edu365-diccionari-illustrat-catala-xines",
     "title": "Diccionari il·lustrat català - xinès",
     "area": "Lengua",
-    "language": "Catalan/Valencià",
+    "language": "Català/Valencià",
     "url": "https://www.edu365.cat/diccionaris/catala_xines/index.htm",
     "notes": "Vocabulari bàsic amb il·lustració i pronunciació de paraules en xinès",
     "levels": [

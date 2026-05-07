@@ -8,7 +8,7 @@ from datetime import datetime
 BASE_URL = "https://www.edu365.cat"
 FETCH_DATE = "2026-05-07T00:00:00.000Z"
 SOURCE_COLOR = "#00529B"
-LANG = "Catalan/Valencià"
+LANG = "Català/Valencià"
 
 def slug(text):
     s = text.lower()
