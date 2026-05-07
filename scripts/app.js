@@ -441,8 +441,8 @@ function render() {
     const key = gameKey(game);
     const filterRating = getRatingForFilter(key);
     const gameLevels = game.levels || (game.level ? [game.level] : []);
-    const reportCount = state.brokenSummary.get(key) || 0;
-    const isBroken = reportCount >= REPORT_THRESHOLD;
+    const brokenData = state.brokenSummary.get(key);
+    const isBroken = (brokenData?.count || 0) >= REPORT_THRESHOLD || Boolean(brokenData?.adminReported);
 
     if (onlyBroken) {
       return isBroken;
@@ -754,11 +754,13 @@ async function loadFirebasePreferences() {
   state.brokenSummary = new Map(
     brokenSnapshot.docs
       .map((docSnap) => {
-        const count = Number(docSnap.data()?.count || 0);
+        const data = docSnap.data() || {};
+        const count = Number(data.count || 0);
+        const adminReported = Boolean(data.adminReported);
         const key = gameKeyFromDocId(docSnap.id);
-        return [key, count];
+        return [key, { count, adminReported }];
       })
-      .filter(([key, count]) => key && count > 0),
+      .filter(([key, data]) => key && (data.count > 0 || data.adminReported)),
   );
 }
 
@@ -1025,16 +1027,18 @@ async function reportBroken(gameKeyValue) {
   const userReportRef = doc(db, "users", uid, "reports", gameDocId(gameKeyValue));
   const summaryRef = doc(db, "brokenReports", gameDocId(gameKeyValue));
 
+  const adminReporting = isAdmin();
+
   await runTransaction(db, async (tx) => {
     const summarySnap = await tx.get(summaryRef);
     const current = Number(summarySnap.data()?.count || 0);
     tx.set(userReportRef, { reportedAt: serverTimestamp() }, { merge: true });
-    tx.set(summaryRef, { count: current + 1 }, { merge: true });
+    tx.set(summaryRef, { count: current + 1, ...(adminReporting ? { adminReported: true } : {}) }, { merge: true });
   });
 
   state.userReports.add(gameKeyValue);
-  const prev = state.brokenSummary.get(gameKeyValue) || 0;
-  state.brokenSummary.set(gameKeyValue, prev + 1);
+  const prev = state.brokenSummary.get(gameKeyValue) || { count: 0, adminReported: false };
+  state.brokenSummary.set(gameKeyValue, { count: prev.count + 1, adminReported: prev.adminReported || adminReporting });
 }
 
 function createReportButton(gameKeyValue, article) {
