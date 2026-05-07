@@ -70,6 +70,7 @@ const strings = {
     report_broken_active: "Ya lo has reportado",
     report_broken_feedback: "Gracias, lo revisaremos pronto.",
     broken_only: "No funciona (admin)",
+    reported_only: "Reportadas (admin)",
   },
   ca: {
     subtitle: "Jocs educatius seleccionats per a Infantil, Primària i Secundària, amb filtres ràpids per trobar l'activitat perfecta en cada moment.",
@@ -139,6 +140,7 @@ const strings = {
     report_broken_active: "Ja ho has reportat",
     report_broken_feedback: "Gràcies, ho revisarem aviat.",
     broken_only: "No funciona (admin)",
+    reported_only: "Reportades (admin)",
   },
 };
 

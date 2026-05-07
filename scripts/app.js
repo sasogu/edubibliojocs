@@ -19,6 +19,8 @@ const favoritesOnly = document.querySelector("#favoritesOnly");
 const submissionsOnly = document.querySelector("#submissionsOnly");
 const brokenOnly = document.querySelector("#brokenOnly");
 const brokenOnlyLabel = document.querySelector("#brokenOnlyLabel");
+const reportedOnly = document.querySelector("#reportedOnly");
+const reportedOnlyLabel = document.querySelector("#reportedOnlyLabel");
 const ratingFilter = document.querySelector("#ratingFilter");
 const grid = document.querySelector("#grid");
 const loadMoreBtn = document.querySelector("#loadMoreBtn");
@@ -297,6 +299,9 @@ function wireEvents() {
   if (brokenOnly) {
     brokenOnly.addEventListener("change", render);
   }
+  if (reportedOnly) {
+    reportedOnly.addEventListener("change", render);
+  }
   ratingFilter.addEventListener("change", render);
   loadMoreBtn.addEventListener("click", showMore);
   if (signInGoogleBtn) {
@@ -424,6 +429,7 @@ function updateAuthUi() {
   signOutBtn.classList.remove("hidden");
   if (submitActivityBtn) submitActivityBtn.classList.remove("hidden");
   if (brokenOnlyLabel) brokenOnlyLabel.classList.toggle("hidden", !isAdmin());
+  if (reportedOnlyLabel) reportedOnlyLabel.classList.toggle("hidden", !isAdmin());
 }
 
 function render() {
@@ -435,6 +441,7 @@ function render() {
   const onlyFavorites = favoritesOnly.checked;
   const onlySubmissions = submissionsOnly?.checked;
   const onlyBroken = brokenOnly?.checked;
+  const onlyReported = reportedOnly?.checked;
   const minRating = Number(ratingFilter.value || 0);
 
   const filtered = games.filter((game) => {
@@ -444,8 +451,13 @@ function render() {
     const brokenData = state.brokenSummary.get(key);
     const isBroken = (brokenData?.count || 0) >= REPORT_THRESHOLD || Boolean(brokenData?.adminReported);
 
+    const hasReports = (brokenData?.count || 0) >= 1;
+
     if (onlyBroken) {
       return isBroken;
+    }
+    if (onlyReported) {
+      return hasReports && !isBroken;
     }
     if (isBroken) {
       return false;
