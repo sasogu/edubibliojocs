@@ -1,3 +1,4 @@
 scripts/deploy.sh
 .github/workflows/deploy.yml
 /node_modules
+scripts/firebase-config.js
