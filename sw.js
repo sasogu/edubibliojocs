@@ -1,4 +1,4 @@
-const CACHE_NAME = "bibliojocs-v0.6";
+const CACHE_NAME = "bibliojocs-v0.9";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -8,6 +8,7 @@ const APP_SHELL = [
   "./styles/site.css",
   "./scripts/app.js",
   "./scripts/i18n.js",
+  "./data/games-home.json",
   "./data/games.json",
   "./reports/link-report.json",
   "./assets/brand/logo-bibliojocs.png",
@@ -62,7 +63,7 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  if (url.pathname.endsWith("/data/games.json") || url.pathname.endsWith("/reports/link-report.json")) {
+  if (url.pathname.endsWith("/data/games-home.json") || url.pathname.endsWith("/data/games.json") || url.pathname.endsWith("/reports/link-report.json")) {
     event.respondWith(networkFirst(request));
     return;
   }

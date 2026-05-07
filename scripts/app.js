@@ -1,6 +1,7 @@
 import { i18n, areaLabel, languageLabel, levelLabel, detectLang, setLang, getLang, LANGS } from "./i18n.js";
 
 const dataUrl = "./data/games.json";
+const homeDataUrl = "./data/games-home.json";
 const reportUrl = "./reports/link-report.json";
 const RUFFLE_CDN = "https://unpkg.com/@ruffle-rs/ruffle";
 const DEFAULT_GAME_IMAGE = "./assets/game-images/generic-game.svg";
@@ -31,6 +32,7 @@ const state = {
   games: [],
   filtered: [],
   visibleCount: 0,
+  isPartialLoad: false,
   reportByUrl: new Map(),
   reportSummary: null,
   lastReport: null,
@@ -53,31 +55,46 @@ boot().catch((error) => {
 });
 
 async function boot() {
-  const games = await fetchJson(dataUrl);
-  state.games = Array.isArray(games) ? games : [];
+  // Fase 1: càrrega immediata del subconjunt inicial
+  const homeGames = await fetchJson(homeDataUrl);
+  state.games = Array.isArray(homeGames) ? homeGames : [];
+  state.isPartialLoad = true;
+
   await initPreferenceBackend();
-
-  const report = await fetchJson(reportUrl, true);
-  if (report && Array.isArray(report.results)) {
-    state.reportByUrl = buildReportIndex(report.results);
-    state.reportSummary = report.summary || null;
-    state.lastReport = report;
-    setReportBanner(report);
-  } else {
-    statusStrip.textContent = i18n("status_no_report");
-    statusStrip.classList.add("warn");
-  }
-
   hydrateFilterOptions();
   applyStaticTranslations();
   updatePreferencesNote();
   updateLangButtons();
   wireEvents();
   render();
+
+  // Fase 2: càrrega completa en segon pla (no bloqueja la UI)
+  Promise.all([
+    fetchJson(dataUrl),
+    fetchJson(reportUrl, true),
+  ]).then(([games, report]) => {
+    state.games = Array.isArray(games) ? games : state.games;
+    state.isPartialLoad = false;
+
+    if (report && Array.isArray(report.results)) {
+      state.reportByUrl = buildReportIndex(report.results);
+      state.reportSummary = report.summary || null;
+      state.lastReport = report;
+      setReportBanner(report);
+    } else {
+      statusStrip.textContent = i18n("status_no_report");
+      statusStrip.classList.add("warn");
+    }
+
+    hydrateFilterOptions();
+    render();
+  }).catch((error) => {
+    console.warn("Error en càrrega completa de dades", error);
+  });
 }
 
 async function fetchJson(url, optional = false) {
-  const response = await fetch(url, { cache: "no-store" });
+  const response = await fetch(url, { cache: "default" });
   if (!response.ok) {
     if (optional) {
       return null;
