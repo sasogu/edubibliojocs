@@ -292,19 +292,6 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/curso2-2.gif"
   },
   {
-    "id": "juegos-jocs",
-    "title": "Juegos Jocs",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/",
-    "notes": "Juegos variados de matemáticas, lengua , estrategia&#8230;.",
-    "levels": [
-      "Infantil"
-    ],
-    "image": "assets/game-images/juegos-jocs.jpg",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/juegos.jpg"
-  },
-  {
     "id": "la-tienda-de-enriqueta",
     "title": "La tienda de Enriqueta",
     "area": "Musica",
@@ -965,20 +952,6 @@
     "imageSource": "https://clic.xtec.cat/projects/100paraules/jclic.js/index.html"
   },
   {
-    "id": "5-senses",
-    "title": "5 senses",
-    "area": "Ingles",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/five_senses",
-    "notes": "Actividad interactiva para practicar ingles en Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/5-senses.png",
-    "imageSource": "https://www.abcya.com/games/five_senses"
-  },
-  {
     "id": "a-an",
     "title": "A / an",
     "area": "Ingles",
@@ -1011,21 +984,6 @@
       "Infantil",
       "Primaria 1er ciclo"
     ]
-  },
-  {
-    "id": "abc-bingo",
-    "title": "ABC bingo",
-    "area": "Ingles",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/alphabet-bingo",
-    "notes": "Actividad interactiva para practicar ingles en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/abc-bingo.png",
-    "imageSource": "https://www.abcya.com/games/alphabet-bingo"
   },
   {
     "id": "abc-hungry",
@@ -1309,35 +1267,6 @@
     ]
   },
   {
-    "id": "alphabet-bubble",
-    "title": "Alphabet bubble",
-    "area": "Ingles",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/alphabet_bubble_letter_match",
-    "notes": "Actividad interactiva para practicar ingles en Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/alphabet-bubble.png",
-    "imageSource": "https://www.abcya.com/games/alphabet_bubble_letter_match"
-  },
-  {
-    "id": "alphabet-orden",
-    "title": "Alphabet orden",
-    "area": "Ingles",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/alphabet",
-    "notes": "Actividad interactiva para practicar ingles en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/alphabet-orden.png",
-    "imageSource": "https://www.abcya.com/games/alphabet"
-  },
-  {
     "id": "amigos-de-los-animales",
     "title": "Amigos de los animales",
     "area": "Ciencias Naturales",
@@ -1349,20 +1278,6 @@
     ],
     "image": "assets/game-images/amigos-de-los-animales.png",
     "imageSource": "https://clic.xtec.cat/projects/vertebra/jclic.js/index.html"
-  },
-  {
-    "id": "animaciones",
-    "title": "Animaciones",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/animate",
-    "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/animaciones.png",
-    "imageSource": "https://www.abcya.com/games/animate"
   },
   {
     "id": "animal-farm",
@@ -1925,22 +1840,6 @@
     ]
   },
   {
-    "id": "baby-chick",
-    "title": "Baby chick",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/baby_chick_maze",
-    "notes": "Actividad interactiva para practicar informatica en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/baby-chick.png",
-    "imageSource": "https://www.abcya.com/games/baby_chick_maze"
-  },
-  {
     "id": "balloon-colours",
     "title": "Balloon colours",
     "area": "Ingles",
@@ -1953,19 +1852,6 @@
     ]
   },
   {
-    "id": "balloon-pop",
-    "title": "Balloon pop",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/subtraction_game",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/balloon-pop.png",
-    "imageSource": "https://www.abcya.com/games/subtraction_game"
-  },
-  {
     "id": "band-runner",
     "title": "Band runner",
     "area": "Informatica",
@@ -1976,20 +1862,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "bandemonium",
-    "title": "Bandemonium",
-    "area": "Musica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/bandemonium",
-    "notes": "Actividad interactiva para practicar musica en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/bandemonium.png",
-    "imageSource": "https://www.abcya.com/games/bandemonium"
   },
   {
     "id": "banderas-del-mundo",
@@ -2061,19 +1933,6 @@
     ]
   },
   {
-    "id": "bingo-mundial",
-    "title": "Bingo mundial",
-    "area": "Ciencias Sociales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/world-bingo",
-    "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/bingo-mundial.png",
-    "imageSource": "https://www.abcya.com/games/world-bingo"
-  },
-  {
     "id": "bleepy-8217-s-gifts",
     "title": "Bleepy&#8217;s gifts",
     "area": "Matematicas",
@@ -2119,21 +1978,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "bolas-de-navidad",
-    "title": "Bolas de Navidad",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/ball_ornaments_puzzle",
-    "notes": "Actividad interactiva para practicar dias especiales en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/bolas-de-navidad.png",
-    "imageSource": "https://www.abcya.com/games/ball_ornaments_puzzle"
   },
   {
     "id": "botlogic",
@@ -2309,22 +2153,6 @@
     ]
   },
   {
-    "id": "candy-hunt",
-    "title": "Candy hunt",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/halloween_hunt",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/candy-hunt.png",
-    "imageSource": "https://www.abcya.com/games/halloween_hunt"
-  },
-  {
     "id": "caperucita-roja",
     "title": "Caperucita Roja",
     "area": "Lengua",
@@ -2478,36 +2306,6 @@
     ]
   },
   {
-    "id": "christmas-lights",
-    "title": "Christmas lights",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/christmas-lights",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/christmas-lights.png",
-    "imageSource": "https://www.abcya.com/games/christmas-lights"
-  },
-  {
-    "id": "christmas-tree-fun",
-    "title": "Christmas tree fun",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/make-a-christmas-tree",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/christmas-tree-fun.png",
-    "imageSource": "https://www.abcya.com/games/make-a-christmas-tree"
-  },
-  {
     "id": "circulo-de-la-empatia",
     "title": "Círculo de la empatía",
     "area": "Educacion emocional",
@@ -2544,32 +2342,6 @@
       "Infantil",
       "Primaria 1er ciclo"
     ]
-  },
-  {
-    "id": "clear-it",
-    "title": "Clear it",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/clear_it_addition",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/clear-it.png",
-    "imageSource": "https://www.abcya.com/games/clear_it_addition"
-  },
-  {
-    "id": "clear-it-2",
-    "title": "Clear it",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/clear_it_multiplication",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/clear-it-2.png",
-    "imageSource": "https://www.abcya.com/games/clear_it_multiplication"
   },
   {
     "id": "clima-y-vegetacion-de-espana",
@@ -2879,20 +2651,6 @@
     ]
   },
   {
-    "id": "connect-the-dots",
-    "title": "Connect the dots",
-    "area": "Ingles",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/connect_the_dots",
-    "notes": "Actividad interactiva para practicar ingles en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/connect-the-dots.png",
-    "imageSource": "https://www.abcya.com/games/connect_the_dots"
-  },
-  {
     "id": "construye-cuadrilateros",
     "title": "Construye cuadriláteros",
     "area": "Matematicas",
@@ -3166,21 +2924,6 @@
     "levels": [
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "cyber-five",
-    "title": "Cyber-five",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/cyber_five_internet_safety",
-    "notes": "Actividad interactiva para practicar informatica en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/cyber-five.png",
-    "imageSource": "https://www.abcya.com/games/cyber_five_internet_safety"
   },
   {
     "id": "cyberscouts",
@@ -3625,20 +3368,6 @@
     ]
   },
   {
-    "id": "donut-drop",
-    "title": "Donut drop",
-    "area": "General",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/donut_drop",
-    "notes": "Actividad interactiva para practicar general en Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/donut-drop.png",
-    "imageSource": "https://www.abcya.com/games/donut_drop"
-  },
-  {
     "id": "drag-race",
     "title": "Drag Race",
     "area": "Matematicas",
@@ -3720,22 +3449,6 @@
     "levels": [
       "Primaria 1er ciclo"
     ]
-  },
-  {
-    "id": "easter-egg-hunt",
-    "title": "Easter egg hunt",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/easter_egg_hunt",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/easter-egg-hunt.png",
-    "imageSource": "https://www.abcya.com/games/easter_egg_hunt"
   },
   {
     "id": "easter-games",
@@ -4206,19 +3919,6 @@
     ]
   },
   {
-    "id": "encuentra-la-tecnologia",
-    "title": "Encuentra la tecnología",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/find_the_tech",
-    "notes": "Actividad interactiva para practicar informatica en Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/encuentra-la-tecnologia.png",
-    "imageSource": "https://www.abcya.com/games/find_the_tech"
-  },
-  {
     "id": "endevina-qui-soc",
     "title": "Endevina qui soc",
     "area": "Lengua",
@@ -4377,19 +4077,6 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ]
-  },
-  {
-    "id": "feed-me-fractions",
-    "title": "Feed me fractions",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/adding_fractions",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/feed-me-fractions.png",
-    "imageSource": "https://www.abcya.com/games/adding_fractions"
   },
   {
     "id": "feelings",
@@ -4659,34 +4346,6 @@
     ]
   },
   {
-    "id": "fuzz-bugs",
-    "title": "Fuzz bugs",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/fuzz_bugs_factory",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/fuzz-bugs.png",
-    "imageSource": "https://www.abcya.com/games/fuzz_bugs_factory"
-  },
-  {
-    "id": "fuzz-bugs-sorting",
-    "title": "Fuzz bugs sorting",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/counting_sorting_comparing",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/fuzz-bugs-sorting.png",
-    "imageSource": "https://www.abcya.com/games/counting_sorting_comparing"
-  },
-  {
     "id": "garbancito",
     "title": "Garbancito",
     "area": "Lengua",
@@ -4768,19 +4427,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "gnomies",
-    "title": "Gnomies",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/measuring",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/gnomies.png",
-    "imageSource": "https://www.abcya.com/games/measuring"
   },
   {
     "id": "grand-prix",
@@ -5302,19 +4948,6 @@
     ]
   },
   {
-    "id": "keyboard-challenge",
-    "title": "Keyboard challenge",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/keyboard_challenge",
-    "notes": "Actividad interactiva para practicar informatica en Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/keyboard-challenge.png",
-    "imageSource": "https://www.abcya.com/games/keyboard_challenge"
-  },
-  {
     "id": "keyboard-climber",
     "title": "Keyboard Climber",
     "area": "Informatica",
@@ -5326,20 +4959,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "keyboard-zoo",
-    "title": "Keyboard zoo",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/keyboarding_practice",
-    "notes": "Actividad interactiva para practicar informatica en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/keyboard-zoo.png",
-    "imageSource": "https://www.abcya.com/games/keyboarding_practice"
   },
   {
     "id": "kitten-race",
@@ -5376,20 +4995,6 @@
     "notes": "Actividad interactiva para practicar religion en Primaria 2o ciclo.",
     "levels": [
       "Primaria 2o ciclo"
-    ]
-  },
-  {
-    "id": "la-casa-de-jengibre",
-    "title": "La casa de jengibre",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://la.abcya.com/juegos/haz-una-casa-de-jengibre",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
     ]
   },
   {
@@ -6278,20 +5883,6 @@
     ]
   },
   {
-    "id": "los-huesos",
-    "title": "Los huesos",
-    "area": "Ingles",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/skeletal_system",
-    "notes": "Actividad interactiva para practicar ingles en Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/los-huesos.png",
-    "imageSource": "https://www.abcya.com/games/skeletal_system"
-  },
-  {
     "id": "los-musicos-de-bremen",
     "title": "Los músicos de Bremen",
     "area": "Lengua",
@@ -6391,22 +5982,6 @@
     ]
   },
   {
-    "id": "magic-mirror-paint",
-    "title": "Magic mirror paint",
-    "area": "Plastica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/mirror_paint",
-    "notes": "Actividad interactiva para practicar plastica en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/magic-mirror-paint.png",
-    "imageSource": "https://www.abcya.com/games/mirror_paint"
-  },
-  {
     "id": "magic-words",
     "title": "Magic words",
     "area": "Ingles",
@@ -6431,52 +6006,6 @@
     ]
   },
   {
-    "id": "make-a-cookie",
-    "title": "Make a cookie",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/make-a-cookie",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/make-a-cookie.png",
-    "imageSource": "https://www.abcya.com/games/make-a-cookie"
-  },
-  {
-    "id": "make-a-face",
-    "title": "Make a face",
-    "area": "Plastica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/make_a_face",
-    "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/make-a-face.png",
-    "imageSource": "https://www.abcya.com/games/make_a_face"
-  },
-  {
-    "id": "make-a-pumpkin",
-    "title": "Make a pumpkin",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/make_a_pumpkin",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/make-a-pumpkin.png",
-    "imageSource": "https://www.abcya.com/games/make_a_pumpkin"
-  },
-  {
     "id": "make-a-pumpkin-2",
     "title": "Make a pumpkin 2",
     "area": "Dias especiales",
@@ -6489,22 +6018,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "make-an-easter-egg",
-    "title": "Make an easter egg",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/make_an_easter_egg",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/make-an-easter-egg.png",
-    "imageSource": "https://www.abcya.com/games/make_an_easter_egg"
   },
   {
     "id": "make-an-easter-egg-2",
@@ -6531,34 +6044,6 @@
     ]
   },
   {
-    "id": "marble-drop",
-    "title": "Marble drop",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/marble_drop_addition",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/marble-drop.png",
-    "imageSource": "https://www.abcya.com/games/marble_drop_addition"
-  },
-  {
-    "id": "marble-math",
-    "title": "Marble Math",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/addition",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/marble-math.png",
-    "imageSource": "https://www.abcya.com/games/addition"
-  },
-  {
     "id": "martina-y-los-sentidos",
     "title": "Martina y los sentidos",
     "area": "Ciencias Naturales",
@@ -6583,35 +6068,6 @@
     ],
     "image": "assets/game-images/masculino-y-femenino.png",
     "imageSource": "https://clic.xtec.cat/gali/player.html?variant=cent&grup=6&nivell=a&tema=2"
-  },
-  {
-    "id": "math-lines",
-    "title": "Math lines",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/math_lines_multiplication",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/math-lines.png",
-    "imageSource": "https://www.abcya.com/games/math_lines_multiplication"
-  },
-  {
-    "id": "math-stack",
-    "title": "Math stack",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/math_stack",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/math-stack.png",
-    "imageSource": "https://www.abcya.com/games/math_stack"
   },
   {
     "id": "math-trivia",
@@ -6934,32 +6390,6 @@
     ]
   },
   {
-    "id": "mine",
-    "title": "Mine",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/multiplication_mine",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/mine.png",
-    "imageSource": "https://www.abcya.com/games/multiplication_mine"
-  },
-  {
-    "id": "mine-jr",
-    "title": "Mine Jr",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/multiplication_mine_jr",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/mine-jr.png",
-    "imageSource": "https://www.abcya.com/games/multiplication_mine_jr"
-  },
-  {
     "id": "minus-mission",
     "title": "Minus mission",
     "area": "Matematicas",
@@ -7003,20 +6433,6 @@
     "levels": [
       "Infantil"
     ]
-  },
-  {
-    "id": "monster-math",
-    "title": "Monster math",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/monster_match",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/monster-math.png",
-    "imageSource": "https://www.abcya.com/games/monster_match"
   },
   {
     "id": "mots-croises",
@@ -7114,22 +6530,6 @@
     ]
   },
   {
-    "id": "muneco-de-nieve",
-    "title": "Muñeco de nieve",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/snowman",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/muneco-de-nieve.png",
-    "imageSource": "https://www.abcya.com/games/snowman"
-  },
-  {
     "id": "musculos-del-cuerpo-humano",
     "title": "Músculos del cuerpo humano",
     "area": "Ciencias Naturales",
@@ -7204,60 +6604,6 @@
     ],
     "image": "assets/game-images/normas-de-acentuacion.png",
     "imageSource": "https://clic.xtec.cat/projects/accents/jclic.js/index.html"
-  },
-  {
-    "id": "number-ninja-multiples",
-    "title": "Number ninja multiples",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/number_ninja_multiples",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/number-ninja-multiples.png",
-    "imageSource": "https://www.abcya.com/games/number_ninja_multiples"
-  },
-  {
-    "id": "number-ninja-primes",
-    "title": "Number ninja primes",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/number_ninja_factors",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/number-ninja-primes.png",
-    "imageSource": "https://www.abcya.com/games/number_ninja_factors"
-  },
-  {
-    "id": "number-patterns",
-    "title": "Number patterns",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/number_patterns",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/number-patterns.png",
-    "imageSource": "https://www.abcya.com/games/number_patterns"
-  },
-  {
-    "id": "number-values",
-    "title": "Number values",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/comparing_number_values",
-    "notes": "Actividad interactiva para practicar matematicas en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/number-values.png",
-    "imageSource": "https://www.abcya.com/games/comparing_number_values"
   },
   {
     "id": "numbers",
@@ -7518,22 +6864,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "paint",
-    "title": "Paint",
-    "area": "Plastica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/abcya_paint",
-    "notes": "Actividad interactiva para practicar plastica en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/paint.png",
-    "imageSource": "https://www.abcya.com/games/abcya_paint"
   },
   {
     "id": "paint-online",
@@ -8454,22 +7784,6 @@
     "image": "assets/game-images/genmagic-generic.png"
   },
   {
-    "id": "pumpkin-carving",
-    "title": "Pumpkin carving",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/pumpkin_carving",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/pumpkin-carving.png",
-    "imageSource": "https://www.abcya.com/games/pumpkin_carving"
-  },
-  {
     "id": "puzzle-de-emojis",
     "title": "Puzzle de emojis",
     "area": "Logica",
@@ -8482,19 +7796,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "puzzle-drops",
-    "title": "Puzzle drops",
-    "area": "Logica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/puzzle_drops",
-    "notes": "Actividad interactiva para practicar general en Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/puzzle-drops.png",
-    "imageSource": "https://www.abcya.com/games/puzzle_drops"
   },
   {
     "id": "puzzle-maria",
@@ -8690,21 +7991,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "rainbow-stacker",
-    "title": "Rainbow stacker",
-    "area": "Logica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/rainbow_stacker",
-    "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/rainbow-stacker.png",
-    "imageSource": "https://www.abcya.com/games/rainbow_stacker"
   },
   {
     "id": "reality-check",
@@ -8933,22 +8219,6 @@
     "imageSource": "https://clic.xtec.cat/projects/ricitos/jclic.js/index.html"
   },
   {
-    "id": "road-rally",
-    "title": "Road rally",
-    "area": "General",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/road_rally",
-    "notes": "Actividad interactiva para practicar general en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/road-rally.png",
-    "imageSource": "https://www.abcya.com/games/road_rally"
-  },
-  {
     "id": "robot-sumador",
     "title": "Robot sumador",
     "area": "Matematicas",
@@ -8983,19 +8253,6 @@
       "Infantil",
       "Primaria 1er ciclo"
     ]
-  },
-  {
-    "id": "roll-to-the-finish",
-    "title": "Roll to the finish",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/roll_to_the_finish",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil.",
-    "levels": [
-      "Infantil"
-    ],
-    "image": "assets/game-images/roll-to-the-finish.png",
-    "imageSource": "https://www.abcya.com/games/roll_to_the_finish"
   },
   {
     "id": "ruta-maya-alfabeto",
@@ -9227,22 +8484,6 @@
       "Primaria 1er ciclo",
       "Primaria 2o ciclo"
     ]
-  },
-  {
-    "id": "shoot-out",
-    "title": "Shoot-out",
-    "area": "Matematicas",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/math_facts_game",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/shoot-out.png",
-    "imageSource": "https://www.abcya.com/games/math_facts_game"
   },
   {
     "id": "silabas",
@@ -9510,19 +8751,6 @@
     ]
   },
   {
-    "id": "sopa-de-letras-de-pascua",
-    "title": "Sopa de letras de Pascua",
-    "area": "Ingles",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/easter_crossword_puzzle",
-    "notes": "Actividad interactiva para practicar ingles en Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/sopa-de-letras-de-pascua.png",
-    "imageSource": "https://www.abcya.com/games/easter_crossword_puzzle"
-  },
-  {
     "id": "sopa-de-musculos",
     "title": "Sopa de músculos",
     "area": "Ciencias Naturales",
@@ -9682,21 +8910,6 @@
     ]
   },
   {
-    "id": "submarine-spelling",
-    "title": "Submarine spelling",
-    "area": "Ingles",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/dolch_sight_word_spelling",
-    "notes": "Actividad interactiva para practicar ingles en Infantil, Primaria 1er ciclo, Primaria 2o ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo"
-    ],
-    "image": "assets/game-images/submarine-spelling.png",
-    "imageSource": "https://www.abcya.com/games/dolch_sight_word_spelling"
-  },
-  {
     "id": "submarino",
     "title": "Submarino",
     "area": "Matematicas",
@@ -9797,22 +9010,6 @@
     ]
   },
   {
-    "id": "super-santa",
-    "title": "Super Santa",
-    "area": "Dias especiales",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/super_santa",
-    "notes": "Actividad interactiva para practicar dias especiales en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/super-santa.png",
-    "imageSource": "https://www.abcya.com/games/super_santa"
-  },
-  {
     "id": "superdomino",
     "title": "Superdómino",
     "area": "Matematicas",
@@ -9833,22 +9030,6 @@
     "levels": [
       "Primaria 2o ciclo"
     ]
-  },
-  {
-    "id": "take-a-trip",
-    "title": "Take a trip",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/take_a_trip",
-    "notes": "Actividad interactiva para practicar informatica en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/take-a-trip.png",
-    "imageSource": "https://www.abcya.com/games/take_a_trip"
   },
   {
     "id": "take-your-time",
@@ -9874,22 +9055,6 @@
     ]
   },
   {
-    "id": "taking-notes",
-    "title": "Taking notes",
-    "area": "Musica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/taking-notes-rhythm-pitch",
-    "notes": "Actividad interactiva para practicar musica en Infantil, Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/taking-notes.png",
-    "imageSource": "https://www.abcya.com/games/taking-notes-rhythm-pitch"
-  },
-  {
     "id": "tangram-catalogo",
     "title": "Tangram",
     "area": "Matematicas",
@@ -9900,21 +9065,6 @@
       "Infantil",
       "Primaria 1er ciclo"
     ]
-  },
-  {
-    "id": "tangram-2",
-    "title": "Tangram",
-    "area": "Logica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/tangrams",
-    "notes": "Actividad interactiva para practicar general en Primaria 1er ciclo, Primaria 2o ciclo, Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo",
-      "Primaria 2o ciclo",
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/tangram-2.png",
-    "imageSource": "https://www.abcya.com/games/tangrams"
   },
   {
     "id": "teclea-la-palabra",
@@ -10023,20 +9173,6 @@
     "image": "assets/game-images/genmagic-generic.png"
   },
   {
-    "id": "trazos",
-    "title": "Trazos",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/letter_trace",
-    "notes": "Actividad interactiva para practicar informatica en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/trazos.png",
-    "imageSource": "https://www.abcya.com/games/letter_trace"
-  },
-  {
     "id": "tres-en-raya-de-halloween",
     "title": "Tres en Raya de Halloween",
     "area": "Dias especiales",
@@ -10108,20 +9244,6 @@
       "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ]
-  },
-  {
-    "id": "typing-rocket",
-    "title": "Typing rocket",
-    "area": "Informatica",
-    "language": "Ingles",
-    "url": "https://www.abcya.com/games/typing_rocket",
-    "notes": "Actividad interactiva para practicar informatica en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/typing-rocket.png",
-    "imageSource": "https://www.abcya.com/games/typing_rocket"
   },
   {
     "id": "un-regalo-y-un-deber",
