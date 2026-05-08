@@ -144,6 +144,10 @@ function normalizeUrl(url) {
   return String(url || "").trim().toLowerCase();
 }
 
+function normalizeSearch(str) {
+  return String(str || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+}
+
 function setReportBanner(report) {
   const checked = Number(report.summary?.checked || 0);
   const errorCount = Number(report.summary?.errorCount || 0);
@@ -408,7 +412,8 @@ function updateAuthUi() {
 
 function render() {
   const games = allGames();
-  const term = searchInput.value.trim().toLowerCase();
+  const term = searchInput.value.trim();
+  const termWords = normalizeSearch(term).split(/\s+/).filter(Boolean);
   const selectedLevel = levelFilter.value;
   const selectedLanguage = languageFilter.value;
   const selectedArea = areaFilter.value;
@@ -451,8 +456,8 @@ function render() {
       return false;
     }
 
-    if (term) {
-      const haystack = [
+    if (termWords.length > 0) {
+      const haystack = normalizeSearch([
         game.title,
         game.title_ca,
         game.area,
@@ -463,11 +468,8 @@ function render() {
         ...gameLanguages(game).map(languageLabel),
         ...gameLevels,
         ...gameLevels.map(levelLabel)
-      ]
-        .filter(Boolean)
-        .join(" ")
-        .toLowerCase();
-      if (!haystack.includes(term)) {
+      ].filter(Boolean).join(" "));
+      if (!termWords.every((w) => haystack.includes(w))) {
         return false;
       }
     }
