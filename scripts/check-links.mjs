@@ -11,22 +11,35 @@ const concurrency = 6;
 const strictWarnings = process.env.STRICT_WARNINGS === "true";
 
 const games = await readGames(dataPath);
-const urls = [...new Set(games.map((game) => game.url).filter(Boolean))];
+const allUrls = [...new Set(games.map((game) => game.url).filter(Boolean))];
 
-console.log(`Comprobando ${urls.length} enlaces...`);
-const checks = await runWithConcurrency(urls, concurrency, checkUrl);
+const remoteUrls = allUrls.filter((u) => u.startsWith("http://") || u.startsWith("https://"));
+const skippedUrls = allUrls.filter((u) => !u.startsWith("http://") && !u.startsWith("https://"));
+
+console.log(`Comprobando ${remoteUrls.length} enlaces (${skippedUrls.length} rutas locales omitidas)...`);
+const checks = await runWithConcurrency(remoteUrls, concurrency, checkUrl);
+
+const skipped = skippedUrls.map((url) => ({
+  url,
+  ok: true,
+  severity: "skip",
+  httpStatus: null,
+  durationMs: 0,
+  error: null
+}));
 
 const errorCount = checks.filter((item) => item.severity === "error").length;
 const warningCount = checks.filter((item) => item.severity === "warning").length;
 const report = {
   generatedAt: new Date().toISOString(),
   summary: {
-    checked: checks.length,
+    checked: remoteUrls.length,
+    skipped: skippedUrls.length,
     errorCount,
     warningCount,
     hasBlockingIssues: errorCount > 0 || (strictWarnings && warningCount > 0)
   },
-  results: checks
+  results: [...checks, ...skipped.sort((a, b) => a.url.localeCompare(b.url))]
 };
 
 await fs.mkdir(outDir, { recursive: true });
@@ -42,7 +55,7 @@ if (errorCount > 0 || (strictWarnings && warningCount > 0)) {
   }
   process.exitCode = 1;
 } else {
-  console.log(`Chequeo completado sin bloqueos. Errores: ${errorCount}, avisos: ${warningCount}.`);
+  console.log(`Chequeo completado sin bloqueos. Errores: ${errorCount}, avisos: ${warningCount}, omitidos: ${skippedUrls.length}.`);
 }
 
 async function readGames(filePath) {
