@@ -80,7 +80,7 @@
   {
     "id": "bomomo",
     "title": "Bomomo",
-    "area": "Plastica",
+    "area": "Manualitats",
     "language": "Català/Valencià",
     "url": "https://bomomo.com/",
     "notes": "Per a pintar&#8230;",
@@ -195,9 +195,22 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2025/11/Captura-de-pantalla-2025-11-29-a-las-19.13.22-e1764440090547-400x250.png"
   },
   {
+    "id": "eduzop",
+    "title": "EduZop",
+    "area": "Musica",
+    "language": "Castellano",
+    "url": "https://sasogu.github.io/EduZop/",
+    "notes": "Uneix colors i figures musicals. Enlace externo pendiente de localizar en el contenido original.",
+    "levels": [
+      "Primaria 1er ciclo"
+    ],
+    "image": "assets/game-images/eduzop.png",
+    "imageSource": "https://sasogu.github.io/EduZop/"
+  },
+  {
     "id": "el-buho-boo",
     "title": "EL BUHO BOO",
-    "area": "Plastica",
+    "area": "Manualitats",
     "language": "Castellano",
     "url": "https://www.elbuhoboo.com/",
     "notes": "JOCS DE PINTAR I RATOLÍ",
@@ -210,7 +223,7 @@
   {
     "id": "geosapiens",
     "title": "GeoSapiens",
-    "area": "Sociales",
+    "area": "Ciencias Sociales",
     "language": "Castellano",
     "url": "https://educativo.ign.es/geosapiens/htm/es/index.html",
     "notes": "GeoSapiens es una aplicac ión de mapas interactivos para est udiar la geografía básica y política de España y el mundo. Const a de difere ntes ju egos para est udiar toda España o porcomunidades autónomas, el mundo completo y por continente. Además, incluye un módulo de pai saje",
@@ -245,6 +258,19 @@
     ],
     "image": "assets/game-images/jclic.gif",
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/01/curso2-2.gif"
+  },
+  {
+    "id": "mapes-espanya",
+    "title": "Mapas interactivos de Espana",
+    "area": "Ciencias Sociales",
+    "language": "Castellano",
+    "url": "https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos",
+    "notes": "Ubicacion de comunidades y provincias.",
+    "levels": [
+      "Primaria 2o ciclo"
+    ],
+    "image": "assets/game-images/mapes-espanya.png",
+    "imageSource": "https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos"
   },
   {
     "id": "mastermind-logica",
@@ -380,6 +406,19 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/dianas-moviles.png"
   },
   {
+    "id": "music-rhythm",
+    "title": "Ritmo y figuras musicales",
+    "area": "Musica",
+    "language": "Castellano",
+    "url": "https://musiclab.chromeexperiments.com/",
+    "notes": "Juegos musicales interactivos para ritmo, melodia y exploracion sonora.",
+    "levels": [
+      "Primaria 2o ciclo"
+    ],
+    "image": "assets/game-images/music-rhythm.png",
+    "imageSource": "https://musiclab.chromeexperiments.com/"
+  },
+  {
     "id": "scratch",
     "title": "Scratch",
     "area": "Informatica",
@@ -404,6 +443,21 @@
     ],
     "image": "assets/game-images/sudoku.png",
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/sudoku-ninos.png"
+  },
+  {
+    "id": "sumes-restes-1",
+    "title": "Sumas y restas hasta 20",
+    "area": "Matematicas",
+    "language": "Català/Valencià",
+    "url": "https://www.arbolabc.com/juegos-de-matematicas",
+    "notes": "Repositorio de juegos de matematicas para reforzar calculo y logica.",
+    "levels": [
+      "Primaria 1er ciclo"
+    ],
+    "title_ca": "Sumes i restes fins a 20",
+    "notes_ca": "Repositori de jocs de matemàtiques per a reforçar el càlcul i la lògica.",
+    "image": "assets/game-images/sumes-restes-1.png",
+    "imageSource": "https://www.arbolabc.com/juegos-de-matematicas"
   },
   {
     "id": "tablas-de-multiplicar",
@@ -458,6 +512,19 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/Screenshot_20200322_163843.png"
   },
   {
+    "id": "angles-vocabulary",
+    "title": "Vocabulary Practice",
+    "area": "Ingles",
+    "language": "Castellano",
+    "url": "https://learnenglishkids.britishcouncil.org/games",
+    "notes": "Vocabulario y comprension lectora en ingles.",
+    "levels": [
+      "Primaria 3er ciclo"
+    ],
+    "image": "assets/game-images/angles-vocabulary.png",
+    "imageSource": "https://learnenglishkids.britishcouncil.org/games"
+  },
+  {
     "id": "where-is-cat",
     "title": "Where is cat?",
     "area": "Logica",
@@ -470,6 +537,22 @@
     "notes": "Encontrar al gato. Juego de lógica.",
     "image": "assets/game-images/where-is-cat.png",
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/Where-is-cat-.png"
+  },
+  {
+    "id": "chrome-music-lab",
+    "title": "Chrome Music Lab",
+    "area": "Musica",
+    "levels": [
+      "Infantil",
+      "Primaria 1er ciclo",
+      "Primaria 2o ciclo",
+      "Primaria 3er ciclo"
+    ],
+    "language": "Ingles",
+    "url": "https://musiclab.chromeexperiments.com/Experiments",
+    "notes": "Col·lecció d'experiments musicals interactius en línia, creats per Google.",
+    "image": "assets/game-images/chrome-music-lab.png",
+    "imageSource": "https://musiclab.chromeexperiments.com/Experiments"
   },
   {
     "id": "simon-s-l-m",
@@ -485,6 +568,19 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/03/simon.jpg",
     "title_ca": "Simó s-l-m",
     "notes_ca": "Joc tipus Simó per identificar les notes sol-la-mi."
+  },
+  {
+    "id": "youdj",
+    "title": "you.dj",
+    "area": "Musica",
+    "levels": [
+      "Primaria 1er ciclo"
+    ],
+    "language": "Català/Valencià",
+    "url": "https://youdj.online/",
+    "notes": "Per aprendre a ser un dj.",
+    "image": "assets/game-images/youdj.png",
+    "imageSource": "https://youdj.online/"
   },
   {
     "id": "memory",
@@ -531,112 +627,18 @@
     "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/05/puntos.png"
   },
   {
-    "id": "gato-atrapalo",
-    "title": "Gato atrápalo",
-    "area": "Logica",
+    "id": "la-cueva-de-los-murcielagos",
+    "title": "La cueva de los murciélagos",
+    "area": "Matematicas",
     "levels": [
+      "Infantil",
+      "Primaria 2o ciclo",
       "Primaria 3er ciclo"
     ],
-    "language": "Català/Valencià",
-    "url": "http://www.educaplus.org/game/encierra-al-gato",
-    "notes": "Procura que el gato no se escape cerrándole el paso con círculos grises.",
-    "image": "assets/game-images/gato-atrapalo.png",
-    "imageSource": "https://edutictac.es/blog/bibliojocs/wp-content/uploads/sites/2/2020/04/Gato-atrapalo.png",
-    "title_ca": "Gat, atrapa'l!",
-    "notes_ca": "Intenta que el gat no escape tancant-li el pas amb cercles grisos."
-  },
-  {
-    "id": "cuantas-abejas-hay",
-    "title": "¿Cuántas abejas hay?",
-    "area": "Matematicas",
     "language": "Castellano",
-    "url": "https://www.ecasals.net/es/uploads/resources/s210/1081124/index.html",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil.",
-    "levels": [
-      "Infantil"
-    ],
-    "image": "assets/game-images/cuantas-abejas-hay.png",
-    "imageSource": "https://www.ecasals.net/es/uploads/resources/s210/1081124/index.html"
-  },
-  {
-    "id": "cuanto-cuesta",
-    "title": "¿Cuánto cuesta?",
-    "area": "Matematicas",
-    "language": "Castellano",
-    "url": "https://www.ecasals.net/es/uploads/resources/s202/1041152/index.html",
-    "notes": "Actividad interactiva para practicar matematicas en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/cuanto-cuesta.png",
-    "imageSource": "https://www.ecasals.net/es/uploads/resources/s202/1041152/index.html"
-  },
-  {
-    "id": "de-donde-venimos",
-    "title": "¿De dónde venimos?",
-    "area": "Ciencias Sociales",
-    "language": "Castellano",
-    "url": "https://www.ecasals.net/es/uploads/resources/s210/1081078/index.html",
-    "notes": "Actividad interactiva para practicar ciencias sociales en Primaria 3er ciclo.",
-    "levels": [
-      "Primaria 3er ciclo"
-    ],
-    "image": "assets/game-images/de-donde-venimos.png",
-    "imageSource": "https://www.ecasals.net/es/uploads/resources/s210/1081078/index.html"
-  },
-  {
-    "id": "100-palabras",
-    "title": "100 palabras",
-    "area": "Lengua",
-    "language": "Català/Valencià",
-    "url": "https://clic.xtec.cat/projects/100paraules/jclic.js/index.html",
-    "notes": "Actividad interactiva para practicar lengua en Infantil.",
-    "levels": [
-      "Infantil"
-    ],
-    "image": "assets/game-images/100-palabras.png",
-    "imageSource": "https://clic.xtec.cat/projects/100paraules/jclic.js/index.html"
-  },
-  {
-    "id": "abc-juego-interactivo",
-    "title": "ABC juego interactivo",
-    "area": "Lengua",
-    "language": "Castellano",
-    "url": "https://clic.xtec.cat/projects/abcsons/jclic.js/index.html",
-    "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/abc-juego-interactivo.png",
-    "imageSource": "https://clic.xtec.cat/projects/abcsons/jclic.js/index.html"
-  },
-  {
-    "id": "actividades-de-lectura",
-    "title": "Actividades de lectura",
-    "area": "Lengua",
-    "language": "Català/Valencià",
-    "url": "https://clic.xtec.cat/projects/lectinfa/jclic.js/index.html",
-    "notes": "Actividad interactiva para practicar lengua en Infantil, Primaria 1er ciclo.",
-    "levels": [
-      "Infantil",
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/actividades-de-lectura.png",
-    "imageSource": "https://clic.xtec.cat/projects/lectinfa/jclic.js/index.html"
-  },
-  {
-    "id": "actividades-de-lengua",
-    "title": "Actividades de lengua",
-    "area": "Lengua",
-    "language": "Català/Valencià",
-    "url": "https://clic.xtec.cat/projects/llengso/jclic.js/index.html",
-    "notes": "Actividad interactiva para practicar lengua en Primaria 1er ciclo.",
-    "levels": [
-      "Primaria 1er ciclo"
-    ],
-    "image": "assets/game-images/actividades-de-lengua.png",
-    "imageSource": "https://clic.xtec.cat/projects/llengso/jclic.js/index.html"
+    "url": "https://www.vedoque.com/juegos/juego.php?j=cueva-murcielagos&l=es",
+    "notes": "",
+    "image": "assets/game-images/la-cueva-de-los-murcielagos.png",
+    "imageSource": "https://www.vedoque.com/juegos/juego.php?j=cueva-murcielagos&l=es"
   }
 ]
