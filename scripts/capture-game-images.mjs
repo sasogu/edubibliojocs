@@ -271,7 +271,7 @@ async function captureScreenshot(url, outputPath, options) {
     if (options.dryRun) {
       await fs.rm(outputPath, { force: true }).catch(() => {});
     }
-    await fs.rm(tempDir, { recursive: true, force: true });
+    await fs.rm(tempDir, { recursive: true, force: true, maxRetries: 5, retryDelay: 300 });
   }
 }
 
