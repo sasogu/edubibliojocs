@@ -54,10 +54,24 @@ const AREA_MAP = [
 
 const LANG_MAP = {
   en: "Inglés", eng: "Inglés", english: "Inglés",
-  es: "Castellano", spa: "Castellano", spanish: "Castellano",
-  ca: "Català/Valencià", cat: "Català/Valencià", catalan: "Català/Valencià",
+  es: "Castellano", spa: "Castellano", spanish: "Castellano", castellano: "Castellano", castilian: "Castellano", español: "Castellano",
+  ca: "Català/Valencià", cat: "Català/Valencià", catalan: "Català/Valencià", català: "Català/Valencià", valencian: "Català/Valencià", valenciano: "Català/Valencià", valencià: "Català/Valencià",
   fr: "Francés", fre: "Francés", fra: "Francés", french: "Francés",
 };
+
+const TARGET_LANGS = new Set([
+  "es", "spa", "spanish", "castellano", "castilian", "español",
+  "ca", "cat", "catalan", "català", "valencian", "valenciano", "valencià",
+]);
+
+function isTargetLanguage(lang) {
+  if (!lang) return false;
+  const langs = Array.isArray(lang) ? lang : [lang];
+  return langs.some((l) => {
+    const n = String(l).toLowerCase().trim();
+    return TARGET_LANGS.has(n) || TARGET_LANGS.has(n.slice(0, 2));
+  });
+}
 
 const LEVEL_MAP = [
   [/preschool|kindergarten|pre.?k\b|early.child/i, ["Infantil"]],
@@ -310,6 +324,13 @@ outer: while (totalProcessed < LIMIT) {
       meta = await getItemMetadata(identifier);
     } catch (err) {
       console.warn(`\n  [SKIP] Metadata error per ${identifier}: ${err.message}`);
+      processedSet.add(identifier);
+      continue;
+    }
+
+    const metaLang = meta.metadata?.language;
+    if (!isTargetLanguage(metaLang)) {
+      process.stdout.write("·");
       processedSet.add(identifier);
       continue;
     }
