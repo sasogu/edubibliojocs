@@ -38750,5 +38750,1243 @@
     ],
     "flash": true,
     "image": "assets/game-images/archive-mv-sb-movie01.jpg"
+  },
+  {
+    "id": "generacion-formularios-google-ia",
+    "title": "Generación de formularios de Google con IA",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/formularios",
+    "notes": "Herramienta para crear formularios Google con inteligencia artificial",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/generacion-formularios-google-ia.jpg",
+    "imageSource": "https://bilateria.org/app/utils_clas/formularios"
+  },
+  {
+    "id": "navegador-repositorios-github",
+    "title": "Navegador de repositorios GitHub",
+    "area": "Informatica",
+    "language": "Castellano",
+    "url": "https://jjdeharo.github.io/app/github_navega.html",
+    "notes": "Explorar repositorios GitHub de forma visual",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/navegador-repositorios-github.jpg",
+    "imageSource": "https://jjdeharo.github.io/app/github_navega.html"
+  },
+  {
+    "id": "calculadora-intervalos-confianza-media",
+    "title": "Calculadora de intervalos de confianza de una media",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/estadistica/calculadora_ic_mitjana_app.html",
+    "notes": "Estadística: intervalos de confianza para la media aritmética",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/calculadora-intervalos-confianza-media.jpg",
+    "imageSource": "https://bilateria.org/app/estadistica/calculadora_ic_mitjana_app.html"
+  },
+  {
+    "id": "calculadora-intervalos-confianza-proporcion",
+    "title": "Calculadora de intervalos de confianza de una proporción",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/estadistica/calculadora_ic_proporcio_app.html",
+    "notes": "Estadística: intervalos de confianza para una proporción",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/calculadora-intervalos-confianza-proporcion.jpg",
+    "imageSource": "https://bilateria.org/app/estadistica/calculadora_ic_proporcio_app.html"
+  },
+  {
+    "id": "simulador-orbitas-planetarias",
+    "title": "Simulador de órbitas planetarias",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/cn/simulador_orbitas_planetarias.html",
+    "notes": "Simulador interactivo de planetas y órbitas",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/simulador-orbitas-planetarias.jpg",
+    "imageSource": "https://bilateria.org/app/cn/simulador_orbitas_planetarias.html"
+  },
+  {
+    "id": "leyes-mendel",
+    "title": "Leyes de Mendel",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/bio/leyes-mendel-app.html",
+    "notes": "Simulador de genética y herencia según las leyes de Mendel",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/leyes-mendel.jpg",
+    "imageSource": "https://bilateria.org/app/bio/leyes-mendel-app.html"
+  },
+  {
+    "id": "test-tipos-metabolicos",
+    "title": "Test de tipos metabólicos",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/bio/tipus_metabolics_app.html",
+    "notes": "Quiz sobre tipos metabólicos y fuentes de energía celular",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/test-tipos-metabolicos.jpg",
+    "imageSource": "https://bilateria.org/app/bio/tipus_metabolics_app.html"
+  },
+  {
+    "id": "clave-dicotomica-insectos",
+    "title": "Clave dicotómica de los órdenes de insectos",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://bilateria.org/docs/bilateria/clave-dicotomica-insectos.html",
+    "notes": "Identificación de insectos mediante clave dicotómica",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/clave-dicotomica-insectos.jpg",
+    "imageSource": "https://bilateria.org/docs/bilateria/clave-dicotomica-insectos.html"
+  },
+  {
+    "id": "generador-sonidos-edad",
+    "title": "Generador de sonidos por edad",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://bilateria.org/docs/bilateria/age-sound-generator.html",
+    "notes": "Test de audición y frecuencias sonoras según la edad",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/generador-sonidos-edad.jpg",
+    "imageSource": "https://bilateria.org/docs/bilateria/age-sound-generator.html"
+  },
+  {
+    "id": "asistente-diseno-experimental-ia",
+    "title": "Asistente de diseño experimental - Tutor IA",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/bio/ia_de",
+    "notes": "Tutor IA para el método científico y diseño experimental",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/asistente-diseno-experimental-ia.jpg",
+    "imageSource": "https://bilateria.org/app/bio/ia_de"
+  },
+  {
+    "id": "edimarkweb",
+    "title": "EdiMarkWeb",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://edimarkweb.github.io/",
+    "notes": "Editor Markdown y LaTeX con exportación a DOCX",
+    "levels": [
+      "Infantil",
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/edimarkweb.jpg",
+    "imageSource": "https://edimarkweb.github.io/"
+  },
+  {
+    "id": "pomodoro-app-estudiar",
+    "title": "Pomodoro App para Estudiar",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/estudio/pomodoro-app.html",
+    "notes": "Técnica Pomodoro para gestión del tiempo de estudio",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/pomodoro-app-estudiar.jpg",
+    "imageSource": "https://bilateria.org/app/estudio/pomodoro-app.html"
+  },
+  {
+    "id": "tutor-ia-bilateria",
+    "title": "Tutor IA",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/estudio/tutor_ia_estudio/",
+    "notes": "Tutor de inteligencia artificial para el estudio",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/tutor-ia-bilateria.jpg",
+    "imageSource": "https://bilateria.org/app/estudio/tutor_ia_estudio/"
+  },
+  {
+    "id": "asistente-estudio-inteligente",
+    "title": "Asistente de Estudio Inteligente",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/aeim",
+    "notes": "Asistente IA para estudio y repaso personalizado",
+    "levels": [
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "tutor-socratico-ia",
+    "title": "Tutor Socrático IA",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/estudio/socrates",
+    "notes": "Tutor IA con método socrático para comprensión lectora",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/tutor-socratico-ia.jpg",
+    "imageSource": "https://bilateria.org/app/estudio/socrates"
+  },
+  {
+    "id": "study-timer-app",
+    "title": "Study Timer App",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/estudio/study-timer-app.html",
+    "notes": "Temporizador y gestión del tiempo de estudio",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/study-timer-app.jpg",
+    "imageSource": "https://bilateria.org/app/estudio/study-timer-app.html"
+  },
+  {
+    "id": "juego-ajedrez-interactivo",
+    "title": "Juego de Ajedrez Interactivo Online",
+    "area": "Logica",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/juegos/ajedrez.html",
+    "notes": "Ajedrez interactivo, estrategia y lógica",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/juego-ajedrez-interactivo.jpg",
+    "imageSource": "https://bilateria.org/app/juegos/ajedrez.html"
+  },
+  {
+    "id": "mecanografia-app-bilateria",
+    "title": "Mecanografía App",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mecanografia/mecanografia-app.html",
+    "notes": "Práctica de mecanografía y escritura a ciegas",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/mecanografia-app-bilateria.jpg",
+    "imageSource": "https://bilateria.org/app/mecanografia/mecanografia-app.html"
+  },
+  {
+    "id": "ruleta-preguntas-ia",
+    "title": "Ruleta Interactiva de Preguntas con IA",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/apps/juegos/ruleta/",
+    "notes": "Juego de gamificación con preguntas generadas por IA",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "practica-derivada-compuesta",
+    "title": "Práctica Interactiva de Derivada Compuesta",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/deriva_composta.html",
+    "notes": "Regla de la cadena para funciones compuestas",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/practica-derivada-compuesta.jpg",
+    "imageSource": "https://bilateria.org/app/mat/deriva_composta.html"
+  },
+  {
+    "id": "practica-derivadas-simples",
+    "title": "Practica Derivadas Simples",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/deriva_simple.html",
+    "notes": "Ejercicios de derivadas simples con corrección",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/practica-derivadas-simples.jpg",
+    "imageSource": "https://bilateria.org/app/mat/deriva_simple.html"
+  },
+  {
+    "id": "derivadas-producto-cociente",
+    "title": "Derivadas de Funciones: Producto y Cociente",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/deriva_mult_div.html",
+    "notes": "Regla del producto y del cociente en derivadas",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/derivadas-producto-cociente.jpg",
+    "imageSource": "https://bilateria.org/app/mat/deriva_mult_div.html"
+  },
+  {
+    "id": "practicador-derivadas",
+    "title": "Practicador de Derivadas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/derivades-app.html",
+    "notes": "Práctica completa de derivadas y cálculo de funciones",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/practicador-derivadas.jpg",
+    "imageSource": "https://bilateria.org/app/mat/derivades-app.html"
+  },
+  {
+    "id": "calculadora-tasa-variacion-media",
+    "title": "Calculadora y Visualizador de Tasa de Variación Media",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/tvm-app.html",
+    "notes": "Visualización de la tasa de variación media de funciones",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/calculadora-tasa-variacion-media.jpg",
+    "imageSource": "https://bilateria.org/app/mat/tvm-app.html"
+  },
+  {
+    "id": "edicuatex-editor-matematico",
+    "title": "Edicuatex - Editor de ejercicios matemáticos",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://edicuatex.github.io/",
+    "notes": "Editor LaTeX para crear ejercicios y fórmulas matemáticas",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/edicuatex-editor-matematico.jpg",
+    "imageSource": "https://edicuatex.github.io/"
+  },
+  {
+    "id": "simulador-convergencia-media",
+    "title": "Simulador de la Convergencia de la Media",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/estadistica/convergencia-media.html",
+    "notes": "Estadística: ley de los grandes números y convergencia",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/simulador-convergencia-media.jpg",
+    "imageSource": "https://bilateria.org/app/estadistica/convergencia-media.html"
+  },
+  {
+    "id": "visualizador-asintotas-funciones",
+    "title": "Visualizador Interactivo de Asíntotas de Funciones",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/asintotas/asintotas-app.html",
+    "notes": "Análisis gráfico de asíntotas de funciones",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/visualizador-asintotas-funciones.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/asintotas/asintotas-app.html"
+  },
+  {
+    "id": "ejercicios-dominio-funciones-logaritmicas",
+    "title": "Ejercicios Interactivos de Dominio de Funciones Logarítmicas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/domini_funcions_logaritmiques.html",
+    "notes": "Dominio de funciones logarítmicas",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/ejercicios-dominio-funciones-logaritmicas.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/domini_funcions_logaritmiques.html"
+  },
+  {
+    "id": "calculador-dominio-funciones-racionales",
+    "title": "Calculador de Dominio de Funciones Racionales",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/domni_racionals_app.html",
+    "notes": "Dominio de funciones racionales",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/calculador-dominio-funciones-racionales.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/domni_racionals_app.html"
+  },
+  {
+    "id": "practica-monotonia-funciones-exponenciales",
+    "title": "Práctica Interactiva: Monotonía de Funciones Exponenciales",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/monotonia/practica_monotonia_exponencials_app.html",
+    "notes": "Monotonía de funciones exponenciales",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/practica-monotonia-funciones-exponenciales.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/monotonia/practica_monotonia_exponencials_app.html"
+  },
+  {
+    "id": "practica-monotonia-funciones-logaritmicas",
+    "title": "Práctica de Monotonía en Funciones Logarítmicas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/monotonia/practica_monotonia_logaritmiques.html",
+    "notes": "Monotonía de funciones logarítmicas",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/practica-monotonia-funciones-logaritmicas.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/monotonia/practica_monotonia_logaritmiques.html"
+  },
+  {
+    "id": "practica-monotonia-funciones-polinomicas",
+    "title": "Practica la Monotonía de Funciones Polinómicas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/monotonia/practica_monotonia_polinomis_app.html",
+    "notes": "Monotonía de funciones polinómicas",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/practica-monotonia-funciones-polinomicas.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/monotonia/practica_monotonia_polinomis_app.html"
+  },
+  {
+    "id": "practica-monotonia-funciones-racionales",
+    "title": "Práctica de Monotonía de Funciones Racionales",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/monotonia/practica_monotonia_racionals_app.html",
+    "notes": "Monotonía de funciones racionales",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/practica-monotonia-funciones-racionales.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/monotonia/practica_monotonia_racionals_app.html"
+  },
+  {
+    "id": "signo-funciones-exponenciales",
+    "title": "Signo de Funciones Exponenciales - Simulador Interactivo",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/signos/signes_funcions_exponencials_app.html",
+    "notes": "Signo de funciones exponenciales",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/signo-funciones-exponenciales.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/signos/signes_funcions_exponencials_app.html"
+  },
+  {
+    "id": "visualizador-signo-funciones-logaritmicas",
+    "title": "Visualizador Interactivo del Signo de Funciones Logarítmicas",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/signos/signes_funcions_logaritmiques.html",
+    "notes": "Signo de funciones logarítmicas",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/visualizador-signo-funciones-logaritmicas.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/signos/signes_funcions_logaritmiques.html"
+  },
+  {
+    "id": "explorador-signos-polinomios",
+    "title": "Explorador Interactivo de Signos de Polinomios",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/signos/signes_polinomis_app.html",
+    "notes": "Signos, raíces e intervalos de polinomios",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/explorador-signos-polinomios.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/signos/signes_polinomis_app.html"
+  },
+  {
+    "id": "analisis-signo-funciones-racionales",
+    "title": "Análisis del Signo de Funciones Racionales",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/funciones/signos/signes_funcions_racionals_app.html",
+    "notes": "Signo de funciones racionales y desigualdades",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/analisis-signo-funciones-racionales.jpg",
+    "imageSource": "https://bilateria.org/app/mat/funciones/signos/signes_funcions_racionals_app.html"
+  },
+  {
+    "id": "escape-room-descubre-ermita",
+    "title": "Escape Room Digital: Descubre la Ermita",
+    "area": "Ciencias Sociales",
+    "language": "Castellano",
+    "url": "https://felipsarroca.github.io/ScapeRoomErmita/",
+    "notes": "Patrimonio, historia y arte local",
+    "levels": [
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "joc-cooperatives",
+    "title": "Joc de les Cooperatives",
+    "area": "Ciencias Sociales",
+    "language": "Català/Valencià",
+    "url": "https://joc-cooperatives.lovable.app/",
+    "notes": "Joc sobre economia cooperativa",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/joc-cooperatives.jpg",
+    "imageSource": "https://joc-cooperatives.lovable.app/"
+  },
+  {
+    "id": "joc-ia-4x15",
+    "title": "4x15: Joc de la IA",
+    "area": "Tecnología",
+    "language": "Castellano",
+    "url": "https://felipsarroca.github.io/4x15-Joc-IA/",
+    "notes": "Juego sobre inteligencia artificial",
+    "levels": [
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "slitherlink-puzzle",
+    "title": "SlitherLink Puzzle",
+    "area": "Logica",
+    "language": "Castellano",
+    "url": "https://felipsarroca.github.io/SlitherLink/",
+    "notes": "Puzzle de lógica tipo Slitherlink",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "juego-marcos-ia-educacion",
+    "title": "Juego sobre los Marcos de integración de la IA en educación",
+    "area": "Tecnología",
+    "language": "Castellano",
+    "url": "https://felipsarroca.github.io/Joc-Marc-IA/",
+    "notes": "DigComp, SAMR y marcos de integración de la IA en educación",
+    "levels": [
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "juego-gusano-computacional",
+    "title": "Juego del Gusano Computacional",
+    "area": "Tecnología",
+    "language": "Català/Valencià",
+    "url": "https://calcul.my.canva.site/joc-cuc-computacional",
+    "notes": "Pensamiento computacional y programación",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/juego-gusano-computacional.jpg",
+    "imageSource": "https://calcul.my.canva.site/joc-cuc-computacional"
+  },
+  {
+    "id": "ajuste-reacciones-quimicas",
+    "title": "Ajuste de reacciones químicas",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://eboixader.github.io/ajustreasheet/",
+    "notes": "Ejercicio interactivo de ajuste de ecuaciones químicas",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/ajuste-reacciones-quimicas.jpg",
+    "imageSource": "https://eboixader.github.io/ajustreasheet/"
+  },
+  {
+    "id": "biologia-espacial",
+    "title": "Biologia Espacial",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://eboixader.github.io/prueba/",
+    "notes": "Juego de biología en contexto espacial",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/biologia-espacial.jpg",
+    "imageSource": "https://eboixader.github.io/prueba/"
+  },
+  {
+    "id": "telar-cuentos",
+    "title": "El telar de los cuentos",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://g.co/gemini/share/75d620a171c7",
+    "notes": "Creación de cuentos con IA",
+    "levels": [
+      "Infantil",
+      "Primaria"
+    ],
+    "image": "assets/game-images/telar-cuentos.jpg",
+    "imageSource": "https://g.co/gemini/share/75d620a171c7"
+  },
+  {
+    "id": "tutor-ia-teorema-bayes",
+    "title": "Tutor IA: Teorema de Bayes",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/probabilidad/bayes",
+    "notes": "Probabilidad y Teorema de Bayes con tutor IA",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/tutor-ia-teorema-bayes.jpg",
+    "imageSource": "https://bilateria.org/app/probabilidad/bayes"
+  },
+  {
+    "id": "simulador-distribucion-binomial",
+    "title": "Simulador Interactivo de Distribución Binomial",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/probabilidad/distribucio_binomial_app.html",
+    "notes": "Distribución binomial y probabilidad",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/simulador-distribucion-binomial.jpg",
+    "imageSource": "https://bilateria.org/app/probabilidad/distribucio_binomial_app.html"
+  },
+  {
+    "id": "simulador-distribucion-normal",
+    "title": "Simulador de Distribución Normal",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/probabilidad/distribucion-normal.html",
+    "notes": "Distribución normal y probabilidad",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/simulador-distribucion-normal.jpg",
+    "imageSource": "https://bilateria.org/app/probabilidad/distribucion-normal.html"
+  },
+  {
+    "id": "explorador-teorema-bayes",
+    "title": "Explorador Interactivo del Teorema de Bayes",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/probabilidad/bayes_app.html",
+    "notes": "Visualización del Teorema de Bayes",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/explorador-teorema-bayes.jpg",
+    "imageSource": "https://bilateria.org/app/probabilidad/bayes_app.html"
+  },
+  {
+    "id": "simulador-probabilidad-total",
+    "title": "Simulador de Probabilidad Total",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/probabilidad/probabilidad_total_app.html",
+    "notes": "Teorema de Probabilidad Total",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/simulador-probabilidad-total.jpg",
+    "imageSource": "https://bilateria.org/app/probabilidad/probabilidad_total_app.html"
+  },
+  {
+    "id": "resolucion-sistemas-ecuaciones-lineales",
+    "title": "Resolución Interactiva de Sistemas de Ecuaciones Lineales",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/sistemes-equacions-final.html",
+    "notes": "Sistemas de ecuaciones paso a paso",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/resolucion-sistemas-ecuaciones-lineales.jpg",
+    "imageSource": "https://bilateria.org/app/mat/sistemes-equacions-final.html"
+  },
+  {
+    "id": "resolucion-sistemas-ecuaciones",
+    "title": "Resolución de Sistemas de Ecuaciones",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/sistemes_app.html",
+    "notes": "Álgebra lineal: sistemas de ecuaciones",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/resolucion-sistemas-ecuaciones.jpg",
+    "imageSource": "https://bilateria.org/app/mat/sistemes_app.html"
+  },
+  {
+    "id": "keytrainer-mecanografia",
+    "title": "KeyTrainer - Práctica de mecanografía",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mecanografia/keytrainer.html",
+    "notes": "Mecanografía, velocidad y precisión de escritura",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/keytrainer-mecanografia.jpg",
+    "imageSource": "https://bilateria.org/app/mecanografia/keytrainer.html"
+  },
+  {
+    "id": "calendario-ods",
+    "title": "Calendario ODS",
+    "area": "Ciencias Sociales",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/ods/",
+    "notes": "Objetivos de Desarrollo Sostenible y calendario de efemérides",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/calendario-ods.jpg",
+    "imageSource": "https://bilateria.org/app/ods/"
+  },
+  {
+    "id": "comparador-chatbots-gratuitos",
+    "title": "Comparador interactivo de chatbots gratuitos",
+    "area": "Tecnología",
+    "language": "Castellano",
+    "url": "https://bilateria.org/docs/bilateria/comparacion_chatbots.html",
+    "notes": "Comparación de chatbots de IA gratuitos",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/comparador-chatbots-gratuitos.jpg",
+    "imageSource": "https://bilateria.org/docs/bilateria/comparacion_chatbots.html"
+  },
+  {
+    "id": "multiprompt",
+    "title": "Multiprompt",
+    "area": "Tecnología",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_IA/multiprompt.html",
+    "notes": "Envío de prompts a varios chatbots de IA simultáneamente",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/multiprompt.jpg",
+    "imageSource": "https://bilateria.org/app/utils_IA/multiprompt.html"
+  },
+  {
+    "id": "editor-json-web",
+    "title": "Editor JSON Web Interactivo",
+    "area": "Informatica",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_infor/json-editor.html",
+    "notes": "Editor visual de datos JSON",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/editor-json-web.jpg",
+    "imageSource": "https://bilateria.org/app/utils_infor/json-editor.html"
+  },
+  {
+    "id": "generador-enlaces-google-drive",
+    "title": "Generador de enlaces de Google Drive",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://jjdeharo.github.io/labia/utils_inf/generador_enlaces_google.html",
+    "notes": "Genera enlaces directos de descarga de Google Drive",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/generador-enlaces-google-drive.jpg",
+    "imageSource": "https://jjdeharo.github.io/labia/utils_inf/generador_enlaces_google.html"
+  },
+  {
+    "id": "selector-colores",
+    "title": "Selector de Colores",
+    "area": "Artes",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_infor/color-selector.html",
+    "notes": "Selector de colores RGB, Hex y HSL",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/selector-colores.jpg",
+    "imageSource": "https://bilateria.org/app/utils_infor/color-selector.html"
+  },
+  {
+    "id": "contador-regresivo-tempocero",
+    "title": "Contador Regresivo TempoCero",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/contador-regresivo.html",
+    "notes": "Contador regresivo y temporizador para el aula",
+    "levels": [
+      "Infantil",
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/contador-regresivo-tempocero.jpg",
+    "imageSource": "https://bilateria.org/app/utils_clas/contador-regresivo.html"
+  },
+  {
+    "id": "generador-grupos-aleatorios-gag",
+    "title": "Generador aleatorio de grupos (GAG)",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/generador_aleatorio_grupos.html",
+    "notes": "Generador de grupos de trabajo al azar",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/generador-grupos-aleatorios-gag.jpg",
+    "imageSource": "https://bilateria.org/app/utils_clas/generador_aleatorio_grupos.html"
+  },
+  {
+    "id": "geco-generador-equipos-cooperativos",
+    "title": "GeCo - Generador de Equipos Cooperativos",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/geco/",
+    "notes": "Generador de equipos de aprendizaje cooperativo",
+    "levels": [
+      "Infantil",
+      "Primaria",
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "lanzador-dados",
+    "title": "Lanzador de dados",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/dados-juego.html",
+    "notes": "Simulación de dados para probabilidad",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/lanzador-dados.jpg",
+    "imageSource": "https://bilateria.org/app/utils_clas/dados-juego.html"
+  },
+  {
+    "id": "generador-parejas-aleatorias",
+    "title": "Generador de Parejas Aleatorias",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/Parejas%20Aleatorias",
+    "notes": "Emparejamiento aleatorio de alumnos",
+    "levels": [
+      "Infantil",
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/generador-parejas-aleatorias.jpg",
+    "imageSource": "https://bilateria.org/app/utils_clas/Parejas%20Aleatorias"
+  },
+  {
+    "id": "simulacion-presion-osmotica",
+    "title": "Simulación de Presión Osmótica",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/bio/osmosis-simulation.html",
+    "notes": "Simulador de ósmosis y presión osmótica",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/simulacion-presion-osmotica.jpg",
+    "imageSource": "https://bilateria.org/app/bio/osmosis-simulation.html"
+  },
+  {
+    "id": "rubrica-interactiva",
+    "title": "Rúbrica interactiva",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/rubrica-interactiva.html",
+    "notes": "Creación y uso de rúbricas de evaluación",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/rubrica-interactiva.jpg",
+    "imageSource": "https://bilateria.org/app/utils_clas/rubrica-interactiva.html"
+  },
+  {
+    "id": "selector-aleatorio-nombres",
+    "title": "Selector aleatorio de nombres",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/selector_aleatorio_nombres.html",
+    "notes": "Sorteo aleatorio de nombres en el aula",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/selector-aleatorio-nombres.jpg",
+    "imageSource": "https://bilateria.org/app/utils_clas/selector_aleatorio_nombres.html"
+  },
+  {
+    "id": "generador-codigos-qr",
+    "title": "Generador de códigos QR online",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_clas/qr.html",
+    "notes": "Generador de códigos QR para el aula",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/generador-codigos-qr.jpg",
+    "imageSource": "https://bilateria.org/app/utils_clas/qr.html"
+  },
+  {
+    "id": "calculadora-entropia-lexico",
+    "title": "Calculadora de Entropía, Redundancia y Densidad del Léxico",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://jjdeharo.github.io/utilidades/entropia/",
+    "notes": "Análisis léxico y DUA: entropía y redundancia de textos",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/calculadora-entropia-lexico.jpg",
+    "imageSource": "https://jjdeharo.github.io/utilidades/entropia/"
+  },
+  {
+    "id": "analizador-legibilidad-textos",
+    "title": "Analizador de Legibilidad de Textos",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://jjdeharo.github.io/utilidades/legibilidad/",
+    "notes": "DUA: análisis de legibilidad y accesibilidad de textos",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/analizador-legibilidad-textos.jpg",
+    "imageSource": "https://jjdeharo.github.io/utilidades/legibilidad/"
+  },
+  {
+    "id": "contador-caracteres-palabras",
+    "title": "Contador de caracteres, palabras y bytes",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_text/contador_palabras.html",
+    "notes": "Contar palabras, caracteres y bytes de un texto",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/contador-caracteres-palabras.jpg",
+    "imageSource": "https://bilateria.org/app/utils_text/contador_palabras.html"
+  },
+  {
+    "id": "generador-nubes-palabras",
+    "title": "Generador de Nubes de Palabras",
+    "area": "Lengua",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/utils_text/nube-palabras.html",
+    "notes": "Visualización de textos en nube de palabras",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/generador-nubes-palabras.jpg",
+    "imageSource": "https://bilateria.org/app/utils_text/nube-palabras.html"
+  },
+  {
+    "id": "simulador-solido-fq",
+    "title": "Simulador de sólido (Física y Química)",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://onio72.github.io/tcm/FQ2_simulador_materia_v12.html",
+    "notes": "Teoría cinético-molecular: comportamiento del sólido",
+    "levels": [
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "desafio-tabla-periodica",
+    "title": "Desafío de la Tabla Periódica",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://eboixader.github.io/tabla-periodica/",
+    "notes": "Juego de la tabla periódica de los elementos",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/desafio-tabla-periodica.jpg",
+    "imageSource": "https://eboixader.github.io/tabla-periodica/"
+  },
+  {
+    "id": "desafio-grupos-sanguineos",
+    "title": "Desafío de los Grupos Sanguíneos",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://eboixader.github.io/grupossangre/",
+    "notes": "Biología: grupos sanguíneos y compatibilidad",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/desafio-grupos-sanguineos.jpg",
+    "imageSource": "https://eboixader.github.io/grupossangre/"
+  },
+  {
+    "id": "laboratorio-reactivo-limitante",
+    "title": "Laboratorio del reactivo limitante",
+    "area": "Ciencias Naturales",
+    "language": "Castellano",
+    "url": "https://eboixader.github.io/reactlim/",
+    "notes": "Química: reacciones químicas y reactivo limitante",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/laboratorio-reactivo-limitante.jpg",
+    "imageSource": "https://eboixader.github.io/reactlim/"
+  },
+  {
+    "id": "quien-sabe-que",
+    "title": "¿Quién Sabe Qué?",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://g.co/gemini/share/51cbe3956ee4",
+    "notes": "Generador de preguntas con respuesta múltiple mediante IA",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/quien-sabe-que.jpg",
+    "imageSource": "https://g.co/gemini/share/51cbe3956ee4"
+  },
+  {
+    "id": "limpia-el-tablero",
+    "title": "Limpia el Tablero",
+    "area": "Logica",
+    "language": "Castellano",
+    "url": "https://raultorres-ia.github.io/apps/neteja_tauler/neteja_tauler.html",
+    "notes": "Juego de velocidad de reacción y reflejos",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/limpia-el-tablero.jpg",
+    "imageSource": "https://raultorres-ia.github.io/apps/neteja_tauler/neteja_tauler.html"
+  },
+  {
+    "id": "sudoku-divertido",
+    "title": "Sudoku Divertido",
+    "area": "Logica",
+    "language": "Català/Valencià",
+    "url": "https://raultorres-ia.github.io/apps/sudoku_divertit/sudoku_divertit.html",
+    "notes": "Sudoku interactivo",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/sudoku-divertido.jpg",
+    "imageSource": "https://raultorres-ia.github.io/apps/sudoku_divertit/sudoku_divertit.html"
+  },
+  {
+    "id": "memoria-flechas",
+    "title": "Memoria de flechas",
+    "area": "Logica",
+    "language": "Castellano",
+    "url": "https://raultorres-ia.github.io/apps/memoria_fletxes/memoria_fletxes.html",
+    "notes": "Juego de memoria visual y secuencias",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/memoria-flechas.jpg",
+    "imageSource": "https://raultorres-ia.github.io/apps/memoria_fletxes/memoria_fletxes.html"
+  },
+  {
+    "id": "generador-sudokus",
+    "title": "Generador de Sudokus",
+    "area": "Logica",
+    "language": "Castellano",
+    "url": "https://raultorres-ia.github.io/apps/generador_sudokus/generador_sudokus.html",
+    "notes": "Generador de puzzles Sudoku",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/generador-sudokus.jpg",
+    "imageSource": "https://raultorres-ia.github.io/apps/generador_sudokus/generador_sudokus.html"
+  },
+  {
+    "id": "robo-detective",
+    "title": "Robo-Detective",
+    "area": "Tecnología",
+    "language": "Castellano",
+    "url": "https://raultorres-ia.github.io/apps/robo_detectiu/robo_detectiu.html",
+    "notes": "Programación y robótica: lógica de movimiento",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/robo-detective.jpg",
+    "imageSource": "https://raultorres-ia.github.io/apps/robo_detectiu/robo_detectiu.html"
+  },
+  {
+    "id": "cruza-la-calle",
+    "title": "Cruza la calle",
+    "area": "Tecnología",
+    "language": "Castellano",
+    "url": "https://raultorres-ia.github.io/apps/creua_carrer/creua_carrer.html",
+    "notes": "Programación: lógica y colisiones",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/cruza-la-calle.jpg",
+    "imageSource": "https://raultorres-ia.github.io/apps/creua_carrer/creua_carrer.html"
+  },
+  {
+    "id": "rueda-palabras-ia",
+    "title": "Rueda de palabras IA",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/juegos/rueda",
+    "notes": "Juego de palabras con preguntas generadas por IA",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/rueda-palabras-ia.jpg",
+    "imageSource": "https://bilateria.org/app/juegos/rueda"
+  },
+  {
+    "id": "gran-reto-ia",
+    "title": "El gran reto (versión integral con IA)",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/juegos/reto/",
+    "notes": "Quiz y gamificación con generador de preguntas IA",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ]
+  },
+  {
+    "id": "gran-reto",
+    "title": "El gran reto",
+    "area": "General",
+    "language": "Castellano",
+    "url": "https://jjdeharo.github.io/millonario/",
+    "notes": "Quiz educativo tipo ¿Quién quiere ser millonario?",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/gran-reto.jpg",
+    "imageSource": "https://jjdeharo.github.io/millonario/"
+  },
+  {
+    "id": "diagrama-voronoi-interactivo",
+    "title": "Diagrama de Voronoi Interactivo",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://bilateria.org/app/mat/voronoi.html",
+    "notes": "Geometría computacional: diagramas de Voronoi",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/diagrama-voronoi-interactivo.jpg",
+    "imageSource": "https://bilateria.org/app/mat/voronoi.html"
+  },
+  {
+    "id": "minimo-comun-multiplo",
+    "title": "Mínimo Común Múltiplo (MCM)",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://emmarin04.github.io/MCM/",
+    "notes": "Cálculo del mínimo común múltiplo",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/minimo-comun-multiplo.jpg",
+    "imageSource": "https://emmarin04.github.io/MCM/"
+  },
+  {
+    "id": "quien-quiere-ser-millonario-funcion-lineal",
+    "title": "¿Quién quiere Ser Millonario? Función Lineal",
+    "area": "Matematicas",
+    "language": "Castellano",
+    "url": "https://emmarin04.github.io/Juego_Millonario/",
+    "notes": "Quiz sobre función lineal al estilo ¿Quién quiere ser millonario?",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/quien-quiere-ser-millonario-funcion-lineal.jpg",
+    "imageSource": "https://emmarin04.github.io/Juego_Millonario/"
+  },
+  {
+    "id": "puzle-deslizante",
+    "title": "Puzle Deslizante",
+    "area": "Tecnología",
+    "language": "Castellano",
+    "url": "https://raultorres-ia.github.io/apps/trencaclosques_robot/trencaclosques.html",
+    "notes": "Programación visual y robótica con puzle deslizante",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/puzle-deslizante.jpg",
+    "imageSource": "https://raultorres-ia.github.io/apps/trencaclosques_robot/trencaclosques.html"
+  },
+  {
+    "id": "por-orden-a-la-escala",
+    "title": "Por orden a la escala",
+    "area": "Musica",
+    "language": "Castellano",
+    "url": "https://gemini.google.com/share/95dff442f3b8",
+    "notes": "Escalas musicales y teoría musical",
+    "levels": [
+      "Primaria",
+      "Secundaria"
+    ],
+    "image": "assets/game-images/por-orden-a-la-escala.jpg",
+    "imageSource": "https://gemini.google.com/share/95dff442f3b8"
+  },
+  {
+    "id": "constructor-acordes",
+    "title": "Constructor de Acordes",
+    "area": "Musica",
+    "language": "Castellano",
+    "url": "https://g.co/gemini/share/d6b18d575911",
+    "notes": "Armonía y lenguaje musical: construcción de acordes",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/constructor-acordes.jpg",
+    "imageSource": "https://g.co/gemini/share/d6b18d575911"
+  },
+  {
+    "id": "danos-la-nota",
+    "title": "Danos la nota",
+    "area": "Musica",
+    "language": "Castellano",
+    "url": "https://chatgpt.com/g/g-aO0m7seIF-danos-la-nota-3o-eso",
+    "notes": "Tutor IA para análisis musical",
+    "levels": [
+      "Secundaria"
+    ],
+    "image": "assets/game-images/danos-la-nota.jpg",
+    "imageSource": "https://chatgpt.com/g/g-aO0m7seIF-danos-la-nota-3o-eso"
   }
 ]

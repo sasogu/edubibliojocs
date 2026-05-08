@@ -1,6 +1,6 @@
 # Bibliojocs: un directori de jocs educatius per a Infantil, Primària i Secundària
 
-Bibliojocs és una aplicació web gratuïta que reuneix més de **2.700 activitats educatives** seleccionades per a Infantil, Primària i Secundària. L'objectiu és senzill: que el docent o la família trobi l'activitat perfecta en el menor temps possible, sense registres obligatoris ni distraccions.
+Bibliojocs és una aplicació web gratuïta que reuneix més de **3.000 activitats educatives** seleccionades per a Infantil, Primària i Secundària. L'objectiu és senzill: que el docent o la família trobi l'activitat perfecta en el menor temps possible, sense registres obligatoris ni distraccions.
 
 ---
 
@@ -53,6 +53,21 @@ Gràcies a aquests filtres, l'administrador pot revisar, validar i eliminar recu
 
 ---
 
+## Aplicacions creades per docents amb IA
+
+Bibliojocs incorpora ara el catàleg de **[Vibe Coding Educativo](https://vibe-coding-educativo.github.io/app_edu/)**, una comunitat de docents que creen aplicacions educatives amb eines d'IA com Gemini, Claude i ChatGPT. S'hi han afegit **96 activitats** distribuïdes per matèries:
+
+- **Matemàtiques** (31): derivades, funcions, probabilitat, estadística, sistemes d'equacions
+- **Ciències Naturals** (15): biologia, química, física i simuladors de laboratori
+- **General / Eines docents** (20): tutors IA, temporitzadors, generadors de grups
+- **Tecnologia** (8): programació, robòtica, IA i eines digitals
+- **Llengua** (7): mecanografia, anàlisi textual, núvols de paraules
+- **Lògica** (6): escacs, Sudoku, puzzles, memòria visual
+- **Ciències Socials** (3): ODS, cooperatives, escape room patrimonial
+- **Música** (3): escales, acords, anàlisi musical
+
+---
+
 ## Qualitat dels enllaços verificada automàticament
 
 Un script analitza periòdicament tots els URL del catàleg i genera un informe amb l'estat HTTP de cada recurs. La interfície reflecteix aquest estat directament a cada targeta: **OK**, **Avís** o **Incidència**. Quan hi ha errors, una franja informativa a la part superior de la pàgina resumeix l'estat general del catàleg.
@@ -69,8 +84,8 @@ Bibliojocs inclou un **Service Worker** que emmagatzema en caché els recursos e
 
 | | |
 |---|---|
-| Total d'activitats | 2.705 |
-| Activitats amb imatge | 1.561 |
+| Total d'activitats | 3.004 |
+| Activitats amb imatge | 2.876 |
 | Etapes educatives | Infantil, Primària (3 cicles), Secundària |
 | Àrees curriculars | 22 |
 | Idiomes | 5 (castellà, català/valencià, anglès, francès, aranès) |
