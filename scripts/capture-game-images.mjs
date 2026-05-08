@@ -98,6 +98,7 @@ function parseArgs(argv) {
     offset: 0,
     ids: new Set(),
     host: "",
+    source: "",
     width: 1280,
     height: 720,
     delayMs: 5000,
@@ -138,6 +139,10 @@ function parseArgs(argv) {
       out.host = String(argv[++index] || "").trim().toLowerCase();
       continue;
     }
+    if (arg === "--source") {
+      out.source = String(argv[++index] || "").trim().toLowerCase();
+      continue;
+    }
     if (arg === "--width") {
       out.width = parsePositiveInt(argv[++index], "width");
       continue;
@@ -176,6 +181,7 @@ Opciones:
   --offset N      Salta los primeros N candidatos
   --id ID         Captura solo un juego concreto; se puede repetir
   --host HOST     Filtra por dominio de la URL
+  --source SRC    Filtra por campo source (ej. edu365, jclic)
   --all           Incluye juegos que ya tienen campo image
   --force         Sobrescribe capturas y reasigna image
   --dry-run       No modifica games.json
@@ -220,6 +226,12 @@ function selectGames(games, options) {
         return false;
       }
     });
+  }
+
+  if (options.source) {
+    selected = selected.filter((game) =>
+      String(game.source || "").toLowerCase() === options.source
+    );
   }
 
   if (options.offset) {
