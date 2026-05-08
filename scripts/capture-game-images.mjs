@@ -249,7 +249,8 @@ async function captureScreenshot(url, outputPath, options) {
       url
     ];
 
-    const result = await runCommand(browserPath, args);
+    const chromeTimeoutMs = options.delayMs + 20000;
+    const result = await runCommand(browserPath, args, chromeTimeoutMs);
     if (result.code !== 0) {
       return {
         ok: false,
@@ -307,7 +308,7 @@ async function checkUrlReachable(url, options) {
   }
 }
 
-function runCommand(command, args) {
+function runCommand(command, args, timeoutMs = 0) {
   return new Promise((resolve) => {
     const child = spawn(command, args, {
       stdio: ["ignore", "pipe", "pipe"]
@@ -315,30 +316,26 @@ function runCommand(command, args) {
 
     let stdout = "";
     let stderr = "";
+    let settled = false;
 
-    child.stdout.on("data", (chunk) => {
-      stdout += String(chunk);
-    });
+    const finish = (code, extraStderr = "") => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timer);
+      resolve({ code: Number(code), stdout, stderr: stderr + extraStderr });
+    };
 
-    child.stderr.on("data", (chunk) => {
-      stderr += String(chunk);
-    });
+    const timer = timeoutMs > 0
+      ? setTimeout(() => {
+          child.kill("SIGKILL");
+          finish(-1, "timeout: proceso terminado por exceder el limite de tiempo");
+        }, timeoutMs)
+      : null;
 
-    child.on("error", (error) => {
-      resolve({
-        code: -1,
-        stdout,
-        stderr: error.message
-      });
-    });
-
-    child.on("close", (code) => {
-      resolve({
-        code: Number(code),
-        stdout,
-        stderr
-      });
-    });
+    child.stdout.on("data", (chunk) => { stdout += String(chunk); });
+    child.stderr.on("data", (chunk) => { stderr += String(chunk); });
+    child.on("error", (error) => finish(-1, error.message));
+    child.on("close", (code) => finish(code));
   });
 }
 
