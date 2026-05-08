@@ -842,8 +842,23 @@ async function setRatingPreference(gameKeyValue, requestedRating) {
     return next;
   }
 
-  const { auth, db, doc, runTransaction, serverTimestamp } = state.firebase;
-  const uid = auth.currentUser?.uid;
+  const { auth, db, doc, runTransaction, serverTimestamp, signInAnonymously } = state.firebase;
+  let uid = auth.currentUser?.uid;
+  if (!uid) {
+    try {
+      const result = await signInAnonymously(auth);
+      uid = result.user?.uid;
+    } catch {
+      // Firebase Anonymous Auth no disponible; guardar solo en local
+      if (next > 0) {
+        state.userRatings.set(gameKeyValue, next);
+      } else {
+        state.userRatings.delete(gameKeyValue);
+      }
+      persistLocalRatings();
+      return next;
+    }
+  }
   if (!uid) {
     return current;
   }
