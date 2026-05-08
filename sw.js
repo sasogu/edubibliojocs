@@ -1,4 +1,4 @@
-const CACHE_NAME = "bibliojocs-v0.9.12";
+const CACHE_NAME = "bibliojocs-v0.9.18";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -63,7 +63,12 @@ self.addEventListener("fetch", (event) => {
     return;
   }
 
-  if (url.pathname.endsWith("/data/games-home.json") || url.pathname.endsWith("/data/games.json") || url.pathname.endsWith("/reports/link-report.json")) {
+  if (url.pathname.endsWith("/data/games-home.json")) {
+    event.respondWith(staleWhileRevalidate(request));
+    return;
+  }
+
+  if (url.pathname.endsWith("/data/games.json") || url.pathname.endsWith("/reports/link-report.json")) {
     event.respondWith(networkFirst(request));
     return;
   }
@@ -81,6 +86,16 @@ async function cacheFirst(request) {
   const cache = await caches.open(CACHE_NAME);
   cache.put(request, response.clone());
   return response;
+}
+
+async function staleWhileRevalidate(request) {
+  const cache = await caches.open(CACHE_NAME);
+  const cached = await cache.match(request);
+  const networkFetch = fetch(request).then((response) => {
+    cache.put(request, response.clone());
+    return response;
+  });
+  return cached ?? await networkFetch;
 }
 
 async function networkFirst(request) {
