@@ -480,7 +480,9 @@ function render() {
     const filterRating = getRatingForFilter(key);
     const gameLevels = game.levels || (game.level ? [game.level] : []);
     const brokenData = state.brokenSummary.get(key);
-    const isBroken = (brokenData?.count || 0) >= REPORT_THRESHOLD || Boolean(brokenData?.adminReported);
+    const reportItem = state.reportByUrl.get(normalizeUrl(game.url));
+    const brokenByReport = reportItem != null && !reportItem.ok && reportItem.severity === "error";
+    const isBroken = (brokenData?.count || 0) >= REPORT_THRESHOLD || Boolean(brokenData?.adminReported) || brokenByReport;
 
     const hasReports = (brokenData?.count || 0) >= 1;
 
