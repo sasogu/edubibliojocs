@@ -86,6 +86,7 @@ async function boot() {
   updatePreferencesNote();
   updateLangButtons();
   wireEvents();
+  readFiltersFromUrl();
   render();
 
   // Fase 2: càrrega completa en segon pla (no bloqueja la UI)
@@ -227,12 +228,16 @@ function allGames() {
 
 function hydrateFilterOptions() {
   const games = allGames();
+  const saved = { level: levelFilter.value, language: languageFilter.value, area: areaFilter.value };
   clearSelect(levelFilter);
   clearSelect(languageFilter);
   clearSelect(areaFilter);
   fillSelect(levelFilter, uniqueLevelValues(games), levelLabel);
   fillSelect(languageFilter, uniqueLanguageValues(games), languageLabel);
   fillSelect(areaFilter, uniqueValues(games, "area"), areaLabel);
+  levelFilter.value = saved.level;
+  languageFilter.value = saved.language;
+  areaFilter.value = saved.area;
 }
 
 function clearSelect(select) {
@@ -285,6 +290,31 @@ function gameLanguages(game) {
 function gameLanguageText(game) {
   const languages = gameLanguages(game);
   return languages.length > 0 ? languages.map(languageLabel).join(", ") : "";
+}
+
+function readFiltersFromUrl() {
+  const params = new URLSearchParams(location.search);
+  if (params.has("q")) searchInput.value = params.get("q");
+  if (params.has("level")) levelFilter.value = params.get("level");
+  if (params.has("lang")) languageFilter.value = params.get("lang");
+  if (params.has("area")) areaFilter.value = params.get("area");
+  if (params.has("rating")) ratingFilter.value = params.get("rating");
+  if (params.get("fav") === "1") favoritesOnly.checked = true;
+}
+
+function syncFiltersToUrl() {
+  const params = new URLSearchParams();
+  const q = searchInput.value.trim();
+  if (q) params.set("q", q);
+  if (levelFilter.value) params.set("level", levelFilter.value);
+  if (languageFilter.value) params.set("lang", languageFilter.value);
+  if (areaFilter.value) params.set("area", areaFilter.value);
+  if (ratingFilter.value && ratingFilter.value !== "0") params.set("rating", ratingFilter.value);
+  if (favoritesOnly.checked) params.set("fav", "1");
+  const qs = params.toString();
+  const newUrl = qs ? `${location.pathname}?${qs}` : location.pathname;
+  const current = location.search ? location.pathname + location.search : location.pathname;
+  if (current !== newUrl) history.replaceState(null, "", newUrl);
 }
 
 function wireEvents() {
@@ -518,6 +548,7 @@ function render() {
   showMore();
   resultCount.textContent = i18n("result_count", filtered.length, games.length);
   emptyState.classList.toggle("hidden", filtered.length > 0);
+  syncFiltersToUrl();
 }
 
 function gameKey(game) {
