@@ -725,12 +725,32 @@ async function loadFirebasePreferences() {
   }
 
   const { auth, collection, db, getDocs } = state.firebase;
+
+  // brokenReports es una colección global: se carga siempre, con o sin sesión,
+  // para que los usuarios no logueados tampoco vean actividades reportadas.
+  try {
+    const brokenSnapshot = await getDocs(collection(db, "brokenReports"));
+    state.brokenSummary = new Map(
+      brokenSnapshot.docs
+        .map((docSnap) => {
+          const data = docSnap.data() || {};
+          const count = Number(data.count || 0);
+          const adminReported = Boolean(data.adminReported);
+          const key = gameKeyFromDocId(docSnap.id);
+          return [key, { count, adminReported }];
+        })
+        .filter(([key, data]) => key && (data.count > 0 || data.adminReported)),
+    );
+  } catch {
+    // Si las reglas de Firestore no permiten lectura pública, brokenSummary queda vacío.
+  }
+
   const uid = auth.currentUser?.uid;
   if (!uid) {
     return;
   }
 
-  const [favSnapshot, ratingSnapshot, summarySnapshot, reportSnapshot, brokenSnapshot] = await Promise.all([
+  const [favSnapshot, ratingSnapshot, summarySnapshot, reportSnapshot, brokenUserSnapshot] = await Promise.all([
     getDocs(collection(db, "users", uid, "favorites")),
     getDocs(collection(db, "users", uid, "ratings")),
     getDocs(collection(db, "ratingSummary")),
@@ -764,8 +784,9 @@ async function loadFirebasePreferences() {
     reportSnapshot.docs.map((docSnap) => gameKeyFromDocId(docSnap.id)).filter(Boolean),
   );
 
+  // Refrescar brokenSummary con los datos más recientes (sesión activa)
   state.brokenSummary = new Map(
-    brokenSnapshot.docs
+    brokenUserSnapshot.docs
       .map((docSnap) => {
         const data = docSnap.data() || {};
         const count = Number(data.count || 0);
@@ -1035,7 +1056,7 @@ async function reportBroken(gameKeyValue) {
   if (state.backendMode !== "firebase" || !state.firebase) return;
   const { auth, collection, db, doc, runTransaction, serverTimestamp, setDoc } = state.firebase;
   const uid = auth.currentUser?.uid;
-  if (!uid || auth.currentUser.isAnonymous) return;
+  if (!uid) return;
 
   const userReportRef = doc(db, "users", uid, "reports", gameDocId(gameKeyValue));
   const summaryRef = doc(db, "brokenReports", gameDocId(gameKeyValue));
@@ -1057,7 +1078,7 @@ async function reportBroken(gameKeyValue) {
 function createReportButton(gameKeyValue, article) {
   if (state.backendMode !== "firebase") return null;
   const user = state.firebase?.auth.currentUser;
-  if (!user || user.isAnonymous) return null;
+  if (!user) return null;
 
   const alreadyReported = state.userReports.has(gameKeyValue);
   const button = document.createElement("button");
