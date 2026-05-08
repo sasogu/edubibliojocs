@@ -53,9 +53,19 @@ Gràcies a aquests filtres, l'administrador pot revisar, validar i eliminar recu
 
 ---
 
+## Fonts del catàleg
+
+El catàleg de Bibliojocs s'alimenta de diverses fonts:
+
+- **Selecció pròpia**: activitats triades manualment per l'equip editorial per la seva qualitat pedagògica.
+- **[Archive.org](https://archive.org)**: jocs educatius Flash clàssics preservats digitalment, reproduïbles directament al navegador gràcies a Ruffle.
+- **Vibe Coding Educativo**: aplicacions creades per docents amb IA (vegeu apartat següent).
+
+---
+
 ## Aplicacions creades per docents amb IA
 
-Bibliojocs incorpora ara el catàleg de **[Vibe Coding Educativo](https://vibe-coding-educativo.github.io/app_edu/)**, una comunitat de docents que creen aplicacions educatives amb eines d'IA com Gemini, Claude i ChatGPT. S'hi han afegit **96 activitats** distribuïdes per matèries:
+Bibliojocs incorpora ara el catàleg de **[Vibe Coding Educativo](https://vibe-coding-educativo.github.io/app_edu/)**, una comunitat de docents que creen aplicacions educatives amb eines d'IA com Gemini, Claude i ChatGPT. S'hi han afegit **94 activitats** distribuïdes per matèries:
 
 - **Matemàtiques** (31): derivades, funcions, probabilitat, estadística, sistemes d'equacions
 - **Ciències Naturals** (15): biologia, química, física i simuladors de laboratori
