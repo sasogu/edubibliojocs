@@ -166,7 +166,6 @@ const areaLabels = {
     Musica: "Música",
     Religion: "Religión",
     "Seguridad Digital": "Seguridad Digital",
-    Sociales: "Sociales",
     "Educacion Fisica": "Educación Física",
     "Tecnología": "Tecnología",
   },
@@ -192,7 +191,6 @@ const areaLabels = {
     Religion: "Religió",
     "Educacion Fisica": "Educació Física",
     "Seguridad Digital": "Seguretat digital",
-    Sociales: "Socials",
     "Tecnología": "Tecnologia",
   },
 };

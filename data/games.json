@@ -235,7 +235,7 @@
   {
     "id": "geosapiens",
     "title": "GeoSapiens",
-    "area": "Sociales",
+    "area": "Ciencias Sociales",
     "language": "Castellano",
     "url": "https://educativo.ign.es/geosapiens/htm/es/index.html",
     "notes": "GeoSapiens es una aplicac ión de mapas interactivos para est udiar la geografía básica y política de España y el mundo. Const a de difere ntes ju egos para est udiar toda España o porcomunidades autónomas, el mundo completo y por continente. Además, incluye un módulo de pai saje",
@@ -286,7 +286,7 @@
   {
     "id": "mapes-espanya",
     "title": "Mapas interactivos de Espana",
-    "area": "Sociales",
+    "area": "Ciencias Sociales",
     "language": "Castellano",
     "url": "https://mapasinteractivos.didactalia.net/comunidad/mapasflashinteractivos",
     "notes": "Ubicacion de comunidades y provincias.",
@@ -37108,7 +37108,7 @@
   {
     "id": "archive-50states-flash",
     "title": "50 States",
-    "area": "Sociales",
+    "area": "Ciencias Sociales",
     "language": "Inglés",
     "url": "assets/flash/50states_flash.swf",
     "notes": "Drag &amp; drop the states to the right location.",
