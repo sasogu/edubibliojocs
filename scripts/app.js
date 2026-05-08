@@ -1,6 +1,7 @@
 import { i18n, areaLabel, languageLabel, levelLabel, detectLang, setLang, getLang, LANGS } from "./i18n.js";
 import { openFlashDialog } from "./flash.js";
 import { registerServiceWorker, updateSwVersionFromSource } from "./sw-manager.js";
+import { initOfflineBanner, readFiltersFromUrl, syncFiltersToUrl } from "./url-state.js";
 
 const dataUrl = "./data/games.json";
 const homeDataUrl = "./data/games-home.json";
@@ -28,6 +29,7 @@ const loadMoreBtn = document.querySelector("#loadMoreBtn");
 const resultCount = document.querySelector("#resultCount");
 const emptyState = document.querySelector("#emptyState");
 const statusStrip = document.querySelector("#statusStrip");
+const offlineBanner = document.querySelector("#offlineBanner");
 const personalPrefsNote = document.querySelector("#personalPrefsNote");
 const authPanel = document.querySelector("#authPanel");
 const authStatus = document.querySelector("#authStatus");
@@ -67,7 +69,7 @@ const state = {
 setLang(detectLang());
 registerServiceWorker();
 updateSwVersionFromSource();
-initOfflineBanner();
+initOfflineBanner(offlineBanner, i18n);
 
 boot().catch((error) => {
   console.error("No se pudo iniciar la aplicacion", error);
@@ -87,7 +89,14 @@ async function boot() {
   updatePreferencesNote();
   updateLangButtons();
   wireEvents();
-  readFiltersFromUrl();
+  readFiltersFromUrl({
+    searchInput,
+    levelFilter,
+    languageFilter,
+    areaFilter,
+    ratingFilter,
+    favoritesOnly,
+  });
   render();
 
   // Fase 2: càrrega completa en segon pla (no bloqueja la UI)
@@ -147,6 +156,14 @@ function normalizeUrl(url) {
 
 function normalizeSearch(str) {
   return String(str || "").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+}
+
+function isBrokenByReportItem(reportItem) {
+  if (!reportItem || reportItem.ok) {
+    return false;
+  }
+
+  return reportItem.severity === "error" || Number(reportItem.httpStatus || 0) >= 500;
 }
 
 function setReportBanner(report) {
@@ -238,45 +255,6 @@ function gameLanguages(game) {
 function gameLanguageText(game) {
   const languages = gameLanguages(game);
   return languages.length > 0 ? languages.map(languageLabel).join(", ") : "";
-}
-
-function initOfflineBanner() {
-  const banner = document.querySelector("#offlineBanner");
-  if (!banner) return;
-
-  const update = () => {
-    banner.textContent = i18n("offline_banner");
-    banner.classList.toggle("hidden", navigator.onLine);
-  };
-
-  window.addEventListener("offline", update);
-  window.addEventListener("online", update);
-  update();
-}
-
-function readFiltersFromUrl() {
-  const params = new URLSearchParams(location.search);
-  if (params.has("q")) searchInput.value = params.get("q");
-  if (params.has("level")) levelFilter.value = params.get("level");
-  if (params.has("lang")) languageFilter.value = params.get("lang");
-  if (params.has("area")) areaFilter.value = params.get("area");
-  if (params.has("rating")) ratingFilter.value = params.get("rating");
-  if (params.get("fav") === "1") favoritesOnly.checked = true;
-}
-
-function syncFiltersToUrl() {
-  const params = new URLSearchParams();
-  const q = searchInput.value.trim();
-  if (q) params.set("q", q);
-  if (levelFilter.value) params.set("level", levelFilter.value);
-  if (languageFilter.value) params.set("lang", languageFilter.value);
-  if (areaFilter.value) params.set("area", areaFilter.value);
-  if (ratingFilter.value && ratingFilter.value !== "0") params.set("rating", ratingFilter.value);
-  if (favoritesOnly.checked) params.set("fav", "1");
-  const qs = params.toString();
-  const newUrl = qs ? `${location.pathname}?${qs}` : location.pathname;
-  const current = location.search ? location.pathname + location.search : location.pathname;
-  if (current !== newUrl) history.replaceState(null, "", newUrl);
 }
 
 function wireEvents() {
@@ -444,7 +422,7 @@ function render() {
     const gameLevels = game.levels || (game.level ? [game.level] : []);
     const brokenData = state.brokenSummary.get(key);
     const reportItem = state.reportByUrl.get(normalizeUrl(game.url));
-    const brokenByReport = reportItem != null && !reportItem.ok && reportItem.severity === "error";
+    const brokenByReport = isBrokenByReportItem(reportItem);
     const isBroken = (brokenData?.count || 0) >= REPORT_THRESHOLD || Boolean(brokenData?.adminReported) || brokenByReport;
 
     const hasReports = (brokenData?.count || 0) >= 1;
@@ -510,7 +488,14 @@ function render() {
   showMore();
   resultCount.textContent = i18n("result_count", filtered.length, games.length);
   emptyState.classList.toggle("hidden", filtered.length > 0);
-  syncFiltersToUrl();
+  syncFiltersToUrl({
+    searchInput,
+    levelFilter,
+    languageFilter,
+    areaFilter,
+    ratingFilter,
+    favoritesOnly,
+  });
 }
 
 function gameKey(game) {
