@@ -67,6 +67,7 @@ const state = {
 setLang(detectLang());
 registerServiceWorker();
 updateSwVersionFromSource();
+initOfflineBanner();
 
 boot().catch((error) => {
   console.error("No se pudo iniciar la aplicacion", error);
@@ -237,6 +238,20 @@ function gameLanguages(game) {
 function gameLanguageText(game) {
   const languages = gameLanguages(game);
   return languages.length > 0 ? languages.map(languageLabel).join(", ") : "";
+}
+
+function initOfflineBanner() {
+  const banner = document.querySelector("#offlineBanner");
+  if (!banner) return;
+
+  const update = () => {
+    banner.textContent = i18n("offline_banner");
+    banner.classList.toggle("hidden", navigator.onLine);
+  };
+
+  window.addEventListener("offline", update);
+  window.addEventListener("online", update);
+  update();
 }
 
 function readFiltersFromUrl() {

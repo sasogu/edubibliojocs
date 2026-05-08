@@ -286,6 +286,26 @@ select:focus {
   background: #effcf6;
 }
 
+.offline-banner {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  padding: 0.55rem 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: 500;
+  background: #7a2c07;
+  color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  transition: transform 0.2s ease;
+}
+
+.offline-banner.hidden {
+  display: none;
+}
+
 .results-head {
   margin: 1.2rem 0 0.55rem;
   display: flex;

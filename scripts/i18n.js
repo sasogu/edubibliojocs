@@ -71,6 +71,7 @@ const strings = {
     report_broken_feedback: "Gracias, lo revisaremos pronto.",
     broken_only: "No funciona (admin)",
     reported_only: "Reportadas (admin)",
+    offline_banner: "Sin conexión — navegando en modo sin red",
   },
   ca: {
     subtitle: "Jocs educatius seleccionats per a Infantil, Primària i Secundària, amb filtres ràpids per trobar l'activitat perfecta en cada moment.",
@@ -141,6 +142,7 @@ const strings = {
     report_broken_feedback: "Gràcies, ho revisarem aviat.",
     broken_only: "No funciona (admin)",
     reported_only: "Reportades (admin)",
+    offline_banner: "Sense connexió — navegant en mode sense xarxa",
   },
 };
 
