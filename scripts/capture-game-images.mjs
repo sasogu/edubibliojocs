@@ -254,6 +254,10 @@ async function captureScreenshot(url, outputPath, options) {
       "--incognito",
       "--no-first-run",
       "--no-default-browser-check",
+      "--disable-background-networking",
+      "--disable-sync",
+      "--disable-translate",
+      "--metrics-recording-only",
       `--window-size=${options.width},${options.height}`,
       `--virtual-time-budget=${options.delayMs}`,
       `--user-data-dir=${tempDir}`,
@@ -263,18 +267,14 @@ async function captureScreenshot(url, outputPath, options) {
 
     const chromeTimeoutMs = options.delayMs + 20000;
     const result = await runCommand(browserPath, args, chromeTimeoutMs);
-    if (result.code !== 0) {
-      return {
-        ok: false,
-        reason: summarizeFailure(result.stderr || result.stdout || `codigo ${result.code}`)
-      };
-    }
 
     const stat = await fs.stat(outputPath).catch(() => null);
     if (!stat || stat.size === 0) {
       return {
         ok: false,
-        reason: "no se genero archivo de captura"
+        reason: result.code !== 0
+          ? summarizeFailure(result.stderr || result.stdout || `codigo ${result.code}`)
+          : "no se genero archivo de captura"
       };
     }
 
