@@ -283,7 +283,7 @@ npm run deploy:dry
 | `DEPLOY_HOST` | `edutictac.es` | Host del servidor |
 | `DEPLOY_USER` | `samgua` | Usuari SSH |
 | `DEPLOY_PORT` | `2222` | Port SSH |
-| `DEPLOY_PATH` | `/var/www/my_webapp__4/www` | Ruta remota |
+| `DEPLOY_PATH` | `/var/www/bibliojocs` | Ruta remota |
 | `DEPLOY_SSH_KEY` | — | Clau privada SSH |
 | `DRY_RUN=1` | — | Simula sense copiar |
 | `SKIP_LINKS=1` | — | Omet la verificació d'enllaços |

@@ -1,4 +1,4 @@
-const CACHE_NAME = "bibliojocs-v1.0.2";
+const CACHE_NAME = "bibliojocs-v1.0.3";
 const APP_SHELL = [
   "./",
   "./index.html",
@@ -12,6 +12,7 @@ const APP_SHELL = [
   "./data/games.json",
   "./reports/link-report.json",
   "./assets/brand/logo-bibliojocs.png",
+  "./assets/brand/edutictac-logo.png",
   "./assets/brand/icon-192.png",
   "./assets/brand/icon-512.png",
   "./assets/game-images/generic-game.svg",
